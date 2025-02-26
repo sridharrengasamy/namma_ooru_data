@@ -1,0 +1,19 @@
+[
+    {
+      "name": {
+        "en": "Mechanic",
+        "ta": "மெக்கானிக்"
+      },
+      "imageUrl": "https://your-image-url.com/mechanic.jpg",
+      "jsonFile": "mechanic_details.json"
+    },
+    {
+      "name": {
+        "en": "Plumber",
+        "ta": "குழாய் வேலை செய்பவர்"
+      },
+      "imageUrl": "https://your-image-url.com/plumber.jpg",
+      "jsonFile": "plumber_details.json"
+    }
+  ]
+  

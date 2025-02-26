@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": {
+        "en": "AAAA 2 Wheeler Mechanic",
+        "ta": "காகாகா 2 வீலர் மெக்கானிக்"
+      },
+      "type": {
+        "en": "2 WHEELER MECHANIC",
+        "ta": "2 வீலர் மெக்கானிக்"
+      },
+      "location": {
+        "en": "GST MAIN ROAD, NEAR V",
+        "ta": "ஜிஎஸ்டி மெயின் ரோடு, வெஅருகில் தனகன்குளம்"
+      },
+      "area": {
+        "en": "kulam",
+        "ta": "குளம்"
+      },
+      "phone": "777777",
+      "imageUrl": "https://your-image-url.com/mechanic1.jpg"
+    },
+    {
+      "id": 2,
+      "name": {
+        "en": "BBBB Auto Repair",
+        "ta": "பிபிபி ஆட்டோ ரிப்பேர்"
+      },
+      "type": {
+        "en": "Car Mechanic",
+        "ta": "கார் மெக்கானிக்"
+      },
+      "location": {
+        "en": "Market Street",
+        "ta": "மார்க்கெட் தெரு"
+      },
+      "area": {
+        "en": "South Zone",
+        "ta": "தெற்கு பகுதி"
+      },
+      "phone": "999999",
+      "imageUrl": "https://your-image-url.com/mechanic2.jpg"
+    }
+  ]
+  
