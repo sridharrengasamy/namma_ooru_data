@@ -1,0 +1,1108 @@
+[
+    
+    {
+        "id": 2,
+        "name": {
+            "en": "Apollo Speciality Hospitals Madurai",
+            "ta": "அப்பல்லோ சிறப்பு மருத்துவமனைகள் மதுரை"
+        },
+        "type": {
+            "en": "Hospital,Specialized hospital",
+            "ta": "சிறப்பு மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "80 Feet Rd, Deputy Collector Colony, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "80 அடி சாலை, துணை கலெக்டர் காலனி, கே.கே.நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "KK Nagar",
+            "ta": "கே.கே.நகர்"
+        },
+        "contact": "18605001066"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "R J ambulance",
+            "ta": "ஆர் ஜே ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Association / Organization",
+            "ta": "சங்கம் / அமைப்பு"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "K.Pudur, Madurai, Tamil Nadu 625007",
+            "ta": "கே.புதூர், மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "K.Pudur",
+            "ta": "கே.புதூர்"
+        },
+        "contact": "8754677285"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "All India Sourashtra Youth Association",
+            "ta": "அகில இந்திய சௌராஷ்டிரா இளைஞர் சங்கம்"
+        },
+        "type": {
+            "en": "Ambulance service",
+            "ta": "ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "231-i, Kamarajar Salai, Madurai, Tamil Nadu 625009",
+            "ta": "231-ஐ, காமராஜர் சாலை, மதுரை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "Kamarajar Salai",
+            "ta": "காமராஜர் சாலை"
+        },
+        "contact":"04522328100"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "Narpanai Niruvanam",
+            "ta": "நற்பனை நிருவனம்"
+        },
+        "type": {
+            "en": "Ambulance service",
+            "ta": "ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Puneetha Vallanaar Aalay Valagam, Sister Rose St, Arappalayam, Madurai, Tamil Nadu 625016",
+            "ta": "புனித வல்லனார் ஆலய வளகம், சகோதரி ரோஸ் தெரு, ஆரப்பாளையம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Arappalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "contact":"04522361086"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "St John Ambulance Association",
+            "ta": "தெரு ஜான் ஆம்புலன்ஸ் சங்கம்"
+        },
+        "type": {
+            "en": "Ambulance service",
+            "ta": "ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "133, Madurai - Dindigul Rd, AIBEA A Colony, Paravai, Tamil Nadu 625402",
+            "ta": "133, மதுரை - திண்டுக்கல் சாலை, ஏஐபிஇஏ காலனி, பரவை, தமிழ்நாடு 625402"
+        },
+        "area": {
+            "en": "Paravai",
+            "ta": "பரவை"
+        },
+        "contact": ""
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "MJ AMBULANCE",
+            "ta": "எம்ஜே ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Funeral service",
+            "ta": "இறுதிச் சடங்கு"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.2-A, MK Puram Main Rd, near Police Station, Mk Puram, Madurai, Tamil Nadu 625011",
+            "ta": "எண்.2-A, MK புரம் பிரதான சாலை, காவல் நிலையம் அருகில், Mk புரம், மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "contact": "9943885155"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "MJ AMBULANCE",
+            "ta": "எம்ஜே ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Funeral service",
+            "ta": "இறுதிச் சடங்கு"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.1, Tirupparankunram Rd, near Tamilnadu Polytechnic, Madurai Main, Madurai, Tamil Nadu 625011",
+            "ta": "எண்.1, திருப்பரங்குன்றம் சாலை, தமிழ்நாடு பாலிடெக்னிக் அருகில், மதுரை மெயின், மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Tamilnadu Polytechnic",
+            "ta": "தமிழ்நாடு பாலிடெக்னிக்"
+        },
+        "contact": "9943885155"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Arun 24hrs ambulance & funeral services",
+            "ta": "அருண் 24 மணிநேர ஆம்புலன்ஸ் & இறுதிச் சேவைகள்"
+        },
+        "type": {
+            "en": "Ambulance service,Funeral home,Pet funeral service",
+            "ta": "ஆம்புலன்ஸ் சேவை, இறுதி ஊர்வலம், செல்லப்பிராணிகளின் இறுதிச் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4/24,Ayyavu complex,Umachikulam Umachikulam Kulamangalam, Kosakulam, Kadachanendhal, Madurai, Tamil Nadu 625014",
+            "ta": "4/24, அய்யாவு வளாகம், ஊமச்சிக்குளம் ஊமச்சிகுளம் குலமங்கலம், கொசகுளம், கடச்சனேந்தல், மதுரை, தமிழ்நாடு 625014"
+        },
+        "area": {
+            "en": "Kosakulam",
+            "ta": "கொசகுளம்"
+        },
+        "contact": "7540050075 & 7540050085"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "RK Emergency ambulance and freezer box",
+            "ta": "ஆர்கே அவசர ஆம்புலன்ஸ் மற்றும் உறைவிப்பான் பெட்டி"
+        },
+        "type": {
+            "en": "freezer box",
+            "ta": "உறைவிப்பான் பெட்டி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Aiims hospital road, Austinpatti, Madurai, Tamil Nadu 625008",
+            "ta": "எய்ம்ஸ் மருத்துவமனை சாலை, ஆஸ்டின்பட்டி, மதுரை, தமிழ்நாடு 625008"
+        },
+        "area": {
+            "en": "Austinpatti",
+            "ta": "ஆஸ்டின்பட்டி"
+        },
+        "contact": ""
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "HARI AMBULANCE SERVICE",
+            "ta": "ஹரி ஆம்புலன்ஸ் சேவை"
+        },
+        "type": {
+            "en": "Patient Ambulance service",
+            "ta": "நோயாளி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Alagar Kovil Main Rd, Puthir, Ramaond Reserve Line, Madurai, Tamil Nadu 625007",
+            "ta": "அழகர் கோவில் மெயின் ரோடு, புதிர், ராமோண்ட் ரிசர்வ் லைன், மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "Reserve Line",
+            "ta": "ரிசர்வ் லைன்"
+        },
+        "contact": "9444515030 & 7373857371"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Madurai Nadar Uravumurai Vidyabiviruthi Sangam Therkuvasal Uravumurai",
+            "ta": "மதுரை நாடார் உறவுமுறை வித்யாபிவிருத்தி சங்கம் தெற்குவாசல் உறவுமுறை"
+        },
+        "type": {
+            "en": "Patient Ambulance service",
+            "ta": "நோயாளி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "16, Nadar Vidhyasallai Street, Periyar, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "16, நாடார் வித்யாசல்லை தெரு, பெரியார், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "contact": "9600303911"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "kalyani Ambulance",
+            "ta": "கல்யாணி ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Ambulance service,Hospital",
+            "ta": "ஆம்புலன்ஸ் சேவை, மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Annabusstand,madurai, Kuruvikkaran Salai, Shenoy Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "அண்ணாபஸ்ஸ்டாண்ட், மதுரை, குருவிக்கரன் சாலை, ஷெனாய் நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Shenoy Nagar",
+            "ta": "ஷெனாய் நகர்"
+        },
+        "contact":"4522530469"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "MS AMBULANCE SERVICE",
+            "ta": "MS ஆம்புலன்ஸ் சேவை"
+        },
+        "type": {
+            "en": "Funeral service",
+            "ta": "இறுதிச் சடங்கு"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "39/2, Mathichiyam, Shenoy Nagar, Madurai, Tamil Nadu 625002",
+            "ta": "39/2, மதிச்சியம், ஷெனாய் நகர், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Shenoy Nagar",
+            "ta": "ஷெனாய் நகர்"
+        },
+        "contact": "9842184496"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "Cholan Ambulance",
+            "ta": "சோழன் ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Funeral service",
+            "ta": "இறுதிச் சடங்கு"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Gopal complex, oor kavalan kovil, Madakulam Main Rd, Palangantham, Tamil Nadu 625003",
+            "ta": "கோபால் வளாகம், ஊர் காவலன் கோவில், மாடகுளம் மெயின் ரோடு, பழங்காந்தம், தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Palangantham,",
+            "ta": "பழங்காந்தம்,"
+        },
+        "contact": "7708847582 & 7200200846"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "RR Ambulance",
+            "ta": "RR ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Patient Ambulance service",
+            "ta": "நோயாளி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Mathichiyam, Shenoy Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "மதிச்சியம், ஷெனாய் நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Shenoy Nagar",
+            "ta": "ஷெனாய் நகர்"
+        },
+        "contact": "7667444555"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "VM AMBULANCE -Mobile ICU Service/Ventilated Ambulance Service/Freezer box rental",
+            "ta": "VM ஆம்புலன்ஸ் -மொபைல் ICU சேவை/காற்றோட்ட ஆம்புலன்ஸ் சேவை/ஃப்ரீசர் பெட்டி வாடகை"
+        },
+        "type": {
+            "en": "Patient & Funeral Ambulance service",
+            "ta": "நோயாளி மற்றும் இறுதி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Alamaram, Bus Stop, Near, Arvind Eye Hospital Rd, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "ஆலமரம், பேருந்து நிறுத்தம், அருகில், அரவிந்த் கண் மருத்துவமனை சாலை, அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "contact": "9788820188 & 9952584788"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "MJ AMBULANCE",
+            "ta": "எம்ஜே ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Funeral service",
+            "ta": "இறுதிச் சடங்கு"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Siva Shanmugapillai St,Near Madurai GH, PT Rajan Rd, Opposite to Kattu Pillaiyar Kovil Bus Stop, Madurai, Tamil Nadu 625002",
+            "ta": "சிவா சண்முகப்பிள்ளை தெரு, மதுரை ஜிஹெச் அருகில், பி.டி. ராஜன் சாலை, காட்டுப் பிள்ளையார் கோவில் பேருந்து நிறுத்தத்திற்கு எதிரில், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Narimedu",
+            "ta": "நரிமேடு"
+        },
+        "contact":"9943885155"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Helping Point Ambulance",
+            "ta": "ஹெல்பிங் பாயிண்ட் ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Ambulance service,Coffin Supplier",
+            "ta": "ஆம்புலன்ஸ் சேவை, சவப்பெட்டி சப்ளையர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "95, Valluvar Colony, Cs Nagar, Madurai, Tamil Nadu 625017",
+            "ta": "95, வள்ளுவர் காலனி, சிஎஸ் நகர், மதுரை, தமிழ்நாடு 625017"
+        },
+        "area": {
+            "en": "Koodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "contact": "9487315100"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "MK Ambulance",
+            "ta": "எம்.கே ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Funeral Ambulance service",
+            "ta": "இறுதி ஊர்வல ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "26, thirunagar 3rd Stop Gst Road, Main road, Thiru Nagar, Madurai, Tamil Nadu 625006",
+            "ta": "26, திருநகர் 3வது நிறுத்தம் ஜிஎஸ்டி சாலை, பிரதான சாலை, திரு நகர், மதுரை, தமிழ்நாடு 625006"
+        },
+        "area": {
+            "en": "ThiruNagar",
+            "ta": "திருநகர்"
+        },
+        "contact": "9043026620"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "RR AMBULANCE MADURAI",
+            "ta": "RR ஆம்புலன்ஸ் மதுரை"
+        },
+        "type": {
+            "en": "Funeral Ambulance service",
+            "ta": "இறுதி ஊர்வல ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "BODI LINE, Bypass Rd, Velmurugan Nagar, State Bank Supervisors Colony, Palangantham, Madurai, Tamil Nadu 625003",
+            "ta": "போடி லைன், பைபாஸ் ரோடு, வேல்முருகன் நகர், ஸ்டேட் பேங்க் சூப்பர்வைசர்ஸ் காலனி, பழங்கந்தம், மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "SBOA Colony",
+            "ta": "SBOA காலனி"
+        },
+        "contact": "7667444555 & 8807444555"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "Ms ambulance madurai",
+            "ta": "திருமதி ஆம்புலன்ஸ் மதுரை"
+        },
+        "type": {
+            "en": "Funral Ambulance service",
+            "ta": "இறுதி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.29, first floor, Yamaha Showroom Upstairs, Reliance Nippon Life Insurance Company Limited, Panagal Rd, near Sarada Rajans Hotel, Mathichiyam, Shenoy Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "எண்.29, முதல் தளம், யமஹா ஷோரூம் மாடிக்கு, ரிலையன்ஸ் நிப்பான் லைஃப் இன்சூரன்ஸ் கம்பெனி லிமிடெட், பனகல் சாலை, சாரதா ராஜன்ஸ் ஹோட்டலுக்கு அருகில், மதிச்சியம், ஷெனாய் நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Shenoy Nagar",
+            "ta": "ஷெனாய் நகர்"
+        },
+        "contact":"04522555666"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "Helping Point Ambulance",
+            "ta": "ஹெல்பிங் பாயிண்ட் ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Ambulance service",
+            "ta": "ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "T B Main Road, Tb Main Road, Opposite Wine Shop, Mapalayam, Madurai, Tamil Nadu 625016",
+            "ta": "டிபி மெயின் ரோடு, டிபி மெயின் ரோடு, ஒயின் ஷாப் எதிரில், மாபாளையம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Mapalayam",
+            "ta": "மாபாளையம்"
+        },
+        "contact":"9442726111"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "VM Ambulance",
+            "ta": "VM ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Funral Ambulance service",
+            "ta": "இறுதி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Old Dindigul Road Near Southern Railway Colony, Arasaradi, Madurai, Tamil Nadu 625016",
+            "ta": "பழைய திண்டுக்கல் சாலை தெற்கு ரயில்வே காலனி அருகில், அரசரடி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Arasaradi",
+            "ta": "அரசரடி"
+        },
+        "contact":"9788868201"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "R S Ambulance",
+            "ta": "ஆர் எஸ் ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Funral Ambulance service",
+            "ta": "இறுதி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shop No. 79, Opp. Bail Hotel, Mudakusalai & Theni Main Road, Madurai, Tamil Nadu 625016",
+            "ta": "கடை எண். 79, எதிரில். பெயில் ஹோட்டல், முடகுசாலை & தேனி மெயின் ரோடு, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Mudakusalai",
+            "ta": "முடகுசாலை"
+        },
+        "contact": "9994485164"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "Sri vaigai ambulance service",
+            "ta": "ஸ்ரீ வைகை ஆம்புலன்ஸ் சேவை"
+        },
+        "type": {
+            "en": "Ambulance service",
+            "ta": "ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sikkandar Savadi, Chikkandar chavadi, Madurai, Tamil Nadu 625018",
+            "ta": "சிக்கந்தர் சாவடி, சிக்கந்தர் சாவடி, மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Sikkandar Savadi",
+            "ta": "சிக்கந்தர் சாவடி"
+        },
+        "contact": "7397108411"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "M+A Ambulance Service",
+            "ta": "M+A ஆம்புலன்ஸ் சேவை"
+        },
+        "type": {
+            "en": "Funral Ambulance service",
+            "ta": "இறுதி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "110, Jaihindpuram 2nd Main Rd, Madurai, Tamil Nadu 625011",
+            "ta": "110, ஜெய்ஹிந்த்புரம் 2வது பிரதான சாலை, மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "contact": "9677700043, 9894170415 & 9659911234"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "24*7 MM Ambulance Service",
+            "ta": "24*7 MM ஆம்புலன்ஸ் சேவை"
+        },
+        "type": {
+            "en": "Ambulance service",
+            "ta": "ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Branch Office, Anaiyur Rd, Kosakulam, Goripalayam, Madurai, Tamil Nadu 625002",
+            "ta": "கிளை அலுவலகம், ஆனையூர் சாலை, கொசகுளம், கோரிப்பாளையம், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Kosakulam",
+            "ta": "கொசகுளம்"
+        },
+        "contact": "9952567180 & 9677749264"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "Jp ambulance service",
+            "ta": "ஜேபி ஆம்புலன்ஸ் சேவை"
+        },
+        "type": {
+            "en": "Funeral Ambulance service",
+            "ta": "இறுதி ஊர்வல ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "near RK Dental, K.Pudur, Madurai, Tamil Nadu 625014",
+            "ta": "RK பல் மருத்துவம் அருகில், கே.புதூர், மதுரை, தமிழ்நாடு 625014"
+        },
+        "area": {
+            "en": "K.Pudur",
+            "ta": "கே.புதூர்"
+        },
+        "contact": "9442553390"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "Irai Arul Ambulance Service",
+            "ta": "இறை அருள் ஆம்புலன்ஸ் சேவை"
+        },
+        "type": {
+            "en": "Ambulance service",
+            "ta": "ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Door No 40, CSI Shopping Complex, 3rd Sector, Moondru Mavadi, Ratchanya Puram, K.Pudur, Tamil Nadu 625007",
+            "ta": "கதவு எண் 40, CSI ஷாப்பிங் காம்ப்ளக்ஸ், 3வது பிரிவு, மூன்று மாவடி, ரட்சண்யா புரம், கே.புதூர், தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "Moondru Mavadi",
+            "ta": "மூன்று மாவடி"
+        },
+        "contact": "9442726111"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "Jp Ambulance service & trust { Branch 2 }",
+            "ta": "Jp ஆம்புலன்ஸ் சேவை & நம்பிக்கை { கிளை 2 }"
+        },
+        "type": {
+            "en": "Funeral Ambulance service",
+            "ta": "இறுதி ஊர்வல ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "sivashanmugam, Velayudham Pillai St, Shenoy Nagar, Madurai, Tamil Nadu 625001",
+            "ta": "சிவசண்முகம், வேலாயுதம் பிள்ளை தெரு, ஷெனாய் நகர், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Shenoy Nagar",
+            "ta": "ஷெனாய் நகர்"
+        },
+        "contact": "9442553390"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "MJ Ambulance",
+            "ta": "MJ ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Funeral Ambulance service",
+            "ta": "இறுதி ஊர்வல ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Alwarpuram, Madurai, Tamil Nadu 625009",
+            "ta": "ஆழ்வார்புரம், மதுரை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "Alwarpuram",
+            "ta": "ஆழ்வார்புரம்"
+        },
+        "contact": "9943885155"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "Ms Ambulance service",
+            "ta": "திருமதி ஆம்புலன்ஸ் சேவை"
+        },
+        "type": {
+            "en": "Funeral Ambulance service",
+            "ta": "இறுதி ஊர்வல ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "82, 2nd St, Deputy Collector Colony, Managiri, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "82, 2வது தெரு, துணை கலெக்டர் காலனி, மானகிரி, கே.கே.நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Deputy Collector Colony",
+            "ta": "துணை கலெக்டர் காலனி"
+        },
+        "contact": "04522555666"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "M P AMBULANCE SERVICES",
+            "ta": "M P ஆம்புலன்ஸ் சேவைகள்"
+        },
+        "type": {
+            "en": "Ambulance service & Freezer box service",
+            "ta": "ஆம்புலன்ஸ் சேவை & உறைவிப்பான் பெட்டி சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sivagangai Road, Sathamangalam, near Aavin Milk Depot, Madurai, Tamil Nadu 625020",
+            "ta": "சிவகங்கை சாலை, சாத்தமங்கலம், ஆவின் பால் டிப்போ அருகில், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Aavin Milk Depot",
+            "ta": "ஆவின் பால் கிடங்கு"
+        },
+        "contact": "9842135060"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "Sahaya Matha Ambulance & Freezer box service",
+            "ta": "சகாய மாதா ஆம்புலன்ஸ் & ஃப்ரீசர் பெட்டி சேவை"
+        },
+        "type": {
+            "en": "Ambulance service,Coffin Supplier",
+            "ta": "ஆம்புலன்ஸ் சேவை, சவப்பெட்டி சப்ளையர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "H78, TNHB, Anaiyur Rd, TNHB Colony, Koodal Nagar, Madurai, Tamil Nadu 625017",
+            "ta": "H78, TNHB, Anaiyur Rd, TNHB காலனி, கூடல் நகர், மதுரை, தமிழ்நாடு 625017"
+        },
+        "area": {
+            "en": "Koodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "contact": "9600746408"
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "SSS (Subhi Safe Squad) AMBULANCE",
+            "ta": "SSS (Subhi Safe Squad) ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Patient & Funeral Ambulance service",
+            "ta": "நோயாளி மற்றும் இறுதி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Valluvar Colony, Viswanathapuram, Madurai, Tamil Nadu 652017",
+            "ta": "வள்ளுவர் காலனி, விஸ்வநாதபுரம், மதுரை, தமிழ்நாடு 652017"
+        },
+        "area": {
+            "en": "Viswanathapuram",
+            "ta": "விஸ்வநாதபுரம்"
+        },
+        "contact": "9514440006"
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "J P Ambulance & Trust [ Branch 3 ]",
+            "ta": "ஜே பி ஆம்புலன்ஸ் & டிரஸ்ட் [கிளை 3]"
+        },
+        "type": {
+            "en": "Ambulance service,Emergency care service,Funeral home",
+            "ta": "ஆம்புலன்ஸ் சேவை, அவசர சிகிச்சை சேவை, இறுதி ஊர்வலம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "opposite Bus Stop, Chokkalinga Nagar, Koodal Nagar, Madurai, Tamil Nadu 625018",
+            "ta": "பேருந்து நிறுத்தத்திற்கு எதிரே, சொக்கலிங்க நகர், கூடல் நகர், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Koodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "contact": "9442553390"
+    },
+    {
+        "id": 38,
+        "name": {
+            "en": "Arun 24*7 ambulance & freezer box service",
+            "ta": "அருண் 24*7 ஆம்புலன்ஸ் & ஃப்ரீசர் பெட்டி சேவை"
+        },
+        "type": {
+            "en": "Ambulance service,Air ambulance service,Funeral celebrant service",
+            "ta": "ஆம்புலன்ஸ் சேவை, ஏர் ஆம்புலன்ஸ் சேவை, இறுதி சடங்கு சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "bus stand, TNHB Colony, Koodal Nagar, Anaiyur, Madurai, Tamil Nadu 625017",
+            "ta": "பேருந்து நிலையம், TNHB காலனி, கூடல் நகர், ஆனையூர், மதுரை, தமிழ்நாடு 625017"
+        },
+        "area": {
+            "en": "Koodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "contact": "7540050075"
+    },
+    {
+        "id": 39,
+        "name": {
+            "en": "PR Ambulance Service",
+            "ta": "PR ஆம்புலன்ஸ் சேவை"
+        },
+        "type": {
+            "en": "Patient Ambulance service",
+            "ta": "நோயாளி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4/355, Narasingam Main Rd, near Police Station, Otthakadai, Mangalagudi, Tamil Nadu 625107",
+            "ta": "4/355, நரசிங்கம் பிரதான சாலை, காவல் நிலையம் அருகில், ஒத்தக்கடை, மங்களகுடி, தமிழ்நாடு 625107"
+        },
+        "area": {
+            "en": "Mattuthavani",
+            "ta": "மாட்டுத்தாவணி"
+        },
+        "contact": "9787841000 & 9943741000"
+    },
+    {
+        "id": 40,
+        "name": {
+            "en": "Guruji ambulance",
+            "ta": "குருஜி ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Patient Ambulance service",
+            "ta": "நோயாளி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "near preethi Hospital, Uthangudi, Tamil Nadu 625107",
+            "ta": "ப்ரீத்தி மருத்துவமனை அருகில், உத்தங்குடி, தமிழ்நாடு 625107"
+        },
+        "area": {
+            "en": "Uthangudi",
+            "ta": "உத்தங்குடி"
+        },
+        "contact": "8667512060, 9344738383 & 8940225522"
+    },
+    {
+        "id": 41,
+        "name": {
+            "en": "MR AMBULANCE",
+            "ta": "எம்.ஆர் ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "Patient & Funeral Ambulance service",
+            "ta": "நோயாளி மற்றும் இறுதி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Govt RajaJi Hospital, near Madurai, Mathichiyam, Shenoy Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "அரசு ராஜாஜி மருத்துவமனை, மதுரைக்கு அருகில், மதிச்சியம், ஷெனாய் நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Shenoy Nagar",
+            "ta": "ஷெனாய் நகர்"
+        },
+        "contact": "9787314321"
+    },
+    {
+        "id": 42,
+        "name": {
+            "en": "MA Ambulance Service",
+            "ta": "MA ஆம்புலன்ஸ் சேவை"
+        },
+        "type": {
+            "en": "Funeral service",
+            "ta": "இறுதிச் சடங்கு"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "9, Subramaniapuram Pallivasal Valagam, 42, S Veli St, Madurai, Tamil Nadu 625011",
+            "ta": "9, சுப்ரமணியபுரம் பள்ளிவாசல் வலகம், 42, S Veli St, மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "South Veli Vithi",
+            "ta": "தெற்கு வெளி வீதி"
+        },
+        "contact": "9677700043"
+    },
+    {
+        "id": 43,
+        "name": {
+            "en": "MSR Ambulance service",
+            "ta": "MSR ஆம்புலன்ஸ் சேவை"
+        },
+        "type": {
+            "en": "Patient & Funeral Ambulance service",
+            "ta": "நோயாளி மற்றும் இறுதி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "RR mandabam, Palanichamy compound, opposit, Vaigai Vadakarai Rd, Madurai, Tamil Nadu 625020",
+            "ta": "ஆர்ஆர் மண்டபம், பழனிச்சாமி வளாகம், எதிரில், வைகை வடகரை ரோடு, மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Vaigai Vadakarai Rd",
+            "ta": "வைகை வடகரை ரோடு"
+        },
+        "contact": ""
+    },
+    {
+        "id": 44,
+        "name": {
+            "en": "MR AMBULANCE",
+            "ta": "எம்.ஆர் ஆம்புலன்ஸ்"
+        },
+        "type": {
+            "en": "FREEZER BOX RENTAL",
+            "ta": "ஃப்ரீசர் பெட்டி வாடகை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.180 4a Housing Board Road, Anupanady, Madurai, Madurai, Tamil Nadu 625009",
+            "ta": "எண்.180 4a ஹவுசிங் போர்டு சாலை, அனுபானடி, மதுரை, மதுரை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "Anupanady",
+            "ta": "அன்பானடி"
+        },
+        "contact": "8098781333"
+    },
+    {
+        "id": 45,
+        "name": {
+            "en": "Sundarammal ambulance service",
+            "ta": "சுந்தரம்மாள் ஆம்புலன்ஸ் சேவை"
+        },
+        "type": {
+            "en": "Patient Ambulance service",
+            "ta": "நோயாளி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "CSI church, Pasumalai, Madurai, Tamil Nadu 625004",
+            "ta": "CSI தேவாலயம், பசுமலை, மதுரை, தமிழ்நாடு 625004"
+        },
+        "area": {
+            "en": "Pasumalai",
+            "ta": "பசுமலை"
+        },
+        "contact": "9566596026"
+    },
+    {
+        "id": 46,
+        "name": {
+            "en": "Madurai Ambulance Service",
+            "ta": "மதுரை ஆம்புலன்ஸ் சேவை"
+        },
+        "type": {
+            "en": "Patient & Funeral Ambulance service",
+            "ta": "நோயாளி மற்றும் இறுதி ஆம்புலன்ஸ் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "anna bus stand,, 1st St, Gandhi Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "அண்ணா பேருந்து நிலையம், 1வது தெரு, காந்தி நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna bus stand",
+            "ta": "அண்ணா பேருந்து நிலையம்"
+        },
+        "contact": "8525888222 & 8148838394"
+    },
+    {
+        "id": 47,
+        "name": {
+            "en": "Kalyani Ambulance Service",
+            "ta": "கல்யாணி ஆம்புலன்ஸ் சேவை"
+        },
+        "type": {
+            "en": "",
+            "ta": ""
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Chinna Chokikulam, Madurai, Tamil Nadu 625002",
+            "ta": "சின்ன சொக்கிகுளம், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Chinna Chokikulam",
+            "ta": "சின்ன சொக்கிகுளம்"
+        },
+        "contact": "9842130469"
+    }
+    
+]

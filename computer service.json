@@ -1,0 +1,2498 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "GJ Tech Solutions Computer & Laptop Service Center",
+            "ta": "ஜிஜே டெக் சொல்யூஷன்ஸ் கம்ப்யூட்டர் & லேப்டாப் சர்வீஸ் சென்டர்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1st Floor, Tiruparangunram, 75B, Main Road, Palangantham",
+            "ta": "1வது தளம், திருப்பரங்குன்றம், 75B, பிரதான சாலை, பழங்காநத்தம் "
+        },
+        "area": {
+            "en": "Palanganatham",
+            "ta": "பழங்காநத்தம் "
+        },
+        "phone": "087786 26827"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "OASIS COMPUTER & SOLUTION",
+            "ta": "ஒயாசிஸ் கம்ப்யூட்டர் & சொல்யூஷன்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "82A, SONAI COMPLEX, NEHRUJI STREET MAIN ROAD, VELANGUDI",
+            "ta": "82A, சோனாய் வளாகம், நேருஜி தெரு பிரதான சாலை, விளாங்குடி "
+        },
+        "area": {
+            "en": "Vlangudi",
+            "ta": "விளாங்குடி "
+        },
+        "phone": "96006 69985"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "FirStreet Choice Laptop Service Center",
+            "ta": "ஃபர்ஸ்ட் சாய்ஸ் லேப்டாப் சர்வீஸ் மையம்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Divisional Office, 29, Anna Nagar Main Road, Vaigai Colony, Chathamangalam, Madurai- 625020",
+            "ta": "பிரிவு அலுவலகம், 29, அண்ணா நகர் பிரதான சாலை, வைகை காலனி, சாத்தமங்கலம், மதுரை- 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "75020 55599"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "GJ Tech Solutions Computer & Laptop Service Center",
+            "ta": "ஜிஜே டெக் சொல்யூஷன்ஸ் கம்ப்யூட்டர் & லேப்டாப் சர்வீஸ் சென்டர்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "6-9/2-3, Central, Indian Bank Colony, Viswanathapuram, Madurai- 625014",
+            "ta": "6-9/2-3, சென்ட்ரல், இந்தியன் வங்கி காலனி, விஸ்வநாதபுரம், மதுரை- 625014"
+        },
+        "area": {
+            "en": "Viswanathapuram",
+            "ta": "விஸ்வநாதபுரம்"
+        },
+        "phone": "95855 55871"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "Mani Computers Sales and Service",
+            "ta": "மணி கம்ப்யூட்டர் விற்பனை மற்றும் சர்வீஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Near Bus Stand, Friend Mahal Goodal Alaghar Perumal Temple, Sannathi Road, Periyar",
+            "ta": "பேருந்து நிலையம், நண்பர் மகால் கூடல் அழகர் பெருமாள் கோவில், சன்னதி வீதி, பெரியார் அருகில்"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "99435 64634"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "GBS SyStreetems and Services, Simmakkal, Laptop Service Center in Madurai",
+            "ta": "ஜிபிஎஸ் சிஸ்டம்ஸ் அண்ட் சர்வீசஸ்,"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": "மடிக்கம்ப்யூட்டர் சர்வீஸ் மையம்"
+        },
+        "location": {
+            "en": "153-G, North veli Road, Simmakkal,",
+            "ta": "153-ஜி, வடக்கு வெளி வீதி,  சிம்மக்கல், "
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": " சிம்மக்கல்"
+        },
+        "phone": "99410 54646"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Dell Authorised Service Center - GBS SyStreetems and Services in Kalavasal Madurai",
+            "ta": "ஜிபிஎஸ் சிஸ்டம்ஸ் மற்றும் சர்வீஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": "டெல் அங்கீகரிக்கப்பட்ட சர்வீஸ் மையம் - காளவாசல் மதுரையில் "
+        },
+        "location": {
+            "en": "1st Floor, No.246, Theni Main Road, Kalavasal",
+            "ta": "1வது தளம், எண்.246, தேனி மெயின் ரோடு,காளவாசல்"
+        },
+        "area": {
+            "en": "Kalavasal",
+            "ta": "காளவாசல்"
+        },
+        "phone": "95000 53844"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "JP COMPUTERS SALES AND SERVICE",
+            "ta": "JP கம்ப்யூட்டர்கள் விற்பனை மற்றும் சர்வீஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2nd Floor, 226, South Masi Road",
+            "ta": "2வது தளம், 226, தெற்கு மாசி வீதி"
+        },
+        "area": {
+            "en": "South Masi Road",
+            "ta": "தெற்கு மாசி வீதி"
+        },
+        "phone": "99768 88833"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Laptop Genie - Laptop Service Center in Madurai",
+            "ta": "மதுரையில் உள்ள லேப்டாப் ஜீனி - லேப்டாப் சர்வீஸ் மையம்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "127/C, Bypass Road",
+            "ta": "127/C, பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "74490 55055"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "Sun Computers & Printers",
+            "ta": "சன் கம்ப்யூட்டர்ஸ் & பிரிண்டர்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "97, Vakil Pudu Street",
+            "ta": "97, வக்கில் புது தெரு "
+        },
+        "area": {
+            "en": "Vakil New Street",
+            "ta": "வக்கில் புது தெரு "
+        },
+        "phone": "88388 58374"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Crescent Computers",
+            "ta": "கிராசண்ட கம்ப்யூட்டர்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Alagar Temple Road, 120 ft Road, Near SP Office",
+            "ta": "அழகர் கோவில் சாலை, 120 அடி ரோடு,SP அலுவலகம் அருகில்"
+        },
+        "area": {
+            "en": "K. Bush",
+            "ta": "K . புதூர் "
+        },
+        "phone": "99766 61275"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Mahati Computer",
+            "ta": "மஹதி கம்ப்யூட்டர்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "372, North Masi Road, Near Krishna Temple",
+            "ta": "372, வடக்கு மாசி வீதி, கிருஷ்ணன் கோவில் அருகில்"
+        },
+        "area": {
+            "en": "North Masi Road",
+            "ta": "வடக்கு மாசி வீதி"
+        },
+        "phone": "99407 55579"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "SMK SYStreetEMS",
+            "ta": "SMK SYSTEMS"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "Computers & Laptops (Sales & Services) in Madurai",
+            "ta": "கம்ப்யூட்டர்கள் & மடிக்கம்ப்யூட்டர்கள் (விற்பனை மற்றும் சர்வீஸ்)"
+        },
+        "location": {
+            "en": "Shop No-2, Burkat Complex, Town Hall Road",
+            "ta": "கடை எண்-2, பர்கட் காம்ப்ளக்ஸ், டவுன் ஹால் ரோடு"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "074186 90400"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "SMART Computer Repair Services",
+            "ta": "ஸ்மார்ட் கம்ப்யூட்டர் பழுதுபார்க்கும் சர்வீஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "235, ANNA MAIN STREET, PASTIN NAGAR, LAST, BETHANIAPURAM, MADURAI-625016",
+            "ta": "235, அண்ணா பிரதான தெரு, பாஸ்டின் நகர், கடைசி, பெத்தானியாபுரம், மதுரை-625016"
+        },
+        "area": {
+            "en": "Bethaniapuram,",
+            "ta": " பெத்தானியாபுரம், "
+        },
+        "phone": "081224 42323"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "MANI COMPUTERS MADURAI",
+            "ta": "மணி கம்ப்யூட்டர்ஸ் மதுரை"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 5, Kaithari Nagar, Tiruparangunram Temple",
+            "ta": "எண் 5, கைத்தறி நகர், திருப்பரங்குன்றம் கோயில்"
+        },
+        "area": {
+            "en": "Tiruparangunram",
+            "ta": "திருப்பரங்குன்றம் "
+        },
+        "phone": "099435 64634"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "Veenus Computers",
+            "ta": "வீனஸ் கம்ப்யூட்டர்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No-52, DG Complex, 3rd Floor, Tamil Sangam Road",
+            "ta": "எண்-52, டிஜி வளாகம், 3வது தளம், தமிழ் சங்கம் சாலை"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": " சிம்மக்கல்"
+        },
+        "phone": "089403 81775"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "GENUINE COMPUTERS ",
+            "ta": "ஜீனியஸ் கம்ப்யூட்டர்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "| Computer Repair Service in Madurai | Laptop Service in Madurai | Printer Service in madurai",
+            "ta": "| மதுரையில் கம்ப்யூட்டர் பழுதுபார்க்கும் சர்வீஸ் | மதுரையில் மடிக்கம்ப்யூட்டர் சர்வீஸ் | மதுரையில் பிரிண்டர் சர்வீ"
+        },
+        "location": {
+            "en": "45, East Veli Street, Near New Rajmahal",
+            "ta": "45, கீழ வெளி வீதி , நியூ ராஜ்மஹால் அருகில்"
+        },
+        "area": {
+            "en": "East veli Road",
+            "ta": "கீழ வெளி வீதி"
+        },
+        "phone": "098421 64738"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "GREEN APPLE TECHNOLOGY",
+            "ta": "கிரீன் ஆப்பிள் தொழில்நுட்பம்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "153D, North veli Road",
+            "ta": "153டி, வடக்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "098427 77556"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Welcome SyStreetems",
+            "ta": "வெல்கம் சிஸ்டம்ஸ் "
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": " ( Computer Sales | Peripheral devices | CCTV | Laptop Sales, Service in Madurai )",
+            "ta": "(கம்ப்யூட்டர் விற்பனை | சாதனங்கள் | CCTV | மடிக்கம்ப்யூட்டர் விற்பனை, மதுரையில் சர்வீஸ்)"
+        },
+        "location": {
+            "en": "No 12, Chanmukha Complex, Mandayan Asari Lane, Town Hall Road",
+            "ta": "எண் 12, சண்முகா வளாகம், மண்டையன் ஆசாரி லேன், டவுன் ஹால் ரோடு"
+        },
+        "area": {
+            "en": "Town Hall",
+            "ta": "டவுன் ஹால்"
+        },
+        "phone": "091506 00923"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "Lenovo Service Center - Wipro Skypro Technologies.",
+            "ta": "லெனோவா சர்வீஸ் மையம் - விப்ரோ ஸ்கைப்ரோ டெக்னாலஜிஸ்."
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "274, Goodes Shed Road",
+            "ta": "274, கூட்ஸ் ஷெட் வீதி"
+        },
+        "area": {
+            "en": "Sethupathi",
+            "ta": "சேதுபதி "
+        },
+        "phone": "080 4581 2944"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "KTS INFOTECH MADURAI",
+            "ta": "கேடிஎஸ் இன்ஃபோடெக் மதுரை"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "153/2, North veli Road, Near Roundabout",
+            "ta": "153/2, வடக்கு வெளி வீதி, ரவுண்டானாவுக்கு அருகில்"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": " சிம்மக்கல்"
+        },
+        "phone": "095007 11550"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "sSs Sai SyStreetem Service",
+            "ta": "sSs சாய் சிஸ்டம் சர்வீஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sriram Nagar Main Road, Kalimuthu Nagar, HMS Colony, Ponmeni, Madurai- 625016",
+            "ta": "ஸ்ரீராம் நகர் மெயின் ரோடு, காளிமுத்து நகர், எச்எம்எஸ் காலனி, பொன்மேனி, மதுரை- 625016"
+        },
+        "area": {
+            "en": "PonmEni",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "084284 18462"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "Fastrack Services",
+            "ta": "ஃபாஸ்ட்ராக் சர்வீஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "14, First Floor, North veli Road",
+            "ta": "14, முதல் தளம், வடக்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "0452 424 6462"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "Techzone Service Centre",
+            "ta": "டெக்சோன் சர்வீஸ் மையம்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Second Floor TMAK, Khasi Campus, Tirumalairayar Pathitura Road",
+            "ta": "இரண்டாவது தளம் TMAK, காசி வளாகம், திருமலைராயர் படித்துறை சாலை"
+        },
+        "area": {
+            "en": "Tirumalairayar Padithura Road",
+            "ta": "திருமலைராயர் படித்துறை சாலை"
+        },
+        "phone": "098429 80077"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "Ultron Computers - Madurai",
+            "ta": "அல்ட்ரான் கம்ப்யூட்டர்கள் - மதுரை"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "B.O.22, Tirumalairayar Padithura Road, Opp. To Annamalai Theatre",
+            "ta": "B.O.22, திருமலைராயர் படித்துறை சாலை, எதிரில். அண்ணாமலை தியேட்டருக்கு"
+        },
+        "area": {
+            "en": "Tirumalairayar Padithura Road",
+            "ta": "திருமலைராயர் படித்துறை சாலை"
+        },
+        "phone": "084284 23377"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "GOOKUL COMPUTERS",
+            "ta": "GOOKUL COMPUTERS"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "153E, North veli Road",
+            "ta": "153E, வடக்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "096262 52922"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "Sharp Computer SyStreetems",
+            "ta": "ஷார்ப் கம்ப்யூட்டர் சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "# 145, North Masi Road",
+            "ta": "# 145, வடக்கு மாசி வீதி"
+        },
+        "area": {
+            "en": "North Masi Road",
+            "ta": "வடக்கு மாசி வீதி"
+        },
+        "phone": "098429 56390"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Classic Peripherals",
+            "ta": "கிளாசிக் பெரிஃபெரல்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "153/S, 1st Floor, North veli St",
+            "ta": "153/S, 1வது தளம், வடக்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "0452 437 2040"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "Ktechsolutions",
+            "ta": "Ktech சொல்யூஷன்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2nd Floor, PR Building, Thanam Complex, Near Mi Show Room or Yalu Mobiles, 37/A, N Veli St",
+            "ta": "2வது தளம், PR கட்டிடம், தனம் வளாகம், Mi ஷோ ரூம் அருகில் அல்லது யாலு மொபைல்ஸ், 37/A, வடக்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "096773 16416"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "Priya Computers",
+            "ta": "பிரியா கம்ப்யூட்டர்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "28, North veli Road",
+            "ta": "28, வடக்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "098434 10205"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "PC Makers",
+            "ta": "பிசி மேகர்ஸ் "
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "185, Vakil New Road",
+            "ta": "185, வக்கில் நியூ வீதி"
+        },
+        "area": {
+            "en": "Vakkil New Road",
+            "ta": "வக்கீல் நியூ வீதி"
+        },
+        "phone": "098421 12377"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "Max infotech",
+            "ta": "மேக்ஸ் இன்போ டெக் "
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shop No. 34 - Mayura Complex 1st Floor, 78/48 Thanappa Mudaliar Street, Near M.R International Hotel",
+            "ta": "கடை எண் 34 -மயூரா காம்ப்ளக்ஸ் முதல் தளம், 78/48 தானப்ப முதலியார் தெரு, M.R இன்டர்நேஷனல் ஹோட்டலுக்கு அருகில்"
+        },
+        "area": {
+            "en": "Thanappa Mudaliar Street",
+            "ta": "தானப்ப முதலியார் தெரு"
+        },
+        "phone": "090421 14159"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "Lenovo Exclusive Streetore - GBS Systems & Services",
+            "ta": "லெனோவா பிரத்தியேக ஸ்டோர் - ஜிபிஎஸ் சிஸ்டம்ஸ் & சர்வீசஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "153-G, North veli Road, Opposite Konar Shop",
+            "ta": "153-ஜி, வடக்கு வெளி வீதி, கோனார் கடைக்கு எதிரே"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "080 4804 5184"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "Rani Computer. Madurai.",
+            "ta": "ராணி கம்ப்யூட்டர். மதுரை."
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 65 1ST FLOOR, NEAR BUS STAND, YAANIKKAL ROAD, SIMMAKKAL",
+            "ta": "எண். 65 1வது தளம், பேருந்து நிறுத்தம், யானைக்கல் வீதி, சிம்மக்கல் அருகில்"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல் "
+        },
+        "phone": "093441 50137"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "PCBUILDER Computers",
+            "ta": "PCBUILDER கம்ப்யூட்டர்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Ground Floor, KTR Complex, 229-230, E Veli St, Near HDFC Bank",
+            "ta": "தரை தளம், KTR வளாகம், 229-230,கீழ வெளி வீதி, HDFC வங்கிக்கு அருகில்"
+        },
+        "area": {
+            "en": "East Veli Street",
+            "ta": "கீழ வெளி வீதி"
+        },
+        "phone": "086678 64448"
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "Desktop Computers",
+            "ta": "டெஸ்க்டாப் கம்ப்யூட்டர்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "142, North Masi Road, Near Canara Bank",
+            "ta": "142, வடக்கு மாசி வீதி, கனரா வங்கிக்கு அருகில்"
+        },
+        "area": {
+            "en": "North Masi Road",
+            "ta": "வடக்கு மாசி வீதி"
+        },
+        "phone": "098421 25265"
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "Saraswathi Computers",
+            "ta": "சரஸ்வதி கம்ப்யூட்டர்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Near Bus Depot, 77, W Perumal Mestri Road, Periyar",
+            "ta": "பஸ் டிப்போ, 77, டபிள்யூ பெருமாள் மேஸ்திரி வீதி, பெரியார் அருகில்"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "098403 41311"
+    },
+    {
+        "id": 38,
+        "name": {
+            "en": "Joe SyStreetems (Computer, Laptop Sales and Service)",
+            "ta": "ஜோ சிஸ்டம்ஸ் (கம்ப்யூட்டர், லேப்டாப் விற்பனை மற்றும் சர்வீஸ்)"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "194, Vakil New Road, Near Pandian Scan",
+            "ta": "194, வக்கீல் நியூ வீதி, பாண்டியன் ஸ்கேன் அருகில்"
+        },
+        "area": {
+            "en": "Vakkil New Road",
+            "ta": "வக்கீல் நியூ வீதி"
+        },
+        "phone": "098421 07770"
+    },
+    {
+        "id": 39,
+        "name": {
+            "en": "Acer Mall - Exclusive Streetore",
+            "ta": "ஏசர் மால் - பிரத்யேக ஸ்டோர்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "PR Building, Thanam Complex, 37, North veli Road, Near Canara Bank",
+            "ta": "பிஆர் கட்டிடம், தனம் வளாகம், 37, வடக்கு வெளி வீதி, கனரா வங்கிக்கு அருகில்"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "095132 34395"
+    },
+    {
+        "id": 40,
+        "name": {
+            "en": "M SQUARE LAPTOPS SALE AND SERVICE",
+            "ta": "M ஸ்குயர் லேப்டாப் சேல்ஸ் & சர்வீஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "66, Naicker New Road",
+            "ta": "66, நாய்க்கர் நியூ வீதி"
+        },
+        "area": {
+            "en": "Naicker New Road",
+            "ta": "நாய்க்கர் நியூ வீதி"
+        },
+        "phone": "090254 49460"
+    },
+    {
+        "id": 41,
+        "name": {
+            "en": "ASUS Exclusive Streetore - Mutech Computers",
+            "ta": "ASUS பிரத்தியேக ஸ்டோர் - மியூடெக் கம்ப்யூட்டர்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Old Chokkanath Temple Near Bus Stand, 95, North veli Road",
+            "ta": "பேருந்து நிறுத்தம், 95,வடக்கு வெளி வீதி அருகில் உள்ள பழைய சொக்கநாதர் கோவில்"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "099943 16219"
+    },
+    {
+        "id": 42,
+        "name": {
+            "en": "Power Info SyStreetems",
+            "ta": "பவர் இன்ஃபோ சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "106, Vakil New Street, Opposite Starts Academy, Opposite Simmakkal Bus Stand - Towards Periyar Bus Stand",
+            "ta": "106, வக்கீல் புதிய தெரு,, ஸ்டார்ட்ஸ் அகாடமிக்கு எதிரில்,, சிம்மக்கல் பேருந்து நிறுத்தம் எதிரில் - பெரியார் பேருந்து நிலையம் நோக்கி"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "0452 263 0787"
+    },
+    {
+        "id": 43,
+        "name": {
+            "en": "Vee Care SyStreetems",
+            "ta": "வீ கேர் சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "21, Kalpalam Road, Opp. To Meenakshi Government College",
+            "ta": "21, கல்பாலம் சாலை, எதிரில். மீனாட்சி அரசு கல்லூரிக்கு"
+        },
+        "area": {
+            "en": "Goripalayam",
+            "ta": "கோரிபாளையம் "
+        },
+        "phone": "094430 31132"
+    },
+    {
+        "id": 44,
+        "name": {
+            "en": "RISHI COMPUTERS",
+            "ta": "ரிஷி கம்ப்யூட்டர்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "121-A/30, NEAR MALA MURUS, TPK ROAD",
+            "ta": "121-A/30, மாலை முரசுக்கு அருகில், TPK சாலை"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார் "
+        },
+        "phone": "0452 436 9990"
+    },
+    {
+        "id": 45,
+        "name": {
+            "en": "Selvamani SyStreetems",
+            "ta": "செல்வமணி சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "80, Dhanappa Muli Street",
+            "ta": "80, தானப்ப முதலி தெரு"
+        },
+        "area": {
+            "en": "Thanappa Mulali Street",
+            "ta": "தானப்ப முதலி தெரு"
+        },
+        "phone": "098421 25520"
+    },
+    {
+        "id": 46,
+        "name": {
+            "en": "Sun Vin Computers",
+            "ta": "சன் வின் கம்ப்யூட்டர்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Kaka Thope, 4, Kaka Thope Road",
+            "ta": "காக்கா தோப்பே, 4, காக்கா தோப்பு வீதி"
+        },
+        "area": {
+            "en": "Cuckoo Grove",
+            "ta": "காக்கா தோப்பு"
+        },
+        "phone": "0452 234 2464"
+    },
+    {
+        "id": 47,
+        "name": {
+            "en": "B.R SyStreetems",
+            "ta": "பி.ஆர் சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "99D, PALAM STATION ROAD, NEAR TEXTILE SHOP, RAMRAJKATTAN",
+            "ta": "99டி, பாலம் ஸ்டேஷன் ரோடு, ராம்ராஜ்காட்டன் ஜவுளிக் கடைக்கு அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "098421 83803"
+    },
+    {
+        "id": 48,
+        "name": {
+            "en": "SMA Computers",
+            "ta": "SMA கம்ப்யூட்டர்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "48a, 1, North Masi Road",
+            "ta": "48a, 1, வடக்கு மாசி வீதி"
+        },
+        "area": {
+            "en": "North Masi Road",
+            "ta": "வடக்கு மாசி வீதி"
+        },
+        "phone": "098650 45677"
+    },
+    {
+        "id": 49,
+        "name": {
+            "en": "ASUS Exclusive Streetore - Aditya Infotech",
+            "ta": "ASUS பிரத்தியேக ஸ்டோர் - ஆதித்யா இன்ஃபோடெக்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "AR PLAZA NEAR SHOP NO 14, NORTH EXHAUST ROAD",
+            "ta": "கடை எண் 14,வடக்கு வெளி வீதி அருகில் AR பிளாசா"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "089402 53335"
+    },
+    {
+        "id": 50,
+        "name": {
+            "en": "Accura SyStreetems",
+            "ta": "அக்குரா சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2nd Floor, 37, North veli St",
+            "ta": "2வது, தளம், 37, வடக்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "098421 09937"
+    },
+    {
+        "id": 51,
+        "name": {
+            "en": "Ramesh Computers",
+            "ta": "ரமேஷ் கம்ப்யூட்டர்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Mariam Plaza, 3, Town Hall Road",
+            "ta": "மரியம் பிளாசா, 3, டவுன் ஹால் ரோடு"
+        },
+        "area": {
+            "en": "Town Hall Road",
+            "ta": "டவுன் ஹால் ரோடு"
+        },
+        "phone": "0452 437 4460"
+    },
+    {
+        "id": 52,
+        "name": {
+            "en": "Asian Computers",
+            "ta": "ஆசிய கம்ப்யூட்டர்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No-153, North veli Road, Opp. To Conor's shop",
+            "ta": "எண்-153, வடக்கு வெளி வீதி, எதிரில். கோனார் கடைக்கு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "099944 98905"
+    },
+    {
+        "id": 53,
+        "name": {
+            "en": "COMPUTER CARE MADURAI",
+            "ta": "கம்ப்யூட்டர் கேர் மதுரை"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "11 Kulamangalam Main Road Meenambalpuram",
+            "ta": "11 குலமங்கலம் மெயின் ரோடு மீனம்பாள்புரம்"
+        },
+        "area": {
+            "en": "Meenambalpuram",
+            "ta": "மீனம்பாள்புரம்"
+        },
+        "phone": "099941 11302"
+    },
+    {
+        "id": 54,
+        "name": {
+            "en": "Suganya Mobiles & Laptops",
+            "ta": "சுகன்யா மொபைல்கள் & மடிக்கம்ப்யூட்டர்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "147A, Puttu Thopp Main Road",
+            "ta": "147A, புட்டு தோப்பு பிரதான சாலை"
+        },
+        "area": {
+            "en": "Puddu Thoppu",
+            "ta": "புட்டு தோப்பு"
+        },
+        "phone": "090957 77904"
+    },
+    {
+        "id": 55,
+        "name": {
+            "en": "Sys World Computers",
+            "ta": "Sys வேர்ல்ட் கம்ப்யூட்டர்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1ST FLOOR, NO.14, PALLIWASAL ROAD",
+            "ta": "1வது தளம், எண்.14, பள்ளிவாசல் வீதி"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "0452 253 9786"
+    },
+    {
+        "id": 56,
+        "name": {
+            "en": "PC WORLD ",
+            "ta": "PC வேர்ல்ட்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "Laptop shop Madurai, HP laptop, DELL laptop, Lenovo laptop, Acer laptop showroom madurai",
+            "ta": "லேப்டாப் ஷாப் மதுரை, ஹெச்பி லேப்டாப், டெல் லேப்டாப், லெனோவா லேப்டாப், ஏசர் லேப்டாப் ஷோரூம் மதுரை"
+        },
+        "location": {
+            "en": "PC World, 66/179, North veli Road",
+            "ta": "பிசி வேர்ல்ட், 66/179, வடக்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "098421 56789"
+    },
+    {
+        "id": 57,
+        "name": {
+            "en": "Dell Exclusive Store",
+            "ta": "டெல் பிரத்தியேக ஸ்டோர்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Bus Stand, 97, North veli Road Near Simmakkal",
+            "ta": "பேருந்து நிறுத்தம், 97,வடக்கு வெளி வீதி சிம்மக்கல் அருகில்"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "080 4800 8483"
+    },
+    {
+        "id": 58,
+        "name": {
+            "en": "ALGO SYStreetEMS",
+            "ta": "அல்கோ சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shop No. 1, Maruthu Pandyar Road",
+            "ta": "கடை எண், 1, மருது பாண்டியர் வீதி"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "096888 98616"
+    },
+    {
+        "id": 59,
+        "name": {
+            "en": "Softech India Computer SyStreetems",
+            "ta": "சாஃப்டெக் இந்தியா கம்ப்யூட்டர் சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Bus Stand, 97, North veli Road Behind Simmakkal",
+            "ta": "பேருந்து நிறுத்தம், 97,வடக்கு வெளி வீதி சிம்மக்கல் "
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "073730 33877"
+    },
+    {
+        "id": 60,
+        "name": {
+            "en": "I Sytems",
+            "ta": "ஐ சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2ND FLOOR, 154/88, NEAR BUS STAND, WAKIL NEW ROAD",
+            "ta": "2வது தளம், 154/88, பஸ் ஸ்டாப் அருகில், வக்கில் புதிய வீதி"
+        },
+        "area": {
+            "en": "Vakil New Street",
+            "ta": "வக்கில் புதிய வீதி"
+        },
+        "phone": "#VALUE!"
+    },
+    {
+        "id": 61,
+        "name": {
+            "en": "Bharat IT World",
+            "ta": "பாரத் ஐடி உலகம்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Karni Complex, 18, Town Hall Road",
+            "ta": "கர்னி காம்ப்ளக்ஸ், 18, டவுன் ஹால் ரோடு"
+        },
+        "area": {
+            "en": "Town Hall Road",
+            "ta": "டவுன் ஹால் ரோடு"
+        },
+        "phone": "0452 437 0505"
+    },
+    {
+        "id": 62,
+        "name": {
+            "en": "S Computers",
+            "ta": "எஸ் கம்ப்யூட்டர்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1/836",
+            "ta": "1/836"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "093455 04540"
+    },
+    {
+        "id": 63,
+        "name": {
+            "en": "Anbu SyStreetems",
+            "ta": "அன்பு சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "ATM Near T-1/2, Housing Board, Karur Vysya Bank",
+            "ta": "டி-1/2, ஹவுசிங் போர்டு, கரூர் வைஸ்யா வங்கி அருகே ஏ.டி.எம்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "0452 252 3509"
+    },
+    {
+        "id": 64,
+        "name": {
+            "en": "M K digitech solutions",
+            "ta": "எம் கே டிஜிடெக் சொல்யூஷன்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "| computer service | Laptop service | door Streetep service | Quick serivce",
+            "ta": "| கம்ப்யூட்டர் சர்வீஸ் | மடிக்கம்ப்யூட்டர் சர்வீஸ் | கதவு படி சர்வீஸ் | விரைவான சர்வீஸ்"
+        },
+        "location": {
+            "en": "No. M.06, M.K. Plaza, Vara Nagar Main Road",
+            "ta": "எண். எம்.06, எம்.கே. பிளாசா, வளர் நகர் பிரதான சாலை"
+        },
+        "area": {
+            "en": "Vallar Nagar",
+            "ta": "வளர் நகர்"
+        },
+        "phone": "084384 33979"
+    },
+    {
+        "id": 65,
+        "name": {
+            "en": "ABC Computers",
+            "ta": "ஏபிசி கம்ப்யூட்டர்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "TV Electronics Distributors",
+            "ta": "டிவி எலக்ட்ரானிக்ஸ் விநியோகஸ்தர்கள்"
+        },
+        "location": {
+            "en": "Sakthi Shivam Theater Complex, 28, Naikkar New Road",
+            "ta": "சக்தி சிவம் தியேட்டர் வளாகம், 28, நாய்க்கர் நியூ வீதி"
+        },
+        "area": {
+            "en": "Naicker New Road",
+            "ta": "நாய்க்கர் நியூ வீதி"
+        },
+        "phone": "079 4105 8501"
+    },
+    {
+        "id": 66,
+        "name": {
+            "en": "Icon Computer Peripherals",
+            "ta": "ஐகான் கம்ப்யூட்டர் சாதனங்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1st Floor, AG Complex, 42-C 10, Krishnarayar Tank Road",
+            "ta": "1வது தளம், ஏ.ஜி வளாகம், 42-சி 10, கிருஷ்ணராயர் டேங்க் ரோடு"
+        },
+        "area": {
+            "en": "Krishnarayar Tank Road",
+            "ta": "கிருஷ்ணராயர் டேங்க் ரோடு"
+        },
+        "phone": "079 4910 7016"
+    },
+    {
+        "id": 67,
+        "name": {
+            "en": "Image Systems",
+            "ta": "இமேஜ் சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shop No. 78, 78, Tamil Sang Road",
+            "ta": "கடை எண் 78, 78, தமிழ்ச் சங்க சாலை"
+        },
+        "area": {
+            "en": "Tamil Sangh Road",
+            "ta": "தமிழ் சங்க சாலை"
+        },
+        "phone": "098421 18787"
+    },
+    {
+        "id": 68,
+        "name": {
+            "en": "Gokulam Computer Service",
+            "ta": "கோகுலம் கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Mandapam, 13/20, Ambalakarar Road",
+            "ta": "மண்டபம், 13/20, அம்பலகாரர் வீதி"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "097901 28466"
+    },
+    {
+        "id": 69,
+        "name": {
+            "en": "SRI MATHI COMPUTER",
+            "ta": "ஸ்ரீ மதி கம்ப்யூட்டர்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "First Floor, 78 Vakil New Street",
+            "ta": "78,முதல் தளம், வக்கீல் புதிய தெரு, "
+        },
+        "area": {
+            "en": "Vakkil New Street",
+            "ta": "வக்கீல் புதிய தெரு"
+        },
+        "phone": "098431 53693"
+    },
+    {
+        "id": 70,
+        "name": {
+            "en": "Impress Systems & Services",
+            "ta": "இம்ப்ரஸ் சிஸ்டம்ஸ் & சர்வீஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "76A, Vakil New Road",
+            "ta": "76A, வக்கில் நியூ வீதி"
+        },
+        "area": {
+            "en": "Vakkil New Street",
+            "ta": "வக்கீல் புதிய தெரு"
+        },
+        "phone": "098421 67190"
+    },
+    {
+        "id": 71,
+        "name": {
+            "en": "Vijay Trading Corporation",
+            "ta": "விஜய் டிரேடிங் கார்ப்பரேஷன்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "209, 1st & 2nd Floor, Naikkar New Road",
+            "ta": "209, 1வது & 2வது தளம், நாய்க்கர் நியூ வீதி"
+        },
+        "area": {
+            "en": "Naicker New Road",
+            "ta": "நாய்க்கர் நியூ வீதி"
+        },
+        "phone": "0452 262 1508"
+    },
+    {
+        "id": 72,
+        "name": {
+            "en": "DUAL SOLUTIONS ",
+            "ta": "டூயல் சொல்யூஷன் "
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "Printer Computer Cctv Biometric Networking Service",
+            "ta": "பிரிண்டர் கம்ப்யூட்டர் Cctv பயோமெட்ரிக் நெட்வொர்க்கிங் சர்வீஸ்"
+        },
+        "location": {
+            "en": "32, 2ND FLOOR, RAJAN COMPLEX, AA ROAD",
+            "ta": "32, 2வது தளம், ராஜன் வளாகம், ஏஏ சாலை"
+        },
+        "area": {
+            "en": "AA Road",
+            "ta": "ஏஏ சாலை"
+        },
+        "phone": "099425 44588"
+    },
+    {
+        "id": 73,
+        "name": {
+            "en": "Just Used Computers",
+            "ta": "ஜஸ்ட் பயன்படுத்தப்பட்ட கம்ப்யூட்டர்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "50, Hakim Ajmal Khan Road",
+            "ta": "50, ஹக்கிம் அஜ்மல் கான் சாலை"
+        },
+        "area": {
+            "en": "Hakim Ajmal Khan Road",
+            "ta": "ஹக்கிம் அஜ்மல் கான் சாலை"
+        },
+        "phone": "078292 93937"
+    },
+    {
+        "id": 74,
+        "name": {
+            "en": "RGN TECHNOLOGIES",
+            "ta": "RGN டெக்னாலஜிஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "52, Tamil Sang Road",
+            "ta": "52, தமிழ் சங்க சாலை"
+        },
+        "area": {
+            "en": "Tamil Sangh Road",
+            "ta": "தமிழ் சங்க சாலை"
+        },
+        "phone": "098436 48428"
+    },
+    {
+        "id": 75,
+        "name": {
+            "en": "Sugi Computers",
+            "ta": "சுகி கம்ப்யூட்டர்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2B, 1st Floor, 135, Vignesh Plaza, LDC Stop, PT Rajan Road",
+            "ta": "2B, 1வது தளம், 135, விக்னேஷ் பிளாசா, LDC நிறுத்தம், PT ராஜன் சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "099943 70803"
+    },
+    {
+        "id": 76,
+        "name": {
+            "en": " Siva Refills",
+            "ta": "சிவா ரீஃபில்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "Toner Refilling & printer repair shop in Madurai ",
+            "ta": "மதுரையில் டோனர் ரீஃபில்லிங் & பிரிண்டர் பழுதுபார்க்கும் கடை"
+        },
+        "location": {
+            "en": "204, I FLOOR, NOYKER NEW ROAD, Opp. Sony Ericsson Service Center",
+            "ta": "204, நான் தளம், நாய்க்கர் நியூ வீதி, எதிரில். சோனி எரிக்சன் சர்வீஸ் மையம்"
+        },
+        "area": {
+            "en": "Naicker New Road",
+            "ta": "நாய்க்கர் நியூ வீதி"
+        },
+        "phone": "097519 66044"
+    },
+    {
+        "id": 77,
+        "name": {
+            "en": "Maho Jase Institute of Technology (Maho Jase IT) |",
+            "ta": "மஹோ ஜேஸ் இன்ஸ்டிடியூட் ஆப் டெக்னாலஜி (மஹோ ஜேஸ் ஐடி) "
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": " IT Training and IT Solutions",
+            "ta": "| IT பயிற்சி மற்றும் IT சொல்யூஷன்கள்"
+        },
+        "location": {
+            "en": "471, North First Cross Road",
+            "ta": "471, வடக்கு முதல் கிராஸ் வீதி"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "088254 10600"
+    },
+    {
+        "id": 78,
+        "name": {
+            "en": "Sasthaa Systems",
+            "ta": "சாஸ்தா சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 155, North veli Street, Opposite Chakraborty Hotel, North veli Street, North veli Street",
+            "ta": "எண். 155, வடக்கு வெளி தெரு, சக்கரவர்த்தி ஹோட்டலுக்கு எதிரில், வடக்கு வெளி தெரு, வடக்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "0452 262 9922"
+    },
+    {
+        "id": 79,
+        "name": {
+            "en": "SSi Computer Education",
+            "ta": "எஸ்எஸ்ஐ கம்ப்யூட்டர் கல்வி"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "266, Goodes Shed Road",
+            "ta": "266, கூட்ஸ் ஷெட் வீதி"
+        },
+        "area": {
+            "en": "Goodes Shed Road",
+            "ta": " கூட்ஸ் ஷெட் வீதி"
+        },
+        "phone": "088703 82777"
+    },
+    {
+        "id": 80,
+        "name": {
+            "en": "Billing Software - Computer",
+            "ta": "பில்லிங் மென்பொருள் - கம்ப்யூட்டர்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "SM Campus Vasantha Nagar, Bypass Road",
+            "ta": "எஸ்எம் வளாகம் வசந்த நகர், பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "Vasantha Nagar",
+            "ta": "வசந்த நகர்"
+        },
+        "phone": "070109 83003"
+    },
+    {
+        "id": 81,
+        "name": {
+            "en": "Apple Authorised Service Provider - iPlanet Care",
+            "ta": "ஆப்பிள் அங்கீகரிக்கப்பட்ட சர்வீஸ் வழங்குநர் - iPlanet Care"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Building No. 82, Bypass Road",
+            "ta": "கட்டிடம் எண் 82, பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "086959 66966"
+    },
+    {
+        "id": 82,
+        "name": {
+            "en": "Easyservices",
+            "ta": "ஈசி சர்வீஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.40, East Hanuman Darshan Temple Street",
+            "ta": "எண்.40, கிழக்கு அனுமன் தர்ஷன் கோவில் தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "099948 58054"
+    },
+    {
+        "id": 83,
+        "name": {
+            "en": "RailNet Software Solutions, Madurai - 625016",
+            "ta": "ரெயில்நெட் சாப்ட்வேர் சொல்யூஷன்ஸ், மதுரை - 625016"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "18A, Manjanakara Road",
+            "ta": "18 ஏ, மஞ்சனகர வீதி"
+        },
+        "area": {
+            "en": "Manjanakara Road",
+            "ta": "மஞ்சனகர வீதி"
+        },
+        "phone": "0452 230 8785"
+    },
+    {
+        "id": 84,
+        "name": {
+            "en": "Girias Madurai Branch - Electronics and Home Appliances Streetore - Buy LateStreet Smartphones, Laptops, Smart TV, AC",
+            "ta": "கிரியாஸ் மதுரை கிளை - எலக்ட்ரானிக்ஸ் மற்றும் வீட்டு உபயோகப் பொருட்கள் கடை - சமீபத்திய ஸ்மார்ட்போன்கள், லேப்டாப்கள், ஸ்மார்ட் டிவி, ஏசி வாங்கவும்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "205, S Masi St, Opposite KVB Bank",
+            "ta": "205, South Masi Street, KVB வங்கிக்கு எதிரே"
+        },
+        "area": {
+            "en": "South Masi Street",
+            "ta": "South Masi Street"
+        },
+        "phone": "089399 70756"
+    },
+    {
+        "id": 85,
+        "name": {
+            "en": "Digicare Systems",
+            "ta": "டிஜிகேர் சிஸ்டம்ஸ் "
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "M/s. Ripple Solutions, 73, 4th Street, Arasaradi, 625016.",
+            "ta": "M/s. சிற்றலைகள் சொல்யூஷன்கள், 73, 4வது தெரு, அரசரடி, 625016."
+        },
+        "area": {
+            "en": "Arasaradi",
+            "ta": "அரசரடி"
+        },
+        "phone": "0452 435 4543"
+    },
+    {
+        "id": 86,
+        "name": {
+            "en": "aalpha net solution",
+            "ta": "ஆல்பா நிகர சொல்யூஷன்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "II Floor, 178A, North veli Road",
+            "ta": "II மாடி, 178A, வடக்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "093441 05858"
+    },
+    {
+        "id": 87,
+        "name": {
+            "en": "Abservetech Private Limited",
+            "ta": "அப்சர்வெடெக் பிரைவேட் லிமிடெட்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "146-147, Vakkil New St",
+            "ta": "146-147, Vakkil New Street"
+        },
+        "area": {
+            "en": "Vakkil New Road",
+            "ta": "Vakkil New Street"
+        },
+        "phone": "092223 79222"
+    },
+    {
+        "id": 88,
+        "name": {
+            "en": "Millennium SyStreetems",
+            "ta": "மில்லினியம் சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shop No.12, North Masi Road",
+            "ta": "கடை எண்.12, வடக்கு மாசி வீதி"
+        },
+        "area": {
+            "en": "North Masi Road",
+            "ta": "வடக்கு மாசி வீதி"
+        },
+        "phone": "099944 46681"
+    },
+    {
+        "id": 89,
+        "name": {
+            "en": "Infolink SyStreetems",
+            "ta": "இன்ஃபோலிங்க் சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 52, B2, Tamil Sang Road, Opp. Iyengar Petrol Station",
+            "ta": "எண் 52, B2, தமிழ் சங்க சாலை, எதிரில். ஐயங்கார் பெட்ரோல் பங்க்"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "0452 424 6541"
+    },
+    {
+        "id": 90,
+        "name": {
+            "en": "Web To Apk | web2apk | Convert website to android app & create android app from website",
+            "ta": "Web To Apk | web2apk | இணையதளத்தை ஆண்ட்ராய்டு செயலியாக மாற்றவும் & இணையதளத்தில் இருந்து ஆண்ட்ராய்டு செயலியை உருவாக்கவும்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "·",
+            "ta": "·"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "063807 57660"
+    },
+    {
+        "id": 91,
+        "name": {
+            "en": "Orion India SyStreetems Pvt Ltd",
+            "ta": "ஓரியன் இந்தியா சிஸ்டம்ஸ் பிரைவேட் லிமிடெட்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Plot No.760, Vikashni Building, 80 Feet Road, Anna Nagar, Chathamangalam",
+            "ta": "பிளாட் எண்.760, விகாஷ்னி கட்டிடம், 80 அடி சாலை, அண்ணா நகர்"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "0452 439 1004"
+    },
+    {
+        "id": 92,
+        "name": {
+            "en": "Premier Systems & Peripherals",
+            "ta": "பிரீமியர் சிஸ்டம்ஸ் & பெரிஃபெரல்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "153 L, 2nd Floor, North veli Street, Simmakkal, Simmakkal",
+            "ta": "153 எல், 2வது தளம், வடக்கு வெளி தெரு, சிம்மக்கல், "
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "0452 262 2422"
+    },
+    {
+        "id": 93,
+        "name": {
+            "en": "IT Core Elite",
+            "ta": "ஐடி கோர் எலைட்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "223/29 Second Floor, North veli Road",
+            "ta": "223/29 இரண்டாவது தளம், வடக்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "073736 82595"
+    },
+    {
+        "id": 94,
+        "name": {
+            "en": "Team Computer Solution",
+            "ta": "டீம் கம்ப்யூட்டர் சொல்யூஷன்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "56, Rajam Complex, Tamil Sangam Road, Near Hotel Bell",
+            "ta": "56, ராஜம் வளாகம், தமிழ் சங்கம் சாலை, ஹோட்டல் பெல் அருகில்"
+        },
+        "area": {
+            "en": "Tamil Sangam Road",
+            "ta": "தமிழ் சங்கம் சாலை"
+        },
+        "phone": "099651 31307"
+    },
+    {
+        "id": 95,
+        "name": {
+            "en": "Binary Solutions",
+            "ta": "பைனரி சொல்யூஷன்கள்"
+        },
+        "type": {
+            "en": "Computer Sales",
+            "ta": "கம்ப்யூட்டர் விற்பனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "163, 80 Feet Road, LIG ​​Colony, KK Nagar, Madurai- 625020",
+            "ta": "163, 80 அடி சாலை, எல்ஐஜி காலனி, கேகே நகர், மதுரை- 625020"
+        },
+        "area": {
+            "en": "KK Nagar",
+            "ta": "கேகே நகர்"
+        },
+        "phone": "9500054396 & 9500056196"
+    },
+    {
+        "id": 96,
+        "name": {
+            "en": "Vairavan Computers & Laptops",
+            "ta": "ரைவன் கம்ப்யூட்டர்கள் மற்றும் மடிக்கம்ப்யூட்டர்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "114-154, AH43, Simmakkal, Madurai Main, Madurai- 625001",
+            "ta": "114-154, AH43, சிம்மக்கல், மதுரை மெயின், மதுரை- 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "#VALUE!"
+    },
+    {
+        "id": 97,
+        "name": {
+            "en": "Swasthika Sri Computers",
+            "ta": "ஸ்வாதிகா ஸ்ரீ கம்ப்யூட்டர்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "12, Akimshapuram 5th Street, Kattabomman Nagar, Bose Road, Sellur",
+            "ta": "12, அகிம்ஷாபுரம் 5வது தெரு, கத்தபொம்மன் நகர், போஸ் வீதி, செல்லூர் "
+        },
+        "area": {
+            "en": "Sellur",
+            "ta": "செல்லூர் "
+        },
+        "phone": "8675662452 & 8098878843"
+    },
+    {
+        "id": 98,
+        "name": {
+            "en": "Supreme Computers India Pvt Ltd",
+            "ta": "சுப்ரீம் கம்ப்யூட்டர்ஸ் இந்தியா பிரைவேட் லிமிடெட்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "198-196, Naikkar New St., Arajar Road, Simmakkal, Madurai-25001",
+            "ta": "198-196, நாய்க்கர் நியூ செயின்ட், அரஜர் சாலை, சிம்மக்கல், மதுரை-25001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "9500025788"
+    },
+    {
+        "id": 99,
+        "name": {
+            "en": "Rv computer solutions",
+            "ta": "Rv கம்ப்யூட்டர் சொல்யூஷன்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Palanaganatham, 14, VOC Street, Pasumpon Nagar, Maduramalingapuram- 625003",
+            "ta": "பழநாகநாதம், 14, VOC தெரு, பசும்பொன் நகர், மதுரமலிங்கபுரம்- 625003"
+        },
+        "area": {
+            "en": "Palanganatham",
+            "ta": "பழநாகநாதம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 100,
+        "name": {
+            "en": "Ultra Byte Technologies",
+            "ta": "அஸ்ட்ராபைட் டெக்னாலஜிஸ்"
+        },
+        "type": {
+            "en": "Softyware Training",
+            "ta": "சாஃப்ட்வேர்  பயிற்சி "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "153/2, 2nd Floor, N Valley St, Arajar Road, Simmakkal, Madurai- 625001",
+            "ta": "153/2, 2வது தளம், என் வேலி செயின்ட், அரஜர் சாலை, சிம்மக்கல், மதுரை- 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 101,
+        "name": {
+            "en": "PC Care",
+            "ta": "பிசி கேர்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "11, KALLASAR COMPLEX, ALAGAR TEMPLE MAIN ROAD, DALLAKULAM OPPOSITE TO PERUMAL TEMPLE",
+            "ta": "11, கல்லாசர் வளாகம், அழகர் கோவில் பிரதான சாலை, தல்லாகுளம் பெருமாள் கோவிலுக்கு எதிரே"
+        },
+        "area": {
+            "en": "Tallakulam",
+            "ta": "தல்லாகுளம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 102,
+        "name": {
+            "en": "Snegam Systems",
+            "ta": "ஸ்நேஹம் சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "174c/1 1st Floor, 174C, North veli Road",
+            "ta": "174c/1 1வது தளம், 174C, வடக்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "2631222 & 9994031222"
+    },
+    {
+        "id": 103,
+        "name": {
+            "en": "Siva Balaji Pherpherals",
+            "ta": "சிவா பாலாஜி பெரிஃபெரல்ஸ்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1st Floor, No. 165, North veli Road Near Poorvika Mobiles",
+            "ta": "1வது தளம், எண் 165,வடக்கு வெளி வீதி பூர்விகா மொபைல்களுக்கு அருகில்"
+        },
+        "area": {
+            "en": "North veli Road",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "4383141"
+    },
+    {
+        "id": 104,
+        "name": {
+            "en": "Crace computers",
+            "ta": "கிரேஸ் கம்ப்யூட்டர்கள்"
+        },
+        "type": {
+            "en": "Computer Service",
+            "ta": "கம்ப்யூட்டர் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No:127, 1A, North veli Road, Near Anna Statue, Simmakkal",
+            "ta": "எண்:127, 1A, வடக்கு வெளி வீதி, அண்ணா சிலைக்கு அருகில், சிம்மக்கல் "
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "9487830003 & 9842109440"
+    }
+]

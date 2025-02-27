@@ -1,0 +1,819 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "Apollo Diagnostics",
+            "ta": "அப்பல்லோ டயக்னோஸ்ட்ரீடிக்ஸ்"
+        },
+        "type": {
+            "en": "Diagnostic center",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Arun Ramesh Nivas, 54, Bypass Road, Ponmeni, Madurai, Tamil Nadu 625010",
+            "ta": "அருண் ரமேஷ் நிவாஸ், 54, பைபாஸ் ரோடு, பொன்மேனி, மதுரை, தமிழ்நாடு 625010"
+        },
+        "area": {
+            "en": "Ponmeni",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "96061 12399"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "Metropolis Labs",
+            "ta": "மெட்ரோ லேப்ஸ் "
+        },
+        "type": {
+            "en": "Diagnostic center",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": " Blood Test & Diagnostic Centre in Madurai",
+            "ta": "இரத்த டெஸ்ட் & டயக்னோஸ்ட்ரீடிக் மையம்"
+        },
+        "location": {
+            "en": "Bus Stop, No 304, Kabeer Ali Complex Alagar Kovil Road, Melur Near Melur, Madurai, Tamil Nadu 625106",
+            "ta": "பேருந்து தெருமுனை, எண் 304, கபீர் அலி வளாகம் அழகர் கோவில் சாலை, மேலூர் அருகில் மேலூர், மதுரை, தமிழ்நாடு 625106"
+        },
+        "area": {
+            "en": "Melur",
+            "ta": "மேலூர்"
+        },
+        "phone": "93212 72716"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Sundaram Digital Xray Lab & ECG",
+            "ta": "சுந்தரம் டிஜிட்டல் எக்ஸ்ரே லேப் & ஈசிஜி"
+        },
+        "type": {
+            "en": "X-ray lab",
+            "ta": "எக்ஸ்ரே ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Kannanenthal Main Road, Iyer Bungalow, Madurai, Tamil Nadu 625014",
+            "ta": "கண்ணனேந்தல் மெயின் ரோடு, ஐயர் பங்களா, மதுரை, தமிழ்நாடு 625014"
+        },
+        "area": {
+            "en": "Iyer Bungalow",
+            "ta": "ஐயர் பங்களா"
+        },
+        "phone": "452 268 3386"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "Zara Digital Dental Lab",
+            "ta": "ஜாரா டிஜிட்டல் டென்டல் லேப்"
+        },
+        "type": {
+            "en": "Dental laboratory",
+            "ta": "பல் ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "655, Nakkeerar Street, Sadasiva Nagar, Mandure, Vandiyur, Madurai, Tamil Nadu 625020",
+            "ta": "655, நக்கீரர் தெரு, சதாசிவ நகர், மண்டூரே, வண்டியூர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": " Vandiyur",
+            "ta": "வண்டியூர்"
+        },
+        "phone": "98430 66862"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "ACL Diagnostics(DNA Labs India)",
+            "ta": "ACL Diagnostics (DNA லேப்ஸ் இந்தியா)"
+        },
+        "type": {
+            "en": "Paternity tessting service",
+            "ta": "பேட்டர்னிட்டி டெஸ்ட்ரீட்டிங் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Nagasundaram Complex, East Street, Anna Nagar, Sathamangalam, Madurai, Tamil Nadu 625020",
+            "ta": "நாகசுந்தரம் வளாகம், ஈஸ்ட்ஸ்ட்ரீட் தெரு, அண்ணா நகர், சாத்தமங்கலம், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "04362 226 474"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Meenakshi Labs",
+            "ta": "மீனாட்சி ஆய்வகங்கள்"
+        },
+        "type": {
+            "en": "Medical laboratory",
+            "ta": "மருத்துவ ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Kalavasal Road, Kalavasal, Madurai, Tamil Nadu 625016",
+            "ta": "காளவாசல் சாலை, காளவாசல், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Kalavasal",
+            "ta": "காளவாசல்"
+        },
+        "phone": "0452-4360331, 9500168777 & 9500169777"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "RT DIAGNOSTICS K.K.NAGAR",
+            "ta": "ஆர்டி டயக்னோஸ்ட்ரீடிக்ஸ் கே.கே.நகர்"
+        },
+        "type": {
+            "en": "Medical laboratory",
+            "ta": "மருத்துவ ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "A1/4 K.K.NAGAR MAIN ROAD, 70 Feet Road, Madurai, Tamil Nadu 625020",
+            "ta": "A1/4 K.K.நகர் பிரதான சாலை, 70 அடி சாலை, மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "K.K.NAGAR ",
+            "ta": " K.K.நகர்"
+        },
+        "phone": "8122584156 & 9677819696"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "V M clinical laboratory",
+            "ta": "வி எம் மருத்துவ ஆய்வகம்"
+        },
+        "type": {
+            "en": "Medical laboratory",
+            "ta": "மருத்துவ ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "no 71, 1st Street, Anjal Nagar, Koodal Nagar, Madurai, Tamil Nadu 625018",
+            "ta": "எண் 71, 1 தெரு தெரு, அஞ்சல் நகர், கூடல் நகர், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": " Koodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "96296 01234"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "V M clinical laboratory",
+            "ta": "வி எம் மருத்துவ ஆய்வகம்"
+        },
+        "type": {
+            "en": "Medical laboratory",
+            "ta": "மருத்துவ ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "71, 1st Street, Anjal Nagar, Koodal Nagar, Madurai, Tamil Nadu 625018",
+            "ta": "71, 1 தெரு தெரு, அஞ்சல் நகர், கூடல் நகர், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": " Koodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Imai and Imai Dental Lab",
+            "ta": "இமய் மற்றும் இமய் பல் ஆய்வகம்"
+        },
+        "type": {
+            "en": "Dental laboratory",
+            "ta": "பல் ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "250, Subramania Pillai 6th Street, S S Colony, Madurai, Tamil Nadu 625016",
+            "ta": "250, சுப்ரமணிய பிள்ளை 6வது தெரு, எஸ் எஸ் காலனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "S S Colony",
+            "ta": "எஸ் எஸ் காலனி"
+        },
+        "phone": "002 258 5635"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Sathyam Scans",
+            "ta": "சத்யம் ஸ்கேன்"
+        },
+        "type": {
+            "en": "Photography Streetudio",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Plot No.117, near A.R. Hospital, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "பிளாட் எண்.117, ஏ.ஆர். மருத்துவமனை, கே.கே.நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "K.K.NAGAR ",
+            "ta": "கே.கே.நகர்"
+        },
+        "phone": "0044 4813 7110"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "ENDOCARE Diagnostic Centre",
+            "ta": "ENDOCARE டயக்னோஸ்ட்ரீடிக் மையம்"
+        },
+        "type": {
+            "en": "Dental laboratory",
+            "ta": "பல் ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "128, E, 5th Street, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "128, இ, 5வது தெரு, கே.கே.நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "K.K.NAGAR ",
+            "ta": "கே.கே.நகர்"
+        },
+        "phone": "98433 44055"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "DNA Labs India",
+            "ta": "டிஎன்ஏ ஆய்வகங்கள் இந்தியா"
+        },
+        "type": {
+            "en": "Paternity tessting service",
+            "ta": "பேட்டர்னிட்டி டெஸ்ட்ரீட்டிங் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sai Nivas, No 5 Ground Floor, Krishnarayar Tank Road, opposite George Oaks, Madurai, Tamil Nadu 625006",
+            "ta": "சாய் நிவாஸ், எண் 5 தரை தளம், கிருஷ்ணராயர் டேங்க் சாலை, ஜார்ஜ் ஓக்ஸ் எதிரில், மதுரை, தமிழ்நாடு 625006"
+        },
+        "area": {
+            "en": "Tamil Sang Road",
+            "ta": "தமிழ் சங்க சாலை"
+        },
+        "phone": "95974 33331, 9842596727 & 7845245645"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "Vimta Labs",
+            "ta": "விம்தா ஆய்வகங்கள்"
+        },
+        "type": {
+            "en": "Diagnostic center",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sivaganga Road, Managiri, Madurai, Tamil Nadu 625020",
+            "ta": "சிவகங்கா சாலை, மானகிரி, மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Managiri",
+            "ta": "மானகிரி"
+        },
+        "phone": "96061 12399"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "VSV LABS",
+            "ta": "விஎஸ்வி லேப்ஸ்"
+        },
+        "type": {
+            "en": "Blood testing service",
+            "ta": "இரத்த பரிசோதனை சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "31A, Subramaniya Pillai Street, near sri krishna sweets, Madurai, Tamil Nadu 625016",
+            "ta": "31A, சுப்ரமணிய பிள்ளை தெரு, ஸ்ரீ கிருஷ்ணா ஸ்வீட்ஸ் அருகில், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "S S Colony",
+            "ta": "எஸ்எஸ் காலனி"
+        },
+        "phone": "80 6264 5026"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "Apollo Diagnostics",
+            "ta": "அப்பல்லோ டயக்னோஸ்ட்ரீடிக்ஸ்"
+        },
+        "type": {
+            "en": "Diagnostic center",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No-52, Dominos Pizza Building,Bypass Road, Opposite To Aparna Towers, Madurai, Tamil Nadu 625010",
+            "ta": "எண்-52, டோமினோஸ் பிஸ்ஸா கட்டிடம், பைபாஸ் சாலை, அபர்ணா டவர்ஸ் எதிரில், மதுரை, தமிழ்நாடு 625010"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "8144317306 , 8144317309 & 9952248589"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "Dr Lal PathLabs - Patient Service Centre",
+            "ta": "டாக்டர் லால் பாத்லேப்ஸ் - நோயாளி சேவை மையம்"
+        },
+        "type": {
+            "en": "Diagnostic center",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 251, MPS Tower 2nd Street, Maruthu Pandiyar Street, near Kk Nagar EB Office, Nagar, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "எண் 251, MPS டவர் 2வது தெரு, மருது பாண்டியர் தெரு, Kk நகர் EB அலுவலகம் அருகில், நகர், KK நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "K.K.NAGAR ",
+            "ta": "கே.கே.நகர்"
+        },
+        "phone": "002 238 0047"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Microtech Clinical Lab",
+            "ta": "மைக்ரோடெக் கிளினிக்கல் லேப் "
+        },
+        "type": {
+            "en": "Medical laboratory",
+            "ta": "மருத்துவ ஆய்வகம்"
+        },
+        "detail": {
+            "en": " NABL-128 Accredited Lab",
+            "ta": "NABL-128 அங்கீகாரம் பெற்ற ஆய்வகம்"
+        },
+        "location": {
+            "en": "156,lakshmi illam, Alagar Kovil Main Road, Alagar Nagar, Madurai, Tamil Nadu 625007",
+            "ta": "156, லட்சுமி இல்லம், அழகர் கோவில் பிரதான சாலை, அழகர் நகர், மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "Alagar Nagar",
+            "ta": "அழகர் நகர்"
+        },
+        "phone": "9629313340"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "SMS Clinical Lab",
+            "ta": "SMS மருத்துவ ஆய்வகம்"
+        },
+        "type": {
+            "en": "Laboratory",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "S.S colony Jawahar main road, Bharathiyar Main Road, near Streetate Bank of India, Tamil Nadu 625016",
+            "ta": "எஸ்.எஸ் காலனி ஜவஹர் மெயின் ரோடு, பாரதியார் மெயின் ரோடு, ஸ்ட்ரீட் பேங்க் ஆஃப் இந்தியா அருகில், தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Ponemeni",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "99651 20023"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "VINTAGE SPECIALITY LABS &CLINICS",
+            "ta": "விண்டேஜ் ஸ்பெஷல்டி லேப்ஸ் & கிளினிக்ஸ்"
+        },
+        "type": {
+            "en": "Diagnostic center",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "63/2,New LIG Colony,Opposite Airtel Showroom, near naveen ReStreetaurant, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "63/2, புதிய எல்ஐஜி காலனி, ஏர்டெல் ஷோரூம் எதிரில், நவீன் ரெஸ்ட்ரீட்டரன்ட் அருகில், அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "00452 439 0408"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "Madurai Medical Laboratory",
+            "ta": "மதுரை மருத்துவ ஆய்வகம்"
+        },
+        "type": {
+            "en": "Medical laboratory",
+            "ta": "மருத்துவ ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.31, Pallivasal Street, Goripalayam, Madurai, Tamil Nadu 625002",
+            "ta": "எண்.31, பள்ளிவாசல் தெரு, கோரிப்பாளையம், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Goripalayam",
+            "ta": "கோரிப்பாளையம்"
+        },
+        "phone": "98404 80209"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "MICROBIOLOGICAL LABORATORY",
+            "ta": "நுண்ணுயிரியல் ஆய்வகம்"
+        },
+        "type": {
+            "en": "Laboratory",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Barathiyar Apartment, 368-C ,Block, Sivaganga Road, Anna Nagar, Sathamangalam, Tamil Nadu 625020",
+            "ta": "பாரதியார் அபார்ட்மெண்ட், 368-சி, பிளாக், சிவகங்கா சாலை, அண்ணா நகர், சாத்தமங்கலம், தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "9443303883 & 7010664504"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "Dhanya Clinical Lab",
+            "ta": "தன்யா கிளினிக்கல் லேப்"
+        },
+        "type": {
+            "en": "Laboratory",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Door no 3/28, R.K.M.L.A PLAZA, Sikkandar Savadi, Koodal Nagar, Madurai, Tamil Nadu 625018",
+            "ta": "கதவு எண் 3/28, R.K.M.L.A PLAZA, சிக்கந்தர் சவடி, கூடல் நகர், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Koodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "82483 74470"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "Dr Lalpath Labs ( MARIA DIAGNOSTIC CENTER )",
+            "ta": "டாக்டர் லால்பத் லேப்ஸ் (மரியா டயக்னோஸ்ட்ரீடிக் சென்டர்)"
+        },
+        "type": {
+            "en": "Laboratory",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "MPS TOWER 251_Managiri 2nd Street, Maruthu Pandiyar Street, KK Nagar, Tamil Nadu 625020",
+            "ta": "MPS TOWER 251_மானகிரி 2வது தெருமுனை, மருது பாண்டியர் தெரு, KK நகர், தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "K.K.NAGAR ",
+            "ta": "கே.கே.நகர்"
+        },
+        "phone": "91115 91115"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "RACE DiagnosticS PCR LAB",
+            "ta": "ரேஸ் டயக்னோஸ்ட்ரீடிக்ஸ் பிசிஆர் லேப்"
+        },
+        "type": {
+            "en": "Diagnostic center",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "AT ROUNDANA, 24, Arappalayam Cross Road, M.M.C.Colony, West Ponnagaram, Arappalayam, Madurai, Tamil Nadu 625016",
+            "ta": "ரவுண்டானாவில், 24, ஆரப்பாளையம் குறுக்கு சாலை, எம்.எம்.சி.காலனி, வெஸ்ட்ரீட் பொன்னகரம், ஆரப்பாளையம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Arappalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "95850 42933"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "SRL Diagnostics",
+            "ta": "SRL Diagnostics"
+        },
+        "type": {
+            "en": "Diagnostic center",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Vairam Complex, 80 Feet Road, New LIG Colony, Anna Nagar, Sathamangalam, Madurai, Tamil Nadu 625020",
+            "ta": "வைரம் வளாகம், 80 அடி சாலை, புதிய எல்ஐஜி காலனி, அண்ணா நகர், சாத்தமங்கலம், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "93609 56059"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Thyrocare Aarogyam Center",
+            "ta": "தைரோகேர் ஆரோக்யம் மையம்"
+        },
+        "type": {
+            "en": "Diagnostic center",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shop No. 78, Agrini Enclave, Andalpuram Near Agrini Association Office, palanganatham near, Tamil Nadu 625003",
+            "ta": "கடை எண். 78, அக்ரினி என்கிளேவ், ஆண்டாள்புரம் அக்ரினி அசோசியேஷன் அலுவலகம் அருகில், பழங்காநத்தம் அருகில், தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Andalpuram",
+            "ta": "ஆண்டாள்புரம்"
+        },
+        "phone": "452 258 1446"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "Shri Sakthi Lab & X-Rays ECG",
+            "ta": "ஸ்ரீ சக்தி லேப் & எக்ஸ்-கதிர்கள் ECG"
+        },
+        "type": {
+            "en": "Medical laboratory",
+            "ta": "மருத்துவ ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Busstand, near Anbu Medicals, Ramavarma Nagar, K.Pudur, Madurai, Tamil Nadu 625007",
+            "ta": "பஸ்ஸ்ட்ரீடண்ட், அன்பு மெடிக்கல்ஸ் அருகில், ராமவர்மா நகர், கே.புதூர், மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "K.Pudur",
+            "ta": "கே.புதூர்"
+        },
+        "phone": "93212 72716"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "Apollo Lab Services",
+            "ta": "அப்பல்லோ ஆய்வக சேவைகள்"
+        },
+        "type": {
+            "en": "Medical laboratory",
+            "ta": "மருத்துவ ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shop No, 3, Bharath Nagar, Meenakshi Amman Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "கடை எண், 3, பரத் நகர், மீனாட்சி அம்மன் நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Meenakshi Amman Nagar",
+            "ta": "மீனாட்சி அம்மன் நகர்"
+        },
+        "phone": "99655 90633"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "Metropolis Labs | Blood Test & Diagnostic Centre in Tuticorin",
+            "ta": "பெருநகர ஆய்வகங்கள் | தூத்துக்குடியில் உள்ள இரத்த டெஸ்ட்ரீட் & டயக்னோஸ்ட்ரீடிக் மையம்"
+        },
+        "type": {
+            "en": "Diagnostic center",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "85, APK Main Road, Solaialagu Puram, Villapuram, Madurai, Tamil Nadu 628215",
+            "ta": "85, ஏபிகே மெயின் ரோடு, சோலைஅழகு புரம், வில்லாபுரம், மதுரை, தமிழ்நாடு 628215"
+        },
+        "area": {
+            "en": "Solaialagu Puram",
+            "ta": "சோலைஅழகு புரம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "Agilus Diagnostics ",
+            "ta": "Agilus Diagnostics - அண்ணாநகர், மதுரை"
+        },
+        "type": {
+            "en": "Diagnostic center",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "A2/2, Vimi Complex, Anna Nagar Main Road, Madurai, Tamil Nadu 625020",
+            "ta": "ஏ2/2, விமி காம்ப்ளக்ஸ், அண்ணாநகர் மெயின் ரோடு, மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "452 436 8644"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "Shree Vishnu Clinical LAB",
+            "ta": "ஸ்ரீ விஷ்ணு கிளினிக்கல் லேப்"
+        },
+        "type": {
+            "en": "Laboratory",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Valluvar North Street, Jaihindpuram, Madurai, Tamil Nadu 625011",
+            "ta": "வள்ளுவர் வடக்கு தெரு, ஜெய்ஹிந்த்புரம், மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "00 4813 4907"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "Anderson Diagnostic Services Pvt Ltd",
+            "ta": "ஆண்டர்சன் டயக்னோஸ்ட்ரீடிக் சர்வீசஸ் பிரைவேட் லிமிடெட்"
+        },
+        "type": {
+            "en": "Diagnostic center",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "72A, East 4th Street, nearby Sundaram Park, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "72A, கிழக்கு 4வது தெரு, அருகில் சுந்தரம் பார்க், KK நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "K.K.NAGAR ",
+            "ta": "கே.கே.நகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "Metropolis Labs ",
+            "ta": "பெருநகர ஆய்வகங்கள் "
+        },
+        "type": {
+            "en": "Laboratory",
+            "ta": "ஆய்வகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "3rd Cross Street, Madurai, Tamil Nadu 625020",
+            "ta": "3வது குறுக்குத் தெரு, மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Kamarajar Salai",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": "0044 4813 4907"
+    }
+    
+]

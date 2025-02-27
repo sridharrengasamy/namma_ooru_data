@@ -1,0 +1,2810 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "T. Murthy 2 Wheeler Mechanic",
+            "ta": "T. மூர்த்தி 2 வீலர் மெக்கானிக்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "GST MAIN ROAD, NEAR VENKATESWARA ITI DHANAGANKULAM",
+            "ta": "ஜிஎஸ்டி மெயின் ரோடு, வெங்கடேஸ்வரா ஐடிஐ அருகில் தனகன்குளம்"
+        },
+        "area": {
+            "en": "Thanakankulam",
+            "ta": "தனகன்குளம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "Ilmati Motors",
+            "ta": "இளமதி மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "GST MAIN ROAD, Opp Venkateswara ITI, Thanakankulam",
+            "ta": "GST மெயின் ரோடு, வெங்கடேஸ்வரா ITI எதிரில் தனகன்குளம்"
+        },
+        "area": {
+            "en": "Thanakankulam",
+            "ta": "தனகன்குளம்"
+        },
+        "phone": "9942514007"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "Shree Shiva Motors",
+            "ta": "ஸ்ரீ சிவா மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Opposite GST Main Road, Mullai Nagar Bus Stop",
+            "ta": "ஜிஎஸ்டி மெயின் ரோடு, முல்லை நகர் பஸ் ஸ்டாப் எதிரில்"
+        },
+        "area": {
+            "en": "Thanakankulam",
+            "ta": "தனகன்குளம்"
+        },
+        "phone": "9843710496"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Dimple Two Wheeler Works",
+            "ta": "டிம்பிள் டூ வீலர் ஒர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Opposite GST Main Road, Mullai Nagar Bus Stop",
+            "ta": "ஜிஎஸ்டி மெயின் ரோடு, முல்லை நகர் பஸ் ஸ்டாப் எதிரில்"
+        },
+        "area": {
+            "en": "Thanakankulam",
+            "ta": "தனகன்குளம்"
+        },
+        "phone": "9843185969"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "Shree Charathi 2 Wheeler Sales & Service",
+            "ta": "ஸ்ரீ சாரதி 2 வீலர் சேல்ஸ் & சர்வீஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "GST Main Road, Seethalakshmi Mill Nagar Bus Stop",
+            "ta": "ஜிஎஸ்டி மெயின் ரோடு, சீதலக்ஷ்மி மில் நகர் பஸ் ஸ்டாப்"
+        },
+        "area": {
+            "en": "Thirunagar",
+            "ta": "திருநகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "Alvin Motors - Hero MotoCorp Sales & Service",
+            "ta": "ஆல்வின் மோட்டார்ஸ் - ஹீரோ மோட்டோகார்ப் சேல்ஸ் & சர்வீஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "GST Main Road, Opposite Seethalakshmi Mill Nagar Bus Stop",
+            "ta": "ஜிஎஸ்டி மெயின் ரோடு, சீதலக்ஷ்மி மில் நகர் பஸ் ஸ்டாப் எதிரில்"
+        },
+        "area": {
+            "en": "Thirunagar",
+            "ta": "திருநகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Sri Two Wheeler Orcs",
+            "ta": "ஸ்ரீ டூ வீலர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Near GST Main Road, Indian Bank Road Thirunagar 3rd Stop",
+            "ta": "GST மெயின் ரோடு, இந்தியன் பாங்க் ரோடு திருநகர் 3 வது நிறுத்தம் அருகில்"
+        },
+        "area": {
+            "en": "Thirunagar",
+            "ta": "திருநகர்"
+        },
+        "phone": "8124441364"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Sri Vinayaka Auto Mobile",
+            "ta": "ஸ்ரீ விநாயகா ஆட்டோ மொபைல்"
+        },
+        "type": {
+            "en":"",
+            "ta": "அசோக் லேலண்ட் தோஷ்த் மெக்கானிக்  "
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "GST MAIN ROAD, DHANAGANKULAM",
+            "ta": "ஜிஎஸ்டி மெயின் ரோடு, தனகன்குளம்"
+        },
+        "area": {
+            "en": "Thanakankulam",
+            "ta": "தனகன்குளம்"
+        },
+        "phone": "7418625763 & 8807810690"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Sri Rajeshwari Two Wheeler Works",
+            "ta": "ஸ்ரீ ராஜேஸ்வரி டூவீலர் ஒர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "11, Dindigul Main Road",
+            "ta": "11, திண்டுக்கல் மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Fatima College",
+            "ta": "பாத்திமா கல்லூரி"
+        },
+        "phone": "063818 66450"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "Three Ganges Motors",
+            "ta": "த்ரீ கங்கை மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "2/39, K.Salai Budoor, Dattaneri Main Road",
+            "ta": "2/39, கே.சாலை புதூர், தத்தனேரி மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Dattaneri Main Road",
+            "ta": "தத்தனேரி மெயின் ரோடு"
+        },
+        "phone": "094439 18420"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "JB Motors",
+            "ta": "JB மோட்டார்கள்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "L-2-368, Main Road, TNHB Colony, Goodal Nagar-625018",
+            "ta": "L-2-368, பிரதான சாலை, TNHB காலனி, கூடல் நகர்-625018"
+        },
+        "area": {
+            "en": "Goodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "070920 84164"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "KM Two Wheeler Works",
+            "ta": "KM டூ வீலர் ஒர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "105, DD MAIN ROAD, KUMKAMATTU COLONY, ARAPALAYAM, GNANAVOLIVUPURAM, MADURAI, TAMIL NADU 625016",
+            "ta": "105, டிடி மெயின் ரோடு, மஞ்சள்மட்டு காலனி, ஆரப்பாளையம், ஞானவொளிவுபுரம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Arapalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "098943 90791"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "RR Two Wheeler Orcs",
+            "ta": "RR டூ வீலர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "195-A, Vakil Pudu Street, Arajar Road, Simmakkal-625001",
+            "ta": "195-A, வக்கில் புது தெரு, அரஜர் சாலை, சிம்மக்கல்-625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "099948 73748"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "Furious Motors Service & Repair",
+            "ta": "புயுரியஸ் மோட்டார்ஸ் சர்வீஸ் & ரிப்பர்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Venkatasalapuram 2nd Street, Jaihindpuram, Main Road",
+            "ta": "வெங்கடாசலபுரம் 2வது தெரு, ஜெய்ஹிந்த்புரம், பிரதான சாலை"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "087548 59444"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "New Asian Motors",
+            "ta": "புதிய ஆசிய மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "9, Sri Valampuri Vinayagar Garden, 2, 70 Feet Road, Opp. Bhumi Apartment, Ellis Nagar-625010",
+            "ta": "9, ஸ்ரீ வலம்புரி விநாயகர் கார்டன், 2, 70 அடி சாலை, எதிரில். பூமி அபார்ட்மெண்ட், எல்லிஸ் நகர்-625010"
+        },
+        "area": {
+            "en": "Ellis Nagar",
+            "ta": "எல்லிஸ் நகர்"
+        },
+        "phone": "090039 11790"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "Optional Murugan Two Wheeler Orcs",
+            "ta": "விருப்பம்ரீ முருகன் டூ வீலர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Bus Stand, Kannanendal, 2/683, MMS Colony Main Road, Iyer Bangla-625014",
+            "ta": "பேருந்து நிறுத்தம், கண்ணனேந்தல், 2/683, எம்எம்எஸ் காலனி மெயின் ரோடு, ஐயர் பங்களா-625014"
+        },
+        "area": {
+            "en": "Iyer Bungalow",
+            "ta": "ஐயர் பங்களா"
+        },
+        "phone": "096297 02740"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "KK Motors Workshop",
+            "ta": "KK மோட்டார்ஸ் வொர்க்ஷாப்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "NATHAM ROAD, TAGORE NAGAR, TWAD COLONY, TIRUPALAY-625007",
+            "ta": "நத்தம் சாலை, தாகூர் நகர், TWAD காலனி, திருப்பாலை-625007"
+        },
+        "area": {
+            "en": "turning point",
+            "ta": "திருப்பாலை"
+        },
+        "phone": "099528 18384"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "SM is a two-wheeler",
+            "ta": "SM இரு சக்கர வாகனம்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "No:24, Upper Ponnakaram Main Road, Near Madurai, Corporation Colony, West Ponnakaram, Arapalayam, Roundabout-625016",
+            "ta": "எண்:24, ​​மேல பொன்னகரம் பிரதான சாலை, மதுரைக்கு அருகில், கார்ப்பரேஷன் காலனி, மேற்கு பொன்னகரம், ஆரப்பாளையம், ரவுண்டானா-625016"
+        },
+        "area": {
+            "en": "Arapalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "090033 37587"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Wheelsby",
+            "ta": "வீல்ஸ்பை"
+        },
+        "type": {
+            "en":"",
+            "ta": "பழைய 2 வீலர் விற்பனை"
+        },
+        "detail": {
+            "en":"",
+            "ta": "ஆன்லைன் பிளாட்பார்ம் -பழைய 2 வீலர் விற்பனை"
+        },
+        "location": {
+            "en": "39 G, SOUTH MARAT, NEAR CRIME DIVISION, PERIYAR-625001",
+            "ta": "39 ஜி, தெற்கு மாரட், அருகில் குற்றப்பிரிவு, பெரியார்-625001"
+        },
+        "area": {
+            "en": "Crime France",
+            "ta": "கிரைம் பிரான்ச்"
+        },
+        "phone": "080159 60500"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "Star Motors",
+            "ta": "ஸ்டார் மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "3 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Opposite Madhi Theatre.",
+            "ta": "மதி தியேட்டர் எதிரில்."
+        },
+        "area": {
+            "en": "Arapalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "9698967427"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "MM Eco Motors",
+            "ta": "எம்எம் ஏகோ மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "இ - மோட்டார் சைக்கிள் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "SR PLAZA, GROUND FLOOR OLD NO. 256J/3, new no. 340, Bethaniapuram, Bypass Road, Near Thangam Grand Hotel",
+            "ta": "எஸ்ஆர் பிளாசா, தரை தளம் பழைய எண். 256J/3, புதிய எண். 340, பெத்தானியாபுரம், பைபாஸ் ரோடு, தங்கம் கிராண்ட் ஹோட்டலுக்கு அருகில்"
+        },
+        "area": {
+            "en": "Kalavasal",
+            "ta": "காளவாசல்"
+        },
+        "phone": "091500 47451"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "GP.Jagan Motors",
+            "ta": "GP.ஜெகன் மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "2/813, Anumarpatti, Angel Nagar, Vandiyur, - 625020",
+            "ta": "2/813, அனுமார்பட்டி, ஏஞ்சல் நகர், வண்டியூர், - 625020"
+        },
+        "area": {
+            "en": "Vandiyur",
+            "ta": "வண்டியூர்"
+        },
+        "phone": "6381495407 & 8680844245"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "Alagendran Autos",
+            "ta": "அழகேந்திரன் ஆட்டோஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார் சைக்கிள் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta": "யமஹா மோட்டார் ஷோரூம்"
+        },
+        "location": {
+            "en": "112, Melakkal Road, Opposite Heritage Hotel, Near Passport Office",
+            "ta": "112, மேலக்கல் சாலை, ஹெரிடேஜ் ஹோட்டலுக்கு எதிரே, பாஸ்போர்ட் அலுவலகம் அருகில்"
+        },
+        "area": {
+            "en": "Kochadai",
+            "ta": "கோச்சடை"
+        },
+        "phone": "098432 87152"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "B Hour 2 Wheeler Tinker",
+            "ta": "பி மணி 2 வீலர் டிங்கர்"
+        },
+        "type": {
+            "en":"",
+            "ta":""
+        },
+        "detail": {
+            "en":"",
+            "ta": "2 வீலர் டிங்கர் மற்றும் முச்சக்கர வீலர் பொருத்தும் படைப்புகள்"
+        },
+        "location": {
+            "en": "9-A, BEHIND SRI NAVANITHI KRISHNAN TEMPLE, GOKALE ROAD, KAMARAJNAGAR, CHINA CHOKIKKULAM-625002",
+            "ta": "9-A, ஸ்ரீ நவநிதி கிருஷ்ணன் கோவில் பின்புறம், கோகலே சாலை, காமராஜ்நகர், சின்ன சோக்கிகுளம்-625002"
+        },
+        "area": {
+            "en": "Small Chokkilam",
+            "ta": "சின்ன சோக்கிகுளம்"
+        },
+        "phone": "9442406001"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "Amshiny 2 Wheeler Orcs",
+            "ta": "அம்ஷினி 2 வீலர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta": "2 வீலர் ஒர்க்ஸ் மற்றும் வாட்டர் சர்வீஸ் சென்டர்"
+        },
+        "location": {
+            "en": "28, New Ramanathapuram Road, Kamarajar Road, - 625009",
+            "ta": "28, புதிய ராமநாதபுரம் சாலை, காமராஜர் சாலை, - 625009"
+        },
+        "area": {
+            "en": "Kamarajar Road",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": "098653 06195"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "Balamuruga Motors",
+            "ta": "பாலமுருகா மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார் சைக்கிள் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta": "பஜாஜ் ஆட்டோ"
+        },
+        "location": {
+            "en": "Madurai, KK Nagar",
+            "ta": "மதுரை, கே.கே.நகர்"
+        },
+        "area": {
+            "en": "KK Nagar",
+            "ta": "KK நகர்"
+        },
+        "phone": "098428 80001"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "RMK Motors Gaura Electric Scooter Showroom",
+            "ta": "RMK மோட்டார்ஸ் கௌரா எலக்ட்ரிக் ஸ்கூட்டர் ஷோரூம்"
+        },
+        "type": {
+            "en":"",
+            "ta": "மின்சார மோட்டார் கடை"
+        },
+        "detail": {
+            "en":"",
+            "ta": "67C, திருப்பரங்குன்றம் சாலை, பழங்கந்தம்- 625003"
+        },
+        "location": {
+            "en": "67C, Tiruparangunram Road",
+            "ta": "67சி, திருப்பரங்குன்றம் ரோடு"
+        },
+        "area": {
+            "en": "ancient",
+            "ta": "பழங்கந்தம்"
+        },
+        "phone": "078679 86355"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "GV Bike Rentals",
+            "ta": "ஜிவி பைக் வாடகைகள்"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார்சைக்கிள் வாடகை ஏஜென்ஸி"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "S. Alankulam 2nd Stop Kulamangalam, Main Road-625017",
+            "ta": "எஸ்.ஆலங்குளம் 2வது நிறுத்தம் குலமங்கலம், பிரதான சாலை-625017"
+        },
+        "area": {
+            "en": "Kulamangalam",
+            "ta": "குலமங்களம்"
+        },
+        "phone": "076676 68306"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "Srigangai Motors",
+            "ta": "ஸ்ரீகங்கை மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "2/39, K.Salai Budoor, Dattaneri Main Road",
+            "ta": "2/39, கே.சாலை புதூர், தத்தனேரி மெயின் ரோடு"
+        },
+        "area": {
+            "en": "ray of light",
+            "ta": "தீக்கதிர்"
+        },
+        "phone": "094439 18420"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "JP Motors",
+            "ta": "ஜேபி மோட்டார்கள்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "318, Mettu Street, Nagu Nagar, Guru Theater - 625016",
+            "ta": "318, மேட்டு தெரு, நாகு நகர்,குரு தியேட்டர் - 625016"
+        },
+        "area": {
+            "en": "Guru Theatre",
+            "ta": "குரு தியேட்டர்"
+        },
+        "phone": "070920 84164"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "KM Two Wheeler Orcs",
+            "ta": "KM டூ வீலர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "105, DD MAIN ROAD, KUMKAMATTU COLONY, ARAPALAYAM, JANAVOLIVUPURAM-625016",
+            "ta": "105, டிடி மெயின் ரோடு, மஞ்சள்மட்டு காலனி, ஆரப்பாளையம், ஞானவொளிவுபுரம்-625016"
+        },
+        "area": {
+            "en": "Arapalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "098943 90791"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "R. R. Two Wheeler Works",
+            "ta": "ஆர். ஆர். டூ வீலர் ஒர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "195-A, Vakil New Street, Simmakkal",
+            "ta": "195-A, வக்கில் நியூ தெரு, சிம்மக்கல்"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "099948 73748"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "SM Two Wheeler Workshop",
+            "ta": "எஸ்எம் இரு சக்கர வாகனப் பட்டறை"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Near Bus Stand, No-9 Vaigai Tenkarai Road, Arapalayam",
+            "ta": "பேருந்து நிலையம், எண்-9 வைகை தென்கரை, சாலை, ஆரப்பாளையம் அருகில்"
+        },
+        "area": {
+            "en": "Arapalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "Frius Motors Service & Repair",
+            "ta": "ஃபிரியஸ் மோட்டார்ஸ் சர்வீஸ் & ரிப்பர்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Venkatasalapuram 2nd Street, Jaihindpuram, Main Road",
+            "ta": "வெங்கடாசலபுரம் 2வது தெரு, ஜெய்ஹிந்த்புரம், பிரதான சாலை"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "087548 59444"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "New Asia Motors",
+            "ta": "நியு ஆசிய மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "9, Sri Valampuri Vinayagar Garden, 2, 70 Feet Road, Opp. Bhumi Apartment, Ellis Nagar -625010",
+            "ta": "9, ஸ்ரீ வலம்புரி விநாயகர் கார்டன், 2, 70 அடி சாலை, எதிரில்.பூமி அபார்ட்மெண்டு, எல்லிஸ் நகர் -625010"
+        },
+        "area": {
+            "en": "Ellis Nagar",
+            "ta": "எல்லிஸ் நகர்"
+        },
+        "phone": "090039 11790"
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "Directed by Murugan Two Wheeler Orcs",
+            "ta": "இயக்கி முருகன் டூ வீலர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Bus Stand, Kannanendal, 2/683, MMS Colony Main Road",
+            "ta": "பேருந்து நிறுத்தம், கண்ணனேந்தல், 2/683, MMS காலனி பிரதான சாலை"
+        },
+        "area": {
+            "en": "MMS Colony",
+            "ta": "எம்எம்எஸ் காலனி"
+        },
+        "phone": "096297 02740"
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "SM is a two-wheeler",
+            "ta": "எஸ் எம் இரு சக்கர வாகனம்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "No:24, Mela Ponnakaram Main Road, Near Madurai",
+            "ta": "எண்:24, ​​மேல பொன்னகரம் மெயின் ரோடு, மதுரை அருகில்"
+        },
+        "area": {
+            "en": "Ponnakaram",
+            "ta": "பொன்னகரம்"
+        },
+        "phone": "090033 37587"
+    },
+    {
+        "id": 38,
+        "name": {
+            "en": "IBM Motors",
+            "ta": "ஐபிஎம் மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Nadar Vidyasalai Street, South Gateway, Periyar-625001",
+            "ta": "நாடார் வித்யாசாலை தெரு, தெற்கு வாசல், பெரியார்-625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 39,
+        "name": {
+            "en": "AR Rahman Workshop & Bike Consulting Services",
+            "ta": "AR ரஹ்மான் ஓர்க்ஷாப் & பைக் கன்சல்டிங் சர்வீசஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "1, Pilliyar Temple Street, Opp. Old Thanamani School, Koripalayam-625002",
+            "ta": "1, பிள்ளையார் கோவில் தெரு, எதிரில். பழைய தனமணி பள்ளி, கோரிப்பாளையம்-625002"
+        },
+        "area": {
+            "en": "Koripalayam",
+            "ta": "கோரிப்பாளையம்"
+        },
+        "phone": "9360289365 & 9080817255"
+    },
+    {
+        "id": 40,
+        "name": {
+            "en": "myTVS Madurai",
+            "ta": "myTVS மதுரை"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "22D, 1, Samayanallur Main Road, Opposite Fatima College",
+            "ta": "22டி, 1, சமயநல்லூர் மெயின் ரோடு, பாத்திமா கல்லூரி எதிரில்"
+        },
+        "area": {
+            "en": "Fatima College",
+            "ta": "பாத்திமா கல்லூரி"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 41,
+        "name": {
+            "en": "K Motors Workshop",
+            "ta": "க் மோட்டார்ஸ் வொர்க்ஷாப்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Natham Road",
+            "ta": "நத்தம் சாலை"
+        },
+        "area": {
+            "en": "#VALUE!",
+            "ta":""
+        },
+        "phone": "099528 18384"
+    },
+    {
+        "id": 42,
+        "name": {
+            "en": "WheelsFi",
+            "ta": "வீல்ஸ்ஃபை"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "39 G, S Marret St, Near Crime Branch",
+            "ta": "39 G, S Marret St, குற்றப் பிரிவுக்கு அருகில்"
+        },
+        "area": {
+            "en": "Crime France",
+            "ta": "கிரைம் பிரான்ச்"
+        },
+        "phone": "080159 60500"
+    },
+    {
+        "id": 43,
+        "name": {
+            "en": "Revolution Center Madurai",
+            "ta": "புரட்சி மையம் மதுரை"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "SR PLAZA, GROUND FLOOR OLD NO. 256J/3, new no. 340, Bethaniapuram, Bypass Road, Near Thangam Grand Hotel",
+            "ta": "எஸ்ஆர் பிளாசா, தரை தளம் பழைய எண். 256J/3, புதிய எண். 340, பெத்தானியாபுரம், பைபாஸ் ரோடு, தங்கம் கிராண்ட் ஹோட்டலுக்கு அருகில்"
+        },
+        "area": {
+            "en": "Army \\",
+            "ta": "காளவசல் \\"
+        },
+        "phone": "091500 47451"
+    },
+    {
+        "id": 44,
+        "name": {
+            "en": "GP Jagan Motors",
+            "ta": "ஜி.பி.ஜெகன் மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "2/813, Anumarpatti, Angel Nagar, Vandiyur-625020",
+            "ta": "2/813, அனுமார்பட்டி, ஏஞ்சல் நகர், வண்டியூர்-625020"
+        },
+        "area": {
+            "en": "Vandiyur-",
+            "ta": "வண்டியூர்-"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 45,
+        "name": {
+            "en": "Yamaha Motor Showroom - Alagendran Autos",
+            "ta": "யமஹா மோட்டார் ஷோரூம் - அழகேந்திரன் ஆட்டோஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "112, Melakkal Road, Opposite Heritage Hotel, Near Passport Office",
+            "ta": "112, மேலக்கல் சாலை, ஹெரிடேஜ் ஹோட்டலுக்கு எதிரே, பாஸ்போர்ட் அலுவலகம் அருகில்"
+        },
+        "area": {
+            "en": "Kochadai",
+            "ta": "கொச்சடை"
+        },
+        "phone": "098432 87152"
+    },
+    {
+        "id": 46,
+        "name": {
+            "en": "Alagendran Autos Service (Kochadai)",
+            "ta": "அழகேந்திரன் ஆட்டோஸ் சர்வீஸ் (கோச்சடை)"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "173C, Natraj Nagar Main Street",
+            "ta": "173C, நட்ராஜ் நகர் மெயின் தெரு"
+        },
+        "area": {
+            "en": "#VALUE!",
+            "ta":""
+        },
+        "phone": "098432 87152"
+    },
+    {
+        "id": 47,
+        "name": {
+            "en": "Alagendran Autos - Authorized Yamaha Dealer",
+            "ta": "அழகேந்திரன் ஆட்டோஸ் - அங்கீகரிக்கப்பட்ட யமஹா டீலர்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "4, Vignesh Avenue, Arapalayam Cross Road",
+            "ta": "4, விக்னேஷ் அவென்யூ, ஆரப்பாளையம் கிராஸ் ரோடு"
+        },
+        "area": {
+            "en": "Arapalayam Cross",
+            "ta": "ஆரப்பாளையம் கிராஸ்"
+        },
+        "phone": "098432 87160"
+    },
+    {
+        "id": 48,
+        "name": {
+            "en": "Amshini Two Wheeler Works and Water Service Centre",
+            "ta": "அம்ஷினி டூ வீலர் ஒர்க்ஸ் அண்ட் வாட்டர் சர்வீஸ் சென்டர்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "28, New Ramanathapuram Road, Kamarajar Road, - 625009",
+            "ta": "28, புதிய ராமநாதபுரம் சாலை, காமராஜர் சாலை, - 625009"
+        },
+        "area": {
+            "en": "Kamarajar Road",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": "098653 06195"
+    },
+    {
+        "id": 49,
+        "name": {
+            "en": "Balamuruga Motors, Madurai, KK Nagar)",
+            "ta": "பாலமுருகா மோட்டார்ஸ், மதுரை, கே.கே.நகர்)"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta": "பஜாஜ் ஆட்டோ"
+        },
+        "location": {
+            "en": "No. 190, 80 Feet Road, Near Apollo Hospital",
+            "ta": "எண். 190, 80 அடி சாலை, அப்பல்லோ மருத்துவமனை அருகில்"
+        },
+        "area": {
+            "en": "Apollo Hospital",
+            "ta": "அப்பல்லோ மருத்துவமனை"
+        },
+        "phone": "098428 80001"
+    },
+    {
+        "id": 50,
+        "name": {
+            "en": "Elsadai tire point",
+            "ta": "எல்சடை டயர் பாய்ண்ட்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "2, Dattaneri Main Road, Thikkadir, K Road, Madurai, Tamil Nadu 625018",
+            "ta": "2, தத்தனேரி மெயின் ரோடு, திக்கதிர், கே சாலை, மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Tikkadir",
+            "ta": "திக்கதிர்"
+        },
+        "phone": "091593 73583"
+    },
+    {
+        "id": 51,
+        "name": {
+            "en": "RMK Motors Gaura Electric Scooter Showroom",
+            "ta": "RMK மோட்டார்ஸ் கவுரா எலக்ட்ரிக் ஸ்கூட்டர் ஷோரூம்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "67C, Tiruparangunram Road, Palanganatham- 625003",
+            "ta": "67C, திருப்பரங்குன்றம் சாலை, பழங்காநத்தம்- 625003"
+        },
+        "area": {
+            "en": "Antiquity",
+            "ta": "பழங்காநத்தம்"
+        },
+        "phone": "078679 86355"
+    },
+    {
+        "id": 52,
+        "name": {
+            "en": "Sami Automobiles (Bash Car Service)",
+            "ta": "சாமி ஆட்டோமொபைல்ஸ் (பாஷ் கார் சேவை)"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Thiruparangunram Road, Agrini, Andalpuram, - 625011",
+            "ta": "திருப்பரங்குன்றம் சாலை, அக்ரினி, ஆண்டாள்புரம், - 625011"
+        },
+        "area": {
+            "en": "Andalpuram",
+            "ta": "ஆண்டாள்புரம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 53,
+        "name": {
+            "en": "New PSA Motors",
+            "ta": "புதிய PSA மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Palam Station Road, Sellur- 625002",
+            "ta": "பாலம் ஸ்டேஷன் ரோடு, செல்லூர்- 625002"
+        },
+        "area": {
+            "en": "Sellur",
+            "ta": "செல்லூர்"
+        },
+        "phone": "099421 65135"
+    },
+    {
+        "id": 54,
+        "name": {
+            "en": "R.K. Bajaj",
+            "ta": "ஆர்.கே. பஜாஜ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "66, Bypass Road, Bypass Road, Opposite World of Titan",
+            "ta": "66, பை பாஸ் சாலை, பை பாஸ் சாலை, வேர்ல்ட் ஆஃப் டைட்டனுக்கு எதிரே"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "094422 46881"
+    },
+    {
+        "id": 55,
+        "name": {
+            "en": "2 Yamaha Showroom Madurai Guna Motors - Narayanapuram",
+            "ta": "2 யமஹா ஷோரூம் மதுரை குணா மோட்டார்ஸ் - நாராயணபுரம்"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார் ஸ்கூட்டர் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Athikulam, Flat No. 5, Nutham - Madurai Road, Opposite Indian Oil Petrol Station",
+            "ta": "ஆத்திகுளம், பிளாட் எண் 5, நத்தம் - மதுரை ரோடு, இந்தியன் ஆயில் பெட்ரோல் பங்க் எதிரில்"
+        },
+        "area": {
+            "en": "Attikulam",
+            "ta": "ஆத்திகுளம்"
+        },
+        "phone": "075300 98386"
+    },
+    {
+        "id": 56,
+        "name": {
+            "en": "7 star tire vulcanizing jobs",
+            "ta": "7 நட்சத்திர டயர் வால்கனைசிங் வேலைகள்"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார்சைக்கிள் கடை"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "2 Vaidyanathapuram on Konnavayan saga",
+            "ta": "2 கொன்னவாயன் சாகை மேல வைத்தியநாதபுரம்"
+        },
+        "area": {
+            "en": "Vaidyanathapuram",
+            "ta": "வைத்தியநாதபுரம்"
+        },
+        "phone": "095970 35351"
+    },
+    {
+        "id": 57,
+        "name": {
+            "en": "J bike ride",
+            "ta": "ஜே பைக் சவாரி"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார்சைக்கிள் வாடகை ஏஜென்ஸி"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "No 1/2 New Kuyavarpalayam, Line, New Magali Patti Road, Near Kalaimalam Shop-625001",
+            "ta": "எண் 1/2 புதிய குயவர்பாளையம், லைன், புதிய மாகாளி பட்டி சாலை, கலைமகள் கடைக்கு அருகில்-625001"
+        },
+        "area": {
+            "en": "Magali Patti Road",
+            "ta": "மாகாளி பட்டி சாலை"
+        },
+        "phone": "080723 68686"
+    },
+    {
+        "id": 58,
+        "name": {
+            "en": "RRS Two Wheeler Consultancy",
+            "ta": "RRS டூ வீலர் ஆலோசனை"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார் ஸ்கூட்டர் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "8G/2, NRV Complex, Bypass Road",
+            "ta": "8G/2, NRV வளாகம், பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "099943 63604"
+    },
+    {
+        "id": 59,
+        "name": {
+            "en": "Sk.Motors Service Center Madurai",
+            "ta": "Sk.மோட்டார்ஸ் சர்வீஸ் சென்டர் மதுரை"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Yagappa Nagar Main Road, Yagappa Nagar, Autostand- 625020",
+            "ta": "யாகப்பா நகர் பிரதான சாலை, யாகப்பா நகர், ஆட்டோஸ்டாண்ட்- 625020"
+        },
+        "area": {
+            "en": "Yagappa Nagar",
+            "ta": "யாகப்பா நகர்"
+        },
+        "phone": "098437 77729"
+    },
+    {
+        "id": 60,
+        "name": {
+            "en": "Atvmotors",
+            "ta": "அத்வ்மோடோர்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "பயன்படுத்திய மோட்டார் சைக்கிள் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Income Tax Office Residence, 13-3/2, Kulamangalam Main Road Opposite Income Tax Staff Residence",
+            "ta": "வருமான வரி அலுவலக குடியிருப்பு, 13-3/2, குலமங்கலம் மெயின் ரோடு எதிரில், வருமான வரித்துறை ஊழியர் குடியிருப்புக்கு எதிரே"
+        },
+        "area": {
+            "en": "Income Tax Quarters",
+            "ta": "இன்கம் டாக்ஸ் குவாட்டர்ஸ்"
+        },
+        "phone": "090422 30100"
+    },
+    {
+        "id": 61,
+        "name": {
+            "en": "Abhinaya Motors",
+            "ta": "அபிநயா மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "110, Bypass Road, Near Thangam Grand",
+            "ta": "110, பைபாஸ் ரோடு, தங்கம் கிராண்ட் அருகில்"
+        },
+        "area": {
+            "en": "Kalavasal",
+            "ta": "காளவாசல்"
+        },
+        "phone": "098421 86515"
+    },
+    {
+        "id": 62,
+        "name": {
+            "en": "King Motorcycle Company",
+            "ta": "அரசன் மோட்டார் சைக்கிள் கம்பனி"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார்சைக்கிள் பாகங்கள் விற்குமிடம்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "2/21, Workshop Road",
+            "ta": "2/21, வொர்க் ஷாப் ரோடு"
+        },
+        "area": {
+            "en": "Workshop Road",
+            "ta": "வொர்க் ஷாப் ரோடு"
+        },
+        "phone": "0452 424 6691"
+    },
+    {
+        "id": 63,
+        "name": {
+            "en": "Alagendran Auto Agencies Pvt Lada, Unit K",
+            "ta": "அழகேந்திரன் ஆட்டோ ஏஜன்சிஸ் ப்வ்ட் லட, யூனிட் கே"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார்சைக்கிள் பாகங்கள் விற்குமிடம்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "16 Tiruparangunram, Main Road, - 625003·",
+            "ta": "16 திருப்பரங்குன்றம், பிரதான சாலை, - 625003·"
+        },
+        "area": {
+            "en": "Palanganatha",
+            "ta": "பழங்கநத்தம்"
+        },
+        "phone": "9843287139 & 04524352585"
+    },
+    {
+        "id": 64,
+        "name": {
+            "en": "Alagendran Two Wheeler Orcs",
+            "ta": "அழகேந்திரன் டூ வீலர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Viswanathapuram-625014",
+            "ta": "விஸ்வநாதபுரம்-625014"
+        },
+        "area": {
+            "en": "Viswanathapuram",
+            "ta": "விஸ்வநாதபுரம்"
+        },
+        "phone": "099940 23023"
+    },
+    {
+        "id": 65,
+        "name": {
+            "en": "Arudra Yamaha Bike Showroom",
+            "ta": "ஆருத்ரா யமஹா பைக் ஷோரூம்"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார் சைக்கிள் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "11A, Ambika Theater Complex, 80 Feet Road, Anna Nagar- 625020",
+            "ta": "11A, அம்பிகா தியேட்டர் வளாகம், 80 அடி சாலை, அண்ணா நகர்- 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "099449 73399"
+    },
+    {
+        "id": 66,
+        "name": {
+            "en": "R. Kannan Two Wheeler Tinker Works",
+            "ta": "ஆர் .கண்ணன் டூ வீலர் டிங்கர் ஒர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "No.2, Tallakulam Near Perumal Temple, Street",
+            "ta": "எண்.2, தல்லாகுளம் பெருமாள் கோவில் அருகில், தெரு"
+        },
+        "area": {
+            "en": "Tallakulam",
+            "ta": "தல்லாகுளம்"
+        },
+        "phone": "0452 425 5479"
+    },
+    {
+        "id": 67,
+        "name": {
+            "en": "F1 Moto Club Royal Enfield Accessories Wholesale",
+            "ta": "எஃப்1 மோட்டோ கிளப் ராயல் என்பீல்ட் அக்சஸ்ஸரிஸ் ஹோல்செல்"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார்சைக்கிள் பாகங்கள் விற்குமிடம்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "220/4, South Outer Street, Periyar, Madurai Main-625001·",
+            "ta": "220/4, தெற்கு வெளி தெரு, பெரியார், மதுரை மெயின்-625001·"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "081444 47722"
+    },
+    {
+        "id": 68,
+        "name": {
+            "en": "Exide Battery Authorized Dealer",
+            "ta": "எக்சைடு பேட்டரி ஆதோரிசெட் டீலர்"
+        },
+        "type": {
+            "en":"",
+            "ta": "கார் பேட்டரி விற்குமிடம்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Raja Street, Bypass Road",
+            "ta": "ராஜா தெரு, பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "082207 88887"
+    },
+    {
+        "id": 69,
+        "name": {
+            "en": "MRT Two Wheeler Works",
+            "ta": "எம்ஆர்டி டூ வீலர் ஒர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Shop no. 15/2, 3, Work Shop Road",
+            "ta": "கடை எண். 15/2, 3, வோர்க் ஷாப் ரோடு"
+        },
+        "area": {
+            "en": "Orkshop",
+            "ta": "ஓர்க்ஷாப்"
+        },
+        "phone": "087785 03989"
+    },
+    {
+        "id": 70,
+        "name": {
+            "en": "S. R. Two Wheeler Works",
+            "ta": "எஸ். ஆர். டூ வீலர் ஒர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "482, 8th Street, Thirumalai Colony, Sammathipuram- 625016",
+            "ta": "482, 8வது தெரு, திருமலை காலனி, சம்மட்டிபுரம்- 625016"
+        },
+        "area": {
+            "en": "Sammatipuram",
+            "ta": "சம்மட்டிபுரம்"
+        },
+        "phone": "096269 01011"
+    },
+    {
+        "id": 71,
+        "name": {
+            "en": "SKR Bikes",
+            "ta": "எஸ்.கே.ஆர் பைக்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "பயன்படுத்திய மோட்டார் சைக்கிள் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "86B, South Masi Road",
+            "ta": "86 பி, தெற்கு மாசி வீதி"
+        },
+        "area": {
+            "en": "South Masi Road",
+            "ta": "தெற்கு மாசி வீதி"
+        },
+        "phone": "079042 09463"
+    },
+    {
+        "id": 72,
+        "name": {
+            "en": "AK Motors",
+            "ta": "ஏ கே மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார்சைக்கிள் கடை"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "294, DSV Complex, Bypass Road",
+            "ta": "294, DSV வளாகம், பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "098436 98993"
+    },
+    {
+        "id": 73,
+        "name": {
+            "en": "Aishwarya Motors",
+            "ta": "ஐஸ்வர்யா மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Goodal Nagar Main Road",
+            "ta": "கூடல் நகர் பிரதான சாலை"
+        },
+        "area": {
+            "en": "Goodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "099431 99457"
+    },
+    {
+        "id": 74,
+        "name": {
+            "en": "Om Shakti Motors",
+            "ta": "ஓம் சக்தி மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "பயன்படுத்திய மோட்டார் சைக்கிள் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Shop No.72, Munichalai Road, Munichalai, 18th & 19th Street",
+            "ta": "கடை எண்.72, முனிச்சலை சாலை, முனிச்சாலை, 18வது &19வது தெரு"
+        },
+        "area": {
+            "en": "Municipal hall",
+            "ta": "முனிச்சாலை"
+        },
+        "phone": "090431 45671"
+    },
+    {
+        "id": 75,
+        "name": {
+            "en": "Om Saravana Motors",
+            "ta": "ஓம் சரவண மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "2, 24, Workshop Road",
+            "ta": "2, 24, பணிமனை சாலை"
+        },
+        "area": {
+            "en": "Workshop Road",
+            "ta": "ஒர்க்ஷாப் ரோடு  "
+        },
+        "phone": "097873 95917"
+    },
+    {
+        "id": 76,
+        "name": {
+            "en": "Guru Motors",
+            "ta": "குரு மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "64, Alagar Kovil Main Road, K Putur",
+            "ta": "64, அழகர் கோவில் பிரதான சாலை, கே புதூர்"
+        },
+        "area": {
+            "en": "k bush",
+            "ta": "k புதூர்"
+        },
+        "phone": "0452 256 0322"
+    },
+    {
+        "id": 77,
+        "name": {
+            "en": "Southern Motors",
+            "ta": "சதர்ன் மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார் சைக்கிள் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "73A, Bypass Road, Bypass Road, Near Guru Theatre-625016",
+            "ta": "73A, பை பாஸ் சாலை, பை பாஸ் சாலை, குரு தியேட்டர் அருகில்-625016"
+        },
+        "area": {
+            "en": "Guru Theatre",
+            "ta": "குரு தியேட்டர்"
+        },
+        "phone": "093610 37847"
+    },
+    {
+        "id": 78,
+        "name": {
+            "en": "Saravanavel Two Wheeler Workshop",
+            "ta": "சரவணவேல் டூ வீலர் வொர்க்ஷாப்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "118, Theni Main Road, Nagamalai Pudukottai- 625021",
+            "ta": "118, தேனி மெயின் ரோடு, நாகமலை புதுக்கோட்டை- 625021"
+        },
+        "area": {
+            "en": "Nagamalai Pudukottai",
+            "ta": "நாகமலை புதுக்கோட்டை"
+        },
+        "phone": "097871 47497"
+    },
+    {
+        "id": 79,
+        "name": {
+            "en": "Charles Two Wheeler Repair Shop",
+            "ta": "சார்லஸ் இரண்டு வீலர் பழுதுபார்க்கும் கடை"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "8th Main Road Gomatiparam Sivagangai Main Road",
+            "ta": "8வது பிரதான சாலை கோமதிபரம் சிவகங்கை பிரதான சாலை"
+        },
+        "area": {
+            "en": "Gomatiparam",
+            "ta": "கோமதிபரம்"
+        },
+        "phone": "099942 35572"
+    },
+    {
+        "id": 80,
+        "name": {
+            "en": "Shiva Motors",
+            "ta": "சிவா மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "No12/A SMCOMPLEX, BYPASS ROAD-625003",
+            "ta": "No12/A SMCOMPLEX, பைபாஸ் சாலை-625003"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 81,
+        "name": {
+            "en": "Suzuki Motorcycle (Surabi Suzuki, Madurai, Kebutur)",
+            "ta": "சுசுகி மோட்டார் சைக்கிள் (சுரபி சுசுகி, மதுரை, கேபுதூர்)"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார் சைக்கிள் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "20, Alagar Kovil Main Road, Rama Varma Nagar, K. Putur-625007",
+            "ta": "20, அழகர் கோவில் பிரதான சாலை, ராமவர்மா நகர், கே.புதூர்-625007"
+        },
+        "area": {
+            "en": "K. Bush",
+            "ta": "கே . புதூர்"
+        },
+        "phone": "087548 33317"
+    },
+    {
+        "id": 82,
+        "name": {
+            "en": "Shekhar Two Wheeler Workshop",
+            "ta": "சேகர் இரு சக்கர வாகனப் பட்டறை"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "47, Tiruparangunram Road, Baikara-625004",
+            "ta": "47, திருப்பரங்குன்றம் சாலை, பைக்காரா-625004"
+        },
+        "area": {
+            "en": "Baikara",
+            "ta": "பைக்காரா"
+        },
+        "phone": "099420 33873"
+    },
+    {
+        "id": 83,
+        "name": {
+            "en": "Wisdom Auto Spurs",
+            "ta": "ஞானம் ஆட்டோ ஸ்பெர்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார் சைக்கிள் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "21, TP Road, Vikram Complex, Mahaboopalayam- 625010",
+            "ta": "21, டிபி சாலை, விக்ரம் வளாகம், மகபூபாளையம்- 625010"
+        },
+        "area": {
+            "en": "Makhabupalayam",
+            "ta": "மகபூபாளையம்"
+        },
+        "phone": "9944096992"
+    },
+    {
+        "id": 84,
+        "name": {
+            "en": "Shree Alaghar Automobiles",
+            "ta": "ஸ்ரீ அழகர் ஆட்டோமொபைல்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "வாகன உதிரி பாகங்கள் விற்குமிடம்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "1-B, APR COMPLEX, BYPASS MAIN ROAD, NEAR GURU THEATER BRIDGE, YUMKAMATTU COLONY, ARAPLAYAM- 625016",
+            "ta": "1-பி, ஏபிஆர் வளாகம், பைபாஸ் மெயின் ரோடு, குரு தியேட்டர் பாலம் அருகில், மஞ்சள்மட்டு காலனி, ஆரப்பாளையம்- 625016"
+        },
+        "area": {
+            "en": "Arapalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "0452 435 4950"
+    },
+    {
+        "id": 85,
+        "name": {
+            "en": "Nila E Bikes",
+            "ta": "நிலா இ பைக்குகள்"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார் சைக்கிள் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Bus Stand, 1, Alagammal Commercial Complex, Meenakshi Nagar, Villapuram-625012",
+            "ta": "பேருந்து நிறுத்தம், 1, அழகம்மாள் வாணிகவளகம், மீனாட்சி நகர், வில்லாபுரம்-625012"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "093617 50340"
+    },
+    {
+        "id": 86,
+        "name": {
+            "en": "Noor Two Wheeler Orcs",
+            "ta": "நூர் டூ வீலர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "2, K.K. NAGAR MAIN ROAD",
+            "ta": "2, கே.கே. நகர் மெயின் ரோடு"
+        },
+        "area": {
+            "en": "K K Nagar",
+            "ta": "கே கே நகர்"
+        },
+        "phone": "095664 78091"
+    },
+    {
+        "id": 87,
+        "name": {
+            "en": "Power two wheeler lathe orcs",
+            "ta": "பவர் டூ வீலர் லத்தே ஓர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "25-2/8, Panimanai Road, Near Devi Theatre",
+            "ta": "25-2/8, பணிமனை சாலை, தேவி தியேட்டர் அருகில்"
+        },
+        "area": {
+            "en": "Workshop Road",
+            "ta": "ஒர்க்ஷாப் ரோடு  "
+        },
+        "phone": "0452 234 9033"
+    },
+    {
+        "id": 88,
+        "name": {
+            "en": "Basheer Two Wheelers Mechanic Shop",
+            "ta": "பஷீர் இரு சக்கர வாகனங்கள் மெக்கானிக் கடை"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "17-B, TPK, Main Road, Near Nithila Hospital",
+            "ta": "17-பி, TPK, பிரதான சாலை, நித்திலா மருத்துவமனை அருகில்"
+        },
+        "area": {
+            "en": "Antiquity",
+            "ta": "பழங்காநத்தம்"
+        },
+        "phone": "093441 07408"
+    },
+    {
+        "id": 89,
+        "name": {
+            "en": "Bharat Rent a Bike",
+            "ta": "பாரத் வாடகை பைக்"
+        },
+        "type": {
+            "en":"",
+            "ta": "பைக் வாடகை"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "178, 1ST FLOOR, 88A, KEEZAVELA ROAD, NEAR 144 KAILIGAL SHOP",
+            "ta": "178,1வது தளம், 88 ஏ, கீழவெளி வீதி, 144 கைலிகல் கடைக்கு அருகில்"
+        },
+        "area": {
+            "en": "Lower Street",
+            "ta": "கீழவெளி வீதி"
+        },
+        "phone": "9677514187"
+    },
+    {
+        "id": 90,
+        "name": {
+            "en": "Bala two wheeler orcs",
+            "ta": "பாலா டூ வீலர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Yadav College for Women",
+            "ta": "யாதவ் மகளிர் கல்லூரி"
+        },
+        "area": {
+            "en": "Yadav College for Women",
+            "ta": "யாதவ் மகளிர் கல்லூரி"
+        },
+        "phone": "093448 08688"
+    },
+    {
+        "id": 91,
+        "name": {
+            "en": "Banu two wheelers",
+            "ta": "பானு டூ வீலர்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "24, Upper Pandian Akhil Street & South Masi Road",
+            "ta": "24, மேல பாண்டியன் அகில் தெரு & தெற்கு மாசி வீதி"
+        },
+        "area": {
+            "en": "South Masi Road",
+            "ta": "தெற்கு மாசி வீதி"
+        },
+        "phone": "098421 74578"
+    },
+    {
+        "id": 92,
+        "name": {
+            "en": "Brothers Pike Point",
+            "ta": "பிரதர்ஸ் பைக் பாய்ண்ட்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "1, c3 c3 Road, Balarangapuram, Head Muthuramaiyar Road, Old Guervar Palayam Road -625009",
+            "ta": "1, c3 c3 சாலை, பாலரங்கபுரம், தலைவர் முத்துராமய்யர் சாலை, பழைய குயர்வர் பாளையம் ரோடு -625009"
+        },
+        "area": {
+            "en": "Old Guervar Palayam Road",
+            "ta": "பழைய குயர்வர் பாளையம் ரோடு"
+        },
+        "phone": "063792 14644"
+    },
+    {
+        "id": 93,
+        "name": {
+            "en": "Prabhu Two Wheeler Workshop",
+            "ta": "பிரபு இரு சக்கர வாகனப் பட்டறை"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "4530/1, Lendmark, Jaihindpuram Main Road, Opposite Jayavilas, TNHB Colony-625011",
+            "ta": "4530/1, லெண்ட்மார்க், ஜெய்ஹிந்த்புரம் மெயின் ரோடு, ஜெயவிலாஸ் எதிரே, TNHB காலனி-625011"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "077088 80601"
+    },
+    {
+        "id": 94,
+        "name": {
+            "en": "Bullet Mr",
+            "ta": "புல்லட் திரு"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "ASR Mahal, 9/2, Paravai Mill Colony, Opposite Madurai - Dindigul Road",
+            "ta": "ASR மஹால், 9/2,பரவை மில் காலனி, மதுரை - திண்டுக்கல் சாலைக்கு எதிரே"
+        },
+        "area": {
+            "en": "Parawai Mill Colony",
+            "ta": "பரவை மில் காலனி"
+        },
+        "phone": "7530092879"
+    },
+    {
+        "id": 95,
+        "name": {
+            "en": "Hour two wheeler jobs",
+            "ta": "மணி இரு சக்கர வாகன வேலைகள்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "2, 41, Kamarajar Street",
+            "ta": "2, 41, காமராஜர் தெரு"
+        },
+        "area": {
+            "en": "#VALUE!",
+            "ta":""
+        },
+        "phone": "086108 10287"
+    },
+    {
+        "id": 96,
+        "name": {
+            "en": "Mathura Automobile",
+            "ta": "மதுரா ஆட்டோமொபைல்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta": "சூப்பர் பைக் சேவை மற்றும் ராயல் என்ஃபீல்டு பைக் கன்வர்ஷன்"
+        },
+        "location": {
+            "en": "234, THENI MAIN ENDIRO ROAD, VIJAY RAJ SPECIALTY HOSPITAL, SAWADI, PONMENI-625016",
+            "ta": "234, தேனி மெயின் எதிரி ரோடு, விஜய் ராஜ் ஸ்பெஷாலிட்டி மருத்துவமனை, சாவடி, பொன்மேனி-625016"
+        },
+        "area": {
+            "en": "Bonmani",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "095007 08800"
+    },
+    {
+        "id": 97,
+        "name": {
+            "en": "Madurai Green Motors E-Bikes (SEMZY)",
+            "ta": "மதுரை கிரீன் மோட்டார்ஸ் இ-பைக்குகள் (SEMZY)"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார்சைக்கிள் கடை"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "125, Balam Station Road, Near Dewar Idol",
+            "ta": "125, பாலம் ஸ்டேஷன் ரோடு, தேவர் சிலைக்கு அருகில்"
+        },
+        "area": {
+            "en": "Balam Station Road",
+            "ta": "பாலம் ஸ்டேஷன் ரோடு"
+        },
+        "phone": "094438 31790"
+    },
+    {
+        "id": 98,
+        "name": {
+            "en": "Marudu Two Wheeler Works & Water Service",
+            "ta": "மருது டூ வீலர் ஒர்க்ஸ் & வாட்டர் சர்வீஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "2/230, Divya Complex, Kannanedal Road, Sasi Nagar, Iyer Bangla- 625014",
+            "ta": "2/230, திவ்யா வளாகம், கண்ணனேடல் சாலை, சசி நகர், ஐயர் பங்களா- 625014"
+        },
+        "area": {
+            "en": "Iyer Bungalow",
+            "ta": "ஐயர் பங்களா"
+        },
+        "phone": "097912 20692"
+    },
+    {
+        "id": 99,
+        "name": {
+            "en": "Murugan Two Wheeler Orcs",
+            "ta": "முருகன் டூ வீலர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "9232, Melur Main Road, Othakadai, Anbu Nagar- 625107",
+            "ta": "9232, மேலூர் பிரதான சாலை, ஒத்தக்கடை, அன்பு நகர்- 625107"
+        },
+        "area": {
+            "en": "Workshop",
+            "ta": "ஒத்தக்கடை"
+        },
+        "phone": "098658 65989"
+    },
+    {
+        "id": 100,
+        "name": {
+            "en": "Universe Bike Ride",
+            "ta": "யுனிவர்ஸ் பைக் சவாரி"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார்சைக்கிள் வாடகை ஏஜென்ஸி"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "38, Ramachandra Puram 1st Street, South Outer Road",
+            "ta": "38, ராமச்சந்திரா புரம் 1வது தெரு, தெற்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "South Outer Road",
+            "ta": "தெற்கு வெளி வீதி"
+        },
+        "phone": "093613 09161"
+    },
+    {
+        "id": 101,
+        "name": {
+            "en": "Yoga two wheeler spares",
+            "ta": "யோகம் டூ வீலர் ஸ்பெயார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "வாகன உதிரி பாகங்கள் விற்குமிடம்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "11, Arapalayam Cross, Near Thilaka Bakery, Puttu Thopp Road",
+            "ta": "11, ஆரப்பாளையம் கிராஸ், திலகா பேக்கரி அருகில், புட்டு தோப்பு சாலை"
+        },
+        "area": {
+            "en": "Arapalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "080123 07858"
+    },
+    {
+        "id": 102,
+        "name": {
+            "en": "Ravi is a 2 wheeler consultant",
+            "ta": "ரவி 2 வீலர் ஆலோசகர்"
+        },
+        "type": {
+            "en":"",
+            "ta": "பழைய 2 வீலர் விற்பனை"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "117, Alagar Temple Main Road, Opp. Vegetable market, K. Bush",
+            "ta": "117, அழகர் கோவில் பிரதான சாலை, எதிரில். காய்கறி சந்தை,K . புதூர்"
+        },
+        "area": {
+            "en": "K. Bush",
+            "ta": "கே . புதூர்"
+        },
+        "phone": "098427 80920"
+    },
+    {
+        "id": 103,
+        "name": {
+            "en": "Ravi Two Wheeler Orcs",
+            "ta": "ரவி டூ வீலர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "2/9C, Veera Raghava Perumal Temple Street, Periyar, Madurai Main, - 625001",
+            "ta": "2/9C, வீர ராகவ பெருமாள் கோயில் தெரு, பெரியார், மதுரை மெயின், - 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "098946 69518"
+    },
+    {
+        "id": 104,
+        "name": {
+            "en": "Ram Two Wheeler Orcs",
+            "ta": "ராம் டூ வீலர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Manthiyamman Temple 3rd Street, Periasamythevar Complex, Narayanapuram Bus Stop, Narayanapuram",
+            "ta": "மாந்தையம்மன் கோவில் 3வது தெரு, பெரியசாமிதேவர் வளாகம், நாராயணபுரம் பஸ் ஸ்டாப், நாராயணபுரம்"
+        },
+        "area": {
+            "en": "Narayanapuram",
+            "ta": "நாராயணபுரம்"
+        },
+        "phone": "098943 54890"
+    },
+    {
+        "id": 105,
+        "name": {
+            "en": "#VALUE!",
+            "ta":""
+        },
+        "type": {
+            "en":"",
+            "ta":""
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "#VALUE!",
+            "ta":""
+        },
+        "area": {
+            "en": "#VALUE!",
+            "ta":""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 106,
+        "name": {
+            "en": "Royal Enfield Service Center - M/s GG Motors",
+            "ta": "ராயல் என்ஃபீல்டு சேவை மையம் - M/s GG மோட்டார்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "OAA Complex, 5 & 5A, Meenakshi Bazaar Scott Road, Opp. ESSAR Petrol Pump - 625001",
+            "ta": "OAA வளாகம், 5 & 5A, மீனாட்சி பஜார் ஸ்காட் சாலை, எதிரில். ESSAR பெட்ரோல் பம்ப் - 625001"
+        },
+        "area": {
+            "en": "Meenakshi Bazaar",
+            "ta": "மீனாட்சி பஜார்"
+        },
+        "phone": "088796 04097"
+    },
+    {
+        "id": 107,
+        "name": {
+            "en": "Rajam Two Wheeler Orcs",
+            "ta": "ராஜம் டூ வீலர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Ponmeni Main Road, Ponmeni",
+            "ta": "பொன்மேனி மெயின் ரோடு, பொன்மேனி"
+        },
+        "area": {
+            "en": "Bonmani",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "090037 74260"
+    },
+    {
+        "id": 108,
+        "name": {
+            "en": "Riders Lane Bike Rental Madurai",
+            "ta": "ரைடர்ஸ் லென் பைக் வாடகை மதுரை"
+        },
+        "type": {
+            "en":"",
+            "ta": "பைக் வாடகை"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Dindigul Main Road, New, Vlangudi- 625018",
+            "ta": "திண்டுக்கல் மெயின் ரோடு,புதியது, விளாங்குடி- 625018"
+        },
+        "area": {
+            "en": "Vlangudi",
+            "ta": "விளாங்குடி"
+        },
+        "phone": "099658 15254"
+    },
+    {
+        "id": 109,
+        "name": {
+            "en": "Vallimani Two Wheeler Works",
+            "ta": "வள்ளிமணி டூ வீலர் ஒர்க்ஸ்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Konnawayan Road Simmakkal",
+            "ta": "கொன்னவாயன் சாலை சிம்மக்கல்"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 110,
+        "name": {
+            "en": "Velan is a two wheeler",
+            "ta": "வேலன் டூ வீலர்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "5A, 1, MELA PONNAGARAM MAIN ROAD",
+            "ta": "5A, 1, மேல பொன்னகரம் பிரதான சாலை"
+        },
+        "area": {
+            "en": "Ponnakaram",
+            "ta": "பொன்னகரம்"
+        },
+        "phone": "9344107213 & 9751137473"
+    },
+    {
+        "id": 111,
+        "name": {
+            "en": "Vaigai Honda",
+            "ta": "வைகை ஹோண்டா"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார் சைக்கிள் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "167, THENI MAIN ROAD, CHAVADI, KOCHADAI, - 625016",
+            "ta": "167, தேனி மெயின் ரோடு, சாவடி, கோச்சடை, - 625016"
+        },
+        "area": {
+            "en": "Kochadai",
+            "ta": "கோச்சடை"
+        },
+        "phone": "070109 18685"
+    },
+    {
+        "id": 112,
+        "name": {
+            "en": "Johnny Two Wheeler Work Shop",
+            "ta": "ஜானி டூ வீலர் வோர்க் ஷாப்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Manjanakara Street, Mahal Area-625001",
+            "ta": "மஞ்சனகர தெரு, மஹால் ஏரியா-625001"
+        },
+        "area": {
+            "en": "Mahal",
+            "ta": "மஹால்"
+        },
+        "phone": "0452 233 5132"
+    },
+    {
+        "id": 113,
+        "name": {
+            "en": "Jai Auto Two Wheeler Service Centre",
+            "ta": "ஜெய் ஆட்டோ டூ வீலர் சர்வீஸ் சென்டர்"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "70 Raja Muttiah Nagar, Adi Road, &, Bypass Road, Near Life Care Hospital, Ellis Nagar",
+            "ta": "70 ராஜா முத்தையா நகர், அடி சாலை, &, பைபாஸ் சாலை, லைஃப் கேயர் ஹாஸ்பிடல் அருகில், எல்லிஸ் நகர்"
+        },
+        "area": {
+            "en": "Ellis Nagar",
+            "ta": "எல்லிஸ் நகர்"
+        },
+        "phone": "098944 41004"
+    },
+    {
+        "id": 114,
+        "name": {
+            "en": "Sri Valli Two Wheeler Workshop",
+            "ta": "ஸ்ரீ வள்ளி இரு சக்கர வாகனப் பட்டறை"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta": "வாட்டர் சர்வீஸ்"
+        },
+        "location": {
+            "en": "Athikulam Main Road, Ramnadu Reserve Line, Athikulam",
+            "ta": "ஆத்திகுளம் மெயின் ரோடு, ராம்நாடு ரிசர்வ் லைன், ஆத்திகுளம்"
+        },
+        "area": {
+            "en": "Attikulam",
+            "ta": "ஆத்திகுளம்"
+        },
+        "phone": "090476 56542"
+    },
+    {
+        "id": 115,
+        "name": {
+            "en": "Sheikh Abdullah Two Wheeler Workshop",
+            "ta": "ஷேக் அப்துல்லா இருசக்கர வாகனப் பட்டறை"
+        },
+        "type": {
+            "en":"",
+            "ta": "2 வீலர் மெக்கானிக்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Pulidevan Street, Maruthu Pandyar Nagar, Koripalayam-625002",
+            "ta": "புலிதேவன் தெரு, மருது பாண்டியர் நகர், கோரிபாளையம்-625002"
+        },
+        "area": {
+            "en": "Koripalayam",
+            "ta": "கோரிபாளையம்"
+        },
+        "phone": "086085 61564"
+    },
+    {
+        "id": 116,
+        "name": {
+            "en": "Haritha Honda - Goodalnagar Branch",
+            "ta": "ஹரிதா ஹோண்டா - கூடல்நகர் கிளை"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார் சைக்கிள் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "Chokkalinga Nagar, Goodal Nagar-625018",
+            "ta": "சொக்கலிங்க நகர், கூடல் நகர்-625018"
+        },
+        "area": {
+            "en": "Goodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "8012237000"
+    },
+    {
+        "id": 117,
+        "name": {
+            "en": "Honda Picking Madurai",
+            "ta": "ஹோண்டா பிக்விங் மதுரை"
+        },
+        "type": {
+            "en":"",
+            "ta": "மோட்டார் சைக்கிள் டீலர்"
+        },
+        "detail": {
+            "en":"",
+            "ta":""
+        },
+        "location": {
+            "en": "166 167, 80 Feet Road, LIG ​​Colony, KK Nagar- 625020",
+            "ta": "166 167, 80 அடி சாலை, LIG ​​காலனி, KK நகர்- 625020"
+        },
+        "area": {
+            "en": "K K Nagar",
+            "ta": "கே கே நகர்"
+        },
+        "phone": "084898 37000"
+    }
+]

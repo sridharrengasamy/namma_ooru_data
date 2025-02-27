@@ -1,0 +1,962 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "EXIDE LUMINOUS MICROTEK MAHINDRA UPS BATTERY INVERTER SALES AND SERVICE DEALERS MADURAI",
+            "ta": "EXIDE LUMINOUS MICROTEK MAHINDRA UPS பேட்டரி இன்வெர்ட்டர் விற்பனை மற்றும் சேவை டீலர்கள் மதுரை"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "130, Pandiya Velalar Street",
+            "ta": "130, பாண்டிய வேளாளர் தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "088388 22755"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "Sri Sai Batteries",
+            "ta": "ஸ்ரீ சாய் பேட்டரிகள்"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "S S Colony",
+            "ta": "·SS காலனி,625016"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "097108 88324"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "Power GuaRoad Electronics",
+            "ta": "பவர் கார்டு எலக்ட்ரானிக்ஸ்"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "43, S Marret Street",
+            "ta": "43, தெற்கு மார்ரெட் தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "098421 95866"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Sri Power Point (UPS, Inverter, Intercom, CCTV Camera Sales & Service Madurai)",
+            "ta": "ஸ்ரீ பவர் பாயிண்ட்"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": " யுபிஎஸ், இன்வெர்ட்டர், இண்டர்காம், சிசிடிவி கேமரா விற்பனை மற்றும் சேவை "
+        },
+        "location": {
+            "en": "No: 30, 50 Feet Road, Near Saraswathi Theatre, Sellur",
+            "ta": "30, 50 அடி சாலை, சரஸ்வதி தியேட்டர் அருகில், செல்லூர்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "098940 34269"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "INNOTECH POWER SYStreetEMS",
+            "ta": "இன்னோடெக் பவர் சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "10/221,BYPASS ROAD, Jawahar Main Road",
+            "ta": "10/221, பைபாஸ் சாலை, ஜவஹர் மெயின் ரோடு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "073585 36461"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "MM POWER SOLUTIONS",
+            "ta": "MM பவர் சொல்யூஷன்ஸ் "
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "19 Salaimuthu Nagar, Bypass Road, near Hotel Gowri Krishna",
+            "ta": "19 சாலைமுத்து நகர், பைபாஸ் சாலை, ஹோட்டல் கௌரி கிருஷ்ணா அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "081240 21897"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Sree Balaji Power SyStreetem",
+            "ta": "ஸ்ரீ பாலாஜி பவர் சிஸ்டம்"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "191, Vakkil New Street",
+            "ta": "191, வக்கில் நியூ செயின்ட், அரஜர் சாலை, சிம்மக்கல், மதுரை மெயின், மதுரை-625001"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "077080 02279"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "ULTRA POWER - EXIDE AMARON BATTERY SHOP",
+            "ta": "அல்ட்ரா பவர் "
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": "EXIDE AMARON BATTERY shop"
+        },
+        "location": {
+            "en": "Theni Main Road, near Vijay Raj multi speciality hospital",
+            "ta": "தேனி மெயின் ரோடு, விஜய் ராஜ் மல்டி ஸ்பெஷாலிட்டி மருத்துவமனை அருகில், சாவடி, கந்தபவனம், காளவாசல், மதுரை-625016"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "070924 04202"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Prabhu Inverter Battery Service",
+            "ta": "பிரபு இன்வெர்ட்டர் பேட்டரி சர்வீஸ் "
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "S Avani Moola Street",
+            "ta": "தெற்கு ஆவணி மூல வீதி"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": ""
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "Regi Battery Invertor Sales & Service",
+            "ta": "ரெஜி பேட்டரி இன்வெர்ட்டர் "
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "308-A, Bypass Road, near Guru Theatre",
+            "ta": "308-A, பைபாஸ் சாலை, குரு தியேட்டர் அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "098429 60915"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Panocomss inverter sales & service",
+            "ta": "பனோகாம்ஸ் இன்வெர்ட்டர் சேல்ஸ் & சர்வீஸ்"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "18, LaStreet Shop, Gurney Complex, Town Hall Road",
+            "ta": "18, கடைசி கடை, கர்னி காம்ப்ளக்ஸ், டவுன் ஹால் ரோடு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "099447 75822"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Green leafs ups company madurai",
+            "ta": "கிரீன் லீப் UPS"
+        },
+        "type": {
+            "en": "Sollar Pannel",
+            "ta": "சோலார் பேனல் அமைப்பு "
+        },
+        "detail": {
+            "en": "",
+            "ta": "சோலார் பேனல் அமைப்பு "
+        },
+        "location": {
+            "en": "Green leafs battery chargers and solar panels, 94, Town Hano94, Mela Perumal MaiStreetry Street",
+            "ta": "கிரீன் லீப் பேட்டரி சார்ஜர்கள் மற்றும் சோலார் பேனல்கள், 94, டவுன் ஹனோ94, மேல பெருமாள் மேஸ்திரி தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": ""
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "Numeric Power SyStreetems Limited",
+            "ta": "நியூமெரிக் பவர் சிஸ்டம்ஸ் லிமிடெட்"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "24, 1Street Floor, S S Colony, Valluvar Streetreet",
+            "ta": "24, 1வது தளம், எஸ் எஸ் காலனி, வள்ளுவர் தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "0452 260 2629"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "U-POWER UPS",
+            "ta": "U-POWER UPS"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "VMR complex, 50, Bypass Road",
+            "ta": "VMR வளாகம், 50, பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "098429 33799"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "SRI VISHNU AGENCIES ",
+            "ta": "ஸ்ரீ விஷ்ணு ஏஜென்சிஸ் "
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "BATTERIES, INVERTERS, SOLAR SYStreetEMS, DTH-D2H VIDEOCON,AIRTELDTH,SUNDIRECTDTH,TATAPLAYDTH",
+            "ta": "பேட்டரீஸ், இன்வெர்ட்டர்கள், சோலார் சிஸ்டம்ஸ்,DTH - வீடியோகான், ஏர்டெல் DTH, சண்டீரெக்ட் , டாடாபிளே டிஸ் DTH "
+        },
+        "location": {
+            "en": "78/3, Tamil Sangam Road, near SUNDAY MARKET, near Krishnarayar Tank Road",
+            "ta": "78/3, தமிழ் சங்க சாலை, ஞாயிறு சந்தைக்கு அருகில், கிருஷ்ணராயர் டேங்க் சாலை அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "070103 37206"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "AMESH Marketing ",
+            "ta": "சோலார் பவர் UPS டீலர்ஸ் & சர்வீஸ் சென்டர்"
+        },
+        "type": {
+            "en": "Sollar Pannel",
+            "ta": "சோலார் எனர்ஜி நிறுவனம்"
+        },
+        "detail": {
+            "en": "Solar pannel instalation",
+            "ta": "சோலார் பேனல் அமைக்க "
+        },
+        "location": {
+            "en": "7A/1, Solai Alagupuram Main Road",
+            "ta": "7A/1, சோலை அழகுபுரம் பிரதான சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "GALAXY POWER TECHZ",
+            "ta": "GALAXY POWER TECHZ"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "Solar Power UPS ",
+            "ta": "சோலார் UPS"
+        },
+        "location": {
+            "en": "4/770, Annai Street",
+            "ta": "4/770, அன்னை தெரு, அண்ணா நகர் "
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "080721 33387, & 9626163332"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "Dual Power SyStreetem",
+            "ta": "டூயல் போர் சிஸ்டம் "
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": "சோலார் பேனல் அமைக்க"
+        },
+        "location": {
+            "en": "Ram Nagar Road",
+            "ta": "ராம் நகர் சாலை, SS காலனி "
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "070104 53017"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "U POWER SYStreetEMS",
+            "ta": "யு பவர் சிஸ்டம்ஸ்"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": "வாகன பேட்டரி சர்வீஸ் "
+        },
+        "location": {
+            "en": "50 VMR Complex Palanganatham Palanganatham",
+            "ta": "50 Vmr வளாகம் பழங்காநத்தம் பழங்காநத்தம்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "098429 73799"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "Sps New Smart Power Service",
+            "ta": "SPS நியு ஸ்மார்ட் பவர் சர்வீஸ் "
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": "ஜெனரேட்டர், வாட்டர் ஹீட்டர், சோலார் பேனல் விற்பனை "
+        },
+        "location": {
+            "en": "121A, North Veli Street",
+            "ta": "121a, வடக்கு வெளி வீதி "
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "087546 16596"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "Sathya batteries Madurai-625003",
+            "ta": "சத்யா பேட்டரிகள் "
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": "வாகன பேட்டரி சர்வீஸ் "
+        },
+        "location": {
+            "en": "16A, Palanganatham",
+            "ta": "16a, பழங்காநத்தம், மதுரை-625003"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "9342420120"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "Imperial Battery",
+            "ta": "இம்பீரியல் பேட்டரி "
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "Exide Battery Authorised Dealer/Exide Care dealer in madurai -EXIDE two wheeler battery dealer-EXIDE car battery dealer",
+            "ta": "எக்ஸைட் பேட்டரி அங்கீகரிக்கப்பட்ட டீலர்/எக்ஸைட் கேர் டீலர் -எக்ஸைட் இரு சக்கர வாகன பேட்டரி டீலர்-எக்ஸைட் கார் பேட்டரி டீலர்"
+        },
+        "location": {
+            "en": "Raja Street, Bypass Road",
+            "ta": "ராஜா தெரு, பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "082207 88887"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "Tech Q Power Controls",
+            "ta": "டெக் Q பவர் "
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": " All Type Inverter and Battery",
+            "ta": "பேட்டரி UPS சேல்ஸ் & சர்வீஸ்"
+        },
+        "location": {
+            "en": "1-A, New Mahalipatti Road",
+            "ta": "1-A, புதிய மாகாளிபட்டி ரோடு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "0452 424 0040"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "Prajan Enterprises",
+            "ta": "பிரஜன் எண்டர்பிரைசஸ்"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "108, Vakkil New Street",
+            "ta": "108, வக்கில் நியூ தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "0452 421 9900"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "DEVI BATTERY SERVICE",
+            "ta": "தேவி பேட்டரி சேவை"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": "வாகன பேட்டரி சர்வீஸ் "
+        },
+        "location": {
+            "en": "Chinnasokkikulam, 9A KAMARAJAR NAGAR, 3Road Street",
+            "ta": "சின்னசொக்கிகுளம், 9A காமராஜர் நகர், 3வது தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "094430 15511"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "Sri Aditiya Battery",
+            "ta": "ஸ்ரீ ஆதித்யா பேட்டரி"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Near Simmakkal Roundana ",
+            "ta": "சிம்மக்கல், ரவுண்டன அருகில் "
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "093841 44045"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "Sri pugal A/C Service centre & Electrical & Plumbing & ups & battery repair service",
+            "ta": "ஸ்ரீ புகல் சர்வீஸ் "
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": "ஏ/சி சர்வீஸ் சென்டர் & எலக்ட்ரிக்கல் & பிளம்பிங் & அப்ஸ் & பேட்டரி ரிப்பேர் சேவை"
+        },
+        "location": {
+            "en": "46/27, 2nd Street Krishnapuram Colony Main Road",
+            "ta": "46/27, 2வது தெரு கிருஷ்ணாபுரம் காலனி மெயின் ரோடு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "098424 58048"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Velsine power solutions",
+            "ta": "Velsine பவர் தீர்வுகள் மதுரை இல் "
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "Stabilizer & Battery Dealer Madurai",
+            "ta": "இன்வெர்ட்டர் டீலர் | ஸ்டெபிலைசர் & பேட்டரி டீலர் மதுரை"
+        },
+        "location": {
+            "en": "240 LIG Colony, K K Nagar",
+            "ta": "240, எல்ஐஜி காலனி, கேகே நகர், மதுரை- 625020"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "098428 08285"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "Line Electronics",
+            "ta": "லைன் எலக்ட்ரானிக்ஸ்"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Market, Town Hall Road",
+            "ta": "சந்தை, டவுன் ஹால்ரோடு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "0452 234 4144"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "VENUS ENTERPRISES",
+            "ta": "வீனஸ் எண்டர்பிரைசஸ்"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "SF BATTERIES ",
+            "ta": "SF பேட்டரிகள் "
+        },
+        "location": {
+            "en": "263, Karpaga Nagar 6th Street",
+            "ta": "263, கற்பகா நகர் 6வது தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "089399 60300"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "Annai Power Solution (APS)",
+            "ta": "அன்னை பவர் சொல்யூஷன் (APS)"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": "பேட்டரி CCDTV, பயோ மெட்ரிக் "
+        },
+        "location": {
+            "en": "1, Bharathiyar Streetreet, near Villapuram Arch",
+            "ta": "1, பாரதியார் தெரு, வில்லாபுரம் ஆர்ச் அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "099440 64884"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "JSR Marketing",
+            "ta": "ஜே.எஸ்.ஆர் மார்க்கெட்டிங்"
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No:118, Munichalai Road",
+            "ta": "118, முனிச்சலை சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": ""
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "Madurai Packers and Movers",
+            "ta": "லக்ஷ்மி ஏஜென்ஸி "
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "",
+            "ta": "பேட்டரி ஷோரூம் {24×7} விற்பனை மற்றும் அமரான் அவந்திகா ஏஜென்சிகள்"
+        },
+        "location": {
+            "en": "Tamilnadu Housing BoaRoad, H-1177",
+            "ta": "4182, தமிழ்நாடு ஹவுசிங் போர்டு காலனி, TNHB காலனி, வில்லாபுரம், மதுரை- 625011"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "096777 65352"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "Mathi Auto Batteries",
+            "ta": "மதி ஆட்டோ பேட்டரிகள் "
+        },
+        "type": {
+            "en": "Battery & UPS",
+            "ta": "பேட்டரி & UPS "
+        },
+        "detail": {
+            "en": "Authorized EXIDE Dealer, Solar On-Grid & Off-Grid Powering Solution (Free On-Site InStreetallation)",
+            "ta": "அங்கீகரிக்கப்பட்ட EXIDE டீலர், சோலார் ஆன்-கிரிட் & ஆஃப்-கிரிட் பவர்ரிங் தீர்வு (இலவச ஆன்-சைட் நிறுவல்)"
+        },
+        "location": {
+            "en": "50/4, Workshop Road",
+            "ta": "50/4, பணிமனை ரோடு "
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "098430 52800"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "",
+            "ta": ""
+        },
+        "type": {
+            "en": "",
+            "ta": ""
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "",
+            "ta": ""
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "",
+            "ta": ""
+        },
+        "type": {
+            "en": "",
+            "ta": ""
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "",
+            "ta": ""
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "",
+            "ta": ""
+        },
+        "type": {
+            "en": "",
+            "ta": ""
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "",
+            "ta": ""
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 38,
+        "name": {
+            "en": "",
+            "ta": ""
+        },
+        "type": {
+            "en": "",
+            "ta": ""
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "",
+            "ta": ""
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 39,
+        "name": {
+            "en": "",
+            "ta": ""
+        },
+        "type": {
+            "en": "",
+            "ta": ""
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "",
+            "ta": ""
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 40,
+        "name": {
+            "en": "",
+            "ta": ""
+        },
+        "type": {
+            "en": "",
+            "ta": ""
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "",
+            "ta": ""
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    }
+]

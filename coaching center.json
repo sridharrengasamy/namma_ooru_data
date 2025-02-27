@@ -1,0 +1,2762 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "Madurai Soft Skill Training",
+            "ta": "மதுரை சாஃப்ட் ஸ்கில் பயிற்சி"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "16/31, Rajaji St, Gandhi Nagar, Shenoy Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "16/31, ராஜாஜி தெரு, காந்தி நகர், ஷெனாய் நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Shenoy Nagar",
+            "ta": "ஷெனாய் நகர்"
+        },
+        "phone": "098433 55524"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "Mozhi School of Skills",
+            "ta": "மொழி ஸ்கூல் ஆஃப் ஸ்கில்ஸ்"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.53, streetate bank staff first colony, Bypass Road",
+            "ta": "எண்.53, தெருமுனை வங்கி ஊழியர்கள் முதல் காலனி, பைபாஸ் ரோடு"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "078670 16306"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "Brainobrain Madurai",
+            "ta": "பிரைனோபிரைன் மதுரை"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": " Advanced Abacus & Skill Development Programme for 4 - 14 Years Kids",
+            "ta": "4 - 14 வயது குழந்தைகளுக்கான மேம்பட்ட அபாகஸ் & திறன் மேம்பாட்டுத் திட்டம்"
+        },
+        "location": {
+            "en": "st.Mary's Loyala Complex, Indian Overseas Bank Upstreetairs, New Mahalipatti Road",
+            "ta": "தெரு.மேரிஸ் லோயாலா வளாகம், இந்தியன் ஓவர்சீஸ் வங்கி மேல்தளம், புதிய மாகாளிபட்டி சாலை"
+        },
+        "area": {
+            "en": "New Magalipatti Road",
+            "ta": "புதிய மாகாளிபட்டி சாலை"
+        },
+        "phone": "097901 30008"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Sri Sundar Academy",
+            "ta": "ஸ்ரீ சுந்தர் அகாடமி"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No:6, Alagappan Nagar",
+            "ta": "எண்:6, அழகப்பன் நகர்"
+        },
+        "area": {
+            "en": "Alagappan Nagar",
+            "ta": "அழகப்பன் நகர்"
+        },
+        "phone": "085240 20220"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "ECEC Skill School",
+            "ta": "ECEC திறன் பள்ளி"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4/166, Melakkal Road, opp. Fenner, Kochadai, Madurai, Tamil Nadu 625016",
+            "ta": "4/166, மேலக்கல் சாலை, எதிரில். ஃபென்னர், கோச்சடை, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Kochadai",
+            "ta": "கோச்சடை"
+        },
+        "phone": "097872 44304"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "ICON School of Skills",
+            "ta": "ஐகான் ஸ்கூல் ஆஃப் ஸ்கில்ஸ்"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "99, Shreem house, Karpaga Nagar 6th St, K.Pudur, Tamil Nadu 625007",
+            "ta": "99, ஸ்ரீம் ஹவுஸ், கற்பகா நகர் 6வது தெரு, கே.புதூர், தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "K. Putur",
+            "ta": "K.புதூர்"
+        },
+        "phone": "093445 81822"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Brainobrain Jaihindpuram",
+            "ta": "பிரைனோபிரைன் ஜெய்ஹிந்த்புரம்"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Bharathiyar Road, Solaialagu Puram, Jaihindpuram, Madurai, Tamil Nadu 625011",
+            "ta": "பாரதியார் சாலை, சோலைஅழகு புரம், ஜெய்ஹிந்த்புரம், மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "089397 05031"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Davinci Learning Center ",
+            "ta": "டேவின்சி கற்றல் மையம்"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "English | Math | Science | Tamil | Drawing | Painting",
+            "ta": "ஆங்கிலம் | கணிதம் | அறிவியல் | தமிழ் | வரைதல் | ஓவியம்"
+        },
+        "location": {
+            "en": "10, Navalar Nagar 3rd St, Sakthi Velammal Nagar, S S Colony, Madurai, Tamil Nadu 625016",
+            "ta": "10, நாவலர் நகர் 3வது தெரு, சக்தி வேலம்மாள் நகர், எஸ் எஸ் காலனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "S S Colony",
+            "ta": "S S காலனி"
+        },
+        "phone": "096775 07740"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Bright Children Special School",
+            "ta": "பிரைட் சில்ட்ரன் ஸ்பெஷல் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Special education school",
+            "ta": "சிறப்பு கல்வி பள்ளி"
+        },
+        "detail": {
+            "en": "(Occupational Therapy, Speech Therapy,Special Education,Acupressure Therapy,ADL Training,Oil Message Therapy,Remedial Education,Early Intervention Programme,Play Therapy,Behaviour Therapy,Dorn Therapy,Yoga Therapy,Skating Therapy)",
+            "ta": " (தொழில் சிகிச்சை, பேச்சு சிகிச்சை, சிறப்புக் கல்வி, அக்குபிரஷர் தெரபி, ஏடிஎல் பயிற்சி, ஆயில் மெசேஜ் தெரபி, ரெமெடியல் கல்வி, ஆரம்பகால தலையீடு திட்டம், விளையாட்டு சிகிச்சை, நடத்தை சிகிச்சை, டார்ன் தெரபி, யோகா தெரபி, ஸ்கேட்டிங\"&\"்)"
+        },
+        "location": {
+            "en": "Plot No.101, 3rd, E Cross street",
+            "ta": "பிளாட் எண்.101, 3வது, E குறுக்குத் தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "097872 12777"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "ace2learn",
+            "ta": "ace2Learn"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "21,E THYAGI KANDHAN SERVAI NAGAR, 5TH STREET SOUTH, Madakulam Main Road, Madurai, Tamil Nadu 625010",
+            "ta": "21, இ தியாகி கந்தன் சேர்வை நகர், 5வது தெரு தெற்கு, மடக்குளம் மெயின் ரோடு, மதுரை, தமிழ்நாடு 625010"
+        },
+        "area": {
+            "en": "Madakulam",
+            "ta": "மாடக்குளம்"
+        },
+        "phone": "098949 34802"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "ACE WRITE SCHOOL",
+            "ta": "ACE எழுதும் பள்ளி"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "HANDWRITING | ABACUS | PHONETICS | HINDI | TAMIL",
+            "ta": "கையெழுத்து | அபாகஸ் | ஃபோனடிக்ஸ் | ஹிந்தி | தமிழ்"
+        },
+        "location": {
+            "en": "Ibaco, No.55, Nehru Street, Navalar Nagar ByPass Road, Back Side Road, Madurai, Tamil Nadu 625016",
+            "ta": "இபாகோ, எண்.55, நேரு தெரு, நாவலர் நகர் பைபாஸ் சாலை, பின் பக்க சாலை, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "097896 66975"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "ACE WRITE SCHOOL",
+            "ta": "ACE எழுதும் பள்ளி"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "HANDWRITING | ABACUS | PHONETICS | HINDI | TAMIL",
+            "ta": "கையெழுத்து | அபாகஸ் | ஃபோனடிக்ஸ் | ஹிந்தி | தமிழ்"
+        },
+        "location": {
+            "en": "372, 6th East Cross street, &, SURVESHWARAR TEMPLE LANE, near SUGUNA streetORE",
+            "ta": "2372, 6வது கிழக்கு குறுக்குத் தெரு, &, சர்வேஷ்வரர் கோவில் பாதை, சுகுனா தெருவுக்கு அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "076398 70299"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "Sash institute",
+            "ta": "சாஷ் கல்வி நிறுவனம்"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Plot no. 7, 7A, Kakkan St, opposite to venkateshwara hospital, Shenoy Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "பிளாட் எண். 7, 7A, கக்கன் தெரு, வெங்கடேஷ்வரா மருத்துவமனைக்கு எதிரில், ஷெனாய் நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Shenoy Nagar",
+            "ta": "ஷெனாய் நகர்"
+        },
+        "phone": "098421 89848"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "Roots to wings Education Centre",
+            "ta": "ரூட்ஸ் to விங்ஸ் கல்வி மையம்"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Flat no:64, First floor, 4th St, east, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "பிளாட் எண்:64, முதல் தளம், 4வது தெரு, கிழக்கு, கே.கே.நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "K.K.Nagar",
+            "ta": "K.K.நகர்"
+        },
+        "phone": "086868 67654"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "Golden Knights Sports Academy",
+            "ta": "கோல்டன் நைட்ஸ் ஸ்போர்ட்ஸ் அகாடமி"
+        },
+        "type": {
+            "en": "Sports center",
+            "ta": "ஸ்போர்ட்ஸ் மையம் "
+        },
+        "detail": {
+            "en": "Chess club",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 72, Raman Complex, New LIG Colony, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "5எண். 72, ராமன் வளாகம், புதிய எல்ஐஜி காலனி, அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "090470 21264"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "Twinkling stars Rubik's Cube Class(online)",
+            "ta": "டிவீங்கில் ஸ்டார் ரூபிக்ஸ் கியூப் வகுப்பு(ஆன்லைன்)"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "plot.no, 1121, TNHB Colony, Madurai, Tamil Nadu 625012",
+            "ta": "plot.no, 1121, TNHB காலனி, மதுரை, தமிழ்நாடு 625012"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "093448 75910"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "Shikshaa Simple Learn",
+            "ta": "ஷிக்ஷா எளிய கற்றல்"
+        },
+        "type": {
+            "en": "Software Training institute",
+            "ta": "மென்பொருள் பயிற்சி நிறுவனம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "23, SBI Staff II colony, Kanadasan Street, Bypass Road, near SBOA Children School, S S Colony, Madurai, Tamil Nadu 625016",
+            "ta": "23, SBI பணியாளர்கள் II காலனி, கனதாசன் தெரு, பைபாஸ் சாலை, SBOA குழந்தைகள் பள்ளி அருகில், S S காலனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "S S Colony",
+            "ta": "S S காலனி"
+        },
+        "phone": "090877 10004"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "Rudhresh Academy",
+            "ta": "ருத்ரேஷ் அகாடமி"
+        },
+        "type": {
+            "en": "tution center",
+            "ta": "டியூஷன் சென்டர் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "211/3 Thiruvalluvar Main Road Nehru nagar, Bypass Road, Madurai, Tamil Nadu 625016",
+            "ta": "211/3 திருவள்ளுவர் மெயின் ரோடு நேரு நகர், பைபாஸ் சாலை, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "076396 62200"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Spoken English ",
+            "ta": "ஸ்போகன் ஆங்கிலம்"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "Poorva Academy | English Coaching Centre",
+            "ta": "பூர்வா அகாடமி | ஆங்கில பயிற்சி மையம்"
+        },
+        "location": {
+            "en": "3Road Street, Bypass Road, Surendran Nagar, Ponmeni, Madurai, Tamil Nadu 625016",
+            "ta": "3வது தெரு, பைபாஸ் சாலை, சுரேந்திரன் நகர், பொன்மேனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "093617 60890"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "KALVI institute PRIVATE LIMITED - KK Nagar Madurai",
+            "ta": "கல்வி இன்ஸ்ட்ரீட் பிரைவேட் லிமிடெட் - கே.கே.நகர் மதுரை"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.134, A.R.Hospital Road, K.K. Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "134, ஏ.ஆர். மருத்துவமனை சாலை, கே.கே. நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "K.K.Nagar",
+            "ta": "K.K.நகர்"
+        },
+        "phone": "095007 10004"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "Raman Code Academy",
+            "ta": "ராமன் கோட் அகாடமி"
+        },
+        "type": {
+            "en": "Education center",
+            "ta": "கல்வி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Plot No 31, Bharathiyar 7th St, Tagore Nagar, New Ellis Nagar, Ponmeni, S S Colony, Madurai, Tamil Nadu 625010",
+            "ta": "பிளாட் எண் 31, பாரதியார் 7வது தெரு, தாகூர் நகர், நியூ எல்லிஸ் நகர், பொன்மேனி, எஸ் எஸ் காலனி, மதுரை, தமிழ்நாடு 625010"
+        },
+        "area": {
+            "en": "Ellis Nagar",
+            "ta": "எல்லிஸ் நகர்"
+        },
+        "phone": "090034 53255"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "ACE WRITE -",
+            "ta": "ஏஸ் ரைட்"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "HANDWRITING SCHOOL",
+            "ta": "கையெழுத்துப் பள்ளி"
+        },
+        "location": {
+            "en": "2nd Floor, 153, N Veli St, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "2வது தளம், 153, என் வேலி தெரு, சிம்மக்கல், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "097896 66429"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "Upanishadh English Language Academy",
+            "ta": "உபநிஷத் ஆங்கில மொழி அகாடமி"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Saras Towers, Bypass Road, Thai Moogambigai Nagar, Namachivaya Nagar, Madurai, Tamil Nadu 625016",
+            "ta": "சரஸ் டவர்ஸ், பைபாஸ் ரோடு, தாய் மூகாம்பிகை நகர், நமச்சிவாய நகர், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "097866 66115"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "BHARATHI Kids Park",
+            "ta": "பாரதி கிட்ஸ் பார்க்"
+        },
+        "type": {
+            "en": "Kindergarten School",
+            "ta": "மழலையர் பள்ளி"
+        },
+        "detail": {
+            "en": "Play school, Day care centre, Tuition centre, Jolly Phonics, Karate & Bharatanatyam class, music classes",
+            "ta": "ப்ளே ஸ்கூல், டே கேர் சென்டர், டியூஷன் சென்டர், ஜாலி ஃபோனிக்ஸ், கராத்தே & பரதநாட்டிய வகுப்பு, இசை வகுப்புகள்"
+        },
+        "location": {
+            "en": "Flat No 202, 7/562, Pillayar Kovil Street, NGO Colony, Nagamalaipudukottai, Tamil Nadu 625019",
+            "ta": "பிளாட் எண் 202, 7/562, பிள்ளையார் கோவில் தெரு, என்ஜிஓ காலனி, நாகமலைபுதுக்கோட்டை, தமிழ்நாடு 625019"
+        },
+        "area": {
+            "en": "Nagamalaibudukottai",
+            "ta": "நாகமலைபுதுக்கோட்டை"
+        },
+        "phone": "099521 19443"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "Madurai Tuition Center & Brainobrain",
+            "ta": "மதுரை டியூஷன் சென்டர் & பிரைனோபிரைன்"
+        },
+        "type": {
+            "en": "Tuition Center",
+            "ta": "டியூஷன் சென்டர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sai Shraddha Tuition Center, 142/1, 80 Feet Rd, near by Haritha Honda Showroom, Deputy Collector Colony, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "சாய் ஷ்ரத்தா பயிற்சி மையம், 142/1, 80 அடி தூரம், ஹரிதா ஹோண்டா ஷோரூம் அருகில், துணை கலெக்டர் காலனி, கே.கே.நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "K.K.Nagar",
+            "ta": "K.K.நகர்"
+        },
+        "phone": "089400 00232"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "Vkey Home Tuition services",
+            "ta": "Vkey ஹோம் டியூஷன் சேவைகள்"
+        },
+        "type": {
+            "en": "Tuition Center",
+            "ta": "டியூஷன் சென்டர்"
+        },
+        "detail": {
+            "en": " Home Tuition services",
+            "ta": "ஹோம் டியூஷன் சேவைகள்"
+        },
+        "location": {
+            "en": "1st, 20 A glasskara street, line, Netaji Road, Madurai, Tamil Nadu 625001",
+            "ta": "1வது, 20 ஒரு கண்ணாடிக்கார தெரு, வரி, நேதாஜி சாலை, மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "070107 77165"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "Indian Abacus @ Jaihindpuram - Madurai",
+            "ta": "இந்தியன் அபாகஸ் @ ஜெய்ஹிந்த்புரம் - மதுரை"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "Abacus",
+            "ta": "அபாகஸ்"
+        },
+        "location": {
+            "en": "No.35, Thilagar Lane, Ramaiah Main St, near Fund Office, Jaihindpuram, Tamil Nadu 625011",
+            "ta": "எண்.35, திலகர் லேன், ராமையா பிரதான தெரு, நிதி அலுவலகம் அருகில், ஜெய்ஹிந்த்புரம், தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "082204 11490"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Blue Pearl",
+            "ta": "புளூ பியர்ல் "
+        },
+        "type": {
+            "en": "Software Training institute",
+            "ta": "மென்பொருள் பயிற்சி நிறுவனம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Bus Stop, 2nd Floor, Muthoot Finance Upstair, Old Sandha Xerox Near Vasantha Nagar By-Pass road, Roundana, Palangantham, Madurai, Tamil Nadu 625003",
+            "ta": "பஸ் ஸ்டாப், 2வது தளம், முத்தூட் ஃபைனான்ஸ் மாடிக்கு, பழைய சந்தா ஜெராக்ஸ் அருகில் வசந்த நகர் பை-பாஸ் சாலை, ரவுண்டானா, பழங்கந்தம், மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Palanganatham",
+            "ta": "பழங்கந்தம்"
+        },
+        "phone": "086086 87877"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "SPARKS VIDYALAYA",
+            "ta": "ஸ்பார்க்ஸ் வித்யாலயா "
+        },
+        "type": {
+            "en": "Special education school",
+            "ta": "சிறப்பு கல்வி பள்ளி"
+        },
+        "detail": {
+            "en": " ( School for Autism)",
+            "ta": "(ஆட்டிஸத்திற்கான பள்ளி)"
+        },
+        "location": {
+            "en": "1st North Cross Street, Plot No 63, Anna Salai, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "1வது வடக்கு குறுக்குத் தெரு, பிளாட் எண் 63, அண்ணாசாலை, அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "097914 27200"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "Thendrel Vidyalaya Special School & Learning Disability Centre",
+            "ta": "தென்றல் வித்யாலயா சிறப்பு பள்ளி மற்றும் கற்றல் குறைபாடு மையம்"
+        },
+        "type": {
+            "en": "Special education school",
+            "ta": "சிறப்பு கல்வி பள்ளி"
+        },
+        "detail": {
+            "en": " (Spl Education,BrainGym ,Speech,Occupational,Yoga Therapy)",
+            "ta": " (Spl கல்வி, மூளை உடற்பயிற்சி, பேச்சு, தொழில், யோகா சிகிச்சை)"
+        },
+        "location": {
+            "en": "Virattipathu, 4, Jai nagar main street, near Theni Main Road, opposite Street of DBal School, Madurai, Tamil Nadu 625016",
+            "ta": "விரட்டிபத்து, 4, ஜெய் நகர் பிரதான தெரு, தேனி மெயின் ரோடு அருகில், டி.பால் பள்ளிக்கு எதிரில், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Drive away",
+            "ta": "விரட்டிபத்து"
+        },
+        "phone": "096008 21004"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "Vengadesh Roller Skating Academy",
+            "ta": "வெங்கடேஷ் ரோலர் ஸ்கேட்டிங் அகாடமி"
+        },
+        "type": {
+            "en": "Sports center",
+            "ta": "ஸ்போர்ட்ஸ் மையம் "
+        },
+        "detail": {
+            "en": "Skating Instructor",
+            "ta": "ஸ்கேட்டிங் பயிற்றுவிப்பாளர்"
+        },
+        "location": {
+            "en": "12, Commanding Officer 2nd Lane, West Masi Street, Valayal Kadai, Madurai, Main,, Madurai, Tamil Nadu 625001",
+            "ta": "12, கட்டளை அதிகாரி 2வது லேன், மேற்கு மாசி தெரு, வலயல் கடை, மதுரை, பிரதான, மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Mela Masi Street",
+            "ta": "மேல மாசி வீதி"
+        },
+        "phone": "098425 05598"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "Valimai Sports Academy",
+            "ta": "வலிமை ஸ்போர்ட்ஸ் அகாடமி"
+        },
+        "type": {
+            "en": "Sports center",
+            "ta": "ஸ்போர்ட்ஸ் மையம் "
+        },
+        "detail": {
+            "en": " BOXING & KICK BOXING, KARATE&TAEKWONDO, SILAMBAM, YOGA, FITNESS",
+            "ta": "குத்துச்சண்டை & கிக் குத்துச்சண்டை, கராத்தே & டேக்வாண்டோ, சிலம்பம், யோகா, உடற்தகுதி"
+        },
+        "location": {
+            "en": "3Road Floor, RS Slim Tower, Star Briyani Complex, 109/2, Bypass Road, Kalavasal, Madurai, Tamil Nadu 625016",
+            "ta": "3வது தளம், ஆர்எஸ் ஸ்லிம் டவர், ஸ்டார் பிரியாணி வளாகம், 109/2, பைபாஸ் சாலை, காளவாசல், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Kalavasal",
+            "ta": "காளவாசல்"
+        },
+        "phone": "090802 89199"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "EngLeash Academy ",
+            "ta": "எங்லீஷ் அகாடமி"
+        },
+        "type": {
+            "en": "English language school",
+            "ta": "ஆங்கில மொழி பள்ளி"
+        },
+        "detail": {
+            "en": "Spoken English/IELTS/TOEFL/PTE/OET, Hindi, French Training in Madurai || Regular and Online",
+            "ta": "ஸ்போகன் இங்கிலீஷ்/ஐஇஎல்டிஎஸ்/டோஃப்ல்/பிடிஇ/ஓஇடி, ஹிந்தி, பிரஞ்சு பயிற்சி மதுரையில் || வழக்கமான மற்றும் ஆன்லைன்"
+        },
+        "location": {
+            "en": "C1, Back Gate, rainbow complex, 14, PT Rajan Road, near OCPM Higher Secondary School, Narimedu, Madurai, Tamil Nadu 625002",
+            "ta": "C1, பின் கேட், ரெயின்போ வளாகம், 14, PT ராஜன் சாலை, OCPM மேல்நிலைப் பள்ளி அருகில், நரிமேடு, மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Narimedu",
+            "ta": "நரிமேடு"
+        },
+        "phone": "079044 03123"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "G Tec Madurai",
+            "ta": "ஜி டெக் மதுரை"
+        },
+        "type": {
+            "en": "Software Training institute",
+            "ta": "மென்பொருள் பயிற்சி நிறுவனம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2nd Floor, SKV Complex, 94/15, Bypass Road, Sathyamoorthy Nagar, S.B.O. Second Colony, Madurai, Tamil Nadu 625016",
+            "ta": "2வது தளம், SKV வளாகம், 94/15, பைபாஸ் சாலை, சத்தியமூர்த்தி நகர், எஸ்.பி.ஓ. இரண்டாவது காலனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "099523 26262"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "Rock& Groove dance academy",
+            "ta": "ராக் & க்ரூவ் நடன அகாடமி"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "Dance school",
+            "ta": "நடன பள்ளி"
+        },
+        "location": {
+            "en": "19c/55a, STR complex, TPK main road Kumaragam, Alagappanagar, Madurai, Tamil Nadu 625003",
+            "ta": "19c/55a, STR வளாகம், TPK பிரதான சாலை குமரகம், அழகப்பநகர், மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Alagappan Nagar",
+            "ta": "அழகப்பன் நகர்"
+        },
+        "phone": "097877 44877"
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "SIP ABACUS SS COLONY",
+            "ta": "SIP ABACUS SS காலனி"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "Abacus",
+            "ta": "அபாகஸ்"
+        },
+        "location": {
+            "en": "19/5, Dr Janaki Narayanan St, near SBI ATM, S S Colony, Madurai, Tamil Nadu 625016",
+            "ta": "19/5, டாக்டர் ஜானகி நாராயணன் தெரு, எஸ்பிஐ ஏடிஎம் அருகில், எஸ் எஸ் காலனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "S S Colony",
+            "ta": "S S காலனி"
+        },
+        "phone": "094443 72964"
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "Nila technical institute",
+            "ta": "நிலா தொழில்நுட்ப நிறுவனம்"
+        },
+        "type": {
+            "en": "Education center",
+            "ta": "கல்வி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "7d/2, New Ramnad Road, Old Meenakshi Nagar, Madurai, Meenakshi Nagar, Tamil Nadu 625009",
+            "ta": "7d/2, New Ramnad Road, பழைய மீனாட்சி நகர், மதுரை, மீனாட்சி நகர், தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "Meenakshi Nagar",
+            "ta": "மீனாட்சி நகர்"
+        },
+        "phone": "093602 83380"
+    },
+    {
+        "id": 38,
+        "name": {
+            "en": "Sri Krishna Pragyaan Academy",
+            "ta": "ஸ்ரீ கிருஷ்ண பிரக்யான் அகாடமி "
+        },
+        "type": {
+            "en": "Tuition Center",
+            "ta": "டியூஷன் சென்டர்"
+        },
+        "detail": {
+            "en": "Maths & Physics tuition Ionline and offline I  home tuition (CBSE I ICSE I IGCSE I IB))",
+            "ta": "கணித & இயற்பியல் டியூஷன் | ஆன்லைன் மற்றும் ஆஃப்லைன் I , வீட்டுப் பயிற்சி (CBSE I ICSE I IGCSE I IB))"
+        },
+        "location": {
+            "en": "37,PR Building, First floor, N Veli St, near Canara Bank, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "37, PR கட்டிடம், முதல் தளம், N Veli St, கனரா வங்கி அருகில், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "098424 83367"
+    },
+    {
+        "id": 39,
+        "name": {
+            "en": "Kalvi IAS Academy ",
+            "ta": "கல்வி IAS அகாடமி "
+        },
+        "type": {
+            "en": "Coaching Center",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "UPSC-IAS, IPS,CDS, NDA/TNPSC/Army/Police/SSC",
+            "ta": "UPSC-IAS, IPS,CDS, NDA/TNPSC/இராணுவம்/காவல்துறை/SSC"
+        },
+        "location": {
+            "en": "116, Arappalayam Main Road, near muniyaandi kovil, Puttuthoppu, Arappalayam, Madurai, Tamil Nadu 625016",
+            "ta": "16, ஆரப்பாளையம் மெயின் ரோடு, முனியாண்டி கோவில் அருகில், புட்டுத்தோப்பு, ஆரப்பாளையம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Sellur",
+            "ta": "செல்லூர்"
+        },
+        "phone": "072002 22381"
+    },
+    {
+        "id": 40,
+        "name": {
+            "en": "Brainobrain Sellur",
+            "ta": "பிரைனோபிரைன் செல்லூர்"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 21, Mariappan Nadar Complex, 60 Feet Road, Sellur, Madurai, Tamil Nadu 625002",
+            "ta": "21, மாரியப்பன் நாடார் வளாகம், 60 அடி சாலை, செல்லூர், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Avaniyapuram",
+            "ta": "அவனியாபுரம்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 41,
+        "name": {
+            "en": "Brainobrain Avaniyapuram",
+            "ta": "பிரைனோபிரைன் அவனியாபுரம்"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Zion Good ShepheRoad's Matric Hr. Sec. School Campus, APK Main Road, Avaniyapuram, Tamil Nadu 625012",
+            "ta": "சீயோன் குட் ஷெப்பர்டின் மெட்ரிக் Hr. நொடி பள்ளி வளாகம், ஏபிகே மெயின் ரோடு, அவனியாபுரம், தமிழ்நாடு 625012"
+        },
+        "area": {
+            "en": "Goodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "086809 04055"
+    },
+    {
+        "id": 42,
+        "name": {
+            "en": "STARS institute",
+            "ta": "ஸ்டார்ஸ் நிறுவனம்"
+        },
+        "type": {
+            "en": "English language school",
+            "ta": "ஆங்கில மொழி பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Anaiyur Road, Chellaiya Nagar, Koodal Nagar, Madurai, Tamil Nadu 625018",
+            "ta": "ஆனையூர் சாலை, செல்லையா நகர், கூடல் நகர், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Arapalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "086109 68175"
+    },
+    {
+        "id": 43,
+        "name": {
+            "en": "Able Kids Special School",
+            "ta": "திறன் குழந்தைகள் சிறப்பு பள்ளி"
+        },
+        "type": {
+            "en": "Special school",
+            "ta": "சிறப்பு பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "W4P2+R44, Corporation School Complex, Pillaimar Street, Arappalayam, Madurai, Tamil Nadu 625016",
+            "ta": "கார்ப்பரேஷன் பள்ளி வளாகம், பிள்ளைமார் தெரு, ஆரப்பாளையம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "0452 238 4555"
+    },
+    {
+        "id": 44,
+        "name": {
+            "en": "Balsu's Success Academy ",
+            "ta": "பால்ஸ் சக்சஸ் அகாடமி"
+        },
+        "type": {
+            "en": "Coaching Center",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "(CAT, CLAT, IPM, BBA, B.Com, NIFT, Spoken Hindi, Career Counseling Etc.)",
+            "ta": " (CAT, CLAT, IPM, BBA, B.Com, NIFT, ஸ்போகன் ஹிந்தி, தொழில் ஆலோசனை போன்றவை)"
+        },
+        "location": {
+            "en": "26, N Veli St, Simmakkal, Madurai Main, Madurai, Poondhotam, Tamil Nadu 625001",
+            "ta": "26, என் வேலி தெரு, சிம்மக்கல், மதுரை மெயின், மதுரை, பூந்தோட்டம், தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Kalavasal",
+            "ta": "காளவாசல்"
+        },
+        "phone": "093644 44662"
+    },
+    {
+        "id": 45,
+        "name": {
+            "en": "AAA - Abarna Arts Academy Aari Designer ",
+            "ta": "AAA - அபர்ணா ஆர்ட்ஸ் அகாடமி ஆரி டிசைனர் "
+        },
+        "type": {
+            "en": "Embroidery shop",
+            "ta": "எம்பிராய்டரி கடை"
+        },
+        "detail": {
+            "en": "( Aari Works and Class)",
+            "ta": "(ஆரி ஒர்க்ஸ் மற்றும் கிளாஸ்)"
+        },
+        "location": {
+            "en": "No 78, First Floor Ram Nagar 3Road Street, Bypass Road, Kalavasal, S S Colony, Madurai, Tamil Nadu 625016",
+            "ta": "78, முதல் தளம் ராம் நகர் 3வது தெரு, பைபாஸ் சாலை, காளவாசல், எஸ் எஸ் காலனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Meenampal Puram",
+            "ta": "மீனாம்பாள் புரம்"
+        },
+        "phone": "089038 44831"
+    },
+    {
+        "id": 46,
+        "name": {
+            "en": "Ak Silambam",
+            "ta": "AK சிலம்பம்"
+        },
+        "type": {
+            "en": "Sports school",
+            "ta": "விளையாட்டு பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "V.O.C 2nd street,Meenambal puram, Sellur, Madurai, Tamil Nadu 625002",
+            "ta": "V.O.C 2வது தெரு, மீனாம்பாள் புரம், செல்லூர், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Sellur",
+            "ta": "செல்லூர்"
+        },
+        "phone": "6383105529"
+    },
+    {
+        "id": 47,
+        "name": {
+            "en": "Future Time Tuition And Tutorials ",
+            "ta": "ஃப்யூச்சர் டுடோரியல் "
+        },
+        "type": {
+            "en": "Tuition Center",
+            "ta": "டியூஷன் சென்டர்"
+        },
+        "detail": {
+            "en": "(Hindi Class, Spoken English Class, Madurai)",
+            "ta": "(இந்தி வகுப்பு, பேச்சு ஆங்கில வகுப்பு, மதுரை)"
+        },
+        "location": {
+            "en": "Ahimsapuram 4th St, Sellur, Madurai, Tamil Nadu 625002",
+            "ta": "அகிம்சாபுரம் 4வது தெரு, செல்லூர், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Kalavasal",
+            "ta": "காளவாசல்"
+        },
+        "phone": "098428 02443"
+    },
+    {
+        "id": 48,
+        "name": {
+            "en": "American Spoken English",
+            "ta": "அமெரிக்கன் பேசும் ஆங்கிலம்"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 146, Theni Main Road, near PTR Sweets stall",
+            "ta": "146, தேனி மெயின் ரோடு, PTR ஸ்வீட்ஸ் ஸ்டால் அருகில்"
+        },
+        "area": {
+            "en": "Bonmani",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "093447 33371"
+    },
+    {
+        "id": 49,
+        "name": {
+            "en": "Madurai Chess Academy",
+            "ta": "மதுரை செஸ் அகாடமி"
+        },
+        "type": {
+            "en": "Sports center",
+            "ta": "ஸ்போர்ட்ஸ் மையம் "
+        },
+        "detail": {
+            "en": "Chess instructor",
+            "ta": "செஸ் பயிற்றுவிப்பாளர்"
+        },
+        "location": {
+            "en": "Fenner nagar 1st St, HMS Colony, Ponmeni, Madurai, Tamil Nadu 625016",
+            "ta": "ஃபென்னர் நகர் 1வது தெரு, எச்எம்எஸ் காலனி, பொன்மேனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "090803 05294"
+    },
+    {
+        "id": 50,
+        "name": {
+            "en": "I-Arch - Nata Coaching Centres in Madurai",
+            "ta": "மதுரையில் உள்ள ஐ-ஆர்க் - நாடா பயிற்சி மையங்கள்"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "341, 5th Floor, 80 Feet Road, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "341, 5வது தளம், 80 அடி சாலை, அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Narimedu",
+            "ta": "நரிமேடு"
+        },
+        "phone": "096985 88809"
+    },
+    {
+        "id": 51,
+        "name": {
+            "en": "Vishaka tuition centre",
+            "ta": "விசாகா டியூஷன் சென்டர்"
+        },
+        "type": {
+            "en": "Tuition Center",
+            "ta": "டியூஷன் சென்டர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Noyes Mt. Hr. sec. School, 35/11, Narimedu Main Road, Narimedu, Madurai, Tamil Nadu 625002",
+            "ta": "Noyes Mt. Hr. நொடி பள்ளி, 35/11, நரிமேடு பிரதான சாலை, நரிமேடு, மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "P & T Nagar",
+            "ta": "P & T நகர்"
+        },
+        "phone": "096001 19594"
+    },
+    {
+        "id": 52,
+        "name": {
+            "en": "AayaKalai Academy",
+            "ta": "ஆயக்கலை அகாடமி "
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 35, muthamizh nagar 2nd st, P and T Nagar Ext Road, Madurai, Tamil Nadu 625017",
+            "ta": "எண் 35, முத்தமிழ் நகர் 2வது ஸ்டம்ப், பி மற்றும் டி நகர் எக்ஸ்ட் ரோடு, மதுரை, தமிழ்நாடு 625017"
+        },
+        "area": {
+            "en": "Sammatipuram",
+            "ta": "சம்மட்டிபுரம்"
+        },
+        "phone": "086800 08844"
+    },
+    {
+        "id": 53,
+        "name": {
+            "en": "Chanakya chess academy",
+            "ta": "சாணக்யா செஸ் அகாடமி"
+        },
+        "type": {
+            "en": "Sports center",
+            "ta": "ஸ்போர்ட்ஸ் மையம் "
+        },
+        "detail": {
+            "en": "Chess instructor",
+            "ta": "செஸ் பயிற்றுவிப்பாளர்"
+        },
+        "location": {
+            "en": "179, 172, Sammattipuram Main Road",
+            "ta": "179, 172, சம்மட்டிபுரம் மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Kochadai",
+            "ta": "கோச்சடை"
+        },
+        "phone": "087542 00216"
+    },
+    {
+        "id": 54,
+        "name": {
+            "en": "Splash Activity Centre (SAC)",
+            "ta": "ஸ்பிளாஸ் செயல்பாட்டு மையம் (SAC)"
+        },
+        "type": {
+            "en": "Sports center",
+            "ta": "ஸ்போர்ட்ஸ் மையம் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "106/2C Namasivayam Nagar, Aanantha nagar,Vaigai street, Kochadai, Madurai, Tamil Nadu 625016",
+            "ta": "106/2C நமசிவாயம் நகர், ஆனந்த நகர், வைகை தெரு, கோச்சடை, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "097510 22666"
+    },
+    {
+        "id": 55,
+        "name": {
+            "en": "Ananthi Chess Academy ",
+            "ta": "ஆனந்தி செஸ் அகாடமி"
+        },
+        "type": {
+            "en": "Sports center",
+            "ta": "ஸ்போர்ட்ஸ் மையம் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "423, KRS Complex, Near Reliance Market, Managiri, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "423, கேஆர்எஸ் வளாகம், ரிலையன்ஸ் மார்க்கெட் அருகில், மானகிரி, கேகே நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Thirunagar",
+            "ta": "திருநகர்"
+        },
+        "phone": "094427 76466"
+    },
+    {
+        "id": 56,
+        "name": {
+            "en": "Veranda RACE",
+            "ta": "வெராண்டா ரேஸ்"
+        },
+        "type": {
+            "en": "Coaching Center",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": " Govt Exams Coaching institute - BANK, SSC, TNPSC, RAILWAYS, SI & PC - Madurai",
+            "ta": " அரசு தேர்வுகள் பயிற்சி நிறுவனம் - வங்கி, எஸ்எஸ்சி, டிஎன்பிஎஸ்சி, ரயில்வே, எஸ்ஐ & பிசி - மதுரை"
+        },
+        "location": {
+            "en": "bus stand, AR Road, Gnana Olipuram Street Poonga Nagar, Agarwal Eye hospital backside Near Aarapalyam, Madurai, Tamil Nadu 625016",
+            "ta": "பேருந்து நிலையம், ஏஆர் சாலை, ஞான ஒலிபுரம் தெரு பூங்கா நகர், அகர்வால் கண் மருத்துவமனை பின்புறம் ஆரபாளையம் அருகில், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Gomatipuram",
+            "ta": "கோமதிபுரம்"
+        },
+        "phone": "080983 43030"
+    },
+    {
+        "id": 57,
+        "name": {
+            "en": "Spoken English Training",
+            "ta": "ஸ்போகன் இங்கிலீஷ் பயிற்சி"
+        },
+        "type": {
+            "en": "Language school",
+            "ta": "மொழி பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Ponmeni Narayanan St, Navalar Nagar, Madurai, Tamil Nadu 625016",
+            "ta": "பொன்மேனி நாராயணன் தெரு, நாவலர் நகர், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Ponmeni",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "094864 15220"
+    },
+    {
+        "id": 58,
+        "name": {
+            "en": "Halo Design Academy ",
+            "ta": "ஹாலோ டிசைன் அகாடமி"
+        },
+        "type": {
+            "en": "Software Training institute",
+            "ta": "மென்பொருள் பயிற்சி நிறுவனம்"
+        },
+        "detail": {
+            "en": "UI/UX Design Training | Graphic Design Training",
+            "ta": " UI/UX வடிவமைப்பு |  கிராஃபிக் டிசைன் பயிற்சி"
+        },
+        "location": {
+            "en": "No. 15, Bypass Road, opp. to Madurai Heart Center, S.B.O. Second Colony, Ponmeni, Madurai, Tamil Nadu 625010",
+            "ta": "15, பைபாஸ் சாலை, எதிரில். மதுரை இதய மையத்திற்கு, எஸ்.பி.ஓ. இரண்டாவது காலனி, பொன்மேனி, மதுரை, தமிழ்நாடு 625010"
+        },
+        "area": {
+            "en": "TVS Nagar",
+            "ta": "TVS நகர்"
+        },
+        "phone": "088848 40039"
+    },
+    {
+        "id": 59,
+        "name": {
+            "en": "KASTEJ ACADEMY",
+            "ta": "KASTEJ அகாடமி"
+        },
+        "type": {
+            "en": "Business related",
+            "ta": "வணிகம் தொடர்பானது"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "D8, Rajam Road, T V S Nagar, Madurai, Tamil Nadu 625003",
+            "ta": "டி8, ராஜம் சாலை, டி வி எஸ் நகர், மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "098420 39100"
+    },
+    {
+        "id": 60,
+        "name": {
+            "en": "ACE SOFTWARE TRAINING",
+            "ta": "ACE மென்பொருள் பயிற்சி "
+        },
+        "type": {
+            "en": "Software Training institute",
+            "ta": "மென்பொருள் பயிற்சி நிறுவனம்"
+        },
+        "detail": {
+            "en": " IT TRAINING | ONLINE CLASSES | C,C++ |JAVA|PYTHON|FULL STACK",
+            "ta": "| IT பயிற்சி | ஆன்லைன் வகுப்புகள் | C,C++ |JAVA|PYTHON|FULL STACK"
+        },
+        "location": {
+            "en": "2nd Floor, 153, N Veli St, opp. to Bus stop, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "2வது தளம், 153, N வேலி தெரு, எதிரில். பேருந்து நிறுத்தம், சிம்மக்கல், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Thirunagar",
+            "ta": "திருநகர்"
+        },
+        "phone": "099522 11883"
+    },
+    {
+        "id": 61,
+        "name": {
+            "en": "Brainobrain Thirunagar",
+            "ta": "பிரைனோபிரைன் திருநகர்"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Indira Gandhi Memorial Matric Hr. Sec. School (Campus, near Muthuramalinga Thevar Arch, 5 A, Pasumpon street",
+            "ta": "இந்திரா காந்தி நினைவு மெட்ரிக் Hr. நொடி பள்ளி (வளாகம், முத்துராமலிங்க தேவர் ஆர்ச் அருகில், 5 ஏ, பசும்பொன் தெரு"
+        },
+        "area": {
+            "en": "K Pudur",
+            "ta": "K புதூர்"
+        },
+        "phone": "086809 02039"
+    },
+    {
+        "id": 62,
+        "name": {
+            "en": "JAYA MEENAKSHI GROUP OF  institutionS",
+            "ta": "ஜெயா மீனக்ஷி குரூப் ஆஃப் இன்ஸ்ட்டிட்யூட் "
+        },
+        "type": {
+            "en": "Fashion design school",
+            "ta": "பேஷன் டிசைன் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "3/781 A FIRST FLOOR, Alagar Kovil Main Road, opp. to SP OFFICE OUT GATE",
+            "ta": "3/781 முதல் தளம், அழகர் கோவில் பிரதான சாலை, எதிரில். SP அலுவலகத்திற்கு வெளியே கேட்"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "072000 82013"
+    },
+    {
+        "id": 63,
+        "name": {
+            "en": "Elysium Embedded School",
+            "ta": "எலிசியம் உட்பொதிக்கப்பட்ட பள்ளி "
+        },
+        "type": {
+            "en": "Software Training institute",
+            "ta": "மென்பொருள் பயிற்சி நிறுவனம்"
+        },
+        "detail": {
+            "en": "Microcontroller | Python | IoT | Robotics | Raspberry Pi Course",
+            "ta": "மைக்ரோகண்ட்ரோலர் | பைதன் | IoT | ரோபாட்டிக்ஸ் | ராஸ்பெர்ரி பை கோர்ஸ் "
+        },
+        "location": {
+            "en": "Second Floor, B-Block, Elysium Campus, 227, Sec B, Church Road",
+            "ta": "இரண்டாவது தளம், B-பிளாக், எலிசியம் வளாகம், 227, Sec B, சர்ச் சாலை"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "096777 24437"
+    },
+    {
+        "id": 64,
+        "name": {
+            "en": "Mahalakshmi's Princess Pre School",
+            "ta": "மகாலட்சுமியின் இளவரசி முன்பள்ளி"
+        },
+        "type": {
+            "en": "Preschool",
+            "ta": "பாலர் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Mahalakshmi's Princess Pre-school, Plot No. 440, Masoodhi street",
+            "ta": "மகாலட்சுமியின் இளவரசி முன்பள்ளி, பிளாட் எண். 440, மசூதி தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "093444 15374"
+    },
+    {
+        "id": 65,
+        "name": {
+            "en": "JAYA MEENAKSHI GROUP OF INSTITUTIONS",
+            "ta": "ஜெயா மீனக்ஷி குரூப் ஆஃப் இன்ஸ்டிடியூஷன்ஸ்"
+        },
+        "type": {
+            "en": "Fashion design school·",
+            "ta": "ஆடை வடிவமைப்பு பள்ளி ·"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "3/781 A FIRST FLOOR, Alagar Kovil Main Road, opp. to SP OFFICE OUT GATE, Surveyor Colony, Madurai, Tamil Nadu 625007",
+            "ta": "3/781 முதல் தளம், அழகர் கோவில் பிரதான சாலை, எதிரில். எஸ்பி அலுவலகத்திற்கு அவுட் கேட், சர்வேயர் காலனி, மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "7200082013"
+    },
+    {
+        "id": 66,
+        "name": {
+            "en": "Nakshathra Academy",
+            "ta": "நக்ஷத்ரா அகாடமி"
+        },
+        "type": {
+            "en": "Training centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Agrini Main Road",
+            "ta": "அக்ரினி மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Anadalpuram",
+            "ta": "ஆண்டாள்புரம் "
+        },
+        "phone": "078458 40553"
+    },
+    {
+        "id": 67,
+        "name": {
+            "en": "Vivekan Drawing Academy",
+            "ta": "விவேகன் டிராயிங் அகாதமி"
+        },
+        "type": {
+            "en": "Coaching Center",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "Drawing Class",
+            "ta": "டிராயிங் கிளாஸ் "
+        },
+        "location": {
+            "en": "62-a, 4th cross street, Ramaiah Main St",
+            "ta": "62-a, 4வது குறுக்குத் தெரு, ராமையா பிரதான தெரு"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 68,
+        "name": {
+            "en": "Golden Knights Chess Academy ",
+            "ta": "கோல்டன் நைட்ஸ் செஸ் அகாதமி"
+        },
+        "type": {
+            "en": "Sports center",
+            "ta": "ஸ்போர்ட்ஸ் மையம் "
+        },
+        "detail": {
+            "en": "Chess instructor",
+            "ta": "செஸ் பயிற்றுவிப்பாளர்"
+        },
+        "location": {
+            "en": "Agrini apartments, G-Top-1, Anirudh G Block Vasudhara Enclave",
+            "ta": "அக்ரினி குடியிருப்புகள், ஜி-டாப்-1, அனிருத் ஜி பிளாக் வசுதாரா என்கிளேவ்"
+        },
+        "area": {
+            "en": "Anadalpuram",
+            "ta": "ஆண்டாள்புரம் "
+        },
+        "phone": "099445 64728"
+    },
+    {
+        "id": 69,
+        "name": {
+            "en": "Partsun Academy",
+            "ta": "பார்ட்சூன் அகாதமி"
+        },
+        "type": {
+            "en": "Training Centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "",
+            "ta": ""
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "091591 41116"
+    },
+    {
+        "id": 70,
+        "name": {
+            "en": "Sri Agni meena neet academy",
+            "ta": "ஸ்ரீ அக்னி மீனா நீட் அகாடமி"
+        },
+        "type": {
+            "en": "Coaching Center",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "NEET Coaching",
+            "ta": "NEET பயிற்சி "
+        },
+        "location": {
+            "en": "No 89, Kambar street, Palaganatham Natraj Theter Back Side",
+            "ta": "எண் 89, கம்பர் தெரு, பழகநத்தம் நட்ராஜ் தியேட்டர் பின்புறம்"
+        },
+        "area": {
+            "en": "Palanganatham",
+            "ta": "பழங்கந்தம்"
+        },
+        "phone": "099425 41662"
+    },
+    {
+        "id": 71,
+        "name": {
+            "en": "Perfect Tuition Centre",
+            "ta": "பெர்பெக்ட் டியூஷன் சென்டர்"
+        },
+        "type": {
+            "en": "Tuition Center",
+            "ta": "டியூஷன் சென்டர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "23B, Jeevanagar 2nd St",
+            "ta": "23B, ஜீவாநகர் 2வது தெரு"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "096590 55137"
+    },
+    {
+        "id": 72,
+        "name": {
+            "en": "Dharshan Academy",
+            "ta": "தர்ஷன் அகாடமி"
+        },
+        "type": {
+            "en": "Coaching Center",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "14, sirungeri nagar, Bypass Road",
+            "ta": "14, சிறுங்கேரி நகர், பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": " Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "9500849544 & 8220713743"
+    },
+    {
+        "id": 73,
+        "name": {
+            "en": "Vinis beauty parlour A/c",
+            "ta": "வினிஸ் அழகு நிலையம் A/c "
+        },
+        "type": {
+            "en": "Beautician Class",
+            "ta": "அழகு நிலையம்"
+        },
+        "detail": {
+            "en": "Training academy women fitness gym & slimming centre",
+            "ta": "பயிற்சி அகாடமி பெண்கள் உடற்பயிற்சி உடற்பயிற்சி மற்றும் ஸ்லிம்மிங் மையம்"
+        },
+        "location": {
+            "en": "first floor, jeeva nagar, bus stop, 21 vsk complex",
+            "ta": "முதல் தளம், ஜீவா நகர், பேருந்து நிறுத்தம், 21 vsk வளாகம்"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "088381 24341"
+    },
+    {
+        "id": 74,
+        "name": {
+            "en": "PRINCY CIVIL ACADEMY",
+            "ta": "பிரின்சி சிவில் அகாடமி"
+        },
+        "type": {
+            "en": "Coaching Center",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "Civil Exams Academy",
+            "ta": "சிவில் தேர்வுகள் அகாடமி"
+        },
+        "location": {
+            "en": "No.306, V.M.R. Complex, Vasantha Nagar, opp. Jeyam Theatre",
+            "ta": "எண்.306, வி.எம்.ஆர். வளாகம், வசந்த நகர், எதிரில். ஜெயம் தியேட்டர்"
+        },
+        "area": {
+            "en": "Vasantha Nagar",
+            "ta": "வசந்த நகர்,"
+        },
+        "phone": "086108 20428"
+    },
+    {
+        "id": 75,
+        "name": {
+            "en": "CSS ACADEMY",
+            "ta": "CSS அகாடமி "
+        },
+        "type": {
+            "en": "Training Centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "Software Training institute",
+            "ta": "மென்பொருள் பயிற்சி நிறுவனம்"
+        },
+        "location": {
+            "en": "156, South Gate, Periyar, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "156, தெற்கு வாசல், பெரியார், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": " Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "9500276489"
+    },
+    {
+        "id": 76,
+        "name": {
+            "en": "CSS ACADEMY",
+            "ta": "CSS அகாடமி "
+        },
+        "type": {
+            "en": "Coaching Center",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": 149,
+            "ta": 149
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "093619 85273"
+    },
+    {
+        "id": 77,
+        "name": {
+            "en": "Phoenix Taekwondo Academy",
+            "ta": "பீனிக்ஸ் டேக்வாண்டோ அகாடமி"
+        },
+        "type": {
+            "en": "Sports center",
+            "ta": "ஸ்போர்ட்ஸ் மையம் "
+        },
+        "detail": {
+            "en": "Taekwondo School",
+            "ta": "டேக்வாண்டோ பள்ளி"
+        },
+        "location": {
+            "en": "star biriyani, 3rd floor Asai thambi street Ambur",
+            "ta": "நட்சத்திர பிரியாணி, 3வது தளம் ஆசை தம்பி தெரு ஆம்பூர்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "096296 23128"
+    },
+    {
+        "id": 78,
+        "name": {
+            "en": "KAYA ACADEMY",
+            "ta": "காயா அகாடமி"
+        },
+        "type": {
+            "en": "Coaching Center",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Aruppukottai Rd, TNHB Colony, Madurai, Tamil Nadu 625011",
+            "ta": "அருப்புக்கோட்டை சாலை, TNHB காலனி, மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Villapuram ",
+            "ta": "வில்லாபுரம் "
+        },
+        "phone": "8608500055"
+    },
+    {
+        "id": 79,
+        "name": {
+            "en": "Radian IAS Academy",
+            "ta": "ரேடியன் ஐஏஎஸ் அகாடமி"
+        },
+        "type": {
+            "en": "Coaching Center",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Palangantham, Kovalan Nagar 4th St",
+            "ta": "பழங்காந்தம், கோவலன் நகர் 4வது தெரு"
+        },
+        "area": {
+            "en": "Palanganatham",
+            "ta": "பழங்கந்தம்"
+        },
+        "phone": "098404 33955"
+    },
+    {
+        "id": 80,
+        "name": {
+            "en": "Aurora Groups of Institution & ALCE",
+            "ta": "அரோரா குழுமங்கள் நிறுவனம் & ALCE"
+        },
+        "type": {
+            "en": "Coaching Center",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "205, Thomas Road",
+            "ta": "205, தாமஸ் ஆர்.டி"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "099940 18553"
+    },
+    {
+        "id": 81,
+        "name": {
+            "en": "Dexter Academy",
+            "ta": "டெக்ஸ்டர் அகாடமி"
+        },
+        "type": {
+            "en": "Training Centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Bus stop, 132, S Marret St",
+            "ta": "பேருந்து நிறுத்தம், 132, S Marret St"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "080554 42203"
+    },
+    {
+        "id": 82,
+        "name": {
+            "en": "REACH Academy ",
+            "ta": "ரீச் அகாடமி"
+        },
+        "type": {
+            "en": "Coaching Center",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "NEET Coaching",
+            "ta": "NEET பயிற்சி "
+        },
+        "location": {
+            "en": "252 Good Shed St, opp. to Dr Shrinivasan eye hospital",
+            "ta": "252 குட் ஷெட் தெரு, எதிரில். டாக்டர் ஸ்ரீனிவாசன் கண் மருத்துவமனைக்கு"
+        },
+        "area": {
+            "en": " Good Shed Street",
+            "ta": "குட் ஷெட் தெரு "
+        },
+        "phone": "098423 02700"
+    },
+    {
+        "id": 83,
+        "name": {
+            "en": "Madurai Milestone Academy",
+            "ta": "மதுரை மைல்ஸ்டோன் அகாடமி"
+        },
+        "type": {
+            "en": "Training Centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2/30, Avenue St, Sakthi Velammal Nagar, S S Colony, Madurai, Tamil Nadu 625010",
+            "ta": "2/30, அவென்யூ தெரு, சக்தி வேலம்மாள் நகர், எஸ் எஸ் காலனி, மதுரை, தமிழ்நாடு 625010"
+        },
+        "area": {
+            "en": " S S Colony",
+            "ta": "எஸ் எஸ் காலனி"
+        },
+        "phone": "7418576062"
+    },
+    {
+        "id": 84,
+        "name": {
+            "en": "KANISKA ACADEMY",
+            "ta": "கனிஸ்கா அகாடமி "
+        },
+        "type": {
+            "en": "Training Centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": " /ART & CRAFT/BHARATANATYAM SCHOOL/Tailoring/Aari",
+            "ta": "/ கலை மற்றும் கைவினை / பரதநாட்டியம் பள்ளி / தையல் / ஆரி"
+        },
+        "location": {
+            "en": "A, 105, S Marret St",
+            "ta": "A, 105, S Marret St"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "099766 48788"
+    },
+    {
+        "id": 85,
+        "name": {
+            "en": "Sri Balan School of Commerce",
+            "ta": "ஸ்ரீ பாலன் ஸ்கூல் ஆப் காமர்ஸ்"
+        },
+        "type": {
+            "en": "Training Centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "Type writiing school",
+            "ta": "டைப் ரைட்டிங் ஸ்கூல்"
+        },
+        "location": {
+            "en": "KB Complex, Madakulam Main Road, Palangantham, Madurai, Tamil Nadu 625003",
+            "ta": "கேபி வளாகம், மடக்குளம் மெயின் ரோடு, பழங்காநத்தம் "
+        },
+        "area": {
+            "en": "Palanganatham",
+            "ta": "பழங்கந்தம்"
+        },
+        "phone": "099947 04301"
+    },
+    {
+        "id": 86,
+        "name": {
+            "en": "Dream Zone",
+            "ta": "ட்ரீம் ஜோன்"
+        },
+        "type": {
+            "en": "Training Centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "Creative Studio",
+            "ta": "கிரேயடிவ் ஸ்டுடியோ "
+        },
+        "location": {
+            "en": "Agrini apartments, Ramalinga Centre, N.o-78, 3Road Floor, Tirupparankunram Road, opposite to saibaba temple",
+            "ta": "அக்ரினி அடுக்குமாடி குடியிருப்புகள், ராமலிங்க மையம், N.o-78, 3வது தளம், திருப்பரங்குன்றம் சாலை, சாய்பாபா கோவிலுக்கு எதிரில்"
+        },
+        "area": {
+            "en": "Anadalpuram",
+            "ta": "ஆண்டாள்புரம் "
+        },
+        "phone": "099943 75055"
+    },
+    {
+        "id": 87,
+        "name": {
+            "en": "Brainy Kids Academy",
+            "ta": "பிரெய்னி கிட்ஸ் அகாடமி"
+        },
+        "type": {
+            "en": " Kids Academy",
+            "ta": "பள்ளி"
+        },
+        "detail": {
+            "en": "kids brain training ",
+            "ta": "கிட்ஸ் ப்ரெய்ன் ட்ரைனிங் "
+        },
+        "location": {
+            "en": "",
+            "ta": ""
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "097904 49279"
+    },
+    {
+        "id": 88,
+        "name": {
+            "en": "Medha Academy",
+            "ta": "மேதா அகாதமி"
+        },
+        "type": {
+            "en": "Tuition",
+            "ta": "டியுசன் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "19, A SUBBARAYAR AGRAHARAM, Kaka Thoppu Street",
+            "ta": "19, சுப்பராயர் அக்ரஹாரம், காக்கா தோப்பு தெரு"
+        },
+        "area": {
+            "en": "Kaka Thoppu Street",
+            "ta": "காக்கா தோப்பு தெரு"
+        },
+        "phone": "9087215543 & 9894143019"
+    },
+    {
+        "id": 89,
+        "name": {
+            "en": "Isai Yugam Academy",
+            "ta": "இசை யுகம் அகாடமி"
+        },
+        "type": {
+            "en": "Music school",
+            "ta": "இசைப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shanthi Complex, 1, Aruppukottai Main Road, near zam zam",
+            "ta": "சாந்தி வளாகம், 1, அருப்புக்கோட்டை மெயின் ரோடு, ஜாம் ஜாம் அருகில்"
+        },
+        "area": {
+            "en": "Villapuram ",
+            "ta": "வில்லாபுரம் "
+        },
+        "phone": "091598 11011"
+    },
+    {
+        "id": 90,
+        "name": {
+            "en": "BM MUSIC ACADEMY",
+            "ta": "BM மியூசிக் அகடமி"
+        },
+        "type": {
+            "en": "Music school",
+            "ta": "இசைப் பள்ளி"
+        },
+        "detail": {
+            "en": " /London Trinity College Music Exam Centre Office",
+            "ta": "/London Trinity College Music Exam Center Office"
+        },
+        "location": {
+            "en": "1st floor, PR COMPLEX, BUS STOP, Tirupparankunram Road",
+            "ta": "1வது தளம், PR காம்ப்ளக்ஸ், பஸ் ஸ்டாப், திருப்பரங்குன்றம் சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "094429 96454"
+    },
+    {
+        "id": 91,
+        "name": {
+            "en": "JK Academy",
+            "ta": "ஜேகே அகாடமி"
+        },
+        "type": {
+            "en": "Training Centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "North Street Main Road, Thendal Nagar, Villapuram Colony, Villapuram, Madurai, Tamil Nadu 625011",
+            "ta": "வடக்கு தெரு பிரதான சாலை, தென்றல் நகர், வில்லாபுரம் காலனி, வில்லாபுரம், மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Villapuram ",
+            "ta": "வில்லாபுரம் "
+        },
+        "phone": "098430 28649"
+    },
+    {
+        "id": 92,
+        "name": {
+            "en": "Kayal Maths Academy",
+            "ta": "கயல் மேத்ஸ் அகாதமி"
+        },
+        "type": {
+            "en": "Tution center",
+            "ta": "டியூஷன் சென்டர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "3/1 Rengan, Seeni Asari Ln, South Gate, Periyar, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "3/1 ரெங்கன், சீனி ஆசாரி தெரு, தெற்கு வாசல், பெரியார், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "South Gate",
+            "ta": "தெற்கு வாசல்"
+        },
+        "phone": "7540085400"
+    },
+    {
+        "id": 93,
+        "name": {
+            "en": "Ruksha Academy -",
+            "ta": "ருக்ஷா அகாடமி "
+        },
+        "type": {
+            "en": "Tuition",
+            "ta": "டியுசன் "
+        },
+        "detail": {
+            "en": "Tution & Spoken English Training Institutes",
+            "ta": "டியூஷன் மற்றும் பேச்சு ஆங்கில பயிற்சி நிறுவனங்கள்"
+        },
+        "location": {
+            "en": "No.3 Gunamegala Cottage Bharathidasan, 1st St, Thiruvalluvar Nagar, Palangantham, Tamil Nadu 625003",
+            "ta": "3 குணமேகலா குடிசை பாரதிதாசன், 1வது தெரு, திருவள்ளுவர் நகர், பழங்காந்தம், தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Palanganatham",
+            "ta": "பழங்கந்தம்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 94,
+        "name": {
+            "en": "Success Academy",
+            "ta": "சக்ஸஸ் அகாடமி"
+        },
+        "type": {
+            "en": "School",
+            "ta": "பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Varppu Kannara Ln",
+            "ta": "வார்ப்பு கண்ணர ல்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "095002 15543"
+    },
+    {
+        "id": 95,
+        "name": {
+            "en": "Flair Mania Bartending Academy ",
+            "ta": "ஃபிளேர் மேனியா பார்டெண்டிங் அகாடமி "
+        },
+        "type": {
+            "en": "Training Centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "| Events | barista | coffee | hotel management",
+            "ta": "| நிகழ்வுகள் | பாரிஸ்டா | காபி | ஹோட்டல் நிர்வாகம்"
+        },
+        "location": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": " Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": ""
+    },
+    {
+        "id": 96,
+        "name": {
+            "en": "Rajharan Music",
+            "ta": "ராஜஹரன் இசை"
+        },
+        "type": {
+            "en": "Music school",
+            "ta": "இசைப் பள்ளி"
+        },
+        "detail": {
+            "en": "Violin Class",
+            "ta": "வயலின் கிளாஸ்"
+        },
+        "location": {
+            "en": "3436 Mela Anupanadi, TNHB Colony, 625011",
+            "ta": "3436, மேல அனுபனாடி, TNHB காலனி, மதுரை 625011"
+        },
+        "area": {
+            "en": "Mela Anupanadi",
+            "ta": "மேல அனுபனாடி"
+        },
+        "phone": "080723 33630"
+    },
+    {
+        "id": 97,
+        "name": {
+            "en": "Annai Career Institute",
+            "ta": "அன்னை கேரியர் இன்ஸ்டிடியூட்"
+        },
+        "type": {
+            "en": "Coaching Center",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "NEET,JEE,CUET,ICAR,CLAT,IMUCET,CAT,MAT,GMAT,XAT,NIMCET, TANCET,NIFT, NCHMCT,IPMAT,NDA",
+            "ta": "NEET,JEE,CUET,ICAR,CLAT,IMUCET,CAT,MAT,GMAT,XAT,NIMCET, TANCET,NIFT, NCHMCT,IPMAT,NDA"
+        },
+        "location": {
+            "en": "Bus Stop Konar Mess, 96, 1rd Floor North Veli Street, Road, near Apollo Pharmacy",
+            "ta": "பேருந்து நிறுத்தம் கோனார் மெஸ், 96, 1வது தளம் வடக்கு வெளி தெரு, சாலை, அப்பல்லோ பார்மசி அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "099941 62188"
+    },
+    {
+        "id": 98,
+        "name": {
+            "en": "SUN INFOTECH",
+            "ta": "சன் இன்ஃபோடெக்"
+        },
+        "type": {
+            "en": "Training Centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "(GENESIS TALLY) EXCLUSIVE TALLY ACADEMY",
+            "ta": "(ஜெனிசிஸ் டேலி) எக்ஸ்க்ளூசிவ் டேலி அகாடமி"
+        },
+        "location": {
+            "en": "8,9 2ND Floor, Krishnarayar Tank Rd, opp. Harley Ram Hospital, near Sethupathi School",
+            "ta": "8,9 2ND தளம், கிருஷ்ணராயர் டேங்க் ரோடு, எதிரில். ஹார்லி ராம் மருத்துவமனை, சேதுபதி பள்ளி அருகில்"
+        },
+        "area": {
+            "en": " near Sethupathi School",
+            "ta": "சேதுபதி பள்ளி அருகில்"
+        },
+        "phone": "096779 77888"
+    },
+    {
+        "id": 99,
+        "name": {
+            "en": "Fire & Safety courses",
+            "ta": "தீ & பாதுகாப்பு படிப்புகள்"
+        },
+        "type": {
+            "en": "Training Centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "TN Govt. Polytechnic College, Madurai, Approved by DoTE, Govt. of Tamilnadu",
+            "ta": "TN Govt. பாலிடெக்னிக் கல்லூரி, மதுரை, DoTE ஆல் அங்கீகரிக்கப்பட்டது, அரசு. தமிழ்நாட்டின்"
+        },
+        "location": {
+            "en": "Tamilnadu Government Polytechnic College, Tirupparankunram Rd",
+            "ta": "தமிழ்நாடு அரசு பாலிடெக்னிக் கல்லூரி, திருப்பரங்குன்றம் ரோடு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "098421 14069"
+    },
+    {
+        "id": 100,
+        "name": {
+            "en": "Sthayi Isaiyalayam music acedemy",
+            "ta": "ஸ்தாயி இசையாலயம் இசை அகாடமி"
+        },
+        "type": {
+            "en": "Music school",
+            "ta": "இசைப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "KFC, 4, Bypass Road, Vanamamalai Nagar, Durai Samy Nagar, State Bank Supervisors Colony, Madurai, Tamil Nadu 625010",
+            "ta": "KFC, 4, பைபாஸ் சாலை, வானமாமலை நகர், துரை சாமி நகர், ஸ்டேட் பாங்க் சூப்பர்வைசர்ஸ் காலனி, மதுரை, தமிழ்நாடு 625010"
+        },
+        "area": {
+            "en": " Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "04522380073 & 9655720603"
+    },
+    {
+        "id": 101,
+        "name": {
+            "en": "Joel Music Academy",
+            "ta": "ஜோயல் மியூசிக் அகாடமி"
+        },
+        "type": {
+            "en": "Music school",
+            "ta": "இசைப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "20, Sandhya St, Velmurugan Nagar, Durai Samy Nagar, Madurai, Tamil Nadu 625003",
+            "ta": "20, சந்தியா தெரு, வேல்முருகன் நகர், துரை சாமி நகர், மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": " Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "098403 20567"
+    },
+    {
+        "id": 102,
+        "name": {
+            "en": "G.V.S. MUSIC SCHOOL",
+            "ta": "ஜி.வி.எஸ். இசைப் பள்ளி"
+        },
+        "type": {
+            "en": "",
+            "ta": "இசைப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "91, 73-1, Vellaikannu Theatre Road, near BIG BAZAAR",
+            "ta": "91, 73-1, வெள்ளைக்கண்ணு தியேட்டர் ரோடு, பிக் பஜார் அருகில்"
+        },
+        "area": {
+            "en": " Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "095781 38989"
+    },
+    {
+        "id": 103,
+        "name": {
+            "en": "",
+            "ta": "ஓம் டியூஷன் சென்டர் இல் மதுரை"
+        },
+        "type": {
+            "en": "",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "208, Bharathiyar St, Solaialagu Puram, Jaihindpuram, Madurai, Tamil Nadu 625011",
+            "ta": "208, பாரதியார் புனித, சோலைஅழகு புரம், ஜெய்ஹிந்த்புரம், மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "098425 16419"
+    },
+    {
+        "id": 104,
+        "name": {
+            "en": "Maria Joseph Music Academy",
+            "ta": "மரியா ஜோசப் மியூசிக் அகாடமி"
+        },
+        "type": {
+            "en": "",
+            "ta": "இசைப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 117, 2, E.M.S.Nagar 2nd Street, near Dolphin School",
+            "ta": "117, 2, E.M.S.நகர் 2வது தெரு, டால்பின் பள்ளி அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "099650 83990"
+    },
+    {
+        "id": 105,
+        "name": {
+            "en": "Golden International academy",
+            "ta": "கோல்டன் இன்டர்நேஷனல் அகாடமி"
+        },
+        "type": {
+            "en": "",
+            "ta": "கல்வி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "A21, Pandian Street",
+            "ta": "A21, பாண்டியன் தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "073738 48884"
+    },
+    {
+        "id": 106,
+        "name": {
+            "en": "Joel Music School",
+            "ta": "ஜோயேல் மியூசிக் ஸ்கூல்"
+        },
+        "type": {
+            "en": "",
+            "ta": "இசைப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "152, 2nd St, Thendral Nagar, Jeeva Nagar, Madurai, Tamil Nadu 625011",
+            "ta": "152, 2வது தெரு, தென்றல் நகர், ஜீவா நகர், மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "098659 27744"
+    },
+    {
+        "id": 107,
+        "name": {
+            "en": "SUCLA CA/CMA/CS Exam Coaching Centre",
+            "ta": "சுக்லா க/சிஎம்ஏ/சிஎஸ் எக்ஸாம் கோச்சிங் சென்டர்"
+        },
+        "type": {
+            "en": "",
+            "ta": "கல்வி நிறுவனங்கள்"
+        },
+        "detail": {
+            "en": "CA/CMA/CS Exam Coaching Centre",
+            "ta": "CA/CMA/CS எக்ஸாம் கோச்சிங் சென்டர்"
+        },
+        "location": {
+            "en": "Bus Stop, 22, First Floor, TMAK Kasi Complex, Near Simmakkal, Thirumalairayar Padithurai Road, near Annamalai Theatre",
+            "ta": "பேருந்து நிறுத்தம், 22, முதல் தளம், TMAK காசி வளாகம், சிம்மக்கல் அருகில், திருமலைராயர் படித்துறை சாலை, அண்ணாமலை தியேட்டர் அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "0452 796 2448"
+    },
+    {
+        "id": 108,
+        "name": {
+            "en": "Lotus TRB English Coaching",
+            "ta": "லோட்டஸ் TRB  இங்கிலீஷ் கோச்சிங்"
+        },
+        "type": {
+            "en": "",
+            "ta": "சிவில் தேர்வுகள் அகாடமி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "41, Dr Janaki Narayanan St, S S Colony, Madurai, Tamil Nadu 625010",
+            "ta": "41, டாக்டர் ஜானகி நாராயணன் தெரு, எஸ்.எஸ். காலனி, மதுரை, தமிழ்நாடு 625010"
+        },
+        "area": {
+            "en": " S S Colony",
+            "ta": "எஸ் எஸ் காலனி"
+        },
+        "phone": "097895 13730"
+    },
+    {
+        "id": 109,
+        "name": {
+            "en": "Golden Knights Chess Academy",
+            "ta": "கோல்டன் நைட்ஸ் செஸ் அகாடமி"
+        },
+        "type": {
+            "en": "Sports center",
+            "ta": "ஸ்போர்ட்ஸ் மையம் "
+        },
+        "detail": {
+            "en": "Chess instructor",
+            "ta": "செஸ் பயிற்றுவிப்பாளர்"
+        },
+        "location": {
+            "en": "No. 58, 1st Floor, Priya Complex P & T Nagar Extension Road, Near Jayaram Bakery Bama Nagar, West, Iyer Bungalow, Keelapanangadi, Madurai, Tamil Nadu 625017",
+            "ta": "எண். 58, 1வது தளம், பிரியா காம்ப்ளக்ஸ் பி & டி நகர் நீட்டிப்பு சாலை, ஜெயராம் பேக்கரி அருகில் பாமா நகர், மேற்கு, ஐயர் பங்களா, கீழப்பனங்காடி, மதுரை, தமிழ்நாடு 625017"
+        },
+        "area": {
+            "en": "Iyer Bungalow",
+            "ta": "ஐயர் பங்களா"
+        },
+        "phone": "8072231625"
+    },
+    {
+        "id": 110,
+        "name": {
+            "en": "Golden Knights Chess Academy",
+            "ta": "கோல்டன் நைட்ஸ் செஸ் அகாடமி"
+        },
+        "type": {
+            "en": "Sports center",
+            "ta": "ஸ்போர்ட்ஸ் மையம் "
+        },
+        "detail": {
+            "en": "Chess instructor",
+            "ta": "செஸ் பயிற்றுவிப்பாளர்"
+        },
+        "location": {
+            "en": "Agrini apartments, G-Top-1, Anirudh G Block Vasudhara Enclave, Andalpuram, Tamil Nadu 625003",
+            "ta": "அக்ரினி அடுக்குமாடி குடியிருப்புகள், ஜி-டாப்-1, அனிருத் ஜி பிளாக் வசுதாரா என்கிளேவ், ஆண்டாள்புரம், தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Anadalpuram",
+            "ta": "ஆண்டாள்புரம் "
+        },
+        "phone": "9944564728 & 720099495"
+    },
+    {
+        "id": 111,
+        "name": {
+            "en": "TALLY INSTITUTE",
+            "ta": "டாலி இன்ஸ்டிடியூட்"
+        },
+        "type": {
+            "en": "Training Centre",
+            "ta": "பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shop No. 174E, 2nd Floor, N Veli St, opposite : CANARA Bank Next Building : Alagendran Automobile & Nachiappa Agency",
+            "ta": "174E, 2வது தளம், N வேலி தெரு, எதிரில்: கனரா வங்கி அடுத்த கட்டிடம்: அழகேந்திரன் ஆட்டோமொபைல் & நாச்சியப்பா ஏஜென்சி"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "99427 81728"
+    },
+    {
+        "id": 112,
+        "name": {
+            "en": "R.p.academy",
+            "ta": "ஆர்.பி.அகாடமி"
+        },
+        "type": {
+            "en": "",
+            "ta": "பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "138, Meenakshi Nagar 2nd street, Ponmeni Main Road",
+            "ta": "138, மீனாட்சி நகர் 2வது தெரு, பொன்மேனி மெயின் ரோடு"
+        },
+        "area": {
+            "en": " Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "090800 31189"
+    },
+    {
+        "id": 113,
+        "name": {
+            "en": "Safa Academy",
+            "ta": "சஃபா அகாடமி"
+        },
+        "type": {
+            "en": "",
+            "ta": "பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "MIG 731, Melaannupanadi, housing board colony",
+            "ta": "MIG 731, மேலஅனுபாநடி, ஹவுசிங் போர்டு காலனி"
+        },
+        "area": {
+            "en": "Mela Anupanadi",
+            "ta": "மேல அனுபனாடி"
+        },
+        "phone": "083448 49950"
+    },
+    {
+        "id": 114,
+        "name": {
+            "en": "Gurusisya - Chess Academy - Madurai",
+            "ta": "குருசிஸ்யா - செஸ் அகாடமி - மதுரை"
+        },
+        "type": {
+            "en": "Sports center",
+            "ta": "ஸ்போர்ட்ஸ் மையம் "
+        },
+        "detail": {
+            "en": "Chess instructor",
+            "ta": "செஸ் பயிற்றுவிப்பாளர்"
+        },
+        "location": {
+            "en": "Plot No: 2050, Thenral Nagar, TNHB Colony, Madurai, Tamil Nadu 625012",
+            "ta": "பிளாட் எண்: 2050, தென்றல் நகர், TNHB காலனி, மதுரை, தமிழ்நாடு 625012"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "080566 57275"
+    },
+    {
+        "id": 115,
+        "name": {
+            "en": "",
+            "ta": ""
+        },
+        "type": {
+            "en": "",
+            "ta": ""
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "",
+            "ta": ""
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": ""
+    }
+]

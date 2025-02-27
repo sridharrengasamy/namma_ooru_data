@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "Madurai Voluntary Blood Bank & Research Centre",
+            "ta": "மதுரை ஒழுண்டரி பிளட் வங்கி & ரிசர்ச் சென்டர்"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "42, Kakkan St, Shenoy Nagar, Madurai, Tamil Nadu 625002",
+            "ta": "42, கக்கன் செயின்ட், ஷெனாய் நகர், மதுரை- 625002"
+        },
+        "area": {
+            "en": "Shenoy Nagar",
+            "ta": "ஷெனாய் நகர்"
+        },
+        "phone": "0452 452 4452"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "Shanthi Blood Centre",
+            "ta": "Shanthi Blood Centre"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "9, State Bank Colony Royal Street, 70 Feet, Bye Pass Road, Ellis Nagar, Madurai, Tamil Nadu 625010",
+            "ta": "9, ஸ்டேட் பாங்க் காலனி ராயல் தெரு, 70 அடி, பை பாஸ் சாலை"
+        },
+        "area": {
+            "en": "Bye Pass Road",
+            "ta": "பை பாஸ் சாலை"
+        },
+        "phone": "81900 60300"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "Mathura Blood Bank",
+            "ta": "மதுரா பிளட் வங்கி"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "51-A, Arasaradi, ஆரப்பளையம் ",
+            "ta": "51-A, அரசரடி ,, ஆரப்பாளையம்,தமிழ் நாடு 625016"
+        },
+        "area": {
+            "en": "Arasaradi",
+            "ta": "அரசரடி"
+        },
+        "phone": "0452 435 2535"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Mother Abrami Blood Bank",
+            "ta": "அன்னை அபிராமி இரத்த வங்கி"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "46C/2 Ground floor, near tvs, Theni Rd, near vvm marriage hall, opp. to meenakshi hotel, Madurai, Tamil Nadu 625016",
+            "ta": "46C/2 தரை தளம், TVS அருகில், தேனி சாலை, VVM திருமண மண்டபம் அருகில், எதிரில். மீனாட்சி ஹோட்டலுக்கு, மதுரை- 625016"
+        },
+        "area": {
+            "en": "Theni Main  Road ",
+            "ta": " தேனி சாலை"
+        },
+        "phone": "0452 233 9750"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "Shiva Blood Bank",
+            "ta": "சிவன் பிளட் வங்கி"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Star park kalyana Mahal Road, 278, 1st East Main Rd, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "ஸ்டார் பார்க் கல்யாண மஹால் சாலை, 278, 1வது கிழக்கு பிரதான சாலை, அண்ணா நகர், மதுரை- 625020"
+        },
+        "area": {
+            "en": " Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "0452 253 6562"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "Satyam Blood Bank",
+            "ta": "சத்யம் பிளட் வங்கி"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Old Kuyavar Palayam Rd, Munichali, Balarengapuram, Madurai, Tamil Nadu 625009",
+            "ta": "பழைய குயவர் பாளையம் ரோடு,பாலரெங்காபுரம் "
+        },
+        "area": {
+            "en": "Old Kuyavar Palayam Rd",
+            "ta": "குயவர் பாளையம் ரோடு"
+        },
+        "phone": ""
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Meenakshi Mission Hospital",
+            "ta": "மீனாட்சி மிஷன் மருத்துவமனை"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Lake Area, Melur Main Rd, Madurai, Tamil Nadu 625107",
+            "ta": "மேலூர் மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Mattuthavani ",
+            "ta": "மாட்டுத்தாவணி "
+        },
+        "phone": "0452 258 8741"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Madurai Blood Donors Trust",
+            "ta": "மதுரை பிளட் டோனர்ஸ் ட்ரஸ்ட்"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "205, 27, Munichalai Rd, Munichalai, Madurai, Tamil Nadu 625009",
+            "ta": "205, 27, முனிச்சலை வீதி"
+        },
+        "area": {
+            "en": "Munichalai",
+            "ta": "முனிச்சலை"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Govt Rajaji Hospital Blood Bank",
+            "ta": "கவர்மண்ட் ராஜாஜி ஹாஸ்பிடல் பிளட் வங்கி"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Goripalayam",
+            "ta": "கோரிபாளையம் "
+        },
+        "area": {
+            "en": "Goripalayam",
+            "ta": "கோரிபாளையம் "
+        },
+        "phone": "0452 252 0950"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "uyirthuli blood center & research centre",
+            "ta": "உயிர்த்துளி பிளட் வங்கி & ஆராய்ச்சி மையம்"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "161, Bharathiyar St, Managiri, Madurai, Tamil Nadu 625020",
+            "ta": "161, பாரதியார் தெரு, மானகிரி "
+        },
+        "area": {
+            "en": "Managiri",
+            "ta": "மானகிரி"
+        },
+        "phone": "063837 55139"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Vadamalayan Hospital Blood Bank",
+            "ta": "வடமலையன் ஹாஸ்பிடல் பிளட் வங்கி"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 9B, PT Rajan Road, Chinna Chokkikulam",
+            "ta": " 9B, PT ராஜன் சாலை, ரிசர்வ் போலீஸ் லைன், சின்ன சொக்கிகுளம், மதுரை- 625002"
+        },
+        "area": {
+            "en": "Chinna Chokkikulam",
+            "ta": "சின்ன  சொக்கிகுளம்"
+        },
+        "phone": "0452 254 5400"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Railway Hospital",
+            "ta": "இரயில்வே மருத்துவமனை"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Railway Colony, Mahabooppalayam",
+            "ta": "SBI ATM அருகில்,தெற்கு ரயில்வே காலனி, மகபூபாளையம், மதுரை- 625016"
+        },
+        "area": {
+            "en": "Mahaboopalayam",
+            "ta": "மகபூபாளையம்"
+        },
+        "phone": "0452 230 8158"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "The Apollo Specialty Hospital Blood Bank",
+            "ta": "தி அப்பல்லோ ஸ்பெஷலிட்டி ஹாஸ்பிடல் பிளட் வங்கி"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "80 Feet Rd, Deputy Collector Colony, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "80 அடி சாலை டெபூட்டி கலெக்டர் காலனி, KK நகர், மதுரை - 625020 "
+        },
+        "area": {
+            "en": "K K Nagar",
+            "ta": "KK நகர்,"
+        },
+        "phone": "0452 258 1147"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "Vignesh Blood Bank",
+            "ta": "விக்னேஷ் பிளட் வங்கி"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sivaganga Rd, Otthakadai, Madurai-North taluk, Pappakudi, Tamil Nadu 625020",
+            "ta": "சிவகங்கை சாலை, சிவகங்கை சாலை,ஒத்தக்கடை, மதுரை வடக்கு வட்டம், பாப்பக்குடி,- 625020"
+        },
+        "area": {
+            "en": " Otthakadai",
+            "ta": "ஒத்தக்கடை"
+        },
+        "phone": "0452 258 2562"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "Uthiram Uyirthuli",
+            "ta": "உத்திரம் உயிர்துளி"
+        },
+        "type": {
+            "en": "Blood Bank",
+            "ta": "இரத்த வங்கி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Pandian St, Alagappan Nagar, Madurai, Tamil Nadu 625003",
+            "ta": "பாண்டியன் தெரு,அழகப்பன் நகர், மதுரை-625003"
+        },
+        "area": {
+            "en": "Alagappan Nagar",
+            "ta": "அழகப்பன் நகர்"
+        },
+        "phone": "098436 63555"
+    }
+]
