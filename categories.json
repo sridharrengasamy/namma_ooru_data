@@ -1,67 +1,68 @@
 [
-     {
-      "name": {
+    {
+      "file": "2 wheeler works.json",
+      "image": "https://example.com/2 Wheeler Mechanic.jpg","name": {
         "en": "2 Wheeler Mechanic",
         "ta": "2 வீலர் மெக்கானிக்"
-      },
-      "imageUrl": "https://your-image-url.com/mechanic.jpg",
-      "jsonFile": "mechanic_details.json"
+      }      
     },
     {
-      "name": {
+      "file": "Acting driver.json",
+      "image": "https://example.com/Acting Driver.jpg","name": {
         "en": "Acting Driver",
         "ta": "ஆக்டிங் டிரைவர்"
-      },
-      "imageUrl": "https://your-image-url.com/plumber.jpg",
-      "jsonFile": "Acting driver.json"
+      }
     },
     {
-      "name": {
+      "file": "ambulance.json",
+      "image": "https://example.com/ambulance.jpg","name": {
         "en": "Ambulance",
         "ta": "ஆம்புலன்ஸ்"
-      },
-      "imageUrl": "https://your-image-url.com/plumber.jpg",
-      "jsonFile": "ambulance.json"
+      }
     },
     {
-      "name": {
+      "file": "battery.json",
+      "image": "https://example.com/battery.jpg","name": {
         "en": "BATTERY & INVERTER",
         "ta": "பேட்டரி & இன்வெர்ட்டர்"
-      },
-      "imageUrl": "https://your-image-url.com/plumber.jpg",
-      "jsonFile": "battery.json"
+      }
     },
     {
-      "name": {
+      "file": "Blood Bank.json",
+      "image": "https://example.com/Blood Bank.jpg","name": {
         "en": "Blood Bank",
         "ta": "இரத்த வங்கி"
-      },
-      "imageUrl": "https://your-image-url.com/plumber.jpg",
-      "jsonFile": "Blood Bank.json"
+      }
     },
     {
-      "name": {
+      "file": "computer service.json",
+      "image": "https://example.com/computer service.jpg","name": {
         "en": "Computer Service",
         "ta": "கம்ப்யூட்டர் சர்வீஸ்"
-      },
-      "imageUrl": "https://your-image-url.com/plumber.jpg",
-      "jsonFile": "computer service.json"
+      }
     },
     {
-      "name": {
+      "file": "clinik lab.json",
+      "image": "https://example.com/clinik lab.jpg","name": {
         "en": "Blood Test & Diagnostic Centre",
-        "ta": "இரத்த டெஸ்ட் & டயக்னோஸ்ட்ரீடிக் மையம்"
-      },
-      "imageUrl": "https://your-image-url.com/plumber.jpg",
-      "jsonFile": "clinik lab.json"
+        "ta": "இரத்த டெஸ்ட் & டயக்னோஸ்ட்டிக் மையம்"
+      }
     },
     {
-      "name": {
+      "file": "coaching center.json",
+      "image": "https://example.com/coaching center.jpg","name": {
         "en": "Training centre",
         "ta": "பயிற்சி மையம்"
-      },
-      "imageUrl": "https://your-image-url.com/plumber.jpg",
-      "jsonFile": "coaching center.json"
+      }
+      
+    },
+    {
+      "file": "driving school.json",
+      "image": "https://example.com/driving school.jpg",
+      "name": {
+        "en": "2 Wheeler Works",
+        "ta": "இருசக்கர வேலைகள்"
+      }
     }
   ]
   
