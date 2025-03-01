@@ -1,0 +1,2186 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "ABT Maruti Suzuki Driving School - Madurai",
+            "ta": "ABT மாருதி சுசுகி ஓட்டுநர் பள்ளி - மதுரை"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Near Bus Stop, No.58, Bharatiyar Street, Kannan Departmental Street, Thikkadir",
+            "ta": "பஸ் ஸ்டாப், எண்.58, பாரதியார் தெரு, கண்ணன் டிபார்ட்மென்டல் தெருவுக்கு அருகில் தீக்கதிர்"
+        },
+        "area": {
+            "en": "Fatima College",
+            "ta": "பாத்திமா காலேஜ்"
+        },
+        "phone": "099944 51038"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "MJM Acting Driver in Madurai",
+            "ta": "மதுரையில் MJM ஆக்டிங் டிரைவர்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "டூர் ஆபரேட்டர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No, 6, CSI Commercial Complex, Tiruparangunram Road, Near Pashumalai, Man. School",
+            "ta": "எண், 6, சிஎஸ்ஐ வணிக வளாகம், திருப்பரங்குன்றம் சாலை, பசுமலை அருகே மணி. பள்ளி"
+        },
+        "area": {
+            "en": "Pashumalai",
+            "ta": "பசுமலை"
+        },
+        "phone": "086818 24040"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "A. Kannan Driving School",
+            "ta": "அ.கண்ணன் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "KALLAZHAGAR COMMERCIAL COMPLEX, NO:9, DALLAKULAM, - 625002",
+            "ta": "கல்லழகர் வணிக வளாகம், எண்:9, தல்லாகுளம், - 625002"
+        },
+        "area": {
+            "en": "Tallakulam",
+            "ta": "தல்லாகுளம்"
+        },
+        "phone": "096260 81826"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Amman Driving Training School",
+            "ta": "அம்மன் ஓட்டுனர் பயிற்சி பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "50/46, Pandiyanagar Road, Valluvar Colony -625017",
+            "ta": "50/46, பாண்டிய நகரம் சாலை, வள்ளுவர் காலனி -625017"
+        },
+        "area": {
+            "en": "Mahatma Gandhi Nagar",
+            "ta": "மகாத்மா காந்தி நகர்"
+        },
+        "phone": "098434 29282"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "Arun Heavy Driving School",
+            "ta": "அருண் ஹெவி டிரைவிங் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "3/390, Senthil Plaza, New Nutham Road, Bank Colony, K. Putur-625014",
+            "ta": "3/390, செந்தில் பிளாசா, புதிய நத்தம் சாலை, வங்கி காலனி, கே.புதூர்-625014"
+        },
+        "area": {
+            "en": "K Puthur",
+            "ta": "கே புதூர்"
+        },
+        "phone": "098430 68023"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "Arundhati Driving School",
+            "ta": "அருந்ததி டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Arundhati Campus, Bypass Road, Opp. RTO Office",
+            "ta": "அருந்ததி வளாகம், பைபாஸ் சாலை, எதிரில். ஆர்டிஓ அலுவலகம்"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "0452 450 6100"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Alagarswamy Driving School",
+            "ta": "அழகர்சாமி டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "VV Campus, Bethaniapuram 2, Kalavasal- 625016",
+            "ta": "வி.வி வளாகம், பெத்தானியாபுரம் 2, காளவாசல்- 625016"
+        },
+        "area": {
+            "en": "Kalavasal",
+            "ta": "காளவாசல்"
+        },
+        "phone": "094439 25792"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Anbu Driving School",
+            "ta": "அன்பு டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "71, P.D. Rajan Road, Koripalayam",
+            "ta": "71, பி.டி. ராஜன் சாலை, கோரிபாளையம்"
+        },
+        "area": {
+            "en": "Koripalayam",
+            "ta": "கோரிபாளையம்"
+        },
+        "phone": "098421 73883"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Anbu Driving School",
+            "ta": "அன்பு டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப்பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "GST Main Road Thirunagar",
+            "ta": "ஜிஎஸ்டி மெயின் ரோடு திருநகர்"
+        },
+        "area": {
+            "en": "Thirunagar",
+            "ta": "திருநகர்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "Mother Meenakshi Driving School",
+            "ta": "அன்னை மீனாட்சி ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "152 RAJARAJAN COMPLEX MARUDUPANDYAR STREET STREET WAKF BOWA ROAD OPPOSITE TO COLLEGE",
+            "ta": "152 ராஜராஜன் வளாகம் மருதுபாண்டியர் தெருத் தெரு வக்ஃப் போவா ரோடு கல்லூரி எதிரில்"
+        },
+        "area": {
+            "en": "KK Nagar",
+            "ta": "KK நகர்"
+        },
+        "phone": "098421 99190"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Mother Meenakshi Driving School",
+            "ta": "அன்னை மீனாட்சி ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Karpaka Nagar 6th Street, Muthuramalingapuram, Karpaka Nagar, K. Putur-625007",
+            "ta": "கற்பகா நகர் 6வது தெரு , முத்துராமலிங்கபுரம், கற்பகா நகர், கே.புதூர்-625007"
+        },
+        "area": {
+            "en": "K Puthur",
+            "ta": "கே புதூர்"
+        },
+        "phone": "079040 46730"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Auto Shine Driving School Madurai",
+            "ta": "ஆட்டோ ஷைன் டிரைவிங் ஸ்கூல் மதுரை"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4, 2 STREET, MUTHAMIL NAGAR, PARK TOWN, POSTAL DANI NAGAR MADURAI-625017",
+            "ta": "4, 2 தெரு, முத்தமிழ் நகர், பார்க் டவுன், தபால்தந்தி நகர் மதுரை-625017"
+        },
+        "area": {
+            "en": "P & T Nagar",
+            "ta": "தபால்தந்தி நகர்"
+        },
+        "phone": "0452 437 7409"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "Indira Heavy Vehicle Driver Training School",
+            "ta": "இந்திரா கனரக வாகன ஓட்டுனர் பயிற்சி பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Abbas Campus, 2, Opposite Ilango Adigal Street, Near Ambika College",
+            "ta": "அப்பாஸ் வளாகம், 2, இளங்கோ அடிகள் தெருவுக்கு எதிரே, அம்பிகா கல்லூரி அருகில்"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "097902 94488"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "Iswari Heavy Driving School and Travels",
+            "ta": "ஈஸ்வரி ஹெவி டிரைவிங் ஸ்கூல் மற்றும் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "47, Suguna Campus, Theni Road, Savadi, Sammathipuram - 625016",
+            "ta": "47, சுகுணா வளாகம், தேனி சாலை, சாவடி, சம்மட்டிபுரம் - 625016"
+        },
+        "area": {
+            "en": "Sammatipuram",
+            "ta": "சம்மட்டிபுரம்"
+        },
+        "phone": "9894240509&9842240509"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "ASM Car Driving School",
+            "ta": "ஏ எஸ் எம் கார் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 52, Tamilchang Road, Near Bell Hotel",
+            "ta": "எண். 52, தமிழ்ச்சங்க சாலை, பெல் ஹோட்டலுக்கு அருகில்"
+        },
+        "area": {
+            "en": "Tamilchangam Road",
+            "ta": "தமிழ்ச்சங்கம் ரோடு"
+        },
+        "phone": "0452 234 2829"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "I Mohan Driving School",
+            "ta": "ஐ மோகன் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப்பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "173/4, VKP NAGAR 5TH STREET. Matakulam, ancient",
+            "ta": "173/4, வி.கே.பி.நகர் 5வது தெரு. மாடக்குளம், பழங்காநத்தம்"
+        },
+        "area": {
+            "en": "Palanganatham",
+            "ta": "பழங்காநத்தம்"
+        },
+        "phone": "098421 80867"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "Om Saravana Bhava Driving School",
+            "ta": "ஓம் சரவணா பவா டிரைவிங் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No: 45-B, Old Kuyavapalayam Road, (Near Streettreat Joseph Convent)",
+            "ta": "எண்: 45-பி, பழைய குயவபாளையம் சாலை, (ஸ்ட்ரீட்ரீட் ஜோசப் கான்வென்ட் அருகில்)"
+        },
+        "area": {
+            "en": "Kuyavapalayam",
+            "ta": "குயவபாளையம்"
+        },
+        "phone": "098431 36632"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "Om Muruga Driving School",
+            "ta": "ஓம் முருகா டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "கல்வி நிறுவனங்கள்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "55, P/1, JAYHINDPURAM 2ND MAIN ROAD",
+            "ta": "55, பி/1, ஜெய்ஹிந்த்புரம் 2வது பிரதான சாலை"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "098659 95950"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Karudan Driving School",
+            "ta": "கருடன் ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Kulamangalam Main Road, Main Road",
+            "ta": "குலமங்கலம் மெயின் ரோடு, மெயின்ரோடு"
+        },
+        "area": {
+            "en": "Viswanathapuram",
+            "ta": "விஸ்வநாதபுரம்"
+        },
+        "phone": "087788 30651"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "Garuda Driving School & Insurance",
+            "ta": "கருடன் டிரைவிங் ஸ்கூல் & இன்சூரன்ஸ்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "42, NEAR POST OFFICE, POST OFFICE NAGAR MADURAI-625017",
+            "ta": "42,தபால் நிலையம் அருகில், தபால்தந்தி நகர் மதுரை-625017"
+        },
+        "area": {
+            "en": "P & T Nagar",
+            "ta": "தபால்தந்தி நகர்"
+        },
+        "phone": "093611 63582"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "Gayathri Heavy Vehicle Driver Training School",
+            "ta": "காயத்ரி கனரக வாகன ஓட்டுனர் பயிற்சி பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "7/5, Meenakshi Campus, Opp. Jai Vilas Road, MK Puram Main Road",
+            "ta": "7/5, மீனாட்சி வளாகம், எதிரில். ஜெய் விலாஸ் சாலை, எம்.கே.புரம் மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Jaihindapuram",
+            "ta": "ஜெய்ஹிந்தபுரம்"
+        },
+        "phone": "098421 76025"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "Karthik Driving School Madurai",
+            "ta": "கார்த்திக் டிரைவிங் ஸ்கூல் மதுரை"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Behind PTR Mahal, BO 6, 42, Besant Road, Chokkikulam 625002",
+            "ta": "PTR மஹாலின் பின்புறம், BO 6, 42, பெசன்ட் சாலை, சொக்கிகுளம் 625002"
+        },
+        "area": {
+            "en": "Chinna Chokkikulam",
+            "ta": "சின்ன சொக்கிகுளம்"
+        },
+        "phone": "098428 92866"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "Guna Driving School",
+            "ta": "குணா டிரைவிங் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "36 Alavai Nagar, Vlangudi",
+            "ta": "36 ஆலவாய் நகர், விளாங்குடி"
+        },
+        "area": {
+            "en": "Vlangudi",
+            "ta": "விளாங்குடி"
+        },
+        "phone": "9842156667"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "Guruswamy Driving School",
+            "ta": "குருசாமி ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "79, Eeumalayan Street, Pasumpon Nagar, Muthuramalingapuram, Madurai, Tamil Nadu 625003",
+            "ta": "79, ஏழுமலையான் தெரு , பசும்பொன் நகர், முத்துராமலிங்கபுரம், மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Nataraj Theatre",
+            "ta": "நடராஜ் தியேட்டர்"
+        },
+        "phone": "063694 86321"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "Guruji Driving School",
+            "ta": "குருஜி டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Guruk Verapatrar Building, 2/813, Vandiyur Main Road, Opposite Lakshmi Thangam Mahal, Angel Nagar, Vandiyur- 625020",
+            "ta": "குருக் வேரபத்திரர் கட்டிடம், 2/813, வண்டியூர் பிரதான சாலை, லட்சுமி தங்கம் மஹாலுக்கு எதிரே, ஏஞ்சல் நகர், வண்டியூர்- 625020"
+        },
+        "area": {
+            "en": "Vandiyur",
+            "ta": "வண்டியூர்"
+        },
+        "phone": "9095035565"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "Gopala Driving Training School",
+            "ta": "கோபால ஓட்டுனர் பயிற்சி பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5, Manmalaimedu, Cellur, TRO Colony - 625007",
+            "ta": "5, மண்மலைமேடு,செல்லூர், டிஆர்ஓ காலனி - 625007"
+        },
+        "area": {
+            "en": "DRO Colony",
+            "ta": "டிஆர்ஓ காலனி"
+        },
+        "phone": "090431 52749"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "Sun Driving School",
+            "ta": "சன் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": ""
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "93/A, Bypass Road",
+            "ta": "93/A, பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "094426 23237"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Sun Driving School",
+            "ta": "சன் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": ""
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "11, GST Main Road, Opposite Devi Kalaivani Theatre",
+            "ta": "11,GST மெயின் ரோடு ,தேவி கலைவாணி தியேட்டர் எதிர்"
+        },
+        "area": {
+            "en": "Thirunagar",
+            "ta": "திருநகர்"
+        },
+        "phone": "082201 23637"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "Sun Driving School",
+            "ta": "சன் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": ""
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "647, KK Nagar Road, Near Remukhi Store",
+            "ta": "647, KK நகர் ரோடு , ரேமுகி ஸ்டோர் அருகில்"
+        },
+        "area": {
+            "en": "KK Nagar",
+            "ta": "KK நகர்"
+        },
+        "phone": "094426 23237"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "Sai Driving School",
+            "ta": "சாய் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "12H, Sriram Complex Bypass Road, Ram Nagar Road",
+            "ta": "12H, ஸ்ரீராம் காம்ப்ளக்ஸ் பைபாஸ் சாலை, ராம் நகர் சாலை"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "9943044549"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "Shiva Maruti Driving School",
+            "ta": "சிவா மாருதி டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "35, APK MAIN ROAD, V;;Apuram Colony, Madurai-625012",
+            "ta": "35, APK மெயின் ரோடு, வீ;;அபுரம் காலனி,மதுரை-625012"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "096553 10000"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "Siva Maruti Driving School-Kamaraj Road",
+            "ta": "சிவா மாருதி டிரைவிங் ஸ்கூல்-காமராஜர் சாலை"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "136-G, Pangajam Colony, Kamarajar Road, Madurai-625009",
+            "ta": "136-ஜி, பங்கஜம் காலனி, காமராஜர் சாலை, மதுரை-625009"
+        },
+        "area": {
+            "en": "Kamarajar Road",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": "096553 10000"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "Pitch Driving Training Office",
+            "ta": "சுருதி ஓட்டுநர் பயிற்சி அலுவலகம்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "263A, Airport Road, Near Ambedkar Statue, Perungudi,-625022",
+            "ta": "263A, விமான நிலையம் சாலை, அம்பேத்கர் சிலை அருகில், பெருங்குடி,-625022"
+        },
+        "area": {
+            "en": "Perungudi",
+            "ta": "பெருங்குடி"
+        },
+        "phone": "070945 02424"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "Centurion Driving School",
+            "ta": "செந்தூர் ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Bus street corner, opposite. Regional Passport Office, Near Tamaritotti",
+            "ta": "பேருந்து தெருமுனை, எதிரில். பிராந்திய பாஸ்போர்ட் அலுவலகம், தாமரைதொட்டிக்கு அருகில்"
+        },
+        "area": {
+            "en": "K Puthur",
+            "ta": "கே புதூர்"
+        },
+        "phone": "093441 51560"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "Ms. Driving School",
+            "ta": "செல்வி டிரைவிங் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 10, Shop No, PTR Bridge, 4/947, 80 Feet Road",
+            "ta": "எண். 10, கடை எண், PTR பாலம், 4/947, 80 அடி சாலை"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "097915 82499"
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "Solaimalai Driving School",
+            "ta": "சோலைமலை டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "162/8 Bypass & Ring Road, Uthangudi, Tamil Nadu 625107",
+            "ta": "162/8 பைபாஸ் & ரிங் ரோடு, உத்தங்குடி, தமிழ்நாடு 625107"
+        },
+        "area": {
+            "en": "Uthangudi",
+            "ta": "உத்தங்குடி"
+        },
+        "phone": "077080 08916"
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "Driving Instructor (Not Driving Training School)",
+            "ta": "டிரைவிங் பயிற்சியாளர் (ஓட்டுனர் பயிற்சி பள்ளி அல்ல)"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்றுவிப்பாளர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "7, TPK Road, Kalkulam, Avaniyapuram, Madurai, Tamil Nadu 625012",
+            "ta": "7, TPK சாலை, கல்குளம், அவனியாபுரம், மதுரை, தமிழ்நாடு 625012"
+        },
+        "area": {
+            "en": "Avaniyapuram",
+            "ta": "அவனியாபுரம்"
+        },
+        "phone": "093441 02819"
+    },
+    {
+        "id": 38,
+        "name": {
+            "en": "Thai Driving School",
+            "ta": "தாய் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Alagar Temple Main Road, Muthuramalingapuram, Karpaka Nagar, Lourdes Nagar- 625007",
+            "ta": "அழகர் கோவில் பிரதான சாலை, முத்துராமலிங்கபுரம், கற்பக நகர், லூர்து நகர்- 625007"
+        },
+        "area": {
+            "en": "K Puthur",
+            "ta": "கே புதூர்"
+        },
+        "phone": "098940 64468"
+    },
+    {
+        "id": 39,
+        "name": {
+            "en": "Taj Driving School",
+            "ta": "தாஜ் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Taj Driving School, 1/417, Rasi Campus, Shanmugavel Nagar, Alagharkoil Main Road, Katchanendal, Near RC School",
+            "ta": "தாஜ் ஓட்டுநர் பள்ளி, 1/417, ராசி வளாகம், சண்முகவேல் நகர், அழகர்கோவில் பிரதான சாலை, கடச்சனேந்தல், ஆர்சி பள்ளி அருகில்"
+        },
+        "area": {
+            "en": "Katachanendal",
+            "ta": "கடச்சனேந்தல்"
+        },
+        "phone": "099528 51046"
+    },
+    {
+        "id": 40,
+        "name": {
+            "en": "Tirupati Driving School",
+            "ta": "திருப்பதி ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப்பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "KGS Mahal, Main Road, Near Sesu Mahal",
+            "ta": "KGS மஹால், மெயின் ரோடு, சேசு மஹாலுக்கு அருகில்"
+        },
+        "area": {
+            "en": "TVS Nagar",
+            "ta": "TVS நகர்"
+        },
+        "phone": "098421 15246"
+    },
+    {
+        "id": 41,
+        "name": {
+            "en": "Divya Heavy Vehicle Driver Training School",
+            "ta": "திவ்யா கனரக வாகன ஓட்டுனர் பயிற்சி பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Main Road, T.Vadipatti",
+            "ta": "மெயின் ரோடு, டி.வாடிப்பட்டி"
+        },
+        "area": {
+            "en": "T. Vadipatti",
+            "ta": "டி.வாடிப்பட்டி"
+        },
+        "phone": "098428 52188"
+    },
+    {
+        "id": 42,
+        "name": {
+            "en": "Deeksana Driving School",
+            "ta": "தீட்சண டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2/587, Bose Campus, Melur Main Road, Othakadai, Anbu Nagar-625107",
+            "ta": "2/587, போஸ் வளாகம், மேலூர் பிரதான சாலை, ஒத்தக்கடை, அன்பு நகர்-625107"
+        },
+        "area": {
+            "en": "Oththakadai",
+            "ta": "ஒத்தக்கடை"
+        },
+        "phone": "098420 65781"
+    },
+    {
+        "id": 43,
+        "name": {
+            "en": "Tulsi Driving School Madurai",
+            "ta": "துளசி டிரைவிங் ஸ்கூல் மதுரை"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Plot No: 60, KK Nagar, Behind AR Hospital",
+            "ta": "பிளாட் எண்: 60, KK நகர், AR மருத்துவமனை பின்புறம்"
+        },
+        "area": {
+            "en": "KK Nagar",
+            "ta": "KK நகர்"
+        },
+        "phone": "098421 34672"
+    },
+    {
+        "id": 44,
+        "name": {
+            "en": "Breeze Driving School",
+            "ta": "தென்றல் ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5/1/1A JALNAGAR 1ST STREET, PALAMEDU MAIN ROAD, SOKKALINGA NAGAR, GOODAL NAGAR- 625018",
+            "ta": "5/1/1A அஞ்சல்நகர் 1வது தெரு, பாலமேடு பிரதான சாலை, சொக்கலிங்க நகர், கூடல் நகர்- 625018"
+        },
+        "area": {
+            "en": "Koodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "098421 99733"
+    },
+    {
+        "id": 45,
+        "name": {
+            "en": "Dev Driving School",
+            "ta": "தேவ் ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "94D, Kamarajar Road Munichala, Madurai-625009",
+            "ta": "94டி, காமராஜர் சாலை முனிச்சலை, மதுரை-625009"
+        },
+        "area": {
+            "en": "Munichalai",
+            "ta": "முனிச்சலை"
+        },
+        "phone": "9514704003/n8300558842"
+    },
+    {
+        "id": 46,
+        "name": {
+            "en": "Faith Driving School",
+            "ta": "நம்பிக்கை டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 6, CSI Commercial Complex, Tiruparangunram Road, Near PKN School Bend",
+            "ta": "எண் 6, CSI வணிக வளாகம், திருப்பரங்குன்றம் சாலை, PKN பள்ளி வளைவு அருகில்"
+        },
+        "area": {
+            "en": "Pasumalai",
+            "ta": "பசுமலை"
+        },
+        "phone": "098434 17004"
+    },
+    {
+        "id": 47,
+        "name": {
+            "en": "New Mother Meenakshi Driving School",
+            "ta": "நியு அன்னை மீனாட்சி ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1/174, Tirupalai Main Road, Velnagar, Tirupalai- 625014",
+            "ta": "1/174, திருப்பாலை பிரதான சாலை, வேல்நகர், திருப்பாலை- 625014"
+        },
+        "area": {
+            "en": "Thirupalai",
+            "ta": "திருப்பாலை"
+        },
+        "phone": "079040 46730"
+    },
+    {
+        "id": 48,
+        "name": {
+            "en": "New Amman Driving School",
+            "ta": "நியூ அம்மன் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "7-1/9, Bharti Nagar Street, Viswanathapuram, Krishnapuram Colony,- 625014",
+            "ta": "7-1/9, பாரதி நகர் தெரு , விஸ்வநாதபுரம், கிருஷ்ணாபுரம் காலனி,- 625014"
+        },
+        "area": {
+            "en": "Krishnapuram Colony",
+            "ta": "கிருஷ்ணாபுரம் காலனி"
+        },
+        "phone": "096266 82875"
+    },
+    {
+        "id": 49,
+        "name": {
+            "en": "New Royal Driving School",
+            "ta": "நியூ ராயல் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "270-I, Sameem Complex 1st Floor, GST Road, Thirunagar 2nd Stop",
+            "ta": "270-I, சமீம் காம்ப்ளக்ஸ் முதல் தளம், ஜிஎஸ்டிசாலை, திருநகர் 2வது நிறுத்தம்"
+        },
+        "area": {
+            "en": "Thirunagar",
+            "ta": "திருநகர்"
+        },
+        "phone": "098421 68254"
+    },
+    {
+        "id": 50,
+        "name": {
+            "en": "Nirmala Driving School",
+            "ta": "நிர்மலா டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப்பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2nd Stop, 5, E2, E2 Road, OCPM Main Road, Chinna Chokkikulam- 625002",
+            "ta": "2வது நிறுத்தம், 5, E2, E2 சாலை, OCPM பிரதான சாலை, சின்ன சொக்கிகுளம்- 625002"
+        },
+        "area": {
+            "en": "Chinna Chokkikulam",
+            "ta": "சின்ன சொக்கிகுளம்"
+        },
+        "phone": "063839 62011"
+    },
+    {
+        "id": 51,
+        "name": {
+            "en": "Neeti Driving School",
+            "ta": "நீதி டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "74/5, Theni Road, Tirumala Colony, P.P. Booth-625016",
+            "ta": "74/5, தேனி சாலை, திருமலை காலனி, பி.பி. சாவடி-625016"
+        },
+        "area": {
+            "en": "B.P. Booth",
+            "ta": "பி.பி. சாவடி"
+        },
+        "phone": "093451 03382"
+    },
+    {
+        "id": 52,
+        "name": {
+            "en": "Nehru Driving Training School",
+            "ta": "நேரு ஓட்டுநர் பயிற்சி பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "New LIG Colony, Anna Nagar, Chathamangalam, Madurai, Tamil Nadu 625020",
+            "ta": "புதிய LIG காலனி, அண்ணா நகர், சாத்தமங்கலம், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "093452 74747"
+    },
+    {
+        "id": 53,
+        "name": {
+            "en": "Bharti Driving School",
+            "ta": "பாரதி ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Surya Nagar, K. Putur",
+            "ta": "சூர்யா நகர், கே.புதூர்"
+        },
+        "area": {
+            "en": "K Puthur",
+            "ta": "கே புதூர்"
+        },
+        "phone": "098425 15594"
+    },
+    {
+        "id": 54,
+        "name": {
+            "en": "PKN Heavy Driving School",
+            "ta": "பி.கே.என்.ஹெவி டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "99, Mohan Prabhu Campus, Sivagangai Main Road, Near Manam Patti, Melur",
+            "ta": "99, மோகன் பிரபு வளாகம், சிவகங்கை மெயின் ரோடு, மனம் பட்டி அருகில், மேலூர்"
+        },
+        "area": {
+            "en": "Melur",
+            "ta": "மேலூர்"
+        },
+        "phone": "098436 50540"
+    },
+    {
+        "id": 55,
+        "name": {
+            "en": "New Jayalaxmi Driving Training School",
+            "ta": "புதிய ஜெயலட்சுமி ஓட்டுனர் பயிற்சி பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "126, Alagar Temple Main Road, Near Amma Mess, Melur, Tallakulam- 625002",
+            "ta": "126, அழகர் கோவில் பிரதான சாலை, அம்மா மெஸ் அருகில், மேலூர், தல்லாகுளம்- 625002"
+        },
+        "area": {
+            "en": "Tallakulam",
+            "ta": "தல்லாகுளம்"
+        },
+        "phone": "098421 96339"
+    },
+    {
+        "id": 56,
+        "name": {
+            "en": "Mani Driver Training School",
+            "ta": "மணி ஓட்டுனர் பயிற்சி பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "63, 1st Floor, Sri Krishna Campus, Alagar Temple Road, Near Karupusamy Temple, Melur, Tallakulam - 625002",
+            "ta": "63, 1வது தளம், ஸ்ரீ கிருஷ்ணா வளாகம், அழகர் கோவில் சாலை, கருப்புசாமி கோவில் அருகில், மேலூர், தல்லாகுளம் - 625002"
+        },
+        "area": {
+            "en": "Tallakulam",
+            "ta": "தல்லாகுளம்"
+        },
+        "phone": "0452 252 9178"
+    },
+    {
+        "id": 57,
+        "name": {
+            "en": "Maha Vishnu Driving School",
+            "ta": "மஹா விஷ்ணு டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "TTC Nagar, Uthangudi, Madurai, Tamil Nadu 625020",
+            "ta": "TTC நகர், உத்தங்குடி, மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Uthangudi",
+            "ta": "உத்தங்குடி"
+        },
+        "phone": "9944462477 & 9944526269"
+    },
+    {
+        "id": 58,
+        "name": {
+            "en": "Meena Driving School",
+            "ta": "மீனா டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Iyer Bungalow, Madurai- 625014",
+            "ta": "ஐயர் பங்களா, மதுரை- 625014"
+        },
+        "area": {
+            "en": "Iyer Bungalow ",
+            "ta": "ஐயர் பங்களா"
+        },
+        "phone": "098421 78521"
+    },
+    {
+        "id": 59,
+        "name": {
+            "en": "Rani Driving School",
+            "ta": "ராணி ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Mani Nagar Main Road",
+            "ta": "மணி நகரம் மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Maninagaram ",
+            "ta": "மணி நகரம்"
+        },
+        "phone": "098429 52188"
+    },
+    {
+        "id": 60,
+        "name": {
+            "en": "Rani Driving School",
+            "ta": "ராணி டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "43,APK MAIN ROAD, NEAR VILLAPURAM ARCH-625012",
+            "ta": "43,APK மெயின் ரோடு, வில்லாபுரம் ஆர்ச் அருகில்-625012"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "098429 52188"
+    },
+    {
+        "id": 61,
+        "name": {
+            "en": "Radha Driving School Madurai",
+            "ta": "ராதா டிரைவிங் ஸ்கூல் மதுரை"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5, Phulabai Desai Road, Main Road, Chinna Chokkikulam- 625002",
+            "ta": "5, புலாபாய் தேசாய் சாலை, பிரதான சாலை, சின்ன சொக்கிகுளம்- 625002"
+        },
+        "area": {
+            "en": "Small pond",
+            "ta": "சின்ன சொக்கிகுளம்"
+        },
+        "phone": "098432 52595"
+    },
+    {
+        "id": 62,
+        "name": {
+            "en": "Ramachandra Driving School",
+            "ta": "ராமச்சந்திர டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "RTO Office South, Bypass Road",
+            "ta": "W37W+H9X, RTO அலுவலகம் தெற்கு, பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "098421 70054"
+    },
+    {
+        "id": 63,
+        "name": {
+            "en": "Rias Driving Training School",
+            "ta": "ரியாஸ் ஓட்டுனர் பயிற்சி பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No: 30/7, Madurai Road, Vaigai Vadakarai",
+            "ta": "எண்: 30/7, மதுரை ரோடு, வைகை வடகரை"
+        },
+        "area": {
+            "en": "Shenoy Nagar",
+            "ta": "ஷெனாய் நகர்"
+        },
+        "phone": "093454 58089"
+    },
+    {
+        "id": 64,
+        "name": {
+            "en": "Rishi Driving School",
+            "ta": "ரிஷி டிரைவிங் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Kosakulam, Madurai, Tamil Nadu 625501",
+            "ta": "கோசகுளம், மதுரை, தமிழ்நாடு 625501"
+        },
+        "area": {
+            "en": "Kosakulam",
+            "ta": "கோசகுளம்"
+        },
+        "phone": "098421 52188"
+    },
+    {
+        "id": 65,
+        "name": {
+            "en": "Rehoboth Car Care",
+            "ta": "ரெஹோபோத் கார் கேர்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "கார் மெக்கானிக்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.18, CC Road, Opp. TNCSC Goodon Jaihindpuram, Market Road",
+            "ta": "எண்.18, CC சாலை, எதிரில். TNCSC குடோன் ஜெய்ஹிந்த்புரம், மார்க்கெட் ரோடு"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "9894246029"
+    },
+    {
+        "id": 66,
+        "name": {
+            "en": "Rose Royal Driving School",
+            "ta": "ரோஸ் ராயல் டிரைவிங் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4/205-F, Theni Main Road, Indian Bank Colony, Nagamalai Pudukottai-625019",
+            "ta": "4/205-எஃப், தேனி மெயின் ரோடு, இந்தியன் வங்கி காலனி, நாகமலை புதுக்கோட்டை-625019"
+        },
+        "area": {
+            "en": "Nagamalai Pudukottai",
+            "ta": "நாகமலை புதுக்கோட்டை"
+        },
+        "phone": "082202 08383"
+    },
+    {
+        "id": 67,
+        "name": {
+            "en": "Lion Driving School",
+            "ta": "லயன் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5, 1st Street, Prasanna Colony, Madurai-625013",
+            "ta": "5, 1வது தெரு, பிரசன்னா காலனி, மதுரை-625013"
+        },
+        "area": {
+            "en": "Avaniyapuram",
+            "ta": "அவனியாபுரம்"
+        },
+        "phone": "085239 19919"
+    },
+    {
+        "id": 68,
+        "name": {
+            "en": "Lions Driving School",
+            "ta": "லயன்ஸ் ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "7/11, Kaliamman Kovil Street, Velangudi",
+            "ta": "7/11, காளியம்மன் கோவில் தெரு, விளாங்குடி"
+        },
+        "area": {
+            "en": "Vlangudi",
+            "ta": "விளாங்குடி"
+        },
+        "phone": "8825458405 & 9942393037"
+    },
+    {
+        "id": 69,
+        "name": {
+            "en": "Vinayaka Driving School",
+            "ta": "விநாயக டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Opposite Germanus Hotel, Kalavasal",
+            "ta": "ஜெர்மானஸ் ஹோட்டலுக்கு எதிரில், காளவாசல்"
+        },
+        "area": {
+            "en": "Kalavasal",
+            "ta": "காளவாசல்"
+        },
+        "phone": "098653 51152"
+    },
+    {
+        "id": 70,
+        "name": {
+            "en": "Vinci Driving School",
+            "ta": "வின்சி டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "22/1, Tiruparangunram Road",
+            "ta": "22/1, திருப்பரங்குன்றம் சாலை"
+        },
+        "area": {
+            "en": "Thirunagar",
+            "ta": "திருநகர்"
+        },
+        "phone": "098421 73363"
+    },
+    {
+        "id": 71,
+        "name": {
+            "en": "VG Driving School",
+            "ta": "விஜி டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "204, Netaji Main Road, PP Kulam, - 625002",
+            "ta": "204, நேதாஜி மெயின் ரோடு, பி பி குளம், - 625002"
+        },
+        "area": {
+            "en": "B B pond",
+            "ta": "பி பி குளம்"
+        },
+        "phone": "098431 49470"
+    },
+    {
+        "id": 72,
+        "name": {
+            "en": "Victory Driving School",
+            "ta": "வெற்றி டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Behind Anjabar Restaurant, Chavadi, Bethaniapuram- 625016",
+            "ta": "அஞ்சப்பர் உணவகத்தின் பின்புறம், சாவடி, பெத்தானியாபுரம்- 625016"
+        },
+        "area": {
+            "en": "Bethaniapuram",
+            "ta": "பெத்தானியாபுரம்"
+        },
+        "phone": "098428 78776"
+    },
+    {
+        "id": 73,
+        "name": {
+            "en": "Vetri Driving School (Tallakulam)",
+            "ta": "வெற்றி டிரைவிங் ஸ்கூல் (தல்லாகுளம்)"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "143, Old Agraharam Street, Opposite Canara Bank, Tallakulam",
+            "ta": "143, பழைய அக்ரஹாரம் தெருமுனை, கனரா வங்கி எதிரில், தல்லாகுளம்"
+        },
+        "area": {
+            "en": "Tallakulam",
+            "ta": "தல்லாகுளம்"
+        },
+        "phone": "090422 22745"
+    },
+    {
+        "id": 74,
+        "name": {
+            "en": "Vail Driving School",
+            "ta": "வேல் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Opposite R TO Office, Bypass Road, South",
+            "ta": "பைபாஸ் ரோடு, தெற்கு R TO அலுவலகம் எதிரில்"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "098428 34435"
+    },
+    {
+        "id": 75,
+        "name": {
+            "en": "Gioia System, Lions Driving School",
+            "ta": "ஜியோயா சிஸ்டம், லயன்ஸ் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Opposite PRC Head Office, Bypass Road, State Bank Supervisors Colony-625016",
+            "ta": "PRC தலைமை அலுவலகத்திற்கு எதிரே, பை பாஸ் சாலை,ஸ்டேட் பாங்க் சூப்பர்வைசர்ஸ் காலனி-625016"
+        },
+        "area": {
+            "en": "By Pass Road",
+            "ta": "பை பாஸ் ரோடு"
+        },
+        "phone": "7373727241"
+    },
+    {
+        "id": 76,
+        "name": {
+            "en": "Jayalakshmi Driving School",
+            "ta": "ஜெயலட்சுமி ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "25-A, Davitsandhai, Karimaman Tulshiram 1st Lane & East Outer Street-625001",
+            "ta": "25-A, தவிட்டுசந்தை, கரிமான் துளசிராம் 1வது லென் & கிழக்கு வெளி தெரு-625001"
+        },
+        "area": {
+            "en": "Thavittusandhai ",
+            "ta": "தவிட்டுசந்தை"
+        },
+        "phone": "097870 57517"
+    },
+    {
+        "id": 77,
+        "name": {
+            "en": "Jayalakshmi Driving School",
+            "ta": "ஜெயலட்சுமி டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "25-A, DAVITH CHANDI, CARIMAN TULSIRAM 1ST LANE & EAST WAY STREET- 625001",
+            "ta": "25-A, தவிட்டுசந்தை, கரிமான் துளசிராம் 1வது லென் & கிழக்கு வெளி தெரு- 625001"
+        },
+        "area": {
+            "en": "Thavittusandhai ",
+            "ta": "தவிட்டுசந்தை"
+        },
+        "phone": "094437 57517"
+    },
+    {
+        "id": 78,
+        "name": {
+            "en": "Sri Karthik Driving School Madurai",
+            "ta": "ஸ்ரீ கார்த்திக் டிரைவிங் ஸ்கூல் மதுரை"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "28, Avaniyapuram - Tiruparangunram Road",
+            "ta": "28, அவனியாபுரம் - திருப்பரங்குன்றம் சாலை"
+        },
+        "area": {
+            "en": "Avaniyapuram",
+            "ta": "அவனியாபுரம்"
+        },
+        "phone": "095666 66370"
+    },
+    {
+        "id": 79,
+        "name": {
+            "en": "Sri Krishna Driving School",
+            "ta": "ஸ்ரீ கிருஷ்ணா டிரைவிங் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4/374, Natham Road, Kurinchinagar, Mahalakshmi Nagar, Athikulam,-625014",
+            "ta": "4/374, நத்தம் சாலை, குறிஞ்சிநகர், மகாலட்சுமி நகர், ஆத்திகுளம்,-625014"
+        },
+        "area": {
+            "en": "Attikulam",
+            "ta": "ஆத்திகுளம்"
+        },
+        "phone": "098421 12242"
+    },
+    {
+        "id": 80,
+        "name": {
+            "en": "Sri Sai Ram Driving School",
+            "ta": "ஸ்ரீ சாய் ராம் டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 3, Subpuram Road, Chokkikulam Madurai-2",
+            "ta": "எண். 3, சுப்புராம் சாலை, சொக்கிகுளம் மதுரை -2"
+        },
+        "area": {
+            "en": "Small pond",
+            "ta": "சின்ன சொக்கிகுளம்"
+        },
+        "phone": "097919 69800"
+    },
+    {
+        "id": 81,
+        "name": {
+            "en": "Sri Shasta Driving School",
+            "ta": "ஸ்ரீ சாஸ்தா டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Thirumal Matrimony, 31 EMG, Mandapam Thallakulam, Behind Perumal Temple, Near Canara Bank",
+            "ta": "திருமால் மேட்ரிமோனி, 31 EMG, மண்டபம் தல்லாகுளம், பெருமாள் கோவில் பின்புறம், கனரா வங்கி அருகில்"
+        },
+        "area": {
+            "en": "Tallakulam",
+            "ta": "தல்லாகுளம்"
+        },
+        "phone": "099433 15331"
+    },
+    {
+        "id": 82,
+        "name": {
+            "en": "Sri Dharmashastha Driving School",
+            "ta": "ஸ்ரீ தர்மசாஸ்தா ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Ramanathapuram Road, Opposite Maharaja Nagar, Entrance, Virakanur- 625009",
+            "ta": "ராமநாதபுரம் சாலை, மகாராஜா நகருக்கு எதிரே, நுழைவாயில், விரகனூர்- 625009"
+        },
+        "area": {
+            "en": "Virakanur",
+            "ta": "விரகனூர்"
+        },
+        "phone": "097875 94560"
+    },
+    {
+        "id": 83,
+        "name": {
+            "en": "Sri Dharmashastha Driving School",
+            "ta": "ஸ்ரீ தர்மசாஸ்தா ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Ramanathapuram Road, Opposite Maharaja Nagar, Entrance, Virakanur-625009",
+            "ta": "ராமநாதபுரம் சாலை, மகாராஜா நகருக்கு எதிரே, நுழைவாயில், விரகனூர்-625009"
+        },
+        "area": {
+            "en": "Virakanur",
+            "ta": "விரகனூர்"
+        },
+        "phone": "096883 94377"
+    },
+    {
+        "id": 84,
+        "name": {
+            "en": "Sri Parashakti Driving School",
+            "ta": "ஸ்ரீ பராசக்தி ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "124 A, MUNICHALAI ROAD, OPPOSITE ECONOMIC MEASUREMENTS, MUNICHALAI- 625009",
+            "ta": "124 ஏ, முனிச்சலை சாலை, பொருளாதார அளவீடுகளுக்கு எதிரே, முனிச்சலை- 625009"
+        },
+        "area": {
+            "en": "Munich",
+            "ta": "முனிச்சலை"
+        },
+        "phone": "098435 54042"
+    },
+    {
+        "id": 85,
+        "name": {
+            "en": "Sri Muthu Lakshmi Driving Training School",
+            "ta": "ஸ்ரீ முத்து லட்சுமி ஓட்டுனர் பயிற்சி பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "9th Street, Mahal Area, Madurai Main, Madurai-625001",
+            "ta": "9வது தெரு, மஹால் பகுதி, மதுரை மெயின், மதுரை-625001"
+        },
+        "area": {
+            "en": "Tirumala Nayakkar Mahal",
+            "ta": "திருமலை நாயக்கர் மஹால்"
+        },
+        "phone": "096889 99942"
+    },
+    {
+        "id": 86,
+        "name": {
+            "en": "Srishastha Driving School",
+            "ta": "ஸ்ரீசாஸ்தா ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Samanatham Road, Paniyur Lamp, Ayyanarpuram- 625009",
+            "ta": "சமநத்தம் சாலை, பணியூர் விளக்கு, அய்யனார்புரம்- 625009"
+        },
+        "area": {
+            "en": "Samanaththam",
+            "ta": "சாமநத்தம்"
+        },
+        "phone": "8220204747 & 7395924755"
+    },
+    {
+        "id": 87,
+        "name": {
+            "en": "Shruti Driving School",
+            "ta": "ஸ்ருதி ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5, 13th Street, Avaniyapuram, Madurai-625013",
+            "ta": "5, 13வது தெரு, அவனியாபுரம், மதுரை-625013"
+        },
+        "area": {
+            "en": "Avaniyapuram",
+            "ta": "அவனியாபுரம்"
+        },
+        "phone": "094423 78322"
+    },
+    {
+        "id": 88,
+        "name": {
+            "en": "Tivree Shasta Driving School",
+            "ta": "திவ்ரீ சாஸ்தா டிரைவிங் ஸ்கூல்"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4B, Mariamman, 1, New Ramnadu Road, Theppakulam, Madurai, Meenakshi Nagar- 625009",
+            "ta": "4B, மாரியம்மன், 1, புதிய ராம்நாடு சாலை, தெப்பக்குளம், மதுரை, மீனாட்சி நகர்- 625009"
+        },
+        "area": {
+            "en": "Theppakulam",
+            "ta": "தெப்பக்குளம்"
+        },
+        "phone": "098421 34672"
+    },
+    {
+        "id": 89,
+        "name": {
+            "en": "Shaw Driving School",
+            "ta": "ஷா ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "183/5 B MELA ANUPANADI, GANGA NAGAR, MADURAI-625009",
+            "ta": "183/5 பி மேல அனுபன்னடி, கங்கா நகர், மதுரை-625009"
+        },
+        "area": {
+            "en": "Anupannadi",
+            "ta": "அனுபன்னடி"
+        },
+        "phone": "088075 11012"
+    },
+    {
+        "id": 90,
+        "name": {
+            "en": "Shaw Driving School",
+            "ta": "ஷா ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "13E, 12th Street, Ismailpuram, Meenakshipuram, -625009",
+            "ta": "13இ, 12வது தெரு, இஸ்மாயில்புரம், மீனாட்சிபுரம், -625009"
+        },
+        "area": {
+            "en": "Ismailpuram",
+            "ta": "இஸ்மாயில்புரம்"
+        },
+        "phone": "088075 11012"
+    },
+    {
+        "id": 91,
+        "name": {
+            "en": "Shahjahan Driving School",
+            "ta": "ஷாஜகான் ஓட்டுநர் பள்ளி"
+        },
+        "type": {
+            "en": "Driving School",
+            "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2796, WEST PADDANADI SALIMILLNADU HOUSING BOARD COLONY-625009",
+            "ta": "2796, மேற்கு அனுப்பானடி சாலைமிழ்நாடு ஹவுசிங் போர்டு காலனி -625009"
+        },
+        "area": {
+            "en": "Anupanadi ",
+            "ta": "அனுப்பானடி"
+        },
+        "phone": "098651 51366"
+    }
+]

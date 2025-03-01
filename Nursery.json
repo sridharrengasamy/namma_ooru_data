@@ -1,0 +1,1058 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "Vivek Nursery garden",
+            "ta": "விவேக் நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "62, Tirupparankunram Road, opp. Kumaragam), Palanganatham",
+            "ta": "62, திருப்பரங்குன்றம் சாலை, எதிரில். குமரகம்), பழங்காநத்தம்"
+        },
+        "area": {
+            "en": "Planganatham",
+            "ta": " பழங்காநத்தம்"
+        },
+        "phone": "9842160624 & 9842060624"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "Pandiyan Nursery garden Madurai",
+            "ta": "பாண்டியன் நர்சரி கார்டன் மதுரை"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": " Sri aurobindo Mira school, Bodi line, Bypass Road, opposite Tamil Nadu",
+            "ta": "ஸ்ரீ அரவிந்தோ மீரா பள்ளி, போடி லைன், பைபாஸ் ரோடு, தமிழ்நாடு எதிரே"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "9344754955 &  9787315538"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "ARI Nursery Garden Madurai",
+            "ta": "ARI நர்சரி கார்டன் மதுரை"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Plot No: 2, second Street, Periyar Nagar, Madakkulam, Madurai, Tamil Nadu 625003",
+            "ta": "2வது வீதி, பெரியார் நகர், மாடக்குளம் "
+        },
+        "area": {
+            "en": "Madakkulam",
+            "ta": "மாடக்குளம்"
+        },
+        "phone": "8300417675"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "POTHIGAI NURSERY GARDEN",
+            "ta": "பொதிகை நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "M.M.C.Colony, MGM Nagar, Avaniyapuram, Madurai,- 625012",
+            "ta": "M.M.C.காலனி, MGM நகர், மதுரை, அவனியாபுரம்,- 625012"
+        },
+        "area": {
+            "en": "Avaniyapuram",
+            "ta": "அவனியாபுரம்"
+        },
+        "phone": "9865221968"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "ARS Nursery & Agro",
+            "ta": "ARS நர்சரி & அக்ரோ"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "East Vadam Poki street, Nelpetai, simmakkal, madurai Main",
+            "ta": "கிழக்கு வடம்போக்கி தெரு, நெல்பேட்டை, சிம்மக்கல், மதுரை மெயின், மதுரை- 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "9443537320"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "Archana Nursery garden",
+            "ta": "அர்ச்சனா நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 74, Ponmani by Pass, Opposite K P S Mahal Ponmani Bypass",
+            "ta": "எண். 74, பொன்மணி பை பாஸ், கேபிஎஸ் மகால் பொன்மேனி பைபாஸ் எதிரில்"
+        },
+        "area": {
+            "en": "Ponmeni",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "9894848973"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Aadharam Thalir Nursery garden",
+            "ta": "ஆதாரம் தளிர் நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Madurai Dindugal Main Road, Nagamalai",
+            "ta": "மதுரை திண்டுக்கல் நெடுஞ்சாலை நாகமாலை "
+        },
+        "area": {
+            "en": "Nagamalai",
+            "ta": "நாகமாலை"
+        },
+        "phone": "7708727777 & 9976123777"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Kmr nursery garden madurai wholesale retail",
+            "ta": "KMR நர்சரி கார்டன் மதுரை மொத்த சில்லறை விற்பனை"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4/361,aravindnagar,Thanakankulam",
+            "ta": "4/361, அரவிந்த்நகர், தனகன்குளம்"
+        },
+        "area": {
+            "en": "Thanakankulam",
+            "ta": "தனகன்குளம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Pasumai Nursery garden",
+            "ta": "பசுமை நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "39/5B Thattanoor Village, Kella kuilkudi, Madurai -19",
+            "ta": "39/5B தட்டனணூர் கிராமம் கீழ குயில்குடி, மதுரை -  19"
+        },
+        "area": {
+            "en": "Kella kuilkudi",
+            "ta": "கீழ குயில்குடி"
+        },
+        "phone": "8428309907 & 9698918131"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "Sun 'n' Shade Landscape",
+            "ta": "சன் 'N' ஷேடு லேண்ட் ஸ்காப் "
+        },
+        "type": {
+            "en": "Landscap Developer",
+            "ta": "இயற்கை அழகுபடுத்துபவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "The Chrstian Mission Hospital Complex, 249/126 F1, East Veli Street, near Blue Forest Cake Shop",
+            "ta": "கிறிஸ்டியன் மிஷன் மருத்துவமனை வளாகம், 249/126 F1, கீழ வெளி வீதி, ப்ளூ ஃபாரஸ்ட் கேக் கடைக்கு அருகில்"
+        },
+        "area": {
+            "en": "Mission Hospital",
+            "ta": "மிஷன் மருத்துவமனை"
+        },
+        "phone": "9952496496"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Roja Nursery Garden Madurai",
+            "ta": "ரோஜா நர்சரி கார்டன் மதுரை"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "plot no 3, Alagar Kovil Main Rd, near syndicate bank, Surveyor Colony, K.Pudur, Madurai, Tamil Nadu 625007",
+            "ta": "பிளாட் எண் 3, அழகர் கோவில் பிரதான சாலை, சிண்டிகேட் வங்கிக்கு அருகில், சர்வேயர் காலனி, K புதூர், மதுரை - 625007"
+        },
+        "area": {
+            "en": "Surveyor Colony",
+            "ta": "சர்வேயர் காலனி"
+        },
+        "phone": "984331186 & 9443028298"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Tamil Nadu Nursery garden",
+            "ta": "தமிழ்நாடு நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4th Main Road, Maruthupandiyar Street, Vandiyur, madurai - 625020",
+            "ta": "·4வது பிரதான சாலை, மருது பாண்டியர் தெரு, வண்டியூர், மதுரை - 625020"
+        },
+        "area": {
+            "en": "Vandiyur",
+            "ta": "வண்டியூர்"
+        },
+        "phone": "4522585558"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "Iyarkai Nursery garden",
+            "ta": "இயற்கை நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Alagar Kovil Main Rd, Meenakshi Amman Nagar, Madurai, Tamil Nadu 625007",
+            "ta": "அழகர் கோவில் பிரதான சாலை, மீனாக்ஷி அம்மன் நகர், மதுரை -625020 "
+        },
+        "area": {
+            "en": "Meenakshi Amman Nagar",
+            "ta": "மீனாக்ஷி அம்மன் நகர்"
+        },
+        "phone": "7418300409"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "My Tiny garden",
+            "ta": "மை டின் கார்டன் "
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "48, 259, E Veli St, Nelpettai, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "48, 259, கீழ வெளி வீதி,  நெல்பேட்டை "
+        },
+        "area": {
+            "en": "East Veli Street,",
+            "ta": "கீழ வெளி வீதி"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "Farm at Home",
+            "ta": "ஃபார்ம் அட் ஹோம் "
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Farm@Home, 39B, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "பண்ணை@வீடு, 39B, அண்ணா நகர்  -625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": ""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "Lotus Nursery garden",
+            "ta": "லோட்டஸ் நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Bus Strop, Rettai vaikal, Melakkal Road",
+            "ta": "பேருந்து நிறுத்தம், ரெட்டை வாய்க்கால், மேலக்கால் சாலை"
+        },
+        "area": {
+            "en": "Rettai vaikal",
+            "ta": "ரெட்டை வாய்க்கால்"
+        },
+        "phone": "7868950001"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "Lions international Nursery garden",
+            "ta": "லயன்ஸ் சர்வதேச நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Aruppukottai Rd, Villapuram Colony, Villapuram, Madurai, Tamil Nadu 625012",
+            "ta": "அருப்புக்கோட்டை ரோடு, வில்லாபுரம் காலனி, வில்லாபுரம் -625012"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "8098099988"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "VM Nursery garden",
+            "ta": "VM நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Eat Cross Road, 80 Feet Road",
+            "ta": "கிழக்கு குறுக்கு சாலை, 80 அடி சாலை, புதிய எல்ஐஜி காலனி, அண்ணா நகர், மதுரை- 625009"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": " அண்ணா நகர்"
+        },
+        "phone": "7868096779"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Smart Nursery Shop",
+            "ta": "ஸ்மார்ட் நர்சரி கடை"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "New vayal Street",
+            "ta": "புதிய வயல் தெரு, அருள்தாஸ்புரம் - 625018"
+        },
+        "area": {
+            "en": "Aruldaspuram",
+            "ta": "அருள்தாஸ்புரம் "
+        },
+        "phone": "7806998177"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "Isha Nursery Madurai",
+            "ta": "ஈஷா நர்சரி மதுரை"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "",
+            "ta": "கொடிமங்கலம் ரோடு கீழமாத்தூர் "
+        },
+        "area": {
+            "en": "Keelamathur",
+            "ta": "கீழமாத்தூர் "
+        },
+        "phone": "9442590015"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "Nikhilesh Nursery",
+            "ta": "நிகிலேஷ் நர்சரி"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "73/20,10, RING ROAD, near MASTHAN PATTI TOLL GATE",
+            "ta": "73/20,10, ரிங் ரோடு, மஸ்தான் பட்டி டோல் கேட் அருகில், வண்டியூர், மதுரை- 625020"
+        },
+        "area": {
+            "en": "Vandiyur",
+            "ta": "வண்டியூர்"
+        },
+        "phone": "8220040502"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "Green Madurai Nursery garden.",
+            "ta": "பசுமையான மதுரை நர்சரி கார்டன்."
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Alagar Kovil Main Road",
+            "ta": "அழகர் கோவில் பிரதான சாலை, கடச்சநேந்தல் "
+        },
+        "area": {
+            "en": "Katachanendal",
+            "ta": "கடச்சநேந்தல் "
+        },
+        "phone": "9344103364"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "Grow Naturals",
+            "ta": "இயற்கையை வளர்க்கவும்"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "19/7, 80 FEET ROAD, Anna Salai",
+            "ta": "19/7, 80 அடி சாலை, அண்ணாசாலை, KK.நகர்- 625020"
+        },
+        "area": {
+            "en": "KK.Nagar",
+            "ta": "KK.நகர்"
+        },
+        "phone": "8220040502"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "Shri Madurai Meenakshi Nursery garden",
+            "ta": "ஸ்ரீ மதுரை மீனாட்சி நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "Nursery Garden",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Athisayam Theme Park, opp. Samayanallur",
+            "ta": "அதிசயம் தீம் பார்க், எதிரில். சமயநல்லூர்"
+        },
+        "area": {
+            "en": "Samayanallur",
+            "ta": "சமயநல்லூர்"
+        },
+        "phone": "9865968743"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "New Wells ",
+            "ta": "நியு வெல்ஸ்  "
+        },
+        "type": {
+            "en": "",
+            "ta": "ஆர்கானிக் பண்ணை"
+        },
+        "detail": {
+            "en": "மைக்ரோகிரீன்ஸ், கோதுமை புல், நாற்றங்கால் செடிகள் டெலிவரி கிடைக்கும்",
+            "ta": ""
+        },
+        "location": {
+            "en": "Muniyandaikovil Street, opposite to police Station",
+            "ta": "முனியாண்டைகோவில் தெரு, காவல் நிலையம் எதிரில், நாகமாலை புதுக்கோட்டை "
+        },
+        "area": {
+            "en": "Nagamalai Pudukottai",
+            "ta": "நாகமாலை புதுக்கோட்டை "
+        },
+        "phone": "9942470076"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "NIVASH GARDEN",
+            "ta": "நிவாஷ் கார்டன்"
+        },
+        "type": {
+            "en": "",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "41 , manikkam nagar 3Road Street, New Ramnad Road",
+            "ta": "41, மாணிக்கம் நகர் 3வது தெரு, புதிய ராம்நாடு சாலை, தெப்பக்குளம், விரிவாக்கம், மதுரை- 625009"
+        },
+        "area": {
+            "en": "Theppakulam",
+            "ta": "தெப்பக்குளம்"
+        },
+        "phone": "9342940709"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "LAKSHMI NURSERY GARDEN",
+            "ta": "லக்ஷ்மி நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "",
+            "ta": "பூக்கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "27 Theni Main road, Virattipathu",
+            "ta": "27 தேனி மெயின் ரோடு, விரட்டிப்பட்டு, "
+        },
+        "area": {
+            "en": "Virattipathu",
+            "ta": "விரட்டிப்பட்டு"
+        },
+        "phone": "9626679259"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Mullai nursery garden",
+            "ta": "முத்து நர்சரி கார்டன் மதுரை"
+        },
+        "type": {
+            "en": "",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sittampatti, Melur, Madurai - Madagupatti Road",
+            "ta": "சித்தம்பட்டி, மேலூர், மதுரை - மதகுபட்டி ரோடு"
+        },
+        "area": {
+            "en": "Melur",
+            "ta": "மேலூர்"
+        },
+        "phone": "6383575896"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "Muthu Nursery garden Madurai",
+            "ta": "சுக்ரா நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "",
+            "ta": "மொத்த தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Don Bosco school, Jawaharlal Puram Road, Surya Nagar",
+            "ta": "டான் போஸ்கோ பள்ளி, ஜவஹர்லால் புரம் சாலை, சூர்யா நகர்- 625007"
+        },
+        "area": {
+            "en": "Surya Nagar",
+            "ta": "சூர்யா நகர்"
+        },
+        "phone": "9159761790"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "Meena Nursery garden",
+            "ta": "மீனா நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Narasingam - 625023",
+            "ta": "நரசிங்கம்,  - 625023"
+        },
+        "area": {
+            "en": "Narasingham",
+            "ta": "நரசிங்கம்"
+        },
+        "phone": "9159761790"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "A.S.Nursery garden",
+            "ta": "ஏ.எஸ்.நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "",
+            "ta": "தோட்ட மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5, Trichy - Madurai Hwy, Valar nagar",
+            "ta": "5, திருச்சி - மதுரை நெடுஞ்சாலை, வளர்நகர் "
+        },
+        "area": {
+            "en": "Varanagarh",
+            "ta": "வளர்நகர் "
+        },
+        "phone": "9486366899"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "Venba Farms",
+            "ta": "வெண்பா பண்ணைகள்"
+        },
+        "type": {
+            "en": "",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "32-A, J.K Nagar, 3rd Stop, Near Tirupathi Devastam, Narayanapuram, Madurai- 625014",
+            "ta": "32-A, J.K நகர், 3வது ஸ்டம்ப், திருப்பதி தேவஸ்தானத்திற்கு அருகில், நாராயணபுரம், மதுரை- 625014"
+        },
+        "area": {
+            "en": "Narayanapuram",
+            "ta": "நாராயணபுரம்"
+        },
+        "phone": "7845400007"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "Kamatchi Amman nursery",
+            "ta": "காமாட்சி அம்மன் நர்சரி"
+        },
+        "type": {
+            "en": "",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "72/2B1B, East, Ring Road, Anna nagar",
+            "ta": "72/2B1B, கிழக்கு, ரிங் ரோடு, அண்ணா நகர், மதுரை- 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "9994367336"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "Sri Balaji Nursery gardens",
+            "ta": "ஸ்ரீ பாலாஜி நர்சரி கார்டன்ஸ்"
+        },
+        "type": {
+            "en": "",
+            "ta": "மொத்த தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Oththakadai - 625017",
+            "ta": "ஒத்தக்கடை- 625107"
+        },
+        "area": {
+            "en": "Oththakadai",
+            "ta": "ஒத்தக்கடை"
+        },
+        "phone": "9994374427"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "VINAYAGA GARDENS",
+            "ta": "விநாயக தோட்டம்"
+        },
+        "type": {
+            "en": "",
+            "ta": "தோட்ட மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sakthi Nivas, M-61-F, Tamizh nagar, Tamil Nagar, TNHB colony, Koodal Nagar, Anaiyur",
+            "ta": "சக்தி நிவாஸ், M-61-F, தமிழ் நகர், TNHB காலனி, கூடல் நகர், ஆனையூர், மதுரை-625017"
+        },
+        "area": {
+            "en": "Anaiyur",
+            "ta": "ஆனையூர்"
+        },
+        "phone": "9629371961"
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "Adiyogi Nursery garden",
+            "ta": "ஆதியோகி நர்சரி கார்டன்"
+        },
+        "type": {
+            "en": "",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Melakkal Rd, Keelamathur, Tamil Nadu 625016",
+            "ta": "மேலக்கல் சாலை, கீழமாத்தூர் "
+        },
+        "area": {
+            "en": "Keelamathur",
+            "ta": "கீழமாத்தூர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "Madurai Planters & Nursery",
+            "ta": "மதுரை ஆலைகள் மற்றும் நாற்றங்கால்"
+        },
+        "type": {
+            "en": "",
+            "ta": "மொத்த தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2nd Angayarkanni Street, Venkatachalapathy Nagar",
+            "ta": "2வது அங்கயற்கண்ணி தெரு, வெங்கடாசலபதி நகர், துவரிமான்-625019"
+        },
+        "area": {
+            "en": "Thuuvariman",
+            "ta": "துவரிமான்"
+        },
+        "phone": "8610586155"
+    },
+    {
+        "id": 38,
+        "name": {
+            "en": "Meenakshi Nursery",
+            "ta": "மீனாட்சி நர்சரி"
+        },
+        "type": {
+            "en": "",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Mullai Nagar, Tirunagar -625006",
+            "ta": "முல்லை நகர், திருநகர்-625006"
+        },
+        "area": {
+            "en": "Thirunagar",
+            "ta": "திருநகர்"
+        },
+        "phone": "8610120893"
+    },
+    {
+        "id": 39,
+        "name": {
+            "en": "Vivek Nursery garden ( keelamathur )",
+            "ta": "விவேக் நர்சரி கார்டன் (கீழமாத்தூர்)"
+        },
+        "type": {
+            "en": "",
+            "ta": "மொத்த தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Bus Stop, Kaliamman kovil, Melakkal Road, Keela mathur",
+            "ta": "பேருந்து நிறுத்தம், காளியம்மன் கோவில், மேலக்கால் சாலை, கீழமாத்தூர் "
+        },
+        "area": {
+            "en": "Keelamathur",
+            "ta": "கீழமாத்தூர் "
+        },
+        "phone": "9842160624 & 9894177694"
+    },
+    {
+        "id": 40,
+        "name": {
+            "en": "Moorthi nursery garden",
+            "ta": "மூர்த்தி நாற்றங்கால் தோட்டம்"
+        },
+        "type": {
+            "en": "",
+            "ta": "தோட்டம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "149/5, 149/5, Teppakulam West Street",
+            "ta": "149/5, தெப்பக்குளம் மேல மாசி வீதி "
+        },
+        "area": {
+            "en": "Theppakulam",
+            "ta": "தெப்பக்குளம்"
+        },
+        "phone": "9087742623 & 9788182623"
+    },
+    {
+        "id": 41,
+        "name": {
+            "en": "SM garden",
+            "ta": "SM தோட்டம்"
+        },
+        "type": {
+            "en": "",
+            "ta": "பூங்கா"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Melamathur, Keelamathur",
+            "ta": "மேலமாத்தூர், கீழமாத்தூர், தமிழ் நாடு 625019"
+        },
+        "area": {
+            "en": "Keelamathur",
+            "ta": "கீழமாத்தூர்"
+        },
+        "phone": "9842120666"
+    },
+    {
+        "id": 42,
+        "name": {
+            "en": "KARSHAKA MITRA IDUKKI LLP",
+            "ta": "கர்ஷக மித்ரா இடுக்கி LLP"
+        },
+        "type": {
+            "en": "",
+            "ta": "தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Main Road, Kootar, Madurai Main Poonthottam - 625001",
+            "ta": "மெயின் ரோடு, கூட்டார், மதுரை மெயின், மதுரை, பூந்தோட்டம்- 625001"
+        },
+        "area": {
+            "en": "Poonthottam",
+            "ta": "பூந்தோட்டம்"
+        },
+        "phone": "8921909223"
+    },
+    {
+        "id": 43,
+        "name": {
+            "en": "Kavithas green india",
+            "ta": "கவிதாஸ் பசுமை இந்தியா"
+        },
+        "type": {
+            "en": "",
+            "ta": "தோட்டம் கட்டும் சப்ளையர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Bus Stop, near Santhiya Clinic,  Kalavasal, 188, Theni Main Road",
+            "ta": "பஸ் ஸ்டாப், சாந்தியா கிளினிக் அருகில்) காளவாசல், 188, தேனி மெயின் ரோடு, சாவடி, பொன்மேனி, மதுரை-625016"
+        },
+        "area": {
+            "en": "",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "9962884634"
+    },
+    {
+        "id": 44,
+        "name": {
+            "en": "Pasumai Illam",
+            "ta": "பசுமை இல்லம்"
+        },
+        "type": {
+            "en": "",
+            "ta": "மொத்த தாவர நாற்றங்கால்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2-735, Kurinji Street",
+            "ta": "2-735, குறிஞ்சி தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    }
+]

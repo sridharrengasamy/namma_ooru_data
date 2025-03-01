@@ -1,0 +1,962 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "Sri Murugan Travel Agency",
+            "ta": "ஸ்ரீ முருகன் டிராவல் ஏஜென்சி"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "10, North Avani Moola Street, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "10, வடக்கு ஆவணி மூல தெரு, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "97918 48265",
+            "ta": "வடக்கு ஆவணி மூல தெரு"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "RG Holidays ",
+            "ta": "RG விடுமுறைகள் "
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "(Madurai Cab Booking - Taxi Service - Cab Service - Rental Car, Hire Innova,Tempo Traveler)",
+            "ta": "(மதுரை வண்டி முன்பதிவு - டாக்ஸி சேவை - கேப் சேவை - வாடகை கார், வாடகை இன்னோவா, டெம்போ டிராவலர்)"
+        },
+        "location": {
+            "en": "30, Asari Street, Mellur, Tallakulam, Madurai, Tamil Nadu 625002",
+            "ta": "30, ஆசாரி செயின்ட், மேலூர், தல்லாகுளம், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "86081 38148",
+            "ta": "மேலூர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "The Madurai tours and travels",
+            "ta": "மதுரை டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "orani, Madurai, Melamadai, Tamil Nadu 625020",
+            "ta": "ஓரணி, மதுரை, மேலமடை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "93248 86964",
+            "ta": "மேலமடை"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Shrilaya Travels & Tourism",
+            "ta": "ஸ்ரீலயா டிராவல்ஸ் & டூரிஸம்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Thirumurugan Nagar 625005",
+            "ta": "திருமுருகன் நகர் 625005"
+        },
+        "area": {
+            "en": "93855 30503",
+            "ta": "திருப்பரங்குன்றம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "W Holidays ",
+            "ta": "W ஹாலிடேஸ் "
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "Tours & Travel agency",
+            "ta": " டூர்ஸ் & டிராவல் ஏஜென்சி"
+        },
+        "location": {
+            "en": "Minor Jail, 19A, kamachipuram Kamarajar salai, near lane, Madurai, Tamil Nadu 625009",
+            "ta": "மைனர் ஜெயில், 19 ஏ, காமச்சிபுரம் காமராஜர் சாலை, லேன் அருகில், மதுரை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "89038 14555",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "Pleasant Tours",
+            "ta": "பிளாசன்ட் டூர்ஸ் "
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Plot No 3, Angalaeswari Nagar, Zion Street, Kochadai, Madurai, Tamil Nadu 625016",
+            "ta": "பிளாட் எண் 3, அங்கலேஸ்வரி நகர், சீயோன் தெரு, கோச்சடை, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "94430 52612",
+            "ta": "கோச்சடை"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Velammal Vinu Tours and Travels",
+            "ta": "வேலம்மாள் வினு டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "16A, singarathopu, Mahal Area, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "16A, சிங்காரதோப்பு, மஹால் பகுதி, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "79049 99014",
+            "ta": "மஹால்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "AJAY TOURS & TRAVELS",
+            "ta": "அஜய் டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "7, Town Hall Rd, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "7, டவுன் ஹால் ரோடு, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "95853 77964",
+            "ta": "பெரியார்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "GOOD CABS TOURS & TRAVELS",
+            "ta": "குட் காப்ஸ் டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "39, North Avani Moola Street, veethi, Madurai, Tamil Nadu 625001",
+            "ta": "39, வடக்கு ஆவணி மூல தெரு, வீதி, மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "98423 84730",
+            "ta": "வடக்கு ஆவணி மூல தெரு"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "RAJA TRAVELS",
+            "ta": "ராஜா டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Anna Nagar Main Road, Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020",
+            "ta": "அண்ணா நகர் மெயின் ரோடு, வைகை காலனி, சாத்தமங்கலம், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "452 439 3931",
+            "ta": "சாத்தமங்கலம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Aaladi Ganesh Tours And Travels",
+            "ta": "ஆலடி கணேஷ் டூர்ஸ் அண்ட் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "7a,, SBOA Colony 3rd St, Ponmeni, Madurai, Tamil Nadu 625016",
+            "ta": "7a,, SBOA காலனி 3வது செயின்ட், பொன்மேனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "98426 65748",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Tamilan Travels",
+            "ta": "தமிழன் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "viveganadhan complex Keelapanagadi, Bus stand, road, near Madurai, Bama Nagar, Vagaikulam, Madurai, Tamil Nadu 625017",
+            "ta": "விவேகநாதன் வளாகம் கீழப்பனகடி, பேருந்து நிலையம், சாலை, மதுரை அருகில், பாமா நகர், வாகைக்குளம், மதுரை, தமிழ்நாடு 625017"
+        },
+        "area": {
+            "en": "70103 03135",
+            "ta": "வாகைக்குளம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "Madurai Anbu Travels",
+            "ta": "மதுரை அன்பு டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5/180, Kanagavel Nagar, Madurai, Tamil Nadu 625002",
+            "ta": "5/180, கனகவேல் நகர், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": 916380712177,
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "Sri Ram Cabs (S R Cabs)",
+            "ta": "ஸ்ரீ ராம் கேப்ஸ் (எஸ் ஆர் கேப்ஸ்)"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "13A, Krishnapuram Colony 4th St, Indira Nagar, Viswanathapuram, Madurai, Tamil Nadu 625014",
+            "ta": "13A, கிருஷ்ணாபுரம் காலனி 4வது செயின்ட், இந்திரா நகர், விஸ்வநாதபுரம், மதுரை, தமிழ்நாடு 625014"
+        },
+        "area": {
+            "en": "#VALUE!",
+            "ta": "விஸ்வநாதபுரம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "Sri Sakthi Tours & Travels",
+            "ta": "ஸ்ரீ சக்தி டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "3-A, Opp. K.P.N. Travels, Hayathkhan Street, Periyar, Madurai, Tamil Nadu 625001",
+            "ta": "3-A, எதிரில். கே.பி.என். டிராவல்ஸ், ஹயாத்கான் தெரு, பெரியார், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "452 421 7174",
+            "ta": "பெரியார்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "U2S TOURS AND TRAVELS",
+            "ta": "U2S டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "54, Tirupparankunram Rd, Pasumalai, Pykara, Madurai, Tamil Nadu 625004",
+            "ta": "54, திருப்பரங்குன்றம் சாலை, பசுமலை, பைக்காரா, மதுரை, தமிழ்நாடு 625004"
+        },
+        "area": {
+            "en": "93332 23333",
+            "ta": "பசுமலை"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "Thaai Travels",
+            "ta": "தாய் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "PLNO, FLOWER MARKET, 13, TNHB Colony, Madurai, Tamil Nadu 625011",
+            "ta": "PLNO, FLOWER MARKET, 13, TNHB காலனி, மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "#VALUE!",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "CITRINE Tours & Travels Madurai",
+            "ta": "CITRINE டூர்ஸ் & டிராவல்ஸ் மதுரை"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Kiruthumal nagar 5, th street, HMS Colony, Ponmeni, Madurai, Erkudi, Tamil Nadu 625016",
+            "ta": "கிருதுமால் நகர் 5, வது தெரு, எச்எம்எஸ் காலனி, பொன்மேனி, மதுரை, ஏர்குடி, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "99448 62442",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Madurai Golden tours & travels",
+            "ta": "மதுரை கோல்டன் டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "",
+            "ta": ""
+        },
+        "area": {
+            "en": "94440 13166",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "PK Cabs",
+            "ta": "பிகே கேப்ஸ் "
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "41, Alagar Nagar 5th St, K.Pudur, Madurai, Tamil Nadu 625007",
+            "ta": "41, அழகர் நகர் 5வது செயின்ட், கே.புதூர், மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "86818 57278",
+            "ta": "கே.புதூர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "Madurai Meenakshi Travels & Tour",
+            "ta": "மதுரை மீனாட்சி டிராவல்ஸ் & டூர்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "pillayar kovil, 2/415 Prc colony 1st street, Vallalar Cross St, Madurai, Tamil Nadu 625018",
+            "ta": "பிள்ளையார் கோவில், 2/415 Prc காலனி 1வது தெரு, வள்ளலார் கிராஸ், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "#VALUE!",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "Annamalai Travels",
+            "ta": "அண்ணாமலை டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No-6, Karupatti Chatram, Opp Madurai Railway Junction, West Veli Street, Madurai, Tamil Nadu 625001",
+            "ta": "எண்-6, கருப்பட்டி சத்திரம், மதுரை ரயில்வே சந்திப்பு எதிரில், மேற்கு வெளி தெரு, மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "98421 66792",
+            "ta": "பெரியார்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "Perfect Travels",
+            "ta": "சரியான பயணங்கள்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shop no 6, Maha Square Apartments, 12 Rathinasamy, V P Rathinasamy Nadar Rd, Viswanathapuram, Madurai, Tamil Nadu 625002",
+            "ta": "கடை எண் 6, மகா சதுக்கம் அடுக்குமாடி குடியிருப்புகள், 12 ரத்தினசாமி, வி பி ரத்தினசாமி நாடார் சாலை, விஸ்வநாதபுரம், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "98943 73713",
+            "ta": "விஸ்வநாதபுரம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "B Five Tours & Travels",
+            "ta": "பி ஃபைவ் டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2 Ground Floor, Kamatchi Amman Kovil, 2 No Lane,South Masi Street, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "2 தரை தளம், காமாட்சி அம்மன் கோவில், 2 சந்து இல்லை, தெற்கு மாசி தெரு, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "88832 12555",
+            "ta": "தெற்கு மாசி வீதி"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "Madurai Travels",
+            "ta": "மதுரை டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4, Nellaiyappapuram Main street, Lion City, Thiru Nagar, Tamil Nadu 625006",
+            "ta": "4, நெல்லையப்பபுரம் பிரதான வீதி, லயன் சிட்டி, திரு நகர், தமிழ்நாடு 625006"
+        },
+        "area": {
+            "en": "98656 96935",
+            "ta": "திரு நகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "Victory Tours and travels",
+            "ta": "விக்டரி டூர்ஸ் அண்ட் டிராவல்ஸ்  ஏஜென்சி"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "Travels madurai, south india tour operators, Tempo Traveller service, travel Agency",
+            "ta": "டிராவல்ஸ் மதுரை, தென்னிந்திய டூர் ஆபரேட்டர்கள், டெம்போ டிராவலர் சேவை, டிராவல்"
+        },
+        "location": {
+            "en": "6/89 E,Velaler Street, Mettu St, Bethaniapuram, Tamil Nadu 625016",
+            "ta": "6/89 இ, வேலலர் தெரு, மேட்டு செயின்ட், பெத்தானியாபுரம், தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "77988 99242",
+            "ta": "பெத்தானியாபுரம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "Amitesh Tourism",
+            "ta": "அமிதேஷ் சுற்றுலா"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 26/C, Travelers Bunglow Rd, Vaithiyanathapuram, Madurai, Tamil Nadu 625016",
+            "ta": "எண் 26/C, டிராவலர்ஸ் பங்களா சாலை, வைத்தியநாதபுரம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "81222 21221",
+            "ta": "வைத்தியநாதபுரம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Spatz Tours & Travels",
+            "ta": "ஸ்பாட்ஸ் டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.1, OSM Building DRO Colony Main Road K.pudur, Madurai, Tamil Nadu 625007",
+            "ta": "எண்.1, ஓஎஸ்எம் கட்டிடம் டிஆர்ஓ காலனி மெயின் ரோடு கே.புதூர், மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "98949 59495",
+            "ta": "கே.புதூர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "TSP TRAVELS",
+            "ta": "டிஎஸ்பி டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "49, Bye Pass Road T S P Complex, 70, Feed Road, Ellis Nagar, Madurai, Tamil Nadu 625010",
+            "ta": "49, பை பாஸ் ரோடு டிஎஸ்பி வளாகம், 70, ஃபீட் ரோடு, எல்லிஸ் நகர், மதுரை, தமிழ்நாடு 625010"
+        },
+        "area": {
+            "en": "98423 46281",
+            "ta": "எல்லிஸ் நகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "WELCOME TOURS AND TRAVELS MADURAI",
+            "ta": "வெல்கம் டூர்ஸ் அண்ட் டிராவல்ஸ் மதுரை"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "sringari complex, 240/4, Bypass Rd, Vanamamalai Nagar, Durai Samy Nagar, Madurai, Tamil Nadu 625016",
+            "ta": "சிருங்காரி வளாகம், 240/4, பைபாஸ் சாலை, வானமாமலை நகர், துரை சாமி நகர், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "90873 51351",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "PRINCE TRAVELS,",
+            "ta": "பிரின்ஸ் டிராவல்ஸ்,"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "NO.6,HOUSING BOARD COMPLEX,NEW H.I.G. COLONY,ANNANAGAR,MADURAI,TAMILNADU.PIN-625020",
+            "ta": "எண்.6, வீட்டு வசதி வாரிய வளாகம், புதிய எச்.ஐ.ஜி. காலனி, அண்ணாநகர், மதுரை, தமிழ்நாடு. பின்-625020"
+        },
+        "area": {
+            "en": "98431 75030",
+            "ta": "அண்ணாநகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "Bigwig Tourism",
+            "ta": "பிக்விக் சுற்றுலா"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.7, 3rd Cross Street,, SBOA Colony,, Ponmeni,, Madurai, Tamil Nadu 625016",
+            "ta": "எண்.7, 3வது குறுக்குத் தெரு,, SBOA காலனி,, பொன்மேனி,, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "98434 65748",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "Amitesh Travel Agency",
+            "ta": "அமிதேஷ் டிராவல் ஏஜென்சி"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.2, Kaja St, near Amirtham Cinema, South Gate, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "எண்.2, காஜா செயின்ட், அமிர்தம் சினிமாவுக்கு அருகில், தெற்கு கேட், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "96889 88100",
+            "ta": "தெற்கு வாசல்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "Waytotrips Tours & Travels",
+            "ta": "வேடோட்ரிப்ஸ் டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "West Street, GR Nagar, Madurai, Tamil Nadu 625007",
+            "ta": "மேற்கு தெரு, ஜிஆர் நகர், மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "99945 91065",
+            "ta": "டிஆர்ஓ காலனி"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "Sri om sairam tours and travels madurai",
+            "ta": "ஸ்ரீ ஓம் சாய்ராம் மதுரையில் சுற்றுப்பயணம் செய்கிறார்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "93 2nd Floor, Bypass Rd, Sakthi Velammal Nagar, Navalar Nagar, Madurai, Tamil Nadu 625016",
+            "ta": "93 2வது தளம், பைபாஸ் சாலை, சக்தி வேலம்மாள் நகர், நாவலர் நகர், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "74025 55923",
+            "ta": "நாவலர் நகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "Chandramba Travels",
+            "ta": "சந்திராம்பா டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.4, Jeevika complex, Salai Nagar, Ellis Nagar, Madurai, Tamil Nadu 625016",
+            "ta": "எண்.4, ஜீவிகா வளாகம், சாலை நகர், எல்லிஸ் நகர், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "86101 15844",
+            "ta": "எல்லிஸ் நகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "KPM Travels",
+            "ta": "கேபிஎம் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "32/65 ramachanthirapuram, 1st St, South Gate, Madurai, Tamil Nadu 625001",
+            "ta": "32/65 ராமச்சந்திரபுரம், 1வது செயின்ட், தெற்கு கேட், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "93425 93544",
+            "ta": "தெற்கு வாசல்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 38,
+        "name": {
+            "en": "Sri Rama Tours & travels",
+            "ta": "ஸ்ரீ ராமா டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "27, T P K Road, T.P.K. Road, near Malai Murasu, Road, Madurai Main, Tamil Nadu 625001",
+            "ta": "27, டி.பி.கே. சாலை, டி.பி.கே. சாலை, மாலை முரசு அருகில், சாலை, மதுரை மெயின், தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": 9443060643,
+            "ta": "பெரியார்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 39,
+        "name": {
+            "en": "SRI RAM TOURS & TRAVELS",
+            "ta": "ஸ்ரீ ராம் டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "29 a,, 2nd St Krishnapuram Colony Main Rd, Viswanathapuram, மகாத்மா காந்தி நகர், தமிழ் நாடு 625014",
+            "ta": "29 a,, 2nd St Krishnapuram Colony Main Rd, Viswanathapuram, மகாத்மா காந்தி நகர், தமிழ் நாடு 625014"
+        },
+        "area": {
+            "en": 9043843875,
+            "ta": "கிருஷ்ணா புரம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 40,
+        "name": {
+            "en": "Sri Ram Travels And Acting",
+            "ta": "ஸ்ரீராம் டிராவல்ஸ் மற்றும் நடிப்பு"
+        },
+        "type": {
+            "en": "Tours & Travels",
+            "ta": "டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "13A, DK plaza, HMS Colony, Main Rd, Virattipathu, S S Colony, Madurai, Tamil Nadu 625016",
+            "ta": "13 A, DK பிளாசா HMS காலனி மெயின் ரோட், விரட்டிபத்து, SSகாலனி "
+        },
+        "area": {
+            "en": "709414113 & 9843332426",
+            "ta": "எஸ் எஸ் காலனி"
+        },
+        "phone": "None"
+    }
+]

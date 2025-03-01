@@ -1,0 +1,1034 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "Sara Colour Xerox",
+            "ta": "சாரா கலர் ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Natham Road, Outpost, Chinna Chokikulam, Madurai, Tamil Nadu 625002",
+            "ta": "நத்தம் ரோடு, அவுட்போஸ்ட், சின்ன சொக்கிகுளம், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Outpost",
+            "ta": "அவுட்போஸ்ட்"
+        },
+        "phone": "8667570175 & 04524231555"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "Sri Thirupathi Xerox",
+            "ta": "ஸ்ரீ திருப்பதி ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "bus Streetand, Pandi Bazzar, RMS Road, Pandi Bazar, Periyar, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "பேருந்து தெரு மற்றும் பாண்டி பஜார், ஆர்எம்எஸ் சாலை, பாண்டி பஜார், பெரியார், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Pandi Bazar",
+            "ta": "பாண்டி பஜார்"
+        },
+        "phone": "0452 422 0028"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "GR XEROX",
+            "ta": "ஜிஆர் ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "34A, Theni Main Road, Virattipathu, Fenner Colony, Ponmeni, Madurai, Tamil Nadu 625016",
+            "ta": "34A, தேனி மெயின் ரோடு, விரட்டிபத்து, ஃபென்னர் காலனி, பொன்மேனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Fenner Colony",
+            "ta": "ஃபென்னர் காலனி"
+        },
+        "phone": "92683 13885"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Amzath Printers",
+            "ta": "அம்சத் பிரிண்டர்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "72, North Veli Street, Arajar Salai, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "72, வடக்கு வெளி தெரு, அரஜர் சாலை, சிம்மக்கல், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "9843082893"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "S M XEROX SHOP",
+            "ta": "S M ஜெராக்ஸ் "
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "10/13 South Rto Office, East Coats Road, Madurai, Tamil Nadu 625016",
+            "ta": "10/13 தெற்கு ஆர்டிஓ அலுவலகம், கிழக்கு கோட்ஸ் சாலை, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "State Bank Supervisors Colony",
+            "ta": "ஸ்டேட் பேங்க் சூப்பர்வைசர்ஸ் காலனி"
+        },
+        "phone": "63800 05146"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "S.K Enterprises",
+            "ta": "S K எண்டர்பிரைசஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "8/21, Sunnambukkar Stret, Periyar, Nethaji Road, Madurai, Tamil Nadu 625001",
+            "ta": "8/21, சுன்னம்புக்கர் ஸ்ட்ரெட், பெரியார், நேதாஜி சாலை, மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "98421 43825"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Win Xerox",
+            "ta": "வின் ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Ponmeni, Chandragandhi Nagar, Madurai, Tamil Nadu 625016",
+            "ta": "பொன்மேனி, சந்திரகாந்தி நகர், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Ponmeni",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "9159044143"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Madurai Xerox",
+            "ta": "மதுரை ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "SH 72, Chinna Chokikulam, Madurai, Tamil Nadu 625002",
+            "ta": "SH 72, சின்ன சொக்கிகுளம், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Chinna Chokikulam",
+            "ta": "சின்ன சொக்கிகுளம்"
+        },
+        "phone": "95971 82183"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "SARAVANA XEROX",
+            "ta": "சரவண ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "38 ANAND NAGAR Anand, Pallavi Nagar, Madurai, Tamil Nadu 625017",
+            "ta": "38 ஆனந்த் நகர் ஆனந்த், பல்லவி நகர், மதுரை, தமிழ்நாடு 625017"
+        },
+        "area": {
+            "en": "Kosakulam",
+            "ta": "கொசகுளம்"
+        },
+        "phone": "96005 25406"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "BISMILLAH StreetATIONERY & XEROX PRINT",
+            "ta": "பிஸ்மில்லா ஸ்டேஷனரி & ஜெராக்ஸ் "
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Vandiyur, Thasildar Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "வண்டியூர், தாசில்தார் நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Vandiyur",
+            "ta": "வண்டியூர்"
+        },
+        "phone": "9677159073 &9789387789"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Asian Printers & Xerox",
+            "ta": "ஆசிய பிரிண்டர்கள் & ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "168, 50 Feet Road, Kattaboman Nagar, Sellur, Madurai, Tamil Nadu 625002",
+            "ta": "168, 50 அடி சாலை, கட்டபோமன் நகர், செல்லூர், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Sellur",
+            "ta": "செல்லூர்"
+        },
+        "phone": "99420 16796"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "AJ XEROX",
+            "ta": "AJ ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4, PALLIVASAL COMBLEX, 120 Feet Road, Surveyor Colony, Moondrumavadi, Madurai, Tamil Nadu 625007",
+            "ta": "4, பள்ளிவாசல் காம்ப்ளக்ஸ், 120 அடி சாலை, சர்வேயர் காலனி, மூன்றுமாவடி, மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "Surveyor Colony",
+            "ta": "சர்வேயர் காலனி"
+        },
+        "phone": "96980 24651"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "Bala Xerox",
+            "ta": "பாலா ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "PPS Sathya Complex, No.1, Booman Nagar, Chokkalinga Nagar, Koodal Nagar, Madurai, Tamil Nadu 625018",
+            "ta": "பிபிஎஸ் சத்யா வளாகம், எண்.1, பூமன் நகர், சொக்கலிங்க நகர், கூடல் நகர், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Koodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "96985 73021"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "Poorvith Xerox",
+            "ta": "பூர்வித் ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "35, East Street, Pasumpon Nagar, Palantham Palangatham, Madurai, Tamil Nadu 625003",
+            "ta": "35, கிழக்கு தெரு, பசும்பொன் நகர், பழந்தம் பழங்காட்டம், மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Palangatham",
+            "ta": "பழங்காத்தம்"
+        },
+        "phone": "96007 23777"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "Sun Net Xerox",
+            "ta": "சன் நெட் ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 70, Rajathi Complex Anna Main Street, &, Bypass Road, Bethaniapuram, Tamil Nadu 625016",
+            "ta": "எண் 70, ராஜாத்தி காம்ப்ளக்ஸ் அண்ணா பிரதான தெரு, &, பைபாஸ் சாலை, பெத்தானியாபுரம், தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Bethaniapuram",
+            "ta": "பெத்தானியாபுரம்"
+        },
+        "phone": "97916 96699"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "Bio Xerox",
+            "ta": "பயோ ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "AR Plaza, North Veli Street, Madurai Main, Poondhotam, Tamil Nadu 625001",
+            "ta": "ஏஆர் பிளாசா, வடக்கு வெளி தெரு, மதுரை மெயின், பூந்தோட்டம், தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Madurai Main",
+            "ta": "மதுரை மெயின்"
+        },
+        "phone": "8667214866"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "Bio Xerox",
+            "ta": "பயோ ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "New Mahalipatti Road, Madurai, Tamil Nadu 625001",
+            "ta": "புதிய மாகாளிபட்டி சாலை, மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "New Mahalipatti Road",
+            "ta": "புதிய மாகாளிபட்டி சாலை"
+        },
+        "phone": "8667214866"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "Bio Xerox",
+            "ta": "பயோ ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "159/1 East marret Streetreet, Thavuttu santhai, Palace Road, Panthadi Area, Madurai Main, Panthadi, Madurai, Tamil Nadu 625001",
+            "ta": "159/1 கிழக்கு மாரெட் ஸ்ட்ரீட்ரீட், தவுட்டு சாந்தை, அரண்மனை சாலை, பந்தாடி பகுதி, மதுரை மெயின், பந்தாடி, மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Thavuttu santhai",
+            "ta": "தவுட்டு சாந்தை"
+        },
+        "phone": "8667214866"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "KANNAN XEROX & ONLINE",
+            "ta": "கண்ணன் ஜெராக்ஸ் & ஆன்லைன்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "81, Alagar Kovil Main Road, K.Pudur, Madurai, Tamil Nadu 625007",
+            "ta": "81, அழகர் கோவில் மெயின் ரோடு, கே.புதூர், மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "K.Pudur",
+            "ta": "கே.புதூர்"
+        },
+        "phone": "98657 61064"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "Xpress Prints",
+            "ta": "எக்ஸ்பிரஸ் பிரிண்ட்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "North Avani Moola Streetreet, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "வடக்கு ஆவணி மூல ஸ்ட்ரீட்ரீட், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Madurai Main",
+            "ta": "மதுரை மெயின்"
+        },
+        "phone": "81482 52199"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "VEL XEROX MDU",
+            "ta": "வேல் ஜெராக்ஸ் "
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "21A OLD KUYAVARPALAYAM ROAD KUYAVARPALAYAM, ROAD, Madurai, Tamil Nadu 625009",
+            "ta": "21A பழைய குயவர்பாளையம் சாலை குயவர்பாளையம், சாலை, மதுரை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "Munichali",
+            "ta": "முனிச்சாலை"
+        },
+        "phone": "73054 11122"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "SNV Online Services & Xerox",
+            "ta": "SNV ஆன்லைன் சேவைகள் & ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1Street Streetreet, Sangeeth Nagar, Koodal Nagar, Madurai, Tamil Nadu 625018",
+            "ta": "1ஸ்ட்ரீட் ஸ்ட்ரீட்ரீட், சங்கீத் நகர், கூடல் நகர், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Koodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "9789327972 & 9994591344"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "AMMAN XEROX",
+            "ta": "அம்மன் ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5A KARPAGAM COMPLEX LOURDHU NAGAR, K.Pudur, Tamil Nadu 625007",
+            "ta": "5A கற்பகம் காம்ப்ளக்ஸ் லூர்து நகர், கே.புதூர், தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "K.Pudur",
+            "ta": "கே.புதூர்"
+        },
+        "phone": "95665 13273"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "Surya xerox",
+            "ta": "சூர்யா ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "pandiyammal complex, 364, near guru theatre, Madurai, Tamil Nadu 625016",
+            "ta": "பாண்டியம்மாள் வளாகம், 364, குரு தியேட்டர் அருகில், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "guru theatre",
+            "ta": "குரு தியேட்டர்"
+        },
+        "phone": "452 357 1199"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "KIRUBA XEROX",
+            "ta": "கிருபா ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "67 palanganatham main road palanganatham, Main Road, Madurai, Tamil Nadu 625003",
+            "ta": "67 பழங்காநத்தம் பிரதான சாலை பழங்காநத்தம், பிரதான சாலை, மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Pasumpon Nagar",
+            "ta": "பசும்பொன் நகர்"
+        },
+        "phone": "90422 40664"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "mariss xerox and online",
+            "ta": "மாரிஸ் ஜெராக்ஸ் & ஆன்லைன்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shop No 55, CSI Church Complex, To, Iyer Bungalow Road, Moondrumavadi, Madurai, Tamil Nadu 625007",
+            "ta": "கடை எண் 55, CSI சர்ச் வளாகம், ஐயர் பங்களா சாலை, மூன்றுமாவடி, மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "Moondrumavadi",
+            "ta": "மூன்றுமாவடி"
+        },
+        "phone": "99437 75708"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "Shahul Xerox",
+            "ta": "ஷாகுல் ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "25, Dr Janaki Narayanan Street, Mahapupalayam, Madurai, Tamil Nadu 625016",
+            "ta": "25, டாக்டர் ஜானகி நாராயணன் தெரு, மஹாபுபாளையம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "S S COLONY",
+            "ta": "எஸ் எஸ் காலனி"
+        },
+        "phone": "9994161513"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Vetrivel Xerox and eSavai and Trophy Shop",
+            "ta": "வெற்றிவேல் ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Bus Streetop, 176, Vakkil New Street, near Simmakkal, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "பேருந்து தெருமுனை, 176, வக்கில் புதிய தெரு, சிம்மக்கல் அருகில், சிம்மக்கல், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "9489404197"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "AADHAVAN XEROX & PRINTOUT SHOP",
+            "ta": "ஆதவன் ஜெராக்ஸ் & பிரிண்டௌட் கடை"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "10, AYYANAR KOVIL 2ND StreetREET, K. K. NAGAR, WAKF BOARoad COLLEGE, opposite MADURAI, Tamil Nadu 625020",
+            "ta": "10, அய்யனார் கோவில் 2வது தெரு ரீட், கே.கே.நகர், வக்ஃப் போர்ரோடு கல்லூரி, மதுரைக்கு எதிரே, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "WAKF BOARd COLLEGE",
+            "ta": "வக்ஃப் போர்டு கல்லூரி"
+        },
+        "phone": "83442 93025"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "Tamil Xerox",
+            "ta": "தமிழ் ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Paramatheaver Complex, 2/155, Iyer Bungalow, Madurai, Tamil Nadu 625014",
+            "ta": "பரமதீவர் வளாகம், 2/155, ஐயர் பங்களா, மதுரை, தமிழ்நாடு 625014"
+        },
+        "area": {
+            "en": "Iyer Bungalow",
+            "ta": "ஐயர் பங்களா"
+        },
+        "phone": "9976753300"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "GM Xerox",
+            "ta": "GM ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Kanmani Karai Road, near Fathima School, Pethaniapuram 2, Arappalayam, Madurai, Tamil Nadu 625016",
+            "ta": "கண்மணி கரை சாலை, பாத்திமா பள்ளி அருகில், பெத்தானியாபுரம் 2, ஆரப்பாளையம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Pethaniapuram 2, Arappalayam",
+            "ta": "பெத்தானியாபுரம் 2, ஆரப்பாளையம்"
+        },
+        "phone": "99653 30734"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "SRI BALAJI E SERVICES XEROX",
+            "ta": "ஸ்ரீ பாலாஜி இ சர்வீசஸ் ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "25, Anbu nagar Main Street, Madakkulam, Madurai, Tamil Nadu 625003",
+            "ta": "25, அன்பு நகர் பிரதான தெரு, மாடக்குளம், மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Madakkulam",
+            "ta": "மாடக்குளம்"
+        },
+        "phone": "90926 81884"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "Quality xerox shop",
+            "ta": "குவாலிட்டி ஜெராக்ஸ் கடை"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Pethaniapuram 2, Kalavasal, Madurai, Tamil Nadu 625016",
+            "ta": "பெத்தானியாபுரம் 2, காளவாசல், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Pethaniapuram",
+            "ta": "பெத்தானியாபுரம்"
+        },
+        "phone": "9852167101, 8608979024 & 9843394976"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "Sri Ram Xerox",
+            "ta": "ஸ்ரீ ராம் ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "23, Cathedral Complex, Narimedu Main Road, Zumbropuram, Narimedu, Madurai, Tamil Nadu 625002",
+            "ta": "23, கதீட்ரல் வளாகம், நரிமேடு மெயின் ரோடு, ஜம்ப்ரோபுரம், நரிமேடு, மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Zumbropuram",
+            "ta": "ஜூம்ப்ரோபுரம்"
+        },
+        "phone": "88701 85395"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "Quality xerox shop",
+            "ta": "குவாலிட்டி ஜெராக்ஸ் கடை"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Pethaniapuram 2, Kalavasal, Madurai, Tamil Nadu 625016",
+            "ta": "பெத்தானியாபுரம் 2, காளவாசல், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Pethaniapuram",
+            "ta": "பெத்தானியாபுரம்"
+        },
+        "phone": "9843836836"
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "Jeeva Xerox",
+            "ta": "ஜீவா ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Thavutu santhai, SH 72A, Madurai, Tamil Nadu 625002",
+            "ta": "தவுடு சாந்தை, SH 72A, மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Thavutu santhai",
+            "ta": "தவுட்டு சாந்தை"
+        },
+        "phone": ""
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "AVVA XEROX SHOP",
+            "ta": "AVVA ஜெராக்ஸ் கடை"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1, 1Street BLOCK, near by Periyar Bus Stand Road, Baskaradass Nagar, Periyar, Thideer Nagar, Madurai, Tamil Nadu 625001",
+            "ta": "1, 1ஸ்ட்ரீட் பிளாக், பெரியார் பேருந்து நிலைய சாலைக்கு அருகில், பாஸ்கரதாஸ் நகர், பெரியார், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 38,
+        "name": {
+            "en": "Usha Xerox, Computers & Novelties",
+            "ta": "உஷா ஜெராக்ஸ், கணினிகள் மற்றும் புதுமைகள்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "MIG-344, Suguna Streetore Bus Streetop, Vairam Complex, Near Vasan Eye Care, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "MIG-344, சுகுணா ஸ்ட்ரீடோர் பஸ் ஸ்ட்ரீடாப், வைரம் காம்ப்ளக்ஸ், வாசன் ஐ கேர் அருகில், அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 39,
+        "name": {
+            "en": "Sri Meenakshi Xerox",
+            "ta": "ஸ்ரீ மீனாட்சி ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "19/11 A Thirumalai rayar padithurai Streetreet, near Annamalai theater, Simmakkal, Madurai, Tamil Nadu 625001",
+            "ta": "19/11 திருமலை ராயர் படித்துறை தெருத் தெரு, அண்ணாமலை தியேட்டர் அருகில், சிம்மக்கல், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 40,
+        "name": {
+            "en": "DHANUSRI XEROX",
+            "ta": "தனுஸ்ரி ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "70D, Mela theru, Madurai Main, Melur, Madurai, Tamil Nadu 625106",
+            "ta": "70டி, மேலத்தெரு, மதுரை மெயின், மேலூர், மதுரை, தமிழ்நாடு 625106"
+        },
+        "area": {
+            "en": "Madurai Main",
+            "ta": "மதுரை மெயின்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 41,
+        "name": {
+            "en": "Quality xerox shop",
+            "ta": "குவாலிட்டி ஜெராக்ஸ் கடை"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "83, SOUTH Veli Streer, South Gate, Madurai, Tamil Nadu 625001",
+            "ta": "83, தெற்கு வெளி ஸ்ட்ரீயர், தெற்கு வாசல், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "South Gate",
+            "ta": "தெற்கு வாசல்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 42,
+        "name": {
+            "en": "Sri Krishna computer and xerox",
+            "ta": "ஸ்ரீ கிருஷ்ணா கம்ப்யூட்டர் & ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "389, 2nd, Bharathiyar Main Road, Shanmuganathapuram, Arappalayam, Jaihindpuram, Madurai, Tamil Nadu 625011",
+            "ta": "389, 2வது, பாரதியார் மெயின் ரோடு, சண்முகநாதபுரம், ஆரப்பாளையம், ஜெய்ஹிந்த்புரம், மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Arappalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 43,
+        "name": {
+            "en": "Thangam Xerox",
+            "ta": "தங்கம் ஜெராக்ஸ்"
+        },
+        "type": {
+            "en": "Xerox & Prints",
+            "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "near Naidu hall, Ganapathy Complex Road, Managiri, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "நாயுடு மண்டபம் அருகில், கணபதி காம்ப்ளக்ஸ் சாலை, மானகிரி, கே.கே.நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "K K Nagar",
+            "ta": "கே.கே.நகர்"
+        },
+        "phone": ""
+    }
+]

@@ -1,0 +1,386 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "SKP E-SEVAI MAIYAM MADURAI",
+            "ta": "SKP இ-சேவை மையம் மதுரை"
+        },
+        "type": {
+            "en": "Aadhaar center",
+            "ta": "ஆதார் மையம்"
+        },
+        "detail": {
+            "en": "CSC CENTRE- RATION CARoad, PAN CARoad, LLR , ONLINE SERVICES",
+            "ta": "CSC மையம்- ரேஷன் கார்ரோடு, பான் கேரோட், LLR, ஆன்லைன் சேவைகள்"
+        },
+        "location": {
+            "en": "TNSTC HEAD OFFICE, Bypass Road, opposite SOUTH RTO OFFICE, opposite ARUL NAGAR, Madurai, Tamil Nadu 625016",
+            "ta": "TNSTC தலைமை அலுவலகம், பைபாஸ் சாலை, தெற்கு RTO அலுவலகம் எதிரில், அருள் நகர் எதிரில், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "917558162243"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "Bharath E-Seva Services",
+            "ta": "பாரத் இ-சேவா சேவைகள்"
+        },
+        "type": {
+            "en": "E-Seva center",
+            "ta": "இ-சேவை மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "suyarajyapuram, 1st, mainroad, Sellur, Madurai, Tamil Nadu 625002",
+            "ta": "சுயராஜ்யபுரம், 1வது, பிரதான சாலை, செல்லூர், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Sellur",
+            "ta": "செல்லூர்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "Sellur E Sevai Maiyam",
+            "ta": "செல்லூர் இ சேவை மையம்"
+        },
+        "type": {
+            "en": "E-Seva center",
+            "ta": "இ-சேவை மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "9B, PMP COMPLEX, 60 Feet Road, Sellur, Madurai, Tamil Nadu 625002",
+            "ta": "9B, PMP காம்ப்ளக்ஸ், 60 அடி சாலை, செல்லூர், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Sellur",
+            "ta": "செல்லூர்"
+        },
+        "phone": "93616 66466"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "POTRAMARAI PUBLIC E SEVAI CENTRE",
+            "ta": "பொற்றாமரை பொது இ சேவை மையம்"
+        },
+        "type": {
+            "en": "E-Seva center",
+            "ta": "இ-சேவை மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "24, Kakkan Street, Shenoy Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "24, கக்கன் தெரு, ஷெனாய் நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Shenoy Nagar",
+            "ta": "ஷெனாய் நகர்"
+        },
+        "phone": "99441 00368"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "E Sevai Maiyam",
+            "ta": "இ சேவை மையம்"
+        },
+        "type": {
+            "en": "E-Seva center",
+            "ta": "இ-சேவை மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "WEST Marret Street, PKS Colony, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "வெஸ்ட் மார்ரெட் தெரு, பிகேஎஸ் காலனி, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "PKS Colony",
+            "ta": "பிகேஎஸ் காலனி"
+        },
+        "phone": ""
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "Govt E-Sevai Centre",
+            "ta": "அரசு இ-சேவை மையம்"
+        },
+        "type": {
+            "en": "E-Seva center",
+            "ta": "இ-சேவை மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Periyar Rail way bridge down, Tamil Nadu 625016",
+            "ta": "பெரியார் ரயில் பாதை பாலம் கீழே, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Vaithiyanathapuram",
+            "ta": "வைத்தியநாதபுரம்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Esevai Centre",
+            "ta": "ஈசெவாய் மையம்"
+        },
+        "type": {
+            "en": "E-Seva center",
+            "ta": "இ-சேவை மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 2, Rosary Church Building, Town Hall Road, Madurai, 625001",
+            "ta": "எண் 2, ரோசரி சர்ச் கட்டிடம், டவுன் ஹால் ரோடு, மதுரை, 625001"
+        },
+        "area": {
+            "en": "PERIYAR",
+            "ta": "பெரியார்"
+        },
+        "phone": "0452 452 0019"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Arasu Public E-Seva Maiyam",
+            "ta": "அரசு பொது இ-சேவா மையம்"
+        },
+        "type": {
+            "en": "E-Seva center",
+            "ta": "இ-சேவை மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Vattasriyar Aluvalagam, 70 Feet Road, Fenner Colony, Madurai, Viratripattu, Tamil Nadu 625010",
+            "ta": "வட்டாச்சியர் அலுவலகம், 70 அடி சாலை, ஃபென்னர் காலனி, மதுரை, விராட்டிபட்டு, தமிழ்நாடு 625010"
+        },
+        "area": {
+            "en": "Fenner Colony",
+            "ta": "ஃபென்னர் காலனி"
+        },
+        "phone": "99999 55827"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "E Service Center",
+            "ta": "இ சேவை மையம்"
+        },
+        "type": {
+            "en": "E-Seva center",
+            "ta": "இ-சேவை மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Panthadi 1st St, Mahal Area, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "பந்தாடி 1வது செயின்ட், மஹால் பகுதி, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Mahal Area",
+            "ta": "மஹால் பகுதி"
+        },
+        "phone": ""
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "Sri Vidhya Xerox E-Seva Centre",
+            "ta": "ஸ்ரீ வித்யா ஜெராக்ஸ் இ-சேவா மையம்"
+        },
+        "type": {
+            "en": "E-Seva center",
+            "ta": "இ-சேவை மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "49, PT Rajan Road, Narimedu, Madurai, Tamil Nadu 625002",
+            "ta": "49, PT ராஜன் சாலை, நரிமேடு, மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Narimedu",
+            "ta": "நரிமேடு"
+        },
+        "phone": "99444 46260"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Arasu E seva Centre",
+            "ta": "அரசு இ சேவா மையம்"
+        },
+        "type": {
+            "en": "E-Seva center",
+            "ta": "இ-சேவை மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "23, Theni Road, Fenner Colony, Viratripattu, Madurai, Tamil Nadu 625014",
+            "ta": "23, தேனி சாலை, ஃபென்னர் காலனி, விராத்திரிப்பட்டு, மதுரை, தமிழ்நாடு 625014"
+        },
+        "area": {
+            "en": "Fenner Colony",
+            "ta": "ஃபென்னர் காலனி"
+        },
+        "phone": ""
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "E Seva centre",
+            "ta": "இ சேவை மையம்"
+        },
+        "type": {
+            "en": "Internet cafe",
+            "ta": "இ-சேவை மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Mela Ponnagaram Main Road, Melaponnagaram, Arappalayam, Madurai, Tamil Nadu 625016",
+            "ta": "மேல பொன்னகரம் மெயின் ரோடு, மேலபொன்னகரம், ஆரப்பாளையம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Arappalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "Government E-Seva",
+            "ta": "அரசு இ-சேவா"
+        },
+        "type": {
+            "en": "E-Seva center",
+            "ta": "இ-சேவை மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Aruppukottai Main Road, Ganapathy Nagar, Villapuram, Madurai, Tamil Nadu",
+            "ta": "அருப்புக்கோட்டை மெயின் ரோடு, கணபதி நகர், வில்லாபுரம், மதுரை, தமிழ்நாடு"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "E-Seva",
+            "ta": "இ-சேவா"
+        },
+        "type": {
+            "en": "E-Seva center",
+            "ta": "இ-சேவை மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Madurai, Iyer Bungalow, Sri Krishna Nagar, Tamil Nadu 625014",
+            "ta": "மதுரை, ஐயர் பங்களா, ஸ்ரீ கிருஷ்ணா நகர், தமிழ்நாடு 625014"
+        },
+        "area": {
+            "en": "Iyer Bungalow",
+            "ta": "ஐயர் பங்களா"
+        },
+        "phone": ""
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "E Seva Center",
+            "ta": "இ சேவா மையம்"
+        },
+        "type": {
+            "en": "Internet cafe",
+            "ta": "இணைய கஃபே"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 10, Kattapomman Road, Kattaboman Nagar, Sellur, Madurai, Tamil Nadu 625002",
+            "ta": "எண் 10, கட்டபொம்மன் சாலை, கட்டபோமன் நகர், செல்லூர், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Sellur",
+            "ta": "செல்லூர்"
+        },
+        "phone": "95432 60724"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "E Service Centre",
+            "ta": "இ சேவை மையம்"
+        },
+        "type": {
+            "en": "Municipal Corporation",
+            "ta": "முனிசிபல் கார்ப்பரேஷன்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Kamarajar Salai, Madurai, Tamil Nadu 625009",
+            "ta": "காமராஜர் சாலை, மதுரை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "Kamarajar Salai",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": ""
+    }
+]

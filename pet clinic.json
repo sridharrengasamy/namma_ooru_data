@@ -1,0 +1,2834 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "S.S Pet Clinic",
+            "ta": "SS பெட் கிளினிக்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "கால்நடை மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "33, 70 Feet Rd, Ellis Nagar, Madurai, Tamil Nadu 625016",
+            "ta": "33, 70 அடி ரோடு, ஏல்லீஸ் நகர் - 625016"
+        },
+        "area": {
+            "en": "Ellis Nagar",
+            "ta": "ஏல்லீஸ் நகர்"
+        },
+        "phone": "0452 436 2211"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "Deen Pet Clinic",
+            "ta": "தீன் பெட் கிளினிக்"
+        },
+        "type": {
+            "en": "",
+            "ta": "மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2431, TNHB Colony, Villapuram  625012",
+            "ta": "2431, தமிழ்நாடு வீட்டு வசதி வாரியம், வில்லாபுரம், மதுரை, தமிழ் நாடு 625012"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "98421 67562"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "Deen Pet Zone",
+            "ta": "தீன் பெட் ஜோன்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.21, Dr Thangaraj Salai, Opp. Law College, Vinayag Nagar",
+            "ta": "21, டாக்டர் தங்கராஜ் சாலை, சட்டக் கல்லூரி எதிரில் , மேலூர், விநாயக நகர், மதுரை- 625020"
+        },
+        "area": {
+            "en": "Opp. Law College",
+            "ta": "சட்டக் கல்லூரி எதிரில்"
+        },
+        "phone": "98421 67562"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "LYKA MULTI SPECIALITY PET CLINIC MADURAI",
+            "ta": "லைகா மல்டி ஸ்பெஷல்டி பெட் கிளினிக் மதுரை"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "கால்நடை மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Navalar Nagar 1Street Streetreet, SS Colony",
+            "ta": "நாவலர் நகர் 1வது தெரு, SS காலனி"
+        },
+        "area": {
+            "en": "S S Colony",
+            "ta": "S S காலனி"
+        },
+        "phone": "82485 66931"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "Tamilnadu Government Veterinary Hospital",
+            "ta": "தமிழ்நாடு அரசு கால்நடை மருத்துவமனை"
+        },
+        "type": {
+            "en": "Veterinary Hospital",
+            "ta": "கால்நடை மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Palangantham,Madakulam Main Road",
+            "ta": "பழங்காநத்தம், மாடகுளம் மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Palangantham",
+            "ta": "பழங்காநத்தம்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "Field vet veterinary clinic",
+            "ta": "நேரடி கால்நடை மருத்துவமனை"
+        },
+        "type": {
+            "en": "Veterinary Hospital",
+            "ta": "அவசரகால கால்நடை பராமரிப்பு சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4465,villapuram puthu nagar, Ganapathy Streetreet",
+            "ta": "4465, வில்லாபுரம் புதுநகர், கணபதி தெரு"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "98432 06130"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Passion Pets Clinic & Surgery",
+            "ta": "பேஷன் பெட்ஸ் கிளினிக் & அறுவை சிகிச்சை"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "கால்நடை மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "186, Kamarajar Salai, opposite to Sourashtra Higher Secondary School",
+            "ta": "186, காமராஜர் சாலை, சௌராஷ்டிரா மேல்நிலைப் பள்ளிக்கு எதிரில்"
+        },
+        "area": {
+            "en": "Kamarajar Salai",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": "93604 28773"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Sona Pet Clinic",
+            "ta": "சோனா பெட் கிளினிக்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Annies Convent Rd, Bethel Nagar, Ponmeni, Madurai, Tamil Nadu 625016",
+            "ta": "அன்னீஸ் கான்வென்ட் சாலை, பெத்தேல் நகர் பொன்மேனி "
+        },
+        "area": {
+            "en": "Ponmeni",
+            "ta": "பொன்மேனி "
+        },
+        "phone": "78100 10069"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "SONA PET CLINIC",
+            "ta": "சோனா பெட் கிளினிக்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப் பிராணிகள் விற்கும் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "19A, Harvey Nagar 1Street Streetreet, Arasaradi",
+            "ta": "19A, ஹார்வி நகர் 1வது தெரு, அரசரடி"
+        },
+        "area": {
+            "en": "Arasaradi",
+            "ta": "அரசரடி"
+        },
+        "phone": "78100 10069"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "சோனா பெட் கிளினிக்",
+            "ta": "சோனா பெட் கிளினிக்"
+        },
+        "type": {
+            "en": "",
+            "ta": "செல்லப் பிராணிகள் விற்கும் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "19A, Harvey Nagar 1st Street, Arasaradi",
+            "ta": "19A, ஹார்வி நகர் 1வது தெரு, அரசரடி"
+        },
+        "area": {
+            "en": "Arasaradi",
+            "ta": "அரசரடி"
+        },
+        "phone": "78100 10069"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Trusty paws pet clinic",
+            "ta": "ட்ரஷ்டி பாவ்ஸ் பெட் கிளினிக்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "கால்நடை மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "13-3/2 LIC colony Kulamangalam main road Meenambalpuram, near to venkatajalapathy theatre",
+            "ta": "13-3/2 எல்ஐசி காலனி குலமங்கலம் மெயின் ரோடு மீனம்பாள்புரம், வெங்கடாஜலபதி தியேட்டர் அருகில்"
+        },
+        "area": {
+            "en": "Meenambalpuram",
+            "ta": "மீனம்பாள்புரம்"
+        },
+        "phone": "93454 67560"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Sonia Dog Clinic & Pet Shop",
+            "ta": "சோனியா நாய் கிளினிக் & பெட் ஷாப்"
+        },
+        "type": {
+            "en": "Pet Shop",
+            "ta": "செல்லப்பிராணிகள் சம்பந்தப்பட்ட பொருள்கள் விற்குமிடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "38, Ground Floor, Kalavasal Signal, opposite Mapillai Vinayagar Theater",
+            "ta": "38, தரை தளம், காளவாசல் சிக்னல், மாப்பிள்ளை விநாயகர் தியேட்டர் எதிரில்"
+        },
+        "area": {
+            "en": "Kalavasal",
+            "ta": "காளவாசல்"
+        },
+        "phone": "98421 34811"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "Sonia Petstore & Vaccination Center",
+            "ta": "சோனியா பெட்ஸ்டோர் & தடுப்பூசி மையம்"
+        },
+        "type": {
+            "en": "Pet Shop",
+            "ta": "செல்லப்பிராணிகள் சம்பந்தப்பட்ட பொருள்கள் விற்குமிடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Junction, opposite to ESI Hospital, Palangantham, Madurai, Tamil Nadu 625003",
+            "ta": "இஎஸ்ஐ மருத்துவமனைக்கு எதிரில், பழங்காநத்தம் சந்திப்பு, "
+        },
+        "area": {
+            "en": "Palangantham",
+            "ta": "பழங்காநத்தம்"
+        },
+        "phone": "98421 34811"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "Sonia Pet Shop",
+            "ta": "சோனியா பெட்டிக் கடை"
+        },
+        "type": {
+            "en": "Pet Shop",
+            "ta": "செல்லப்பிராணிகள் சம்பந்தப்பட்ட பொருள்கள் விற்குமிடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "New HIG Colony, B/140, 80 Feet Rd, Opposite PNB, Anna Nagar, Sathamangalam, Tamil Nadu 625020",
+            "ta": "புதிய HIG காலனி, B/140, 80 அடி ரோடு, PNB எதிரில், அண்ணா நகர், "
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "98426 34811"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "Sonia Petshop & Vaccination Center",
+            "ta": "சோனியா பெட்ஷாப் & தடுப்பூசி மையம்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Income Tax Road, BB kulam",
+            "ta": "வருமான வரி ரோடு,  BB kulam. கோவில் சிட்டி ஹோட்டலுக்கு எதிரில்"
+        },
+        "area": {
+            "en": "BB kulam",
+            "ta": "BB குளம் "
+        },
+        "phone": "98421 34811"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "Sonia Dog Clinic & Pet Shop",
+            "ta": "சோனியா நாய் கிளினிக் & பெட்"
+        },
+        "type": {
+            "en": "Pet Shop",
+            "ta": "செல்லப்பிராணிகள் சம்பந்தப்பட்ட பொருள்கள் விற்குமிடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shop No. 38, Ground Floor, Kalavasal Signal, opposite Mapillai Vinayagar Theater",
+            "ta": "38, தரை தளம், காளவாசல் சிக்னல், மாப்பிள்ளை விநாயகர் தியேட்டர் எதிரில்"
+        },
+        "area": {
+            "en": "Kalavasal",
+            "ta": "காளவாசல்"
+        },
+        "phone": "98421 34811"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "My B Vet care",
+            "ta": "மை பி கால்நடை பராமரிப்பு"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Vakkil New Street",
+            "ta": "வக்கீல் புது தெரு "
+        },
+        "area": {
+            "en": "Vakkil New Street",
+            "ta": "வக்கீல் புது தெரு "
+        },
+        "phone": "94441 58297"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "ARUL PET CLINIC & PET SHOP",
+            "ta": "அருள் பெட் கிளினிக் & பெட் ஷாப்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "police Station, devikalaivani theatre complex 2 nd Strop police Station, 2nd Street, opp. to tirunagar",
+            "ta": "தேவிகலைவாணி தியேட்டர் வளாகம் 2 வது நிறுத்தம் காவல் நிலையம், 2வது தெரு , எதிரில். திருநகர் "
+        },
+        "area": {
+            "en": "Tirunagar",
+            "ta": " திருநகர் "
+        },
+        "phone": "96294 16267"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "S.S. Pet Clinic",
+            "ta": "எஸ்.எஸ். பெட் கிளினிக்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1172, Iyer Bungalow Moondrumavadi Main Road, K Pudur",
+            "ta": "1172, ஐயர் பங்களா, மூன்றுமாவடி பிரதான சாலை K புதூர் "
+        },
+        "area": {
+            "en": "K Pudur",
+            "ta": "K புதூர் "
+        },
+        "phone": "70104 02770"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "Pandiyan Pet Clinic",
+            "ta": "பாண்டியன் பெட் கிளினிக்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "133, Near Lakshmi Hospital, opposite to Guru Theatre",
+            "ta": "133, லட்சுமி மருத்துவமனை அருகில், குரு தியேட்டருக்கு எதிரே"
+        },
+        "area": {
+            "en": "Guru Theatre",
+            "ta": "குரு தியேட்டர் "
+        },
+        "phone": "89404 00613"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "Crazy Pets Vet Care",
+            "ta": "கிரேஸி பெட் & வெட் கேர் "
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "9/ 1A GROUND FLOOR, J N NAGAR 1SREET, J K NAGAR,Narayanapuram ",
+            "ta": "9/ 1A தரை தளம், ஜே என் நகர் 1வது தெரு, ஜே கே நகர்,நாராயணபுரம், மதுரை-625014"
+        },
+        "area": {
+            "en": "Narayanapuram ",
+            "ta": "நாராயணபுரம்"
+        },
+        "phone": "099449 22226"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "SRI MEENAKSHI ENTERPRISES",
+            "ta": "ஸ்ரீ மீனக்ஷி எண்டர்பிரைசஸ்"
+        },
+        "type": {
+            "en": "Pet Shop",
+            "ta": "செல்லப்பிராணிகளின் பொருட்கள் கடை"
+        },
+        "detail": {
+            "en": " ALL PET, EKTEK PHARMA, MONGE DOG FOOD PET SHOP",
+            "ta": ""
+        },
+        "location": {
+            "en": "Plot no.6, Dmart Back Side, second Street, Avaniyapuram",
+            "ta": "பிளாட் எண்.6, டிமார்ட் பின்புறம், இரண்டாவது தெரு, அவனியாபுரம் "
+        },
+        "area": {
+            "en": " Avaniyapuram",
+            "ta": "அவனியாபுரம் "
+        },
+        "phone": "095002 48471"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "Pet Pluz Veterinary Hospital & Pet Store",
+            "ta": "பெட் பிளஸ் கால்நடை மருத்துவமனை & செல்ல பிராணிகளுக்கான கடை"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Plot No 608 4th Cross Lane KK nagar, West, near Fitbox Gym",
+            "ta": "பிளாட் எண் 608 4வது கிராஸ் லேன் KK நகர், மேற்கு, ஃபிட்பாக்ஸ் ஜிம்மிற்கு அருகில்"
+        },
+        "area": {
+            "en": "K K nagar",
+            "ta": "K K நகர்"
+        },
+        "phone": "093610 80788"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "Pet Pluz Madurai",
+            "ta": "பெட் ப்ளஸ் மதுரை"
+        },
+        "type": {
+            "en": "",
+            "ta": "கால்நடை மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "80 Feet Road, Anna Salai Near Mileamum Mall KK Nagar",
+            "ta": "80 அடி சாலை, அண்ணாசாலை மைலேமம் மால் அருகே கே.கே.நகர்"
+        },
+        "area": {
+            "en": "K K nagar",
+            "ta": "K K நகர்"
+        },
+        "phone": "093610 80788"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "Government Veterinary Polyclinic",
+            "ta": "அரசு கால்நடை மருத்துவ மனை"
+        },
+        "type": {
+            "en": "Veterinary Hospital",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Opp. Government Swimming Pool",
+            "ta": "எதிர் அரசு நீச்சல் குளம்"
+        },
+        "area": {
+            "en": "Opp. Government Swimming Pool",
+            "ta": "எதிர் அரசு நீச்சல் குளம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "Government Veterinary Hospital",
+            "ta": "அரசு கால்நடை மருத்துவமனை"
+        },
+        "type": {
+            "en": "Veterinary Hospital",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "TCE, Avaniyapuram Road, Tiruparankundram",
+            "ta": "தியாகராஜர் பொறியியல் கல்லூரி சாலை, அவனியாபுரம் ரோடு திருபறங்குன்றம் "
+        },
+        "area": {
+            "en": "Tiruparankundram",
+            "ta": "திருபறங்குன்றம் "
+        },
+        "phone": "None"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "Naveen Clinic",
+            "ta": "நவீன் கிளினிக்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "37/11, Opposite Bala Mandiram School, Old Nattam Road, Vishalakshipuram",
+            "ta": "37/11, பால மந்திரம் பள்ளி எதிரில், பழைய நத்தம் சாலை, விசாலாக்ஷிபுரம், மதுரை-625014"
+        },
+        "area": {
+            "en": "Vishalakshipuram",
+            "ta": "விசாலாக்ஷிபுரம்"
+        },
+        "phone": "082201 84275"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Safe Home Foundation veterinary hospital and Animal shelter",
+            "ta": "சேஃப் ஹோம் ஃபவுண்டேஷன் பெட் கிளினிக் "
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Melakkal Road, Kochatai",
+            "ta": "மேலக்கால் சாலை,கோச்சடை "
+        },
+        "area": {
+            "en": "Kochatai",
+            "ta": "கோச்சடை "
+        },
+        "phone": "080722 67161"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "Shiny Pet Shop & Clinic",
+            "ta": "ஷைனி பெட் ஷாப் & கிளினிக்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Backside to police beat, New HIG Colony, C-86, near melamadai, Vandiyur",
+            "ta": "போலீஸ் பீட் பின்புறம், நியூ எச்ஐஜி காலனி, சி-86, மேலமடை அருகில், சிக்னல், வண்டியூர், மதுரை-625020"
+        },
+        "area": {
+            "en": "Vandiyur",
+            "ta": "வண்டியூர்"
+        },
+        "phone": "095970 24311"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "PAMED",
+            "ta": "PAMED"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "28, Vakkil New Street",
+            "ta": "28, வக்கீல் நியூ தெரு "
+        },
+        "area": {
+            "en": "Vakkil New Street",
+            "ta": "வக்கீல் புது தெரு "
+        },
+        "phone": "None"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "Sonia Animal Hospital",
+            "ta": "சோனியா விலங்கு மருத்துவமனை"
+        },
+        "type": {
+            "en": "Veterinary Hospital",
+            "ta": "கால்நடை மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1st Floor, B140, 80 Feet Road, near Senthil Plaza",
+            "ta": "1வது தளம், B140, 80 Feet Rd, செந்தில் பிளாசா அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "087789 49941"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "Sathya Veterinary Clinic & Pharmacy",
+            "ta": "சத்யா கால்நடை மருத்துவமனை & மருந்தகம்"
+        },
+        "type": {
+            "en": "Veterinary Hospital",
+            "ta": "கால்நடை மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "First Floor, GM Complex, 7/646, B-5, Opp to: Jayaraj Annapackiyam Matric Hr-Sec School, Theni Road, Nagamalai Pudukottai",
+            "ta": "முதல் தளம், GM வளாகம், 7/646, B-5, எதிரில்: ஜெயராஜ் அன்னபாக்கியம் மெட்ரிக் Hr-Sec பள்ளி, தேனி சாலை, NGGO காலனி, நகமாலை புதுக்கோட்டை "
+        },
+        "area": {
+            "en": "Nagamalai Pudukottai",
+            "ta": "நகமாலை புதுக்கோட்டை "
+        },
+        "phone": "9344480617"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "Thai Veterinary Hospital",
+            "ta": "தாய் கால்நடை மருத்துவமனை"
+        },
+        "type": {
+            "en": "Veterinary Hospital",
+            "ta": "கால்நடை மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Tamil Nadu, Aalathur, Oomachikulam-Alanganallur Road",
+            "ta": "NMS NAGAR, ஆலத்தூர், ஊமச்சிகுளம்-அலங்காநல்லூர் ரோடு -625014"
+        },
+        "area": {
+            "en": "Aalathur",
+            "ta": "ஆலத்தூர்"
+        },
+        "phone": "9566679616"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "Thirumala medical centre",
+            "ta": "திருமலை மருத்துவ மையம்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sourashtra high school complex, 114/A, Kamarajar Salai, nearby Meenakshi Fan house",
+            "ta": "சௌராஷ்டிரா உயர்நிலைப் பள்ளி வளாகம், 114/A, காமராஜர் சாலை, அருகிலுள்ள மீனாட்சி ரசிகர் மாளிகை, முனிச்சலை, மதுரை- 625009"
+        },
+        "area": {
+            "en": "Kamarajar Salai",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": "087788 11567"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "JAMS PET SHOP",
+            "ta": "ஜாம்ஸ் பெட் ஷாப்"
+        },
+        "type": {
+            "en": "Pet Shop",
+            "ta": "செல்லப்பிராணிகளின் பொருட்கள் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "156, Ladha Complex, South gate, North Veli Street",
+            "ta": "156, லதா வளாகம், தெற்கு வாசல் சிக்னல் "
+        },
+        "area": {
+            "en": "South Gate",
+            "ta": "தெற்கு வாசல்"
+        },
+        "phone": "094434 52880"
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "VR PET CARE CLINIC",
+            "ta": "VR PET கேர் கிளினிக்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 276, Arockiya Matha South Street, Behind Annai JJ Mahal, near Thangam Grand Hotel",
+            "ta": "எண். 276, ஆரோக்கிய மாதா தெற்குத் தெரு, அன்னை ஜே.ஜே.மஹால் பின்புறம், தங்கம் கிராண்ட் ஹோட்டல் அருகில், பைபாஸ் ரோடு, காளவாசல் "
+        },
+        "area": {
+            "en": "Kalavasal",
+            "ta": "காளவாசல்"
+        },
+        "phone": "6381904596"
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "Mercy Dog Clinic",
+            "ta": "மெர்சி நாய் கிளினிக்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Near, Kamarajar Road, TNHB Colony, Koodal Ngar, Madurai -625017",
+            "ta": "அருகில், காமராஜர் சாலை, TNHB காலனி, கூடல் நகர், மதுரை-625017"
+        },
+        "area": {
+            "en": " Koodal Ngar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "9894516301"
+    },
+    {
+        "id": 38,
+        "name": {
+            "en": "Madurai Blue cross",
+            "ta": "மதுரை ப்ளூ கிராஸ்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "lll Main Road, Near Ration shop Valluvar Colony, Kalai Nagar",
+            "ta": "lll மெயின் ரோடு, ரேஷன் கடைக்கு அருகில், வள்ளுவர் காலனி, கலை நகர், மதுரை - 625017"
+        },
+        "area": {
+            "en": "Valluvar Colony",
+            "ta": "கலை நகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 39,
+        "name": {
+            "en": "Government Veterinary Hospital",
+            "ta": "அரசு கால்நடை மருத்துவமனை"
+        },
+        "type": {
+            "en": "Veterinary Hospital",
+            "ta": "கால்நடை மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Vilachery Main Road",
+            "ta": "விளாச்சேரி மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Vilachery",
+            "ta": "விளாச்சேரி"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 40,
+        "name": {
+            "en": "S . P . PET CARE",
+            "ta": "எஸ் . பி . PET கேர்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sriram Nagar Main Rd, Ponmeni, Uthangudi, Tamil Nadu 625107",
+            "ta": "ஸ்ரீராம் நகர் மெயின் ரோடு, பொன்மேனி, உத்தங்குடி-625107"
+        },
+        "area": {
+            "en": "Uthangudi",
+            "ta": "உத்தங்குடி"
+        },
+        "phone": "063810 07698"
+    },
+    {
+        "id": 41,
+        "name": {
+            "en": "Trusty Paws Pet Zone Private Limited",
+            "ta": "டிரஸ்டி பாவ்ஸ் பெட் சோன் பிரைவேட் லிமிடெட்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "10, Alagapuri St, Poonthamalli Nagar, Meenambalpuram, Madurai, Tamil Nadu 625002",
+            "ta": "10, அழகாபுரி தெரு, பூந்தமல்லி நகர், மீனம்பாள்புரம், மதுரை-625002"
+        },
+        "area": {
+            "en": "Meenambalpuram",
+            "ta": "மீனம்பாள்புரம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 42,
+        "name": {
+            "en": "House of Paws",
+            "ta": "ஹவுஸ் ஆப் பாவ்ஸ்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1st floor, Kamtachi complex, Manjalmattu Colony, Nagu Nagar, Bethaniapuram, Madurai, Tamil Nadu 625016",
+            "ta": "1வது தளம், கம்டாச்சி வளாகம், மஞ்சள்மட்டு காலனி, நாகு நகர், பெத்தானியாபுரம், மதுரை- 625016"
+        },
+        "area": {
+            "en": "Bethaniapuram",
+            "ta": "பெத்தானியாபுரம்"
+        },
+        "phone": "099766 42223"
+    },
+    {
+        "id": 43,
+        "name": {
+            "en": "dog's spot",
+            "ta": "நாய் இடம்"
+        },
+        "type": {
+            "en": "",
+            "ta": "செல்லப் பிராணிகள் விற்கும் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Guru Theatre signal",
+            "ta": "குரு தியேட்டர் சிக்னல்"
+        },
+        "area": {
+            "en": "Guru Theatre signal",
+            "ta": "குரு தியேட்டர் சிக்னல்"
+        },
+        "phone": "099766 42223"
+    },
+    {
+        "id": 44,
+        "name": {
+            "en": "GRACE PETS & PLANTS",
+            "ta": "கிரேஸ் செல்லப்பிராணிகள் மற்றும் தாவரங்கள்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Madurai - Dindigul Road, near Maruthi ABT Showroom,Theekathir, ",
+            "ta": " மதுரை - திண்டுக்கல் ரோடு, மாருதி ஏபிடி ஷோரூம் அருகில்,தீக்கதிர்,"
+        },
+        "area": {
+            "en": "Theekathir",
+            "ta": "தீக்கதிர்"
+        },
+        "phone": "7200311699 & 9344488810"
+    },
+    {
+        "id": 45,
+        "name": {
+            "en": "JK Pet Shop",
+            "ta": "ஜேகே பெட் "
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No:78, Iyyanar Kovil Back Side, Aruldosspuram, Madurai, Tamil Nadu 625018",
+            "ta": "78, ஐயனார் கோவில் பின்புறம், அருள்தாஸ்புரம், மதுரை-625018"
+        },
+        "area": {
+            "en": "Aruldosspuram",
+            "ta": "அருள்தாஸ்புரம்"
+        },
+        "phone": "090476 74669"
+    },
+    {
+        "id": 46,
+        "name": {
+            "en": "Gopika pet clinic",
+            "ta": "கோபிகா மொபைல் பெட் கிளினிக்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "363, Uchaparambunedu, Iyer Bungalow, Madurai, Tamil Nadu 625014",
+            "ta": "363 ஊசம்பரம்பு மேடு, ஐயர் பங்களா "
+        },
+        "area": {
+            "en": "Iyer Bungalow",
+            "ta": "ஐயர் பங்களா "
+        },
+        "phone": "095851 51902"
+    },
+    {
+        "id": 47,
+        "name": {
+            "en": "Madurai Veterinary Clinic ",
+            "ta": "Madurai Veterinary Clinic மதுரை கால் நடை மருத்துவ சிகிச்சை மையம்"
+        },
+        "type": {
+            "en": "Veterinary Hospital",
+            "ta": "கால்நடை மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Athalai Main Road near Government Hr. Sec. School, Sikkandar Savadi, Podumbu, Tamil Nadu 625018",
+            "ta": "அத்தளை மெயின் ரோடு அரசு அருகில் உள்ளது. நொடி பள்ளி, சிக்கந்தர் சாவடி,பொதும்பு  "
+        },
+        "area": {
+            "en": "Sikkandar Savadi",
+            "ta": "சிக்கந்தர் சாவடி"
+        },
+        "phone": "8610188172 & 9025767302"
+    },
+    {
+        "id": 48,
+        "name": {
+            "en": "Dr.S.Ganesan Bvsc",
+            "ta": "Dr.S.கணேசன் Bvsc"
+        },
+        "type": {
+            "en": "Veterinary Doctor",
+            "ta": "கால்நடை மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sakthi, Streetate Highway 33, Karupayurani",
+            "ta": "சக்தி, மாநில நெடுஞ்சாலை 33, கருப்பாயூரணி- 625020"
+        },
+        "area": {
+            "en": "Karupayurani",
+            "ta": "கருப்பாயூரணி"
+        },
+        "phone": "078457 47188"
+    },
+    {
+        "id": 49,
+        "name": {
+            "en": "Dr. M. S. Saravanan, ",
+            "ta": "டாக்டர் எம்.எஸ்.சரவணன், கால்நடை ஆலோசகர்"
+        },
+        "type": {
+            "en": "Veterinary Doctor",
+            "ta": "கால்நடை மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4465, TNHB Colony, Madurai, Tamil Nadu 625011",
+            "ta": "4465, தமிழ்நாடு வீட்டு வசதி வாரியம், மதுரை, தமிழ் நாடு 625011"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "9843206130"
+    },
+    {
+        "id": 50,
+        "name": {
+            "en": "Gokul pharma",
+            "ta": "கோகுல் பார்மா"
+        },
+        "type": {
+            "en": "Veterinary Medicals",
+            "ta": "கால்நடை மருந்தகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "189, Vakkil New Street",
+            "ta": "189, வக்கீல் நியூ தெரு"
+        },
+        "area": {
+            "en": "Vakkil New Street",
+            "ta": "வக்கீல் நியூ தெரு"
+        },
+        "phone": "098421 24838"
+    },
+    {
+        "id": 51,
+        "name": {
+            "en": "SK Vet and pet's",
+            "ta": "SK கால்நடை மற்றும் செல்லப்பிராணிகள்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Pasupathi Nagar, Anaiyur Madurai, Tamil Nadu 625017",
+            "ta": "பசுபதி நகர்,ஆனையூர் மதுரை, தமிழ்நாடு 625017"
+        },
+        "area": {
+            "en": "Anaiyur",
+            "ta": "ஆனையூர்"
+        },
+        "phone": "083008 94879"
+    },
+    {
+        "id": 52,
+        "name": {
+            "en": "Meenakshi marketing agency(veterinary)",
+            "ta": "மீனாட்சி மார்க்கெட்டிங் ஏஜென்சி(வீட்டரினரி)"
+        },
+        "type": {
+            "en": "Veterinary Medicals",
+            "ta": "கால்நடை மருந்தகம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "212-A, Naicker New St",
+            "ta": "212-A, நாய்க்கர் நியூ தெரு"
+        },
+        "area": {
+            "en": "Vakkil New Street",
+            "ta": "வக்கீல் நியூ தெரு"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 53,
+        "name": {
+            "en": "CARE Animal Clinic",
+            "ta": "கேர் அனிமல் கிளினிக்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "ll main road, Anandha Nagar, Kalai Nagar, Madurai, Tamil Nadu 625017",
+            "ta": "ll மெயின் ரோடு, ஆனந்த நகர், களை நகர் "
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 54,
+        "name": {
+            "en": "Pulliango Kennel & Pet Spa",
+            "ta": "புல்லியாங்கோ கென்னல் & பெட் ஸ்பா"
+        },
+        "type": {
+            "en": "Pet gromer",
+            "ta": "செல்லப் பிராணிகளை சுத்தம் செய்து அலங்கரிப்பவர்கள்"
+        },
+        "detail": {
+            "en": "",
+            "ta": "செல்லப் பிராணிகளை சுத்தம் செய்து அலங்கரிப்பவர்கள்"
+        },
+        "location": {
+            "en": "29a, North Street, Kamrajapuram, Madurai, Tamil Nadu 625009",
+            "ta": "29a, வடக்கு தெரு, காமராஜ் புரம் "
+        },
+        "area": {
+            "en": "Kamrajapuram",
+            "ta": "காமராஜ் புரம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 55,
+        "name": {
+            "en": "MAX PET CARE MADURAI",
+            "ta": "மேக்ஸ் பெட் கேர் மதுரை - மதுரையில் நாய் விடுதி"
+        },
+        "type": {
+            "en": "Pet Day care",
+            "ta": "நாய் பகல்நேர பராமரிப்பு மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "P.O, Plot no 38 LVB Nagar Kadachanendal, Kadhakinaru",
+            "ta": "P.O, பிளாட் எண் 38 LVB நகர் கடச்சனேந்தல் கடகினாறு"
+        },
+        "area": {
+            "en": " Kadachanendal",
+            "ta": "கடச்சனேந்தல்"
+        },
+        "phone": "099527 31063"
+    },
+    {
+        "id": 56,
+        "name": {
+            "en": "Pet Junction",
+            "ta": "செல்லப்பிராணி சந்திப்பு"
+        },
+        "type": {
+            "en": "Pet shop",
+            "ta": "செல்லப் பிராணிகள் விற்கும் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Ellis Nagar, மதுரை, தமிழ் நாடு 625016",
+            "ta": "Ellis Nagar, மதுரை, தமிழ் நாடு 625016"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 57,
+        "name": {
+            "en": "அரசு கால்நடை மருத்துவமனை",
+            "ta": "அரசு கால்நடை மருத்துவமனை"
+        },
+        "type": {
+            "en": "Veterinary Hospital",
+            "ta": "கால்நடை மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Vilachery Main Rd",
+            "ta": "விளாச்சேரி மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Vilachery",
+            "ta": "விளாச்சேரி"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 58,
+        "name": {
+            "en": "Dr.M.Thangapandi ,",
+            "ta": "டாக்டர் எம்.தங்கபாண்டி, கால்நடை ஆலோசகர்"
+        },
+        "type": {
+            "en": "Veterinary Doctor",
+            "ta": "கால்நடை மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "·",
+            "ta": "·"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "097900 04329"
+    },
+    {
+        "id": 59,
+        "name": {
+            "en": "Madurai Veterinary Clinic",
+            "ta": "மதுரை கால் நடை மருத்துவ சிகிச்சை மையம்"
+        },
+        "type": {
+            "en": "Veterinary Hospital",
+            "ta": "கால்நடை மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Athalai Main Road near Government Hr. Sec. School",
+            "ta": "அதளை மெயின் ரோடு அரசு அருகில் உள்ளது. நொடி பள்ளி"
+        },
+        "area": {
+            "en": "Athalai ",
+            "ta": "அதளை"
+        },
+        "phone": "086101 88172"
+    },
+    {
+        "id": 60,
+        "name": {
+            "en": "T birds (pet shop and aquarium)",
+            "ta": "டி பறவைகள் (செல்லப்பிராணி கடை மற்றும் மீன்வளம்)"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "175, ponmuniyandi Kovil, Ponmeni Main Rd",
+            "ta": "175, பொன்முனியாண்டி கோவில், பொன்மேனி பிரதான சாலை"
+        },
+        "area": {
+            "en": "Ponmeni",
+            "ta": "பொன்மேனி "
+        },
+        "phone": "077089 16977"
+    },
+    {
+        "id": 61,
+        "name": {
+            "en": "JVN Pet Shop",
+            "ta": "Jvn பெட்டிக் கடை"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "55, Workshop Road, Madurai Main, Madurai, Poondhotam, Tamil Nadu 625001",
+            "ta": "55, பணிமனை சாலை, பூந்தோட்டம் "
+        },
+        "area": {
+            "en": "Workshop Road",
+            "ta": " பணிமனை சாலை"
+        },
+        "phone": "098431 44810"
+    },
+    {
+        "id": 62,
+        "name": {
+            "en": "K R PET'S & AQUARIUM",
+            "ta": "K R PET & AQUARUM"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "u.c school back gate, WEST MART STREET, opposite to Madurai residency",
+            "ta": "u.c ஸ்கூல் பின் கேட், மேல மாரட் வீதி , மதுரை ரெசிடென்சிக்கு எதிரில்"
+        },
+        "area": {
+            "en": "WEST MART STREET",
+            "ta": "மேல மாரட் வீதி"
+        },
+        "phone": "095970 19207"
+    },
+    {
+        "id": 63,
+        "name": {
+            "en": "GURU CHELLA PETS",
+            "ta": "குரு செல்ல பெட்ஸ்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "26/5, Tirupparankunram Rd, next to ASHOK EYE WEAR, Vasanth Nagar, Madurai, Tamil Nadu 625003",
+            "ta": "26/5, திருப்பரங்குன்றம் ரோடு, அசோக் கண் கடைக்கு அருகில் வசந்த நகர் "
+        },
+        "area": {
+            "en": "Vasanth Nagar",
+            "ta": "வசந்த நகர் "
+        },
+        "phone": "098434 49845"
+    },
+    {
+        "id": 64,
+        "name": {
+            "en": "MD EXOTIC PETS",
+            "ta": "MD அயல்நாட்டு செல்லப்பிராணிகள்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "santhai, C4 police station road,Thillagar thidal, Tamil Sangam Road",
+            "ta": "சாந்தை, சி4 காவல் நிலைய சாலை, திலகர் திடல், தமிழ்ச் சங்க சாலை"
+        },
+        "area": {
+            "en": "Tamil Sangam Road",
+            "ta": " தமிழ்ச் சங்க சாலை"
+        },
+        "phone": "097872 56578"
+    },
+    {
+        "id": 65,
+        "name": {
+            "en": "KB Aquarium & Pet Shop & Plant Nurseries",
+            "ta": "KB மீன்வளம் & பெட் ஷாப் & தாவர நர்சரிகள்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1A, Narayana St, opposite to SMK Mahal, Ponmeni, S S Colony, Madurai, Tamil Nadu 625016",
+            "ta": "1A, நாராயணா St, SMK மஹாலுக்கு எதிரே"
+        },
+        "area": {
+            "en": "S S Colony",
+            "ta": "S S காலனி "
+        },
+        "phone": "098940 32078"
+    },
+    {
+        "id": 66,
+        "name": {
+            "en": "SMAK AQUATICS",
+            "ta": "ஸ்மாக் அகுவாடிக்ஸ்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No-06, kareemsha palli vasal 1st Street, Munichalai Rd, Munichalai, Madurai, Tamil Nadu 625001",
+            "ta": "எண்-06, கரீம்ஷா பள்ளி வாசல் 1வது தெரு, முனிச்சலை"
+        },
+        "area": {
+            "en": "Munichalai",
+            "ta": " முனிச்சலை"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 67,
+        "name": {
+            "en": "GMS PETS & AQUARIUM SHOP",
+            "ta": "ஜிஎம்எஸ் செல்லப்பிராணிகள் & மீன் கடை"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "94/22 A, Raja Muthayah Nagar,Thomas Main Street, Bypass Road",
+            "ta": "94/22 ஏ, ராஜா முத்தையா நகர், தாமஸ் பிரதான தெரு, பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 68,
+        "name": {
+            "en": "STEFIL'S PETS",
+            "ta": "ஸ்டெஃபிலின் செல்லப்பிராணிகள்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "",
+            "ta": ""
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "090253 88022"
+    },
+    {
+        "id": 69,
+        "name": {
+            "en": "Fish O Fish Aquarium & Pets",
+            "ta": "மீன் O மீன் மீன்வளம் & செல்லப்பிராணிகள்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. G9, Bishop Aruldoss Complex, AA Rd, near Pen Queen Xerox",
+            "ta": "எண். G9, பிஷப் அருள்தாஸ் வளாகம், AA Rd, பென் குயின் ஜெராக்ஸ் அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 70,
+        "name": {
+            "en": "Arowana Aquarium",
+            "ta": "அரோவனா அகுவாரியம்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "19A, 1st Cross St",
+            "ta": "19A, 1வது குறுக்கு தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "088305 56562"
+    },
+    {
+        "id": 71,
+        "name": {
+            "en": "Pandian & Son",
+            "ta": "பாண்டியன் அண்ட் சன்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "63, Thilagar Thidal, Tamil Sangam Road",
+            "ta": "63, திலகர் திடல், தமிழ்ச் சங்க சாலை"
+        },
+        "area": {
+            "en": "Tamil Sangam Road",
+            "ta": "தமிழ்ச் சங்க சாலை"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 72,
+        "name": {
+            "en": "Puppies World madurai",
+            "ta": "நாய்க்குட்டிகள் உலகம் மதுரை"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Door no : 16a,nagammalkovil,jaihindPuram main road,Villapuram, 11",
+            "ta": "கதவு எண்: 16a, நாகம்மாள்கோவில், ஜெய்ஹிந்த்புரம் பிரதான சாலை, வில்லாபுரம், 11"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "081909 71728"
+    },
+    {
+        "id": 73,
+        "name": {
+            "en": "SNK Home Breed Pets",
+            "ta": "SNK வீட்டு வளர்ப்பு செல்லப்பிராணிகள்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Naveen's Snacks, 3792",
+            "ta": "நவீனின் ஸ்நாக்ஸ், 3792"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "082480 68822"
+    },
+    {
+        "id": 74,
+        "name": {
+            "en": "New Madurai Galaxy Pet's And Aquarium",
+            "ta": "நியு மதுரை கேலக்ஸி பெட்ஸ் & அக்வேரியம் "
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "121/1, East Marret Street",
+            "ta": "121/1, E Marret St"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "097891 74535"
+    },
+    {
+        "id": 75,
+        "name": {
+            "en": "Make My Pets",
+            "ta": "மேக் மை பெட்ஸ்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "16, Kanagavel Nagar",
+            "ta": "16, கனகவேல் நகர்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "099445 64600"
+    },
+    {
+        "id": 76,
+        "name": {
+            "en": "Arul Pet & Accessories",
+            "ta": "அருள் செல்லப்பிராணி மற்றும் துணைக்கருவிகள்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No-136 G2 Nirmal Plaza, Alagar Kovil Main Road,K.Pudhur, opposite to Blaack Forest Cake Shop",
+            "ta": "எண்-136 G2 நிர்மல் பிளாசா, அழகர் கோவில் மெயின் ரோடு, கே.புதூர், பிளாக் ஃபாரஸ்ட் கேக் கடைக்கு எதிரே"
+        },
+        "area": {
+            "en": "K.Pudhur",
+            "ta": "கே.புதூர்"
+        },
+        "phone": "098420 85660"
+    },
+    {
+        "id": 77,
+        "name": {
+            "en": "The pet zoo by STAG & TAG",
+            "ta": "STAG & TAG  செல்லப்பிராணி பூங்கா"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.8, near Old vasantham store building, opposite to fatima college",
+            "ta": "எண்.8, பழைய வசந்தம் ஸ்டோர் கட்டிடம் அருகில், பாத்திமா கல்லூரிக்கு எதிரே"
+        },
+        "area": {
+            "en": "Fatima college",
+            "ta": "பாத்திமா கல்லூரி"
+        },
+        "phone": "081443 33778"
+    },
+    {
+        "id": 78,
+        "name": {
+            "en": "Madurai Galaxy Pet's And Aquarium",
+            "ta": "மதுரை கேலக்ஸி செல்லப்பிராணிகள் மற்றும் மீன்வளம்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Apk main road MMC Colony Bus Stop Sakthi Rama Complex",
+            "ta": "Apk பிரதான சாலை MMC காலனி பேருந்து நிறுத்தம் சக்தி ராமா வளாகம்"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "086672 41840"
+    },
+    {
+        "id": 79,
+        "name": {
+            "en": "Petz._.Tamilzha",
+            "ta": "பெட்ஸ்._.தமிழா"
+        },
+        "type": {
+            "en": "",
+            "ta": "பறவைகள் விற்கும் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "",
+            "ta": ""
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 80,
+        "name": {
+            "en": "Sea World Aquarium",
+            "ta": "சீ வேர்ல்ட் அகுவாரியம்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "136, Arappalayam Main Road",
+            "ta": "136, ஆரப்பாளையம் மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Arappalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "098421 87342"
+    },
+    {
+        "id": 81,
+        "name": {
+            "en": "Fillial Aqautics",
+            "ta": "பிலியல் அகுவாடிக்ஸ்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "NO 2, KFC, Door No:36 1st Street, Bypass Rd, opposite to Porkudam Apartments",
+            "ta": "எண் 2, KFC, கதவு எண்: 36 1வது தெரு, பைபாஸ் சாலை, பொற்குடம் குடியிருப்புகளுக்கு எதிரே"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "063829 71985"
+    },
+    {
+        "id": 82,
+        "name": {
+            "en": "Sri Jayam Aquarium & Birds",
+            "ta": "ஸ்ரீ ஜெயம் மீன் பறவைகள்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "103a, APK Main Rd, opposite STATE BANK",
+            "ta": "103a, APK மெயின் ரோடு, ஸ்டேட் வங்கிக்கு எதிரே"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "099766 59445"
+    },
+    {
+        "id": 83,
+        "name": {
+            "en": "MS Birds & Aquarium ",
+            "ta": "எம்எஸ் அகுவாரியம் & பேர்ட்ஸ்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "135 Goripalayam",
+            "ta": "135 கோரிப்பாளையம்"
+        },
+        "area": {
+            "en": "Goripalayam",
+            "ta": "கோரிப்பாளையம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 84,
+        "name": {
+            "en": "Deepam Aquarium",
+            "ta": "தீபம் அகுவாரியம்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2-b, Ahimsapuram Main Rd",
+            "ta": "2-பி, அகிம்சாபுரம் மெயின் ரோடு"
+        },
+        "area": {
+            "en": " Ahimsapuram",
+            "ta": "அகிம்சாபுரம்"
+        },
+        "phone": "098428 53525"
+    },
+    {
+        "id": 85,
+        "name": {
+            "en": "Madurai KIRUBA PETS ",
+            "ta": "மதுரை கிருபா செல்லப்பிராணிகள்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "Dog kennel | Pet shop | Dog mating | Dog hostel in Madurai",
+            "ta": " வளர்ப்பு நாய் கூடம் | செல்லப்பிராணி கடை | நாய் இனச்சேர்க்கை | மதுரையில் நாய் விடுதி"
+        },
+        "location": {
+            "en": "Aqua garden campus, to, Oomachikulam - Kadachaneanthal Rd",
+            "ta": "அக்வா தோட்ட வளாகம், ஊமச்சிக்குளம் - கடச்சனேந்தல் ரோடு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "098800 88866"
+    },
+    {
+        "id": 86,
+        "name": {
+            "en": "Madurai birds and pets",
+            "ta": "மதுரை பறவைகள் மற்றும் செல்லப்பிராணிகள்"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "17th shankar nagar, 5th St",
+            "ta": "17வது சங்கர் நகர், 5வது தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "070108 60881"
+    },
+    {
+        "id": 87,
+        "name": {
+            "en": "Pet Paradise ",
+            "ta": "பெட் பாரடைஸ் மதுரை"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Vasantham avenue, Uthangudi, Tamil Nadu 625107",
+            "ta": "வசந்தம் அவென்யூ, உத்தங்குடி"
+        },
+        "area": {
+            "en": "Uthangudi",
+            "ta": "உத்தங்குடி"
+        },
+        "phone": "097913 83396"
+    },
+    {
+        "id": 88,
+        "name": {
+            "en": "No.1 pet seller madurai",
+            "ta": "நம்பர் 1 செல்லப்பிராணி விற்பனையாளர் மதுரை"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "L2/80 pothigai nagar Railar nagar",
+            "ta": "எல்2/80 பொதிகை நகர் ரைலார் நகர்"
+        },
+        "area": {
+            "en": "Railar nagar",
+            "ta": "ரைலார் நகர்"
+        },
+        "phone": "97871 11196"
+    },
+    {
+        "id": 89,
+        "name": {
+            "en": "Vicky aquarium and pets shop,Nagamalaipudukottai madurai",
+            "ta": "விக்கி மீன்வளம் மற்றும் செல்ல பிராணிகளுக்கான கடை, நாகமலைபுதுக்கோட்டை மதுரை"
+        },
+        "type": {
+            "en": "Pet Clinic",
+            "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Theni Rd, near by sbi atm S V N college, near by TMB ATM, Nagamalaipudkottai",
+            "ta": "தேனி ரோடு, எஸ்பிஐ ஏடிஎம் எஸ் வி என் கல்லூரி அருகில், டிஎம்பி ஏடிஎம் அருகில்,  நாகமலைபுதுக்கோட்டை. "
+        },
+        "area": {
+            "en": "Nagamalaipudkottai",
+            "ta": " நாகமலைபுதுக்கோட்டை"
+        },
+        "phone": "73395 56232"
+    },
+    {
+        "id": 90,
+        "name": {
+            "en": "RHOMA AQUARIUM",
+            "ta": "ரோமா அக்வாரியம்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "255-A, Kamarajar Salai, near arasamaram pillaiyar temple",
+            "ta": "255-A, காமராஜர் சாலை, அரசமரம் பிள்ளையார் கோவில் அருகில்"
+        },
+        "area": {
+            "en": "Kamarajar Salai",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": "084388 49543"
+    },
+    {
+        "id": 91,
+        "name": {
+            "en": "ARUL AQUARIUM",
+            "ta": "அருள் அகுவாரியம்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 10, 2nd Main Rd",
+            "ta": "எண் 10, 2வது பிரதான சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "094437 74189"
+    },
+    {
+        "id": 92,
+        "name": {
+            "en": "SHIBI SANTHOSH AQUARIUM",
+            "ta": "ஷிபி சந்தோஷ் அக்வாரியம்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "27, Bharathidasan Salai, T.B Road Arasardi Near ESI Dispensary (Maninagaram &",
+            "ta": "27, பாரதிதாசன் சாலை, T.B சாலை அரசரடி ESI மருந்தகத்திற்கு அருகில் (மணிநகரம் &"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "063807 12626"
+    },
+    {
+        "id": 93,
+        "name": {
+            "en": "Happie Fin Aquarium",
+            "ta": "ஹேப்பி ஃபின் அக்வாரியம்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "bus stop, opp. to Keerathurai",
+            "ta": "பேருந்து நிறுத்தம், எதிரில். கீரதுரை"
+        },
+        "area": {
+            "en": " Keerathurai",
+            "ta": "கீரதுரை"
+        },
+        "phone": "087542 60148"
+    },
+    {
+        "id": 94,
+        "name": {
+            "en": "JONA PETS AND ACCESSORIES",
+            "ta": "ஜோனா பெட்ஸ் மற்றும் அக்சஸ்ஸோரிஸ்"
+        },
+        "type": {
+            "en": "Pets & Accessories",
+            "ta": "செல்லப் பிராணிகள் விற்கும் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 43 SIVANANDI KONAR, 6th St",
+            "ta": "எண் 43 சிவானந்தி கோனார், 6வது தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "094421 31352"
+    },
+    {
+        "id": 95,
+        "name": {
+            "en": "Nila farm madurai",
+            "ta": "நிலா பண்ணை மதுரை"
+        },
+        "type": {
+            "en": "",
+            "ta": "செல்லப் பிராணிகள் விற்கும் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4, 343, Nellai St",
+            "ta": "4, 343, நெல்லை தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "096779 92202"
+    },
+    {
+        "id": 96,
+        "name": {
+            "en": "Aquarium & Pet's",
+            "ta": "மீன்வளம் & செல்லப்பிராணிகள்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "25, Kansapuram Main Rd, opposite Goripalayam",
+            "ta": "25, கான்சாபுரம் மெயின் ரோடு, கோரிப்பாளையம் எதிரில்"
+        },
+        "area": {
+            "en": "Goripalayam",
+            "ta": "கோரிப்பாளையம்"
+        },
+        "phone": "088838 80333"
+    },
+    {
+        "id": 97,
+        "name": {
+            "en": "Royal Pets & Aquariums",
+            "ta": "ராயல் பெட்ஸ்&அகுவாரியம்"
+        },
+        "type": {
+            "en": "Pet Shop",
+            "ta": "செல்லப் பிராணிகள் விற்கும் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Vandiyur main Road",
+            "ta": "வண்டியூர் மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Vandiyur ",
+            "ta": "வண்டியூர்"
+        },
+        "phone": "090426 74110"
+    },
+    {
+        "id": 98,
+        "name": {
+            "en": "Flowerhorn Shop",
+            "ta": "பிளவர் ஹார்ன் ஷாப்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 09, Kannanendal Main Rd",
+            "ta": "எண். 09, கண்ணனேந்தல் பிரதான சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "097890 03373"
+    },
+    {
+        "id": 99,
+        "name": {
+            "en": "Madurai pet shop",
+            "ta": "மதுரை பெட் கடை"
+        },
+        "type": {
+            "en": "",
+            "ta": "செல்லப் பிராணிகள் விற்கும் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "80, KK Nagar,  Madurai, Tamil Nadu 625007",
+            "ta": "80, KK நகர், மதுரை - 625007"
+        },
+        "area": {
+            "en": "K K Nagar",
+            "ta": "K K நகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 100,
+        "name": {
+            "en": "SARAVI BIRDS FARM",
+            "ta": "சரவி பறவைகள் பண்ணை"
+        },
+        "type": {
+            "en": "Birds Shop",
+            "ta": "பறவை கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2, Purasaradi Road, Avaniyapuram",
+            "ta": "2, புரசரடி சாலை,அவனியாபுரம் "
+        },
+        "area": {
+            "en": "Avaniyapuram",
+            "ta": "அவனியாபுரம் "
+        },
+        "phone": "098942 67433"
+    },
+    {
+        "id": 101,
+        "name": {
+            "en": "MM BIRDS HOME",
+            "ta": "MM பறவைகள் இல்லம்"
+        },
+        "type": {
+            "en": "Birds Shop",
+            "ta": "பறவை கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sangar Nagar, 4th Street, , Ramavarma Nagar, K.Pudur, Madurai, Tamil Nadu 625007",
+            "ta": "சங்கர் நகர், 4வது தெரு, ரமாவரமா நகர், K புதூர் "
+        },
+        "area": {
+            "en": "K.Pudur",
+            "ta": "K புதூர்"
+        },
+        "phone": "086081 52260"
+    },
+    {
+        "id": 102,
+        "name": {
+            "en": "Mahal Aquarium",
+            "ta": "மகால் அகுவாரியம்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "46, Palmal Kurruku Theru",
+            "ta": "46, பால்மால் குறுக்கு தெரு"
+        },
+        "area": {
+            "en": "Mahal ",
+            "ta": "மஹால் "
+        },
+        "phone": "099413 75811"
+    },
+    {
+        "id": 103,
+        "name": {
+            "en": "Kathir aquarium",
+            "ta": "கதிர் அகுவாரியம்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "CS Balakrishaiyer Ln, Old Kuyavar Palayam, Balarengapuram, Madurai, Tamil Nadu 625009",
+            "ta": "CS பாலகிருஷய்யர் லேன், பழைய குயவர் பாளையம், பாலரெங்காபுரம் - 625009"
+        },
+        "area": {
+            "en": "Old Kuyavar Palayam",
+            "ta": "பழைய குயவர் பாளையம்"
+        },
+        "phone": "098432 30452"
+    },
+    {
+        "id": 104,
+        "name": {
+            "en": "Horn Fish Nation",
+            "ta": "ஹார்ன் பிஷ் நேஷன்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2, 138c, Balaji nagar 2nd St, Angel Nagar, Vandiyur, Madurai, Tamil Nadu 625020",
+            "ta": "2, 138c, பாலாஜி நகர் 2வது தெரு, ஏஞ்சல் நகர், வண்டியூர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Vandiyur ",
+            "ta": "வண்டியூர்"
+        },
+        "phone": "098655 55698"
+    },
+    {
+        "id": 105,
+        "name": {
+            "en": "PKS Munichalai Aquarium",
+            "ta": "பிகேஎஸ் முனிச்சாலை மீன்வளம்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Krishanth Illam, 76, Munichalai Road",
+            "ta": "கிரிஷாந்த் இல்லம், 76, முனிச்சாலை ரோடு"
+        },
+        "area": {
+            "en": "Munichalai",
+            "ta": "முனிச்சாலை"
+        },
+        "phone": "8012886060"
+    },
+    {
+        "id": 106,
+        "name": {
+            "en": "Rhoma Aquatix",
+            "ta": "ரோமா அக்வாடிக்ஸ்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Old no 3B/1, New no 18, D2 D2 Street, road, opposite Kennedy Maternity Hospital",
+            "ta": "பழைய எண் 3B/1, புதிய எண் 18, D2 D2 தெரு, சாலை, கென்னடி மகப்பேறு மருத்துவமனை எதிரில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 107,
+        "name": {
+            "en": "Aqua Pieces",
+            "ta": "அகுவா பீஸ்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "29\\5a, 3rd Street, BB Kulam Road",
+            "ta": "29\\5a, 3வது தெரு , பி பி குளம் சாலை, "
+        },
+        "area": {
+            "en": "BB Kulam",
+            "ta": " பி பி குளம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 108,
+        "name": {
+            "en": "Gokul Pet  Medicals Pet Shop",
+            "ta": "கோகுல் பெட் மெடிக்கல்ஸ் "
+        },
+        "type": {
+            "en": "Pet Medicals",
+            "ta": "பெட் மெடிக்கல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4/32, Narasingam Main Road, uthankudi",
+            "ta": "4/32, நரசிங்கம் பிரதான வீதி"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "098655 92635"
+    },
+    {
+        "id": 109,
+        "name": {
+            "en": "Chamundy Aquarium",
+            "ta": "சாமுண்டி அகுவாரியம்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "plot no 13/2, TPK Road Madurai, near Vasudhara Enclave, Andalpuram",
+            "ta": "பிளாட் எண் 13/2, டிபிகே சாலை மதுரை, வசுதாரா என்கிளேவ் அருகில், ஆண்டாள்புரம் "
+        },
+        "area": {
+            "en": "Andalpuram",
+            "ta": "ஆண்டாள்புரம்"
+        },
+        "phone": "099945 13895"
+    },
+    {
+        "id": 110,
+        "name": {
+            "en": "Fish Aquarium & Birds Talks",
+            "ta": "பிஷ் அகுவாரியம் மற்றும் பேர்ட்ஸ் டாக்ஸ்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Puthukotai, SVN collage,  TMB ATM Opp.Nagamalai",
+            "ta": "புதுகோட்டை, SVN கல்லூரி TMB ATM எதிரில். நாகமலை"
+        },
+        "area": {
+            "en": "Nagamalaipudkottai",
+            "ta": " நாகமலைபுதுக்கோட்டை"
+        },
+        "phone": "7329552423"
+    },
+    {
+        "id": 111,
+        "name": {
+            "en": "SPK pet paradise",
+            "ta": "SPK செல்ல சொர்க்கம் மதுரை"
+        },
+        "type": {
+            "en": "Pet Shop",
+            "ta": "செல்லப் பிராணிகள் விற்கும் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Srinivasa avenue, Valarnagar, Uthangudi",
+            "ta": "ஸ்ரீநிவாசா அவென்யூ, வளர் நகர், உத்தங்குடி "
+        },
+        "area": {
+            "en": "Valarnagar",
+            "ta": "வளர் நகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 112,
+        "name": {
+            "en": "MRS Fish Shop",
+            "ta": "MRS மீன் கடை"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": " 1/314 Bridge Station Road,  Near Lady Doak College",
+            "ta": "1/314 பாலம் நிலைய சாலை, லேடி டோக் காலேஜ் அருகில் "
+        },
+        "area": {
+            "en": "Near Lady Doak College",
+            "ta": "லேடி டோக் காலேஜ் அருகில் "
+        },
+        "phone": "None"
+    },
+    {
+        "id": 113,
+        "name": {
+            "en": "THILIP PET POINT",
+            "ta": "திலிப் பெட் பாயிண்ட்"
+        },
+        "type": {
+            "en": "Pet Shop",
+            "ta": "செல்லப் பிராணிகள் விற்கும் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5,Thilagar thidal( sunday market, Tamil Sangam Road",
+            "ta": "5, திலகர் திடல் (ஞாயிறு சந்தை, தமிழ் சங்க சாலை"
+        },
+        "area": {
+            "en": "Tamil Sangam Road",
+            "ta": "தமிழ்ச் சங்க சாலை"
+        },
+        "phone": "9842458987"
+    },
+    {
+        "id": 114,
+        "name": {
+            "en": "Bethel Pets World",
+            "ta": "பெத்தேல் செல்லப்பிராணிகள் உலகம்"
+        },
+        "type": {
+            "en": "Pet Shop",
+            "ta": "செல்லப் பிராணிகள் விற்கும் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2/125-shop no 2:veerapandi road, Oomachikulam - Kadachaneanthal Rd",
+            "ta": "2/125-கடை எண் 2: வீரபாண்டி சாலை, ஊமச்சிகுளம் - கடச்சனேந்தல் சாலை"
+        },
+        "area": {
+            "en": " Kadachanendal",
+            "ta": "கடச்சனேந்தல்"
+        },
+        "phone": "082201 45145"
+    },
+    {
+        "id": 115,
+        "name": {
+            "en": "Smk Muthupandi Fish Farm",
+            "ta": "Smk முத்துப்பாண்டி மீன் பண்ணை"
+        },
+        "type": {
+            "en": "",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Athikulam",
+            "ta": "ஆத்திகுளம்"
+        },
+        "area": {
+            "en": "Athikulam",
+            "ta": "ஆத்திகுளம்"
+        },
+        "phone": "098421 86330"
+    },
+    {
+        "id": 116,
+        "name": {
+            "en": "Vasu Aquarium",
+            "ta": "வாசு வண்ணமீனகம்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Aruppukottai Rd, Meenakshi Nagar, Villapuram, Tamil Nadu 625012",
+            "ta": "அருப்புக்கோட்டை சாலை, மீனாக்ஷி நகர், வில்லாபுரம், "
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "098653 94185"
+    },
+    {
+        "id": 117,
+        "name": {
+            "en": "M A RAMESH AQUARIUM",
+            "ta": "எம்.ஏ. ரமேஷ் மீன்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Vijayan Complex, Otthakadai, Madurai, Anbu Nagar, Tamil Nadu 625107",
+            "ta": "விஜயன் வளாகம், ஒத்தக்கடை "
+        },
+        "area": {
+            "en": "Otthakadai",
+            "ta": "ஒத்தக்கடை "
+        },
+        "phone": "063822 02043"
+    },
+    {
+        "id": 118,
+        "name": {
+            "en": "Royal Aquariums & Fish Care Center",
+            "ta": "ராயல் அகுவாரியும்ஸ் & பிஷ் கேர் சென்டர்"
+        },
+        "type": {
+            "en": "Aquariums",
+            "ta": "வண்ணமீன் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sri Krishna Medical, 114/64, DD Main Road , Opposite, Arappalayam, Madurai, Tamil Nadu 625016",
+            "ta": "ஸ்ரீ கிருஷ்ணா மெடிக்கல், 114/64, DD மெயின் ரோடு, ஆரப்பாளையம்,"
+        },
+        "area": {
+            "en": "Arappalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "None"
+    }
+]

@@ -1,0 +1,939 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "RBS Chimney Sales and Service",
+            "ta": "RBS சிம்னி விற்பனை மற்றும் சேவை"
+        },
+        "type": {
+            "en": "Chimney Sales and Service",
+            "ta": "சிம்னி சேல்ஸ் & சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "49, kaalai, Ambalakarar Street, Kochadai, Madurai, Tamil Nadu 625016",
+            "ta": "49, காளை, அம்பலகாரர் தெரு, கோச்சடை, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Kochadai",
+            "ta": "கோச்சடை"
+        },
+        "phone": ""
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "Shree meenakshi gas service",
+            "ta": "ஸ்ரீ மீனாட்சி கேஸ் சேவை"
+        },
+        "type": {
+            "en": "Gas installation service",
+            "ta": "கேஸ் இன்ஸ்ட்ரீடலேஷன் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "40, Jeeva Nagar 1Street Street, Lakshmipuram, Sundarajapuram, Rathinapuram, Satya Sai Nagar, Madurai, Tamil Nadu 625011",
+            "ta": "40, ஜீவா நகர் 1 தெரு தெரு, லட்சுமிபுரம், சுந்தர்ராஜபுரம், ரத்தினபுரம், சத்ய சாய் நகர், மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Sundarajapuram",
+            "ta": "சுந்தரராஜபுரம்"
+        },
+        "phone": "97886 92339"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "Premier Service Centre",
+            "ta": "பிரிமியர் சர்வீஸ் சென்டர் "
+        },
+        "type": {
+            "en": "Gas Stove service",
+            "ta": "கேஸ் ஸ்டவ் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 1, 4th Street, Kamarajar Salai, Munichalai, Madurai, Tamil Nadu 625001",
+            "ta": "எண் 1, 4வது தெரு, காமராஜர் சாலை, முனிச்சலை, மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Munichalai",
+            "ta": "முனிச்சாலை"
+        },
+        "phone": ""
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Sri Balaji Agencies",
+            "ta": "ஸ்ரீ பாலாஜி ஏஜென்சிஸ் "
+        },
+        "type": {
+            "en": "Chimney services",
+            "ta": "சிம்னி சேல்ஸ் & சர்வீஸ்"
+        },
+        "detail": {
+            "en": " ( Chimney Sales / LPG Gas Stove / Water Purifiers / Service ) in Madurai",
+            "ta": "சிம்னி சேல்ஸ் / எல்பிஜி கேஸ் ஸ்டவ் / வாட்டர் பியூரிஃபையர்ஸ் / சர்வீஸ்"
+        },
+        "location": {
+            "en": "Bus Stop, No.187/1, South Veli Street, Near Sappani Kovil, South Gate, Periyar, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "பேருந்து தெருமுனை, எண்.187/1, தெற்கு வெளி தெரு, சப்பாணி கோவில் அருகில், தெற்கு வாசல், பெரியார், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": " South Gate",
+            "ta": "தெற்கு வாசல்"
+        },
+        "phone": "99768 84964"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "MAHADEV TRADING Company",
+            "ta": "மஹாதேவ் டிரேடிங் நிறுவனம்"
+        },
+        "type": {
+            "en": "Gas Stove spare",
+            "ta": "கேஸ் ஸ்டவ் உதிரி பாகங்கள்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1/2, Glasskara Street, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "1/2, கிளாஸ்கார தெரு, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "9843052294 & 9344502898"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "THIGAZHINI ENTERPRISES",
+            "ta": "திகழினி எண்டர்பிரைசஸ்"
+        },
+        "type": {
+            "en": "house hold appliances",
+            "ta": "வீட்டு உபகரணங்கள்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No:28B, Petchi Amman Padithurai Road, near North Masi Street, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "எண்:28பி, பெட்சி அம்மன் படித்துறை சாலை, வடக்கு மாசி தெருவுக்கு அருகில், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "North Masi Street",
+            "ta": "வடக்கு மாசி வீதி"
+        },
+        "phone": "97515 21709"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Royal Stove parts ",
+            "ta": "ராயல் ஸ்டவ் பகுதிகள்"
+        },
+        "type": {
+            "en": "Gas Stove spare",
+            "ta": "கேஸ் ஸ்டவ் உதிரி பாகங்கள்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Royal Sttove parts, 37-A, katrapalya, Periyar, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "ராயல் ஸ்டவ் பாகங்கள், 37-ஏ, கத்ரபால்யா, பெரியார், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "8525040881 & 9500370091"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Sri Guru Iyappan Gas Stove Service Center",
+            "ta": "ஸ்ரீ குரு ஐயப்பன் கேஸ் ஸ்டவ் சேவை மையம்"
+        },
+        "type": {
+            "en": "Gas Stove service",
+            "ta": "கேஸ் ஸ்டவ் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Chinna Kadai Street, Madurai Main, Panthadi, Madurai, Tamil Nadu 625001",
+            "ta": "சின்ன கடை தெரு, மதுரை மெயின், பந்தாடி, மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Chinna Kadai Street",
+            "ta": "சின்னக்கடை தெரு"
+        },
+        "phone": "98421 67991"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Sree Karthikeyan Gas Stove Service Center",
+            "ta": "ஸ்ரீ கார்த்திகேயன் கேஸ் ஸ்டவ் சேவை மையம்"
+        },
+        "type": {
+            "en": "Gas Stove service",
+            "ta": "கேஸ் ஸ்டவ் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Hanumar Koil Padithurai Street,Simmakkal, Madurai, Tamil Nadu 625001",
+            "ta": "ஹனுமார் கோயில் படித்துறை தெரு, சிம்மக்கல், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "0452 262 6748"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "SRI GANGA SPARES & SERVICE",
+            "ta": "ஸ்ரீ கங்கா ஸ்பேர்ஸ் & சர்வீஸ்"
+        },
+        "type": {
+            "en": "Gas Stove spare",
+            "ta": "கேஸ் ஸ்டவ் உதிரி பாகங்கள்"
+        },
+        "detail": {
+            "en": "Gas Stove ,Mixie,mixie jar , cooker service centre",
+            "ta": "கேஸ் ஸ்டவ், மிக்ஸி, மிக்ஸி ஜார், குக்கர் சர்வீஸ் சென்டர்"
+        },
+        "location": {
+            "en": "24a, S Krishnan Koil Street, Periyar, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "24a, எஸ் கிருஷ்ணன் கோயில் தெரு, பெரியார், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "89409 52088"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Sri Meenakshi Spares ",
+            "ta": "ஸ்ரீ மீனாட்சி ஸ்பேர்ஸ்"
+        },
+        "type": {
+            "en": "Gas Stove spare",
+            "ta": "கேஸ் ஸ்டவ் உதிரி பாகங்கள்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "65, East Veli street, near National Transport, opposite to Sastha Sweet, 3rd Street, Madurai, Tamil Nadu 625001",
+            "ta": "65, கிழக்கு வெளி வீதி, தேசிய போக்குவரத்துக்கு அருகில், சஸ்தீஹா ஸ்வீட் எதிரில், 3 சாலை தெரு, மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": " East Veli street",
+            "ta": ""
+        },
+        "phone": "92834 51116"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Raja Gas Stove sales and service",
+            "ta": "ராஜா கேஸ் ஸ்டவ் விற்பனை மற்றும் சேவை"
+        },
+        "type": {
+            "en": "Gas Stove service",
+            "ta": "கேஸ் ஸ்டவ் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "297, Mahalakshmi Kovil 4th Street, Solaialagu Puram, Madurai, Tamil Nadu 625011",
+            "ta": "297, மகாலட்சுமி கோவில் 4வது தெரு, சோலைஅழகு புரம், மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Solaialagu Puram",
+            "ta": "சோலைஅழகு புரம்"
+        },
+        "phone": "73394 85777"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "Sanyo Gas Stove Service Center",
+            "ta": "சான்யோ கேஸ் ஸ்டவ் சேவை மையம்"
+        },
+        "type": {
+            "en": "Gas Stove service",
+            "ta": "கேஸ் ஸ்டவ் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Palace Road, 135, East Veli vithi , Madurai, Tamil Nadu 625001",
+            "ta": "அரண்மனை சாலை, 135, கிழக்கு வெளி வீதி, மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "93677 37927"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "Prestige Xclusive",
+            "ta": "ப்ரெஸ்டிஜ் எக்ஸ்குளுசிவ் "
+        },
+        "type": {
+            "en": "Kitchen appliance Store",
+            "ta": "வீட்டு உபகரணங்கள்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "119, Vakkil New Street, near old Chokkanathar Koil & Wildcraft, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "119, வக்கில் புதிய தெரு, பழைய சொக்கநாதர் கோயில் & வைல்ட் கிராஃப்ட் அருகில், சிம்மக்கல், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "77083 35886"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "Guru Iyyappan gas Stove Sales and service",
+            "ta": "குரு ஐயப்பன் கேஸ் ஸ்டவ் விற்பனை மற்றும் சேவை"
+        },
+        "type": {
+            "en": "Gas Stove service",
+            "ta": "கேஸ் ஸ்டவ் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "42/3, A.P.K main road, meenakshi nagar, villapuram, opposite to HP Jayamani petrol Agencies, Madurai, Tamil Nadu 625012",
+            "ta": "42/3, A.P.K மெயின் ரோடு, மீனாட்சி நகர், வில்லாபுரம், HP ஜெயமணி பெட்ரோல் ஏஜென்சிக்கு எதிரே, மதுரை, தமிழ்நாடு 625012"
+        },
+        "area": {
+            "en": "villapuram",
+            "ta": "வில்லாபுரம் "
+        },
+        "phone": "98421 67991"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "Ananthas Service Point",
+            "ta": "அனந்தாஸ் சர்வீஸ் பாயிண்ட்"
+        },
+        "type": {
+            "en": "Kitchen appliance repair service",
+            "ta": "சமையலறை உபகரணங்கள் பழுதுபார்க்கும் இடம் "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "67 & 68, First floor T.P.K Main Road, Vasantha Nagar KVB ATM Upstairs, Tamil Nadu 625003",
+            "ta": "67 & 68, ஃபிர்ஸ்ட்ரீட் தளம் T.P.K மெயின் ரோடு, வசந்த நகர் KVB ATM அப்ஸ்ட்ரீடர்ஸ், தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Vasantha Nagar",
+            "ta": "வசந்த நகர் "
+        },
+        "phone": "94421 44281"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "National Gas Stove Service Centre",
+            "ta": "நேஷனல் கேஸ் ஸ்டவ் சேவை மையம்"
+        },
+        "type": {
+            "en": "Gas Stove service",
+            "ta": "கேஸ் ஸ்டவ் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "186, Opposite Shourastra Boys High School, Kamarajar Salai, Madurai, Tamil Nadu 625009",
+            "ta": "186, ஷெஷ்ட்ரார் ஆண்கள் உயர்நிலைப் பள்ளி எதிரில், காமராஜர் சாலை, மதுரை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "Kamarajar Salai",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": "98431 73065"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "Rajan kitchen appliance",
+            "ta": "ராஜன் கிச்சன் அப்ளையன்ஸ் "
+        },
+        "type": {
+            "en": "Kitchen appliance repair service",
+            "ta": "சமையலறை உபகரணங்கள் பழுதுபார்க்கும் இடம்"
+        },
+        "detail": {
+            "en": " Hob, gas Stove,mixie,cooker,grinder,commercial Stoves service centre",
+            "ta": "ஹாப், கேஸ் ஸ்டவ், மிக்ஸி, குக்கர், கிரைண்டர், கமர்ஷியல் ஸ்டவ்ஸ் சர்வீஸ் சென்டர்"
+        },
+        "location": {
+            "en": "Santhanam Street, near Lakshmi Store, Nehru Nagar, Shri Vel Murugan Nagar, Madurai, Tamil Nadu 625003",
+            "ta": "சந்தானம் தெரு, லட்சுமி தெருவுக்கு அருகில், நேரு நகர், ஸ்ரீ வேல் முருகன் நகர், மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Shri Vel Murugan Nagar",
+            "ta": "ஸ்ரீ வேல் முருகன் நகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Maruthi Gas Stove Service Centre",
+            "ta": "மாருதி கேஸ் ஸ்டவ் சேவை மையம்"
+        },
+        "type": {
+            "en": "Gas Stove service",
+            "ta": "கேஸ் ஸ்டவ் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Door No. 72, Near Palanganatham Bus Stop,, TPK Main Road, Palanganatham, Madurai, Tamil Nadu 625003",
+            "ta": "கதவு எண். 72, பழங்காநத்தம் பேருந்து தெருவுக்கு அருகில்,, TPK மெயின் ரோடு, பழங்காநத்தம், மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Palanganatham",
+            "ta": "பழங்காநத்தம்"
+        },
+        "phone": "98659 42120"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "Sivasakthi Home Service Center",
+            "ta": "சிவசக்தி வீட்டு சேவை மையம்"
+        },
+        "type": {
+            "en": "Kitchen appliance repair service",
+            "ta": "சமையலறை உபகரணங்கள் பழுதுபார்க்கும் இடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "153P, Near VOC Streetatue, North Veli Street, Simmakkal, Madurai, Tamil Nadu 625001",
+            "ta": "153P, VOC தெருவுக்கு அருகில், வடக்கு வெளி தெருத் தெரு, சிம்மக்கல், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "0452 262 7267"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "AUTHORIZED SERVICE CENTER",
+            "ta": "அங்கீகரிக்கப்பட்ட சேவை மையம்"
+        },
+        "type": {
+            "en": "Washer & dryer repair service",
+            "ta": "வாஷர் & ட்ரையர் பழுதுபார்க்கும் சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1/14 Gnanaolivupuram, 1st Street, opp. to agarwal eye hospital, Old Arppalayam, West Ponnagaram, Arappalayam, Madurai, Tamil Nadu 625016",
+            "ta": "1/14 ஞானஒளிவுபுரம், 1 தெரு தெரு, எதிரில். அகர்வால் கண் மருத்துவமனை, பழைய ஆர்ப்பாளையம், வெஸ்ட்ரீட் பொன்னகரம், ஆரப்பாளையம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Arppalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "Preethi Service Center",
+            "ta": "ப்ரீத்தி சேவை மையம்"
+        },
+        "type": {
+            "en": "Kitchen appliance repair service",
+            "ta": "சமையலறை உபகரணங்கள் பழுதுபார்க்கும் இடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "D, CITI CENTRE APARTMENT, 137/93, Kamarajar Salai, Pankajam Colony, Madurai, Tamil Nadu 625009",
+            "ta": "D, CITI சென்டர் அபார்ட்மென்ட், 137/93, காமராஜர் சாலை, பங்கஜம் காலனி, மதுரை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "Kamarajar Salai",
+            "ta": ""
+        },
+        "phone": "0452 434 7386"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "Manohar Lpg",
+            "ta": "மனோகர் எல்பிஜி"
+        },
+        "type": {
+            "en": "Gas Stove service",
+            "ta": "கேஸ் ஸ்டவ் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "212/2, 2nd East Main Road, New LIG Colony, Anna Nagar, Sathamangalam, Madurai, Tamil Nadu 625020",
+            "ta": "212/2, 2வது ஈஸ்ட்ஸ்ட்ரீட் மெயின் ரோடு, நியூ எல்ஐஜி காலனி, அண்ணா நகர், சாத்தமங்கலம், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "Anantha & Anantha - Anna Nagar Branch",
+            "ta": "அனந்தா & அனந்தா - அண்ணா நகர் கிளை"
+        },
+        "type": {
+            "en": "Kitchen appliance Store",
+            "ta": "சமையலறை உபகரணங்கள் கடை "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "396, Anna Nagar Main Road, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "396, அண்ணா நகர் பிரதான சாலை, அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "0452 252 0891"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "Croma - KK Nagar",
+            "ta": "குரோமா - கே.கே.நகர்"
+        },
+        "type": {
+            "en": "Kitchen appliance Store",
+            "ta": "சமையலறை உபகரணங்கள் கடை "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 466 / 467, AR Complex 100 ft Road, Anna Salai, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "எண் 466 / 467, ஏஆர் காம்ப்ளக்ஸ் 100 அடி சாலை, அண்ணாசாலை, கேகே நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": " K K Nagar",
+            "ta": "கேகே நகர்"
+        },
+        "phone": "63662 32550"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "Prestige Xclusive - Thalakulam",
+            "ta": "ப்ரெஸ்டிஜ் எக்ஸ்குளுசிவ்  - தல்லாகுளம்"
+        },
+        "type": {
+            "en": "Kitchen appliance Store",
+            "ta": "சமையலறை உபகரணங்கள் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sacs Plaza, 55, Alagar Kovil Main Road, Mellur, Tallakulam, Madurai, Tamil Nadu 625002",
+            "ta": "சாக்ஸ் பிளாசா, 55, அழகர் கோவில் மெயின் ரோடு, மேலூர், தல்லாகுளம், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Tallakulam",
+            "ta": "தல்லாகுளம்"
+        },
+        "phone": "0452 436 0011"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "Le Cucina",
+            "ta": "லே குசினா"
+        },
+        "type": {
+            "en": "Kitchen appliance Store",
+            "ta": "சமையலறை உபகரணங்கள் கடை "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Anna Bus Stand, 12, Jawahar Street, Gandhi Nagar, Shenoy Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "அண்ணா பேருந்து தெரு, 12, ஜவஹர் தெரு, காந்தி நகர், ஷெனாய் நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Shenoy Nagar",
+            "ta": "ஷெனாய் நகர்"
+        },
+        "phone": "78108 22424"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Faber Platinum Studio Madurai",
+            "ta": "ஃபேபர் பிளாட்டினம் ஸ்ட்ரீட்டியோ மதுரை"
+        },
+        "type": {
+            "en": "Kitchen appliance Store",
+            "ta": "சமையலறை உபகரணங்கள் கடை "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "HIG 20, 80 Feet Road, LIG Colony, New LIG Colony, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "HIG 20, 80 அடி சாலை, LIG ​​காலனி, புதிய LIG காலனி, அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "93607 13819"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "The Kitchen Gallery",
+            "ta": "கிச்சன் கேலரி"
+        },
+        "type": {
+            "en": "Kitchen appliance Store",
+            "ta": "சமையலறை உபகரணங்கள் கடை "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "HIG, 20, 80 Feet Road, New LIG Colony, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "HIG, 20, 80 அடி சாலை, புதிய LIG காலனி, அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "Sk Marketing",
+            "ta": " Sk மார்க்கெட்டிங்"
+        },
+        "type": {
+            "en": "Kitchen appliance Store",
+            "ta": "சமையலறை உபகரணங்கள் கடை "
+        },
+        "detail": {
+            "en": "BOSCH Brand Store",
+            "ta": "BOSCH பிராண்ட் கடை"
+        },
+        "location": {
+            "en": "337, 80 Feet Road, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "337, 80 அடி சாலை, அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "82700 77999"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "Prestige Xclusive - Annanagar",
+            "ta": "ப்ரெஸ்டிஜ் எக்ஸ்குளுசிவ் - அண்ணாநகர்"
+        },
+        "type": {
+            "en": "Kitchen appliance Store",
+            "ta": "சமையலறை உபகரணங்கள் கடை "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "KKMS TOWERS, 30, 2nd East Main Road, New LIG Colony, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "KKMS டவர்ஸ், 30, 2வது ஈஸ்ட்ஸ்ட்ரீட் மெயின் ரோடு, புதிய எல்ஐஜி காலனி, அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "94434 69509"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "R.S Service Center",
+            "ta": "R.S சேவை மையம்"
+        },
+        "type": {
+            "en": "Kitchen appliance service",
+            "ta": "சமையலறை உபகரணங்கள் சர்வீஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "W4RC+PQQ, Sathiyamoorthy 6th Street Main Road, Meenakshipuram, Madurai, Tamil Nadu 625002",
+            "ta": "W4RC+PQQ, சத்தியமூர்த்தி 6வது ஸ்ட்ரீட்ரீட் மெயின் ரோடு, மீனாட்சிபுரம், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Meenakshipuram",
+            "ta": "மீனாட்சிபுரம்"
+        },
+        "phone": "97893 06850"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "Moon Light Service Centre",
+            "ta": "மூன் லைட் சேவை மையம்"
+        },
+        "type": {
+            "en": "Electronics repair shop",
+            "ta": "எலக்ட்ரானிக்ஸ் பழுதுபார்க்கும் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "59, P.T.Rajan 6th Street, Narimedu, Madurai, Tamil Nadu 625002",
+            "ta": "59, பி.டி.ராஜன் 6வது தெரு, நரிமேடு, மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Narimedu",
+            "ta": "நரிமேடு"
+        },
+        "phone": "98654 12206"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "VINO HOME SERVICE CENTRE",
+            "ta": "வினோ ஹோம் சர்வீஸ் சென்டர்"
+        },
+        "type": {
+            "en": "Electronics repair shop",
+            "ta": "எலக்ட்ரானிக்ஸ் பழுதுபார்க்கும் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "35, Mariyamman Kovil Main Road, Ramavarma Nagar, K.Pudhur, Madurai, Tamil Nadu 625007",
+            "ta": "35, மாரியம்மன் கோவில் பிரதான சாலை, ராமவர்மா நகர், கே.புதூர், மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "K.Pudhur",
+            "ta": "கே.புதூர்"
+        },
+        "phone": "88830 68906"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "Taj Electricals",
+            "ta": "தாஜ் எலக்ட்ரிக்கல்ஸ்"
+        },
+        "type": {
+            "en": "Electrical supply Store",
+            "ta": "சமையலறை உபகரணங்கள் கடை "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "214, West Masi Street, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "214, மேற்கு மாசி தெரு, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "Jeeva Stove Spares",
+            "ta": "ஜீவா ஸ்டவ் ஸ்பேர்ஸ்"
+        },
+        "type": {
+            "en": "Gas Stove Store",
+            "ta": "கேஸ் ஸ்டவ் ஸ்பேர்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "19, West Marat Street, Opposite U C Higher School, WeSt Marret Streetreet, Madurai, Tamil Nadu 625001",
+            "ta": "19, வெஸ்ட் மாரட் ஸ்ட்ரீட்ரீட், யூ சி உயர்நிலைப் பள்ளி எதிரில், வெஸ்ட் மாரெட் ஸ்ட்ரீட்ரீட், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "98421 61324"
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "Viveks",
+            "ta": "விவேக்"
+        },
+        "type": {
+            "en": "Appliance Store",
+            "ta": "அப்ளையன்ஸ் கடை "
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "244, West Masi Street, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "244, மேற்கு மாசி தெரு, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "044 4223 8000"
+    },
+    {
+        "id": 38,
+        "name": {
+            "en": "V.M. Associates",
+            "ta": "VM. அசோசியேட்ட"
+        },
+        "type": {
+            "en": "Kitchen applianc Store",
+            "ta": "சமையலறை உபகரணங்கள் தெருவோர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "230, South Perumal Maistry Street, South Gate, Periyar, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "230, தெற்கு பெருமாள் மேஸ்ட்ரீட் தெரு, தெற்கு கேட், பெரியார், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "0452 438 0022"
+    },
+    {
+        "id": 39,
+        "name": {
+            "en": "V.V.B.AGENCIES (BRANCH)",
+            "ta": "VVB ஏஜென்சிஸ் (கிளை)"
+        },
+        "type": {
+            "en": "Household appliances",
+            "ta": "வீட்டு உபயோகப் பொருட்கள்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4689 TNHB Colony,Villapuram, Jaihindpuram Main Road, Hosuing  Board, Madurai, Tamil Nadu 625011",
+            "ta": "4689 TNHB காலனி, வில்லாபுரம், ஜெய்ஹிந்த்புரம் மெயின் ரோடு, ஹோசுயிங் போரோடு, மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "9842176969 & 9597741444"
+    }
+    
+]

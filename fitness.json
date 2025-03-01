@@ -1,0 +1,867 @@
+[
+    
+    {
+        "id": 2,
+        "name": {
+            "en": "Robust Fitness Studio",
+            "ta": "ரோபஸ்ட்  ஃபிட்னஸ் ஸ்டுடியோ"
+        },
+        "type": {
+            "en": "Gym",
+            "ta": "உடற்பயிற்சி கூடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Second Floor, No. 50, Amman Sannathi St, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "இரண்டாவது தளம், எண். 50, அம்மன் சன்னதி செயின்ட், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Madurai Main",
+            "ta": "மதுரை மெயின்"
+        },
+        "phone": "9600540100 & 9150755568"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "Life Style Gym",
+            "ta": "லைப் ஸ்டைல் ஜிம்"
+        },
+        "type": {
+            "en": "Gym",
+            "ta": "உடற்பயிற்சி கூடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Kamarajar Salai, Madurai, Tamil Nadu 625009",
+            "ta": "காமராஜர் சாலை, மதுரை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "Kamarajar Salai",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Fitnezz Factory",
+            "ta": "ஃபிட்னெஸ் ஃபேக்டரி "
+        },
+        "type": {
+            "en": "Gym",
+            "ta": "உடற்பயிற்சி கூடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "81 2nd Floor, S Veli St, above SB Associates, near Aavin milk booth, South Gate, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "81 2வது தளம், S Veli St, மேலே SB அசோசியேட்ஸ், ஆவின் பால் சாவடி அருகில், தெற்கு கேட், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "South Gate",
+            "ta": "தெற்கு வாசல்"
+        },
+        "phone": "86681 31236"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "HEALTHY LIFESTYLE CLUB",
+            "ta": "ஹெல்தி லைப் ஸ்டைல் கிளப்"
+        },
+        "type": {
+            "en": "Gym",
+            "ta": "உடற்பயிற்சி கூடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Vasantha Maaligai Apartment, 9th Main Road, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "வசந்த மாளிகை அபார்ட்மெண்ட், 9வது பிரதான சாலை, கே.கே.நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "KK Nagar",
+            "ta": "K.K.நகர்"
+        },
+        "phone": "96556 42012"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "GALAXY FITNESS Centre",
+            "ta": "கேலக்ஸி ஃபிட்னஸ் மையம்"
+        },
+        "type": {
+            "en": "Fitness center",
+            "ta": "உடற்பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "10A/2, konditholu East Street, Kamarajar Salai, Madurai, Tamil Nadu 625009",
+            "ta": "10A/2, கொண்டிதோலு கிழக்கு தெரு, காமராஜர் சாலை, மதுரை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "Kamarajar Salai",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": "9443408225 & 8144555284"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "ZYM MECHANIX Fitness Studio",
+            "ta": "ZYM MECHANIX ஃபிட்னஸ் ஸ்டுடியோ"
+        },
+        "type": {
+            "en": "Gym",
+            "ta": "உடற்பயிற்சி கூடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": "மதுரையில் பிரீமியம் யுனிசெக்ஸ் ஜிம்| யோகா | ஜூம்பா | கிராஸ்ஃபிட்"
+        },
+        "location": {
+            "en": "169 A, Kamarajar Salai, Madurai, Tamil Nadu 625009",
+            "ta": "169 ஏ, காமராஜர் சாலை, மதுரை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "Kamarajar Salai",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": "98404 01767"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Raw Gym",
+            "ta": "ரா ஜிம்"
+        },
+        "type": {
+            "en": "Gym",
+            "ta": "உடற்பயிற்சி கூடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "29 3Road floor, Panagal Road, Shenoy Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "29 3சாலை தளம், பனகல் சாலை, ஷெனாய் நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Shenoy Nagar",
+            "ta": "ஷெனாய் நகர்"
+        },
+        "phone": "99529 95203"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Life Fitness",
+            "ta": "லைப் ஸ்டைல்"
+        },
+        "type": {
+            "en": "Physical fitness program",
+            "ta": "உடல் தகுதி திட்டம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "S.E.V. Mahal, West 4th street, near Maharishi school, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "எஸ்.இ.வி. மஹால், மேற்கு 4வது தெரு, மகரிஷி பள்ளி அருகில், கே.கே.நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "KK Nagar",
+            "ta": "K.K.நகர்"
+        },
+        "phone": "9159619619"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "Lifestyle Gym",
+            "ta": "லைப் ஸ்டைல் ஜிம்"
+        },
+        "type": {
+            "en": "Women's personal trainer",
+            "ta": "பெண்களுக்கான தனிப்பட்ட பயிற்சியாளர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "",
+            "ta": "#VALUE!"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "95789 42895"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "SVET FITNESS STUDIO",
+            "ta": "SVET ஃபிட்னஸ் ஸ்டுடியோ"
+        },
+        "type": {
+            "en": "Fitness center",
+            "ta": "உடற்பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "New No 25 , 3Road Floor, Hamidhiya Tower, 80 Feet Road, New LIG Colony, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "புதிய எண் 25, 3 சாலை தளம், ஹமிதியா டவர், 80 அடி சாலை, புதிய எல்ஐஜி காலனி, அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "97903 55574"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Slim fit Nutrition Fitness Studio",
+            "ta": "ஸ்லிம் ஃபிட் நியூட்ரிஷன் ஃபிட்னஸ் ஸ்டுடியோ"
+        },
+        "type": {
+            "en": "Fitness center",
+            "ta": "உடற்பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1/1, 80 Feet Road, Managiri, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "1/1, 80 அடி சாலை, மானகிரி, கே.கே.நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "KK Nagar",
+            "ta": "K.K.நகர்"
+        },
+        "phone": "91598 44455"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "Vivify women's fitness studio",
+            "ta": "விவிஃபை பெண்கள் உடற்பயிற்சி ஸ்டுடியோ"
+        },
+        "type": {
+            "en": "Gym",
+            "ta": "உடற்பயிற்சி கூடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "3Road floor, shopping centre complex, South Masi Street, opp. KKG plaza Building, nearby lalitha jewellery, Periyar, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "3சாலை தளம், ஷாப்பிங் சென்டர் வளாகம், தெற்கு மாசி தெரு, எதிரில். கேகேஜி பிளாசா கட்டிடம், அருகில் லலிதா ஜூவல்லரி, பெரியார், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "86800 70365"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "Success Gym",
+            "ta": "சக்ஸஸ் ஜிம்"
+        },
+        "type": {
+            "en": "Gym",
+            "ta": "உடற்பயிற்சி கூடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shreya Complex, Porkudam Apartment, Bypass Road, opposite to KFC, Madurai, Tamil Nadu 625016",
+            "ta": "ஸ்ரேயா காம்ப்ளக்ஸ், பொற்குடம் அபார்ட்மெண்ட், பைபாஸ் ரோடு, KFCக்கு எதிரே, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "89408 92427"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "Lifestyle gym& fitness",
+            "ta": "லைப் ஸ்டைல் ஜிம் & உடற்பயிற்சி"
+        },
+        "type": {
+            "en": "Gym",
+            "ta": "உடற்பயிற்சி கூடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Jeevanantham Street, Thiyagi Balu, Kattaboman Nagar, Sellur, Madurai, Tamil Nadu 625014",
+            "ta": "ஜீவானந்தம் தெரு, தியாகி பாலு, கட்டபோமன் நகர், செல்லூர், மதுரை, தமிழ்நாடு 625014"
+        },
+        "area": {
+            "en": "Sellur",
+            "ta": "செல்லூர்"
+        },
+        "phone": "9952703508"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "Muscle warrior Gym",
+            "ta": "மஸ்குலர் வாரியர் ஜிம்"
+        },
+        "type": {
+            "en": "Gym",
+            "ta": "உடற்பயிற்சி கூடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No. 109/3, first floor, near sourashtra boys school, Munichalai, Madurai, Tamil Nadu 625009",
+            "ta": "எண். 109/3, முதல் தளம், சௌராஷ்டிரா ஆண்கள் பள்ளி அருகில், முனிச்சலை, மதுரை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "Munichalai",
+            "ta": "முனிச்சாலை"
+        },
+        "phone": "8248786504 & 9940437789"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "Muscle warrior fitness",
+            "ta": "மஸ்குலர் வாரியர் ஃபிட்னஸ் "
+        },
+        "type": {
+            "en": "Gym",
+            "ta": "உடற்பயிற்சி கூடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "422, Vandiyur Main Road, above Apple shop metro, Vandiyur, Thasildar Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "422, வண்டியூர் மெயின் ரோடு, ஆப்பிள் ஷாப் மெட்ரோவுக்கு மேலே, வண்டியூர், தாசில்தார் நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Vandiyur",
+            "ta": "வண்டியூர்"
+        },
+        "phone": "82487 82678"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "Academy Of The Sai Traditional Arts",
+            "ta": "அகாடமி ஆஃப் தி சாய் டீரெடிசனல் ஆர்ட்"
+        },
+        "type": {
+            "en": "Martial arts club",
+            "ta": "தற்காப்பு கலை கிளப்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Santhana murugan, S.S.K.Nagar, Madurai, Tamil Nadu 625004",
+            "ta": "சந்தான முருகன், எஸ்.எஸ்.கே.நகர், மதுரை, தமிழ்நாடு 625004"
+        },
+        "area": {
+            "en": "Palangantham",
+            "ta": "பழங்காந்தம்"
+        },
+        "phone": "9080109141 & 8940888687"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Yugas Beauty parlour",
+            "ta": "யுகாஸ் பியூட்டி பார்லர்"
+        },
+        "type": {
+            "en": "Beauty Parlour",
+            "ta": "அழகு நிலையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1st Floor, Idhayam Complex, No.416, opp. to naveen bakery, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "1வது தளம், இதயம் வளாகம், எண்.416, எதிரில். நவீன் பேக்கரிக்கு, அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "94437 17030"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "Jai Nutrition & Fitness Club Weight loss Center",
+            "ta": "ஜெய் நியூட்ரிஷன் & ஃபிட்னஸ் கிளப் எடை குறைப்பு மையம்"
+        },
+        "type": {
+            "en": "Fitness center",
+            "ta": "உடற்பயிற்சி மையம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No20/1 First Floor, Matha Kovil Main Road, near fashion Waves Tailor, K.Pudur, Tamil Nadu 625007",
+            "ta": "எண் 20/1 முதல் தளம், மாதா கோவில் பிரதான சாலை, பேஷன் வேவ்ஸ் டெய்லர் அருகில், கே.புதூர், தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "K.Pudur",
+            "ta": "K.புதூர்"
+        },
+        "phone": "99760 73789"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "Vishwabhava yoga mind & body studio",
+            "ta": "விஸ்வபவ யோகா மனம் மற்றும் உடல் ஸ்டுடியோ"
+        },
+        "type": {
+            "en": "Yoga studio",
+            "ta": "யோகா ஸ்டுடியோ"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "17, Kovalan Nagar 4th St, Madurai, Tamil Nadu 625003",
+            "ta": "17, கோவலன் நகர் 4வது செயின்ட், மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "TVS nagar",
+            "ta": "TVS நகர்"
+        },
+        "phone": "96777 17055"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "Tamilnadu Yoga Sports Federation",
+            "ta": "தமிழ்நாடு யோகா ஸ்போர்ட்ஸ் பெடரேசன் "
+        },
+        "type": {
+            "en": "Yoga studio",
+            "ta": "யோகா ஸ்டுடியோ"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Annai Shanmuga Illam, 12/1, Satya Sai Nagar, Madurai, Tamil Nadu 625003",
+            "ta": "அன்னை சண்முக இல்லம், 12/1, சத்ய சாய் நகர், மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "TVS nagar",
+            "ta": "TVS நகர்"
+        },
+        "phone": "9600660245"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "Phoenix Cros Fit",
+            "ta": "பீனிக்ஸ் கிராஸ் ஃபிட்"
+        },
+        "type": {
+            "en": "Yoga studio",
+            "ta": "யோகா ஸ்டுடியோ"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Annai Nagar, First street, Iyer Bungalow Road, Moondrumavadi, Madurai, Tamil Nadu 625007",
+            "ta": "அன்னை நகர், முதல் தெரு, ஐயர் பங்களா சாலை, மூன்றுமாவடி, மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "Moondrumavadi",
+            "ta": "மூன்றுமாவடி"
+        },
+        "phone": "96260 11991"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "Aarokyalaya Nature Cure & Yoga Clinic",
+            "ta": "ஆரோக்கியலயா நேச்சர் க்யூர் & யோகா கிளினிக்"
+        },
+        "type": {
+            "en": "Yoga instructor",
+            "ta": "யோகா பயிற்றுவிப்பாளர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Door No 4, 1st Floor, Plot No 52, 8th Street, Muthuramalingapuram, Karpaga Nagar, K.Pudur, Madurai, Tamil Nadu 625007",
+            "ta": "கதவு எண் 4, 1வது தளம், பிளாட் எண் 52, 8வது தெரு, முத்துராமலிங்கபுரம், கற்பகா நகர், கே.புதூர், மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "K.Pudur",
+            "ta": "K.புதூர்"
+        },
+        "phone": "80722 40875"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "SKY Yoga centre",
+            "ta": "ஸ்கை யோகா மையம்"
+        },
+        "type": {
+            "en": "Yoga studio",
+            "ta": "யோகா ஸ்டுடியோ"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Amirtham Apartment, 216/A3, Tiruppalai, Sri Krishna Nagar, Madurai, Tamil Nadu 625014",
+            "ta": "அமிர்தம் அபார்ட்மெண்ட், 216/A3, திருப்பாலை, ஸ்ரீ கிருஷ்ணா நகர், மதுரை, தமிழ்நாடு 625014"
+        },
+        "area": {
+            "en": "Iyer Bungalow",
+            "ta": "ஐயர் பங்களா"
+        },
+        "phone": "9842930330 & 9345123828"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "Isha Yoga Center",
+            "ta": "ஈஷா யோகா மையம்"
+        },
+        "type": {
+            "en": "Yoga studio",
+            "ta": "யோகா ஸ்டுடியோ"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Income Tax Road, Chinna Chokikulam, Madurai, Tamil Nadu 625002",
+            "ta": "வருமான வரி சாலை, சின்ன சொக்கிகுளம், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Chinna Chokikulam",
+            "ta": "சின்ன சொக்கிகுளம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "Sri Bhagavad Yoga",
+            "ta": "ஸ்ரீ பகவத் யோக"
+        },
+        "type": {
+            "en": "Yoga studio",
+            "ta": "யோகா ஸ்டுடியோ"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Selvariya swamigal manthralayam, Pillaiyarpatti kovil street, near Thikathir, Vilangudi, Madurai, Tamil Nadu 625018",
+            "ta": "செல்வரிய சுவாமிகள் மந்திராலயம், பிள்ளையார்பட்டி கோவில் தெரு, திக்கதிர் அருகில், விளாங்குடி, மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Thikathir",
+            "ta": "தீக்கதிர்"
+        },
+        "phone": "82481 90979"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Yogavanam",
+            "ta": "யோகவனம்"
+        },
+        "type": {
+            "en": "Yoga studio",
+            "ta": "யோகா ஸ்டுடியோ"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Karpaga Nagar, K.Pudur, Madurai, Tamil Nadu 625007",
+            "ta": "கற்பகா நகர், கே.புதூர், மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "K.Pudur",
+            "ta": "K.புதூர்"
+        },
+        "phone": "82209 99920"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "SKY Yoga",
+            "ta": "ஸ்கை யோகா"
+        },
+        "type": {
+            "en": "Yoga studio",
+            "ta": "யோகா ஸ்டுடியோ"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "11, Gnanakkudil, 2nd St, 2nd cross, E M G Nagar, K.Pudur, Tamil Nadu 625007",
+            "ta": "11, ஞானக்குடில், 2வது செயின்ட், 2வது கிராஸ், E MG நகர், கே.புதூர், தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "K.Pudur",
+            "ta": "K.புதூர்"
+        },
+        "phone": "86680 81296"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "Anupama yoga class at home",
+            "ta": "அனுபமா வீட்டில் யோகா வகுப்பு"
+        },
+        "type": {
+            "en": "Yoga instructor",
+            "ta": "யோகா பயிற்றுவிப்பாளர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Anna Nagar Main Road, Anna Nagar, Sathamangalam, Madurai, Tamil Nadu 625020",
+            "ta": "அண்ணா நகர் மெயின் ரோடு, அண்ணா நகர், சாத்தமங்கலம், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "99483 83446"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "Jeya Maruthi Yoga Centre",
+            "ta": "ஜெய மாருதி யோகா மையம்"
+        },
+        "type": {
+            "en": "Yoga studio",
+            "ta": "யோகா ஸ்டுடியோ"
+        },
+        "detail": {
+            "en": "",
+            "ta": "பெண்களுக்கு மட்டும்"
+        },
+        "location": {
+            "en": "45, 20, 120 Feet Road, Swami Vivekananda Nagar, Madurai, Tamil Nadu 625007",
+            "ta": "45, 20, 120 அடி சாலை, சுவாமி விவேகானந்தா நகர், மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "Swami Vivekananda Nagar",
+            "ta": "சுவாமி விவேகானந்தர் நகர்"
+        },
+        "phone": "98848 73142"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "FEEL FREE DANCE FITNESS & YOGA STUDIO",
+            "ta": "பீல் ஃபிரீ டான்ஸ் ஃபிட்னஸ் & யோகா ஸ்டுடியோ"
+        },
+        "type": {
+            "en": "Yoga studio",
+            "ta": "யோகா ஸ்டுடியோ"
+        },
+        "detail": {
+            "en": "",
+            "ta": "பெண்கள் மற்றும் குழந்தைகளுக்கானது"
+        },
+        "location": {
+            "en": "upstairs, Winchips Bakery, 25, 2nd St Krishnapuram Colony Main Road, Moovendar Nagar, Viswanathapuram, Krishnapuram Colony, Madurai, Tamil Nadu 625014",
+            "ta": "மேல்மாடி, வின்சிப்ஸ் பேக்கரி, 25, 2வது செயின்ட் கிருஷ்ணாபுரம் காலனி மெயின் ரோடு, மூவேந்தர் நகர், விஸ்வநாதபுரம், கிருஷ்ணாபுரம் காலனி, மதுரை, தமிழ்நாடு 625014"
+        },
+        "area": {
+            "en": "Viswanathapuram",
+            "ta": "விஸ்வநாதபுரம்"
+        },
+        "phone": "95976 89678"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "Naturopathy Yoga Kendra &Clinic",
+            "ta": "நேச்சுரோபதி யோகா கேந்திரா & கிளினிக்"
+        },
+        "type": {
+            "en": "Medical clinic",
+            "ta": "மருத்துவ மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "21,Vinayaganagar,KKnagar, opposite to Janani scans, Madurai, Tamil Nadu 625020",
+            "ta": "21, விநாயகநகர், கே.கே.நகர், ஜனனி ஸ்கேன்களுக்கு எதிரே, மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Mellur",
+            "ta": "மேலூர்"
+        },
+        "phone": "87547 04118"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "Sculptors Gym",
+            "ta": "ஸ்கல்பர்ஸ்  உடற்பயிற்சி கூடம்"
+        },
+        "type": {
+            "en": "Gym",
+            "ta": "உடற்பயிற்சி கூடம்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "231, 1st Cross, A.R. Hospital Road, LIG Colony, KK Nagar, Tamil Nadu 625020",
+            "ta": "231, 1வது கிராஸ், ஏ.ஆர். மருத்துவமனை சாலை, எல்ஐஜி காலனி, கேகே நகர், தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "KK Nagar",
+            "ta": "K.K.நகர்"
+        },
+        "phone": "452 256 2033"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "Isha Yoga Centre, Madurai",
+            "ta": "ஈஷா யோகா மையம், மதுரை"
+        },
+        "type": {
+            "en": "Yoga studio",
+            "ta": "யோகா ஸ்டுடியோ"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2nd Floor, Jai Bhairavi Building, 38/1, 5th Street, Kuruvikaran Salai, Anna Nagar, Shenoy Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "2வது தளம், ஜெய் பைரவி கட்டிடம், 38/1, 5வது தெரு, குருவிகரன் சாலை, அண்ணா நகர், ஷெனாய் நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Shenoy Nagar",
+            "ta": "ஷெனாய் நகர்"
+        },
+        "phone": "9842139565"
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "Githanjali's Holistic Cure",
+            "ta": "கீதாஞ்சலியின் ஹொலிஸ்டிக் சிகிச்சை"
+        },
+        "type": {
+            "en": "Yoga studio",
+            "ta": "யோகா ஸ்டுடியோ"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4, Ragavendra nagar 1st street, Ponmeni, Jay Nagar, Madurai, Tamil Nadu 625016",
+            "ta": "4, ராகவேந்திரா நகர் 1வது தெரு, பொன்மேனி, ஜெய் நகர், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Ponmeni",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "82204 66657"
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "Sa Ri Ga Ma Pa Dance and Fitness Studio",
+            "ta": "ச ரி கா மா பா டான்ஸ் மற்றும் ஃபிட்னஸ் ஸ்டுடியோ"
+        },
+        "type": {
+            "en": "Dance school",
+            "ta": "நடனப் பள்ளி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5, MI Square Complex, Gangaipuram, Sivaganga Road, Madurai, Tamil Nadu 625020",
+            "ta": "5, எம்ஐ சதுக்க வளாகம், கங்கைபுரம், சிவகங்கா சாலை, மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Karuppayurani",
+            "ta": "கருப்பாயூரணி"
+        },
+        "phone": "90805 89598"
+    }
+]

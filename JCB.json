@@ -1,0 +1,771 @@
+[
+    
+    {
+        "id": 2,
+        "name": {
+            "en": "ARUN PACKERS AND MOVERS",
+            "ta": "அருண் பேக்கர்ஸ் மற்றும் மூவர்ஸ்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "30, Doak Nagar, 4th St, Kochadai, Doak Nagar, Madurai, Tamil Nadu 625016",
+            "ta": "30, டோக் நகர், 4வது செயின்ட், கோச்சடை, டோக் நகர், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Kochadai",
+            "ta": "கோச்சடை"
+        },
+        "phone": "9994445450"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "SRI KALLALAGAR EARTH MOVERS",
+            "ta": "ஸ்ரீ கல்லழகர் பூமியை நகர்த்துபவர்கள்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "7/218, Madurai Main Road, Madurai, Tamil Nadu 625019",
+            "ta": "7/218, மதுரை மெயின் ரோடு, மதுரை, தமிழ்நாடு 625019"
+        },
+        "area": {
+            "en": "Nagamalai pudukottai",
+            "ta": "நாகமலை புதுக்கோட்டை"
+        },
+        "phone": "9842133338"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "PKM Earth Movers office",
+            "ta": "பிகேஎம் எர்த் மூவர்ஸ் அலுவலகம்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "37/21, 4th St, Muthu Patti, Tirumangalam, Madurai, Tamil Nadu 625003",
+            "ta": "37/21, 4வது செயின்ட், முத்து பட்டி, திருமங்கலம், மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "Tirumangalam",
+            "ta": "திருமங்கலம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "Best Home Packers and Movers",
+            "ta": "பெஸ்ட் ஹோம் பேக்கர்கள் மற்றும் மூவர்ஸ்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "#15, 2nd Floor, P.T.Rajan Road, B.B.Kulam, Madurai, Tamil Nadu 625002",
+            "ta": "#15, 2வது தளம், பி.டி.ராஜன் சாலை, பி.பி.குளம், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "B.B.Kulam",
+            "ta": "பி.பி.குளம்"
+        },
+        "phone": "9025765249"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "sree kamatchi earth movers",
+            "ta": "ஸ்ரீ காமாட்சி எர்த் மூவர்ஸ்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "82/35 ,nethu nagar, Bypass Rd, near gowri krishna hotel, Madurai, Tamil Nadu 625010",
+            "ta": "82/35, நேத்து நகர், பைபாஸ் சாலை, கவுரி கிருஷ்ணா ஹோட்டலுக்கு அருகில், மதுரை, தமிழ்நாடு 625010"
+        },
+        "area": {
+            "en": "Bypass Rd",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "9994688163"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Naveen Earthmovers",
+            "ta": "நவீன் எர்த் மூவர்ஸ்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "43, New Jail Rd, Arappalayam, Madurai, Tamil Nadu 625016",
+            "ta": "43, புதிய சிறை சாலை, ஆரப்பாளையம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Arappalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Go Shift Packers And Movers",
+            "ta": "கோ ஷிப்ட் பேக்கர்ஸ் அண்ட் மூவர்ஸ்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "58 C, Ponmeni Narayanan St, near to SBI Bank, S S Colony, Madurai, Tamil Nadu 625016",
+            "ta": "58 சி, பொன்மேனி நாராயணன் செயின்ட், எஸ்பிஐ வங்கிக்கு அருகில், எஸ் எஸ் காலனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Ponmeni",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "9384900568"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Ragavi Earth Movers ",
+            "ta": "ராகவி எர்த் மூவர்ஸ் "
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": "(JCB Rental Service/Crane/Bobcat Rental Service/Road Roller Sales & Service)",
+            "ta": "(JCB வாடகை சேவை/கிரேன்/பாப்கேட் வாடகை சேவை/ரோடு ரோலர் விற்பனை மற்றும் சேவை)"
+        },
+        "location": {
+            "en": "No: 34, Near Cini Priya Theatre, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "எண்: 34, சினி பிரியா தியேட்டர் அருகில், அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar,",
+            "ta": "அண்ணா நகர்,"
+        },
+        "phone": "9843214013"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "Kevin earth movers",
+            "ta": "கெவின் எர்த் மூவர்ஸ்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "Tirupparankunram Rd, Pasumalai, Madurai, Tamil Nadu 625004",
+            "ta": "திருப்பரங்குன்றம் சாலை, பசுமலை, மதுரை, தமிழ்நாடு 625004"
+        },
+        "area": {
+            "en": "Pasumalai",
+            "ta": "பசுமலை"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "PS Earth Movers",
+            "ta": "PS எர்த் மூவர்ஸ்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "Indian Oil petrol bunk, main road, opposite Madurai, Samayanallur, Tamil Nadu 625205",
+            "ta": "இந்தியன் ஆயில் பெட்ரோல் பங்க், மெயின் ரோடு, மதுரை எதிரில், சமயநல்லூர், தமிழ்நாடு 625205"
+        },
+        "area": {
+            "en": "Samayanallur",
+            "ta": "சமயநல்லூர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Success Earth Movers",
+            "ta": "வெற்றி பூமியை நகர்த்தும்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "1/161, Ramanathapuram Rd, Madurai, Tamil Nadu 625201",
+            "ta": "1/161, ராமநாதபுரம் சாலை, மதுரை, தமிழ்நாடு 625201"
+        },
+        "area": {
+            "en": "Theppakulam",
+            "ta": "தெப்பக்குளம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "SK Earth Mover",
+            "ta": "எஸ்கே எர்த் மூவர்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "23, arun illam, Anna Nagar Main Road, Anna Nagar, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "23, அருண் இல்லம், அண்ணா நகர் பிரதான சாலை, அண்ணா நகர், கே.கே.நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "SNK earthmovers ",
+            "ta": "SNK எர்த் மூவர்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "Otthakadai, Kadachanendhal, Tamil Nadu 625107",
+            "ta": "ஒத்தக்கடை, கடச்சனேந்தல், தமிழ்நாடு 625107"
+        },
+        "area": {
+            "en": "Otthakadai",
+            "ta": "ஒத்தக்கடை"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "ASA earth movers",
+            "ta": "ஏஎஸ்ஏ எர்த் மூவர்ஸ் "
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": " jcb Bobcat crane",
+            "ta": "ஜேசிபி பாப்கேட் கிரேன்"
+        },
+        "location": {
+            "en": "Pandikovil Ring road, Madurai, Tamil Nadu 625020",
+            "ta": "பாண்டிகோவில் ரிங் ரோடு, மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Pandikovil Ring road",
+            "ta": "பாண்டிகோவில் ரிங் ரோடு"
+        },
+        "phone": "7010115526"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "SUKRAA Constriction & Earth Movers",
+            "ta": "சுக்ரா கன்ஸ்ட்ரிக்ஷன் & எர்த் மூவர்ஸ்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "Shanmuga nagar, 4th St S, Meenakshi Amman Nagar, K.Pudur, Madurai, Tamil Nadu 625007",
+            "ta": "சண்முக நகர், 4வது செயின்ட் எஸ், மீனாட்சி அம்மன் நகர், கே.புதூர், மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "K.Pudur",
+            "ta": "கே.புதூர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "Naveen Earth Movers",
+            "ta": "நவீன் எர்த் மூவர்ஸ்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "Pandikovil Ring Road, near Vikram Hospital, Madurai, Tamil Nadu 625020",
+            "ta": "பாண்டிகோவில் ரிங் ரோடு, விக்ரம் மருத்துவமனை அருகில், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Pandikovil Ring road",
+            "ta": "பாண்டிகோவில் ரிங் ரோடு"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "Annai Earth Movers",
+            "ta": "அன்னை எர்த் மூவர்ஸ்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "Tiruppuvanam, Madurai, Tamil Nadu 630611",
+            "ta": "திருப்புவனம், மதுரை, தமிழ்நாடு 630611"
+        },
+        "area": {
+            "en": "Tiruppuvanam",
+            "ta": "திருப்புவனம்"
+        },
+        "phone": "9942533558"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Jcb venkateshwara earth movers",
+            "ta": "ஜேசிபி வெங்கடேஸ்வரா மண் அள்ளுபவர்கள்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "36 nelamegam, Angel Nagar, Otthakadai, Madurai, Tamil Nadu 625020",
+            "ta": "36 நீலமேகம், ஏஞ்சல் நகர், ஒத்தக்கடை, மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Otthakadai",
+            "ta": "ஒத்தக்கடை"
+        },
+        "phone": "8248230780"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "PS Earthmovers",
+            "ta": "PS எர்த்மூவர்ஸ்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "Kotthanar street, Kadachanethal, Kadachanendhal, Tamil Nadu 625107",
+            "ta": "கொத்தனார் தெரு, கடச்சனேத்தல், கடச்சனேந்தல், தமிழ்நாடு 625107"
+        },
+        "area": {
+            "en": "Kadachanethal",
+            "ta": "கடச்சனேத்தல்"
+        },
+        "phone": "9655162122"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "SK earth mover",
+            "ta": "SK மண் மூவர்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "105A, Managiri, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "105A, மானகிரி, KK நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "KK Nagar",
+            "ta": "கே.கே.நகர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "KAP Earth Movers",
+            "ta": "கேஏபி எர்த் மூவர்ஸ்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "Amachiya street, opposite Maha Lakshmi tea shop, Madurai, Tamil Nadu 625107",
+            "ta": "அமச்சியா தெரு, மகாலட்சுமி டீக்கடை எதிரில், மதுரை, தமிழ்நாடு 625107"
+        },
+        "area": {
+            "en": null,
+            "ta": null
+        },
+        "phone": "None"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "SAKTHIVEL EARTH MOVERS",
+            "ta": "சக்திவேல் எர்த் மூவர்ஸ்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "9th St 5, 472, Sivaganga Rd, Bharathipuram, Karuppayurani, Tamil Nadu 625020",
+            "ta": "9வது ஸ்டண்ட் 5, 472, சிவகங்கை சாலை, பாரதிபுரம், கருப்பாயூரணி, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Karuppayurani,",
+            "ta": "கருப்பாயூரணி,"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "Vinayaga Earth Movers",
+            "ta": "விநாயகா எர்த் மூவர்ஸ்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "Paraipatti, -625009",
+            "ta": "பாறைப்பட்டி, -625009"
+        },
+        "area": {
+            "en": "Paraipatti",
+            "ta": "பாறைப்பட்டி"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "JCB Dealers",
+            "ta": "ஜேசிபி டீலர்கள்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "Vilangudi, Madurai, Tamil Nadu 625018",
+            "ta": "விளாங்குடி, மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Vilangudi",
+            "ta": "விளாங்குடி"
+        },
+        "phone": "18002000"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "JCB",
+            "ta": "ஜேசிபி"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "near Vikram Hospital, Madurai, Tamil Nadu 625020",
+            "ta": "விக்ரம் மருத்துவமனை அருகில், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "near Vikram Hospita",
+            "ta": "விக்ரம் ஹோஸ்பிடா அருகில்"
+        },
+        "phone": "8610840497"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "Gmmco Limited ",
+            "ta": "Gmmco லிமிடெட் "
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": "construction equipment & machinery suppliers - Madurai",
+            "ta": "கட்டுமான உபகரணங்கள் மற்றும் இயந்திரங்கள் சப்ளையர்கள் - மதுரை"
+        },
+        "location": {
+            "en": "Gmmco Limited, Seventh Stop, 18, Gandhiji St, Thiru Nagar, Tamil Nadu 625006",
+            "ta": "Gmmco லிமிடெட், ஏழாவது நிறுத்தம், 18, காந்திஜி செயின்ட், திரு நகர், தமிழ்நாடு 625006"
+        },
+        "area": {
+            "en": "Thiru Nagar",
+            "ta": "திரு நகர்"
+        },
+        "phone": "4440114916"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Rishwa Engineering & Rentals Pvt. Ltd.",
+            "ta": "ரிஷ்வா இன்ஜினியரிங் & ரென்டல்ஸ் பிரைவேட். லிமிடெட்"
+        },
+        "type": {
+            "en": "JCB & Earth Movers",
+            "ta": "JCB & எர்த் மூவர்ஸ்"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "Plot No: 177, 2, Vandiyur Ring Road, Vandiyur, Madurai, Tamil Nadu 625020",
+            "ta": "பிளாட் எண்: 177, 2, வண்டியூர் ரிங் ரோடு, வண்டியூர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Vandiyur",
+            "ta": "வண்டியூர்"
+        },
+        "phone": "9176617205"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "Rutra Associates",
+            "ta": "ருத்ரா அசோசியேட்ஸ்"
+        },
+        "type": {
+            "en": "Ladder & Hokali rent ",
+            "ta": "ஏணி மற்றும் கட்டுமான உபகரணங்கள் மதுரையில் வாடகைக்கு"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "38/125 1st Floor, Kanpalayam 2nd St, Kamarajar Salai, Tamil Nadu 625009",
+            "ta": "38/125 1வது தளம், கன்பாளையம் 2வது செயின்ட், காமராஜர் சாலை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "Kamarajar Salai",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": "9994277072"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "Crane service",
+            "ta": "கிரேன் சேவை"
+        },
+        "type": {
+            "en": "Ladder & Hokali rent ",
+            "ta": "ஏணி மற்றும் கட்டுமான உபகரணங்கள் மதுரையில் வாடகைக்கு"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "Ring Rd Cir, Viraganur, Madurai, Tamil Nadu 625020",
+            "ta": "ரிங் ஆர்டி சர், விரகனூர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Viraganur",
+            "ta": "விரகனூர்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "R K RAMESH MOLD SHOP (Centring material/Shuttering materials for rent)",
+            "ta": "ஆர் கே ரமேஷ் மோல்டு ஷாப் (சென்ட்ரிங் மெட்டீரியல்/ஷட்டரிங் பொருட்கள் வாடகைக்கு)"
+        },
+        "type": {
+            "en": "Ladder & Hokali rent ",
+            "ta": "ஏணி மற்றும் கட்டுமான உபகரணங்கள் மதுரையில் வாடகைக்கு"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "11a, Narimedu Main Rd, Narimedu, Madurai, Tamil Nadu 625002",
+            "ta": "11a, நரிமேடு பிரதான சாலை, நரிமேடு, மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Narimedu",
+            "ta": "நரிமேடு"
+        },
+        "phone": "9443449735"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "NSR Scaffolding rental in Madurai ",
+            "ta": "NSR சாரக்கட்டு வாடகை "
+        },
+        "type": {
+            "en": "Ladder & Hokali rent ",
+            "ta": "ஏணி மற்றும் கட்டுமான உபகரணங்கள் மதுரையில் வாடகைக்கு"
+        },
+        "detail": {
+            "en": "(SCAFFOLDING RENTAL SERVICE, CENTERING equipment & MATERIALS RENTAL IN MADURAI)",
+            "ta": "(சாரக்கட்டு வாடகை சேவை, மதுரையில் சென்டரிங் மெட்டீரியல்ஸ் வாடகை)"
+        },
+        "location": {
+            "en": "128, Kattaboman Nagar, Narimedu, Madurai, Tamil Nadu 625002",
+            "ta": "128, கட்டபோமன் நகர், நரிமேடு, மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Narimedu",
+            "ta": "நரிமேடு"
+        },
+        "phone": "8248321997"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "PSB Building Equipments Rental Company",
+            "ta": "PSB கட்டிட உபகரணங்கள் வாடகை நிறுவனம்"
+        },
+        "type": {
+            "en": "Ladder & Hokali rent ",
+            "ta": "ஏணி மற்றும் கட்டுமான உபகரணங்கள் மதுரையில் வாடகைக்கு"
+        },
+        "detail": {
+            "en": null,
+            "ta": null
+        },
+        "location": {
+            "en": "30, Narimedu Main Rd, Narimedu, Madurai, Tamil Nadu 625002",
+            "ta": "30, நரிமேடு பிரதான சாலை, நரிமேடு, மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Narimedu",
+            "ta": "நரிமேடு"
+        },
+        "phone": "9865011213"
+    }
+]

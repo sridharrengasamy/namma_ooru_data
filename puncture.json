@@ -1,0 +1,1730 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "Lakshmi  puncture shop",
+            "ta": "லட்சுமி பஞ்சர் கடை"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "GST Main Road, Thanakankulam",
+            "ta": "ஜிஎஸ்டி மெயின் ரோடு, தனக்கன்குளம்"
+        },
+        "area": {
+            "en": "Dhanakankulam",
+            "ta": "தனக்கன்குளம்"
+        },
+        "phone": "97847"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "Lakshmi Ganesh Panchar Shop",
+            "ta": "லக்ஷ்மி கணேஷ் பஞ்சர் கடை"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "GST Main Road, Near Kalaivani Theatre, Thirunagar",
+            "ta": "ஜிஎஸ்டி மெயின் ரோடு, கலைவாணி தியேட்டர் அருகில் திருநகர்  "
+        },
+        "area": {
+            "en": "Thirunagar",
+            "ta": "திருநகர்  "
+        },
+        "phone": ""
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "Murugan puncture shop",
+            "ta": "முருகன் பஞ்சர் கடை"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Opposite King College",
+            "ta": "மன்னர் காலேஜ் எதிரில்"
+        },
+        "area": {
+            "en": "Mannar COLLEGE",
+            "ta": "மன்னர் காலேஜ் "
+        },
+        "phone": "9345853265"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Yokohama Club Network - Sri Ratna Tire Orcs",
+            "ta": "யோகோஹாமா கிளப் நெட்வொர்க் - ஸ்ரீ ரத்தின டயர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "156, Bharatiyar, Nagar, Thattaneri Main Road, Madurai-South Taluk-625018",
+            "ta": "156, பாரதியார், நகர், தத்தனேரி பிரதான சாலை, மதுரை-தெற்கு தாலுக்கா-625018"
+        },
+        "area": {
+            "en": "Dattaneri",
+            "ta": "தத்தனேரி"
+        },
+        "phone": "7045304432"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "HMS Panzer Shop",
+            "ta": "HMS பஞ்சர் கடை"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "vMID OF IOC & BP BUNK, 222, South Outer Street, Near Crime Branch Bus Stop, Periyar, Madurai Main-625001",
+            "ta": "vMID OF IOC & BP BUNK, 222, தெற்கு வெளி தெரு, க்ரைம் பிராஞ்ச் பஸ்ஸ்டாப் அருகில், பெரியார், மதுரை மெயின்-625001"
+        },
+        "area": {
+            "en": "Crime Branch",
+            "ta": "க்ரைம் பிராஞ்ச்"
+        },
+        "phone": "8838082803"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "Vinayaka Panchar Shop on Anayur Road",
+            "ta": "ஆனையூர் சாலையில் விநாயகா பஞ்சர் கடை"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Anaiyur Road, Imayam Nagar, S. Alankulam-625017",
+            "ta": "ஆனையூர் சாலை, இமயம் நகர், எஸ்.ஆலங்குளம்-625017"
+        },
+        "area": {
+            "en": "S.Allankulam",
+            "ta": "எஸ்.ஆலங்குளம்"
+        },
+        "phone": "8760677078"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "P.Kannan puncture shop",
+            "ta": "பி.கண்ணன் பஞ்சர் கடை"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "60 Feet Road, Sellur",
+            "ta": "60 அடி சாலை, செல்லூர்"
+        },
+        "area": {
+            "en": "Sellur",
+            "ta": "செல்லூர்"
+        },
+        "phone": "098425 95545"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Masaniyamman puncture shop",
+            "ta": "மாசாணியம்மன் பஞ்சர் கடை"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Raj Campus, Palamedu Main Road, Near City Union Bank, Chokkalinga Nagar, Goodal Nagar-625018",
+            "ta": "ராஜ் வளாகம், பாலமேடு மெயின் ரோடு, சிட்டி யூனியன் வங்கி அருகில், சொக்கலிங்க நகர், கூடல் நகர்-625018"
+        },
+        "area": {
+            "en": "Goodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "093452 06887"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Madurai Super Tire Grease Works",
+            "ta": "மதுரை சூப்பர் டயர் கிரீஸ் ஒர்க்ஸ்"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "KK Nagar, 625020",
+            "ta": "கே.கே.நகர், 625020"
+        },
+        "area": {
+            "en": "KK Nagar",
+            "ta": "KK நகர்"
+        },
+        "phone": "099761 57815"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "Michelin Tires and Services - Sundar Tyres",
+            "ta": "மிச்செலின் டயர்கள் மற்றும் சேவைகள் - சுந்தர் டயர்ஸ்"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sri Vel Murugan Nagar, 1A, By Pass Road, Nehru Nagar",
+            "ta": "ஸ்ரீ வேல் முருகன் நகர், 1A, பை பாஸ் சாலை, நேரு நகர்"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "097111 96732"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Shri A1 Puncture Shop",
+            "ta": "ஸ்ரீ ஏ1 பஞ்சர் ஷாப்"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "EB Opposite, TNHB Colony, Villapuram - 625011",
+            "ta": "EB எதிர், TNHB காலனி, வில்லாபுரம் - 625011"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "8825729324 & 8973747484"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Gautham Tires and Wheel Alignment ",
+            "ta": "கௌதம் டயர்ஸ் மற்றும் வீல் அலைன்மென்ட்"
+        },
+        "type": {
+            "en": "Tyres & Wheel Allignment",
+            "ta": "டயர்ஸ் மற்றும் வீல் அலைன்மென்ட்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "154/4, N Vala Veedhi, Simmakkal, Madurai Main- 625001",
+            "ta": "154/4, என் வெளி வீதி, சிம்மக்கல், மதுரை மெயின்- 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "096778 41063"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "Shree Sabari Tires",
+            "ta": "ஸ்ரீ சபரி டயர்ஸ்"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பயன்படுத்திய டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "12, Govinda Chetty Street, Simmakkal, Madurai Main, Madurai, Poontottam-",
+            "ta": "12, கோவிந்த செட்டி தெரு , சிம்மக்கல், மதுரை மெயின், மதுரை, பூந்தோட்டம்-"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "094434 14142"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "M. Virmandi Two Wheeler Puncture Shop",
+            "ta": "மு. விருமாண்டி இரு சக்கர வாகன பஞ்சர் கடை"
+        },
+        "type": {
+            "en": "mobile puncture shop",
+            "ta": "மொபைல் பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "EP Main Road. Baikara-625004",
+            "ta": "ஈபி மெயின் ரோடு. பைக்கார -625004"
+        },
+        "area": {
+            "en": "Pykara",
+            "ta": "பைக்கார"
+        },
+        "phone": "099446 28009"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "Sri Ratna Tire Works & 3D Wheel Repair Service",
+            "ta": "ஸ்ரீ ரத்தின டயர் ஓர்க்ஸ் & 3டி வீல் சீரமைப்பு சேவை"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "டயர்ஸ் மற்றும் வீல் அலைன்மென்ட்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Conor's Shop, 154, North Outer Street, Opp. Opposite Bus Stand, Simmakkal. Bus stand",
+            "ta": "கோனார் கடை, 154, வடக்கு வெளி தெரு, எதிரில். பேருந்து நிறுத்தம், சிம்மக்கல், எதிரில். பேருந்து நிறுத்தம்"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "099769 37259"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "Shree Mathi Trading & Co",
+            "ta": "ஸ்ரீ மதி டிரெடிங் & கோ"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": "  (மதி ஆட்டோ)- பிரிட்ஜ்ஸ்டன் டயர்கள் மற்றும் வீல் சீரமைப்பு"
+        },
+        "location": {
+            "en": "36, Ork Shop Road",
+            "ta": "36, ஓர்க் க்ஷாப் ரோடு"
+        },
+        "area": {
+            "en": "Workshop Road",
+            "ta": "ஒர்க் க்ஷாப் ரோடு"
+        },
+        "phone": "096260 52800"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "SS TRED (Institute)",
+            "ta": " எஸ்எஸ் டிரெட் (நிறுவனம்"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Kuruvikaran Road",
+            "ta": "குருவிகாரன் சாலை"
+        },
+        "area": {
+            "en": "Kuruvikaran Road",
+            "ta": "குருவிகாரன் சாலை"
+        },
+        "phone": "079 4278 3815"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "Mukaidin Andavar puncture shop",
+            "ta": "முகைதீன் ஆண்டவர் பஞ்சர் கடை"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "SH 72A, Melur, Chinna Chokkikulam- 625002",
+            "ta": "SH 72A, மேலூர், சின்ன சொக்கிகுளம்- 625002"
+        },
+        "area": {
+            "en": "Sokkikulam",
+            "ta": "சொக்கிகுளம்"
+        },
+        "phone": "099944 65780"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Sammy Auto Service",
+            "ta": "பிரிட்ஜ்ஸ்டன் தேர்வு - சாமி ஆட்டோ சேவை"
+        },
+        "type": {
+            "en": "Tyres & Wheel Allignment",
+            "ta": "டயர்ஸ் மற்றும் வீல் அலைன்மென்ட்"
+        },
+        "detail": {
+            "en": "Bridgestone Selection ",
+            "ta": ""
+        },
+        "location": {
+            "en": "Opposite Polytechnic College, Shop No. 83, Thiruparangunram Road, Jaihinpuram, Tamil Nadu",
+            "ta": "பாலிடெக்னிக் கல்லூரி, கடை எண் 83, திருப்பரங்குன்றம் சாலை ஜெய்ஹின்புரம் , தமிழ்நாடு எதிரே"
+        },
+        "area": {
+            "en": "Jaihinpuram",
+            "ta": "ஜெய்ஹிந்புரம்"
+        },
+        "phone": "079 4256 8527"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "Bridgestone Selection - Auto Tyres",
+            "ta": "பிரிட்ஜ்ஸ்டன் தேர்வு - ஆட்டோ டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres & Wheel Allignment",
+            "ta": "டயர்ஸ் மற்றும் வீல் அலைன்மென்ட்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Door No, HIG 21, Opposite KFC",
+            "ta": "கதவு எண், HIG 21, KFC எதிரில்"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் சாலை"
+        },
+        "phone": "079 4256 8835"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": " Sundar Tires and Wheels Pvt",
+            "ta": "சுந்தர் டயர்ஸ் அண்ட் வீல்ஸ் பிரைவேட் லிமிடெட்"
+        },
+        "type": {
+            "en": "Tyres & Wheel Allignment",
+            "ta": "டயர்ஸ் மற்றும் வீல் அலைன்மென்ட்"
+        },
+        "detail": {
+            "en": "Yokohama Club Network",
+            "ta": "யோகோஹாமா கிளப் நெட்வொர்க்"
+        },
+        "location": {
+            "en": "No 11, Tallakulam Outpost, Alagar Temple Main Road, Tallakulam- 625002",
+            "ta": "எண் 11, தல்லாகுளம் புறக்காவல் நிலையம், அழகர் கோவில் பிரதான சாலை, தல்லாகுளம்- 625002"
+        },
+        "area": {
+            "en": "Tallakulam",
+            "ta": "தல்லாகுளம்"
+        },
+        "phone": "095948 20291"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "SSP Tyres",
+            "ta": "எஸ்எஸ்பி டயர்கள்"
+        },
+        "type": {
+            "en": "",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "3A1, 3A2, Aruppukkottai Road, Villapuram- 625012",
+            "ta": "3A1, 3A2, அருப்புக்கோட்டை சாலை, வில்லாபுரம்- 625012"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "099433 35990"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "Sundar Tires",
+            "ta": "சுந்தர் டயர்ஸ்"
+        },
+        "type": {
+            "en": "Tyres & Wheel Allignment",
+            "ta": "டயர்ஸ் மற்றும் வீல் அலைன்மென்ட்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Albert Victor Bridge, SH 72, Near Anna Statue, Opposite Umaru Pulawar School",
+            "ta": "ஆல்பர்ட் விக்டர் பாலம், SH 72, அண்ணா சிலை அருகில், உமரு புலவர் பள்ளி எதிரில்"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "090035 91888"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "Shree Lakshmi Ganesh Tire Workshop",
+            "ta": "ஸ்ரீ லக்ஷ்மி கணேஷ் டயர் பட்டறை"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "GST Main Road, Near Kalaivani Theatre, Thirunagar",
+            "ta": "ஜிஎஸ்டி மெயின் ரோடு, கலைவாணி தியேட்டர் அருகில் திருநகர்"
+        },
+        "area": {
+            "en": "Thirunagar",
+            "ta": "திருநகர்"
+        },
+        "phone": "099940 84411"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "SK Tires",
+            "ta": "எஸ்கே டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.1, Simmakkal, Tirumalairayar Patithura- 625001",
+            "ta": "எண்.1, சிம்மக்கல், திருமலைராயர் படித்துறை- 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "099420 34402"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "Shree Maha Tyres",
+            "ta": "ஸ்ரீ மஹா டயர்ஸ்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "15, Vivekananda Street, Opp. Thikkadir Daily, By Pass Road",
+            "ta": "15, விவேகானந்தர் தெரு, எதிரில். தீக்கதிர் நாளிதழ், பை பாஸ் ரோடு"
+        },
+        "area": {
+            "en": "Fatima College",
+            "ta": "பாத்திமா காலேஜ்"
+        },
+        "phone": "096559 01115"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "Michelin Tires and Services - Sammy Auto Centre",
+            "ta": "மிச்செலின் டயர்கள் மற்றும் சேவைகள் - சாமி ஆட்டோ மையம்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "17, Azad Road, Anna Nagar, Shenoy Nagar, - 625020",
+            "ta": "17, ஆசாத் சாலை, அண்ணா நகர், ஷெனாய் நகர், - 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "099538 88383"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Sabari Tires",
+            "ta": "சபரி டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Sammathipuram-625016",
+            "ta": "சம்மட்டிபுரம்-625016"
+        },
+        "area": {
+            "en": "Sammatipuram",
+            "ta": "சம்மட்டிபுரம்"
+        },
+        "phone": "094871 33776"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "Balamurugan Tyres",
+            "ta": "பாலமுருகன் டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shop No, 50-B, Workhouse Road",
+            "ta": "கடை எண், 50-பி, பணிமனை சாலை"
+        },
+        "area": {
+            "en": "Workshop Road",
+            "ta": "ஓர்க்ஷாப் ரோடு"
+        },
+        "phone": "098427 88268"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "Elsadai tire point",
+            "ta": "எல்சடை டயர் பாய்ண்ட்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2, Dattaneri Main Road",
+            "ta": "2, தத்தனேரி மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Sellur",
+            "ta": "செல்லூர்"
+        },
+        "phone": "091593 73583"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": " Sri Ratna Tire Orcs",
+            "ta": "யோகோஹாமா கிளப் நெட்வொர்க் - ஸ்ரீ ரத்தின டயர் ஓர்க்ஸ்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "Yokohama Club Network ",
+            "ta": "யோகோஹாமா கிளப் நெட்வொர்க்"
+        },
+        "location": {
+            "en": "156, Bharatiyar, Nagar, Thattaneri Main Road",
+            "ta": "156, பாரதியார், நகர், தத்தனேரி மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Sellur",
+            "ta": "செல்லூர்"
+        },
+        "phone": "070453 04432"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "Auto tires",
+            "ta": "ஆட்டோ டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Old no. 44-A & 174, New No.253 & 106, North Outer Road",
+            "ta": "பழைய எண். 44-A & 174, புதிய எண்.253 & 106, வடக்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "North Veli street",
+            "ta": "வடக்கு வெளி வீதி"
+        },
+        "phone": "0452 263 0514"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "Durai Tire Wheels and Services",
+            "ta": "துரை சக்கரங்கள் மற்றும் சேவைகள்"
+        },
+        "type": {
+            "en": "Tyres & Wheel Allignment",
+            "ta": "டயர்ஸ் மற்றும் வீல் அலைன்மென்ட்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Kavimani Street, Nutham Road, Indian Bank Colony-625014",
+            "ta": "கவிமணி தெரு, நத்தம் சாலை, இந்தியன் வங்கி காலனி-625014"
+        },
+        "area": {
+            "en": "Attikulam",
+            "ta": "ஆத்திகுளம்"
+        },
+        "phone": "098654 02221"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "Madurai Sundar Tires Pvt",
+            "ta": "மதுரை சுந்தர் டயர்ஸ் பிரைவேட் லிமிடெட்"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "Apollo Tires ",
+            "ta": "அப்பல்லோ டயர்ஸ்"
+        },
+        "location": {
+            "en": "No 1A, Nehru Nagar, Bypass Road",
+            "ta": "எண் 1A, நேரு நகர், பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "088794 65074"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "Madurai Sundar Tires Pvt",
+            "ta": "மதுரை சுந்தர் டயர்ஸ் பிரைவேட் லிமிடெட்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": "மிச்செலின் டயர்கள் மற்றும் சேவைகள் -"
+        },
+        "location": {
+            "en": "No 11, Tallakulam Outpost, Alagar Temple Main Road, Tallakulam- 625002",
+            "ta": "எண் 11, தல்லாகுளம் புறக்காவல் நிலையம், அழகர் கோவில் பிரதான சாலை, தல்லாகுளம்- 625002"
+        },
+        "area": {
+            "en": "Tallakulam",
+            "ta": "தல்லாகுளம்"
+        },
+        "phone": "073038 85735"
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "Madurai Sundar Tires Pvt",
+            "ta": " மதுரை சுந்தர் டயர்ஸ் பிரைவேட் லிமிடெட்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "Michelin Tires and Car Service ",
+            "ta": "மிச்செலின் டயர்கள் மற்றும் கார் சேவை"
+        },
+        "location": {
+            "en": "H1, SIDCO INDUSTRIAL ESTATE, KAPPUR-625008",
+            "ta": "H1, சிட்கோ இண்டஸ்ட்ரியல் எஸ்டேட், கப்பலூர்-625008"
+        },
+        "area": {
+            "en": "Kappalur",
+            "ta": "கப்பலூர்"
+        },
+        "phone": "073038 86234"
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "Meenakshi Tires",
+            "ta": "மீனாட்சி டயர்ஸ்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": "டயர் டுயூப் வல்கனைசிங் & ரிடிரேடிங்"
+        },
+        "location": {
+            "en": "Shop no. 104, Bypass Road, Opp. Central warehouse",
+            "ta": "கடை எண். 104, பைபாஸ் சாலை, எதிரில். மத்திய கிடங்கு"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "097879 68803"
+    },
+    {
+        "id": 38,
+        "name": {
+            "en": "Auto Tyres",
+            "ta": "ஆட்டோ டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres & Wheel Allignment",
+            "ta": "டயர்ஸ் மற்றும் வீல் அலைன்மென்ட்"
+        },
+        "detail": {
+            "en": "Yokohama Club Network ",
+            "ta": "யோகோஹாமா கிளப் நெட்வொர்க்"
+        },
+        "location": {
+            "en": "14, Satya Nagar, Opposite Fatima College",
+            "ta": "14, சத்யா நகர், பாத்திமா கல்லூரிக்கு எதிரே"
+        },
+        "area": {
+            "en": "Fatima College",
+            "ta": "பாத்திமா காலேஜ்"
+        },
+        "phone": "095948 20225"
+    },
+    {
+        "id": 39,
+        "name": {
+            "en": "SNK Tires & Batteries",
+            "ta": "SNK டயர்கள் & பேட்டரிகள்"
+        },
+        "type": {
+            "en": "Tyres  & Battery ",
+            "ta": "டயர்ஸ் & பேட்டரி"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "70 Feet Road, Ellis Nagar-625016",
+            "ta": "70 அடி சாலை, எல்லிஸ் நகர்-625016"
+        },
+        "area": {
+            "en": "Ellis Nagar",
+            "ta": "எல்லிஸ் நகர்"
+        },
+        "phone": ""
+    },
+    {
+        "id": 40,
+        "name": {
+            "en": "Sri Muruga Tyres",
+            "ta": "ஸ்ரீ முருகா டயர்ஸ்"
+        },
+        "type": {
+            "en": "Tyres & Wheel Allignment",
+            "ta": "டயர்ஸ் மற்றும் வீல் அலைன்மென்ட்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "NH Service Road, Nagamalaiputhukkottai-625019",
+            "ta": "NH சர்வீஸ் சாலை, நாகமலைபுதுக்கோட்டை-625019"
+        },
+        "area": {
+            "en": "Nagamalaibudukottai",
+            "ta": "நாகமலைபுதுக்கோட்டை"
+        },
+        "phone": "9842171113"
+    },
+    {
+        "id": 41,
+        "name": {
+            "en": "Basha Tires",
+            "ta": "பாஷா டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Pallivasal Complex, 188, Meenanodin Complex, South West Road",
+            "ta": "பள்ளிவாசல் வளாகம், 188, மீனனோதின் வளாகம், தெற்குவெளி வீதி"
+        },
+        "area": {
+            "en": "south Veli Street",
+            "ta": "தெற்குவெளி வீதி"
+        },
+        "phone": "097913 92778"
+    },
+    {
+        "id": 42,
+        "name": {
+            "en": "XL tire point",
+            "ta": "XL டயர் பாய்ண்ட்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": "கார் டயர், இரு சக்கர டயர், பேட்டரி டீலர்"
+        },
+        "location": {
+            "en": "Pandi Temple 5/245 Sivagangai Main Road, 1st Street, Vandiyur-625020",
+            "ta": "பாண்டி கோயில் 5/245 சிவகங்கை மெயின் ரோடு, 1வது தெரு, வண்டியூர்-625020"
+        },
+        "area": {
+            "en": "Vandiyur",
+            "ta": "வண்டியூர்"
+        },
+        "phone": "099655 69655"
+    },
+    {
+        "id": 43,
+        "name": {
+            "en": "SKMP Traders",
+            "ta": "SKMP வர்த்தகர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": "அனைத்து வகையான மற்றும் அளவுகளின் டயர்களின் டீலர்கள்"
+        },
+        "location": {
+            "en": "Bus Stand, 154, North Outer Road, Opposite Simmakkal",
+            "ta": "பேருந்து நிறுத்தம், 154, வடக்கு வெளி வீதி, சிம்மக்கல்லுக்கு எதிரே"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "099948 37657"
+    },
+    {
+        "id": 44,
+        "name": {
+            "en": "Manickam Company",
+            "ta": "மாணிக்கம் கம்பெனி நிறுவனம்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": "பிரிட்ஜ்ஸ்டன் செலக்ட்"
+        },
+        "location": {
+            "en": "Shop no. 7, V.P. Rathnaswamy Nadar Road Krishnapuram Colony Opposite Income Tax Office",
+            "ta": "கடை எண். 7, வி.பி. ரத்தினசாமி நாடார் சாலை கிருஷ்ணாபுரம் காலனி, வருமான வரி அலுவலகம் எதிரில்"
+        },
+        "area": {
+            "en": "Krishnapuram Colony",
+            "ta": "கிருஷ்ணாபுரம் காலனி"
+        },
+        "phone": "079 4256 8526"
+    },
+    {
+        "id": 45,
+        "name": {
+            "en": "SP Saravanan Tyres",
+            "ta": "எஸ்பி சரவணன் டயர்ஸ்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "31/1, Workshop Road, Simmakkal, Arapalayam-625001",
+            "ta": "31/1, வொர்க்ஷாப் ரோடு , சிம்மக்கல், ஆரப்பாளையம்-625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "094863 02506"
+    },
+    {
+        "id": 46,
+        "name": {
+            "en": "Sami Automobiles (Bash Car Service)",
+            "ta": "சாமி ஆட்டோமொபைல்ஸ் (பாஷ் கார் சேவை)"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": "கார் வீல் அலைன்மெண்ட்"
+        },
+        "location": {
+            "en": "·Thirurangunram Road-625011",
+            "ta": "·திருப்பரங்குன்றம் சாலை-625011"
+        },
+        "area": {
+            "en": "Madura College",
+            "ta": "மதுரை கல்லூரி"
+        },
+        "phone": "9443752376"
+    },
+    {
+        "id": 47,
+        "name": {
+            "en": "Meenakshi Alainars",
+            "ta": "மீனாட்சி அலைனர்கள்"
+        },
+        "type": {
+            "en": "Wheel Allignment",
+            "ta": "வீல் அலைன்மென்ட்"
+        },
+        "detail": {
+            "en": "",
+            "ta": "ஜேகே டயர் ஸ்டீல் வீல்ஸ்,"
+        },
+        "location": {
+            "en": "130, 1B, Melur Main Road, Uthangudi-625107",
+            "ta": "130, 1B, மேலூர் பிரதான சாலை, உத்தங்குடி-625107"
+        },
+        "area": {
+            "en": "Uthangudi",
+            "ta": "உத்தங்குடி"
+        },
+        "phone": "096554 66266"
+    },
+    {
+        "id": 48,
+        "name": {
+            "en": "Balu Tires",
+            "ta": "பாலு டயர்ஸ்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "166B, North Outer Street, Simmakkal, Madurai Main- 625001",
+            "ta": "166B, வடக்கு வெளி தெரு, சிம்மக்கல், மதுரை மெயின்- 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "094877 38739"
+    },
+    {
+        "id": 49,
+        "name": {
+            "en": "GV Car Zone",
+            "ta": "ஜிவி கார் மண்டலம்"
+        },
+        "type": {
+            "en": "Steel Wheels ",
+            "ta": "ஸ்டீல் வீல்ஸ்"
+        },
+        "detail": {
+            "en": "",
+            "ta": "JK டயர் ஸ்டீல் வீல்ஸ்"
+        },
+        "location": {
+            "en": "321/C, Melakkal Road, Kochadai- 625016",
+            "ta": "321/C, மேலக்கல் சாலை, கோச்சடை- 625016"
+        },
+        "area": {
+            "en": "Kochadai",
+            "ta": "கோச்சடை"
+        },
+        "phone": "091671 92561"
+    },
+    {
+        "id": 50,
+        "name": {
+            "en": "Shree Tire Puncture and Vulcanizing",
+            "ta": "ஸ்ரீ டயர் பஞ்சர் மற்றும் வல்கனைசிங்"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "23-2, 1st Street, Moovendar Nagar, Viswanathapuram, Krishnapuram Colony-625014",
+            "ta": "23-2, 1வது தெரு , மூவேந்தர் நகர், விஸ்வநாதபுரம், கிருஷ்ணாபுரம் காலனி-625014"
+        },
+        "area": {
+            "en": "Krishnapuram Colony",
+            "ta": "கிருஷ்ணாபுரம் காலனி"
+        },
+        "phone": ""
+    },
+    {
+        "id": 51,
+        "name": {
+            "en": "KSR Tyres",
+            "ta": "KSR டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "9, APK Main Road, TNHB Colony, Madurai, Villapuram- 625012",
+            "ta": "9, APK மெயின் ரோடு, TNHB காலனி, மதுரை, வில்லாபுரம்- 625012"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "098436 42363"
+    },
+    {
+        "id": 52,
+        "name": {
+            "en": "Amarnath Tires",
+            "ta": "அமர்நாத் டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "46/1 & 46C, New Ramnad Road",
+            "ta": "46/1 & 46 சி, புதிய ராம்நாட் சாலை"
+        },
+        "area": {
+            "en": "Theppakulam",
+            "ta": "தெப்பக்குளம்"
+        },
+        "phone": "099439 70722"
+    },
+    {
+        "id": 53,
+        "name": {
+            "en": "Stock tires",
+            "ta": "வைகை டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": "எம்ஆர்எஃப் டயர்கள் பிரத்தியேகமாக -"
+        },
+        "location": {
+            "en": "26, N Veli Street, Simmakkal, Madurai Main, Madurai, Poontottam-625001",
+            "ta": "26, என் வேலி தெரு , சிம்மக்கல், மதுரை மெயின், மதுரை, பூந்தோட்டம்-625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "098426 20852"
+    },
+    {
+        "id": 54,
+        "name": {
+            "en": "MRF Tires T&S - Meenakshi Tires",
+            "ta": "MRF டயர்கள் T&S - மீனாட்சி டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.9/1, Sivagangai Main Road, Near Pandi Temple Bus Stand",
+            "ta": "எண்.9/1, சிவகங்கை மெயின் ரோடு, பாண்டி கோவில் பேருந்து நிறுத்தம் அருகில்"
+        },
+        "area": {
+            "en": "Pandi Kovil ",
+            "ta": "பாண்டி கோவில்"
+        },
+        "phone": "097918 11478"
+    },
+    {
+        "id": 55,
+        "name": {
+            "en": "Super tires",
+            "ta": "சூப்பர் டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2, West Massey Street, Near R R Mobiles, West Massey Street",
+            "ta": "2, மேற்கு மாசி தெரு, ஆர் ஆர் மொபைல்ஸ் அருகில், மேற்கு மாசி தெரு"
+        },
+        "area": {
+            "en": "Mela Masi Street",
+            "ta": "மேல மாசி வீதி"
+        },
+        "phone": "096296 03200"
+    },
+    {
+        "id": 56,
+        "name": {
+            "en": "Ramya Tires",
+            "ta": "ரம்யா டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": "எம்ஆர்எஃப் டயர்கள் பிரத்தியேகமாக"
+        },
+        "location": {
+            "en": "11/1, Palamedu Main Road, Chokkalinganagar, Goodalnagar 625018",
+            "ta": "11/1, பாலமேடு பிரதான சாலை, சொக்கலிங்கநகர், கூடல்நகர் 625018"
+        },
+        "area": {
+            "en": "koodal nagar",
+            "ta": "கூடல்நகர்"
+        },
+        "phone": "070108 75028"
+    },
+    {
+        "id": 57,
+        "name": {
+            "en": "Yoga Vaishnavi Auto Store",
+            "ta": "யோகா வைஷ்ணவி ஆட்டோ ஸ்டோர்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "100/68K, Tamil Sang Road, Simmakkal, Madurai Main, Madurai, Poontottam- 625001",
+            "ta": "100/68K, தமிழ் சங்க சாலை, சிம்மக்கல், மதுரை மெயின், மதுரை, பூந்தோட்டம்- 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "0452 234 5946"
+    },
+    {
+        "id": 58,
+        "name": {
+            "en": "SS Trading Company",
+            "ta": "SS வர்த்தக நிறுவனம்"
+        },
+        "type": {
+            "en": "Tyres & Wheel Allignment",
+            "ta": "டயர்ஸ் மற்றும் வீல் அலைன்மென்ட்"
+        },
+        "detail": {
+            "en": "Bridgestone Exam ",
+            "ta": "பிரிட்ஜ்ஸ்டன் தேர்வு"
+        },
+        "location": {
+            "en": "76, TT Road, Main Road, Arapalayam- 625016",
+            "ta": "76, டிடி சாலை, மெயின் ரோடு, ஆரப்பாளையம்- 625016"
+        },
+        "area": {
+            "en": "Arapalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "079 4256 8772"
+    },
+    {
+        "id": 59,
+        "name": {
+            "en": "Sasikala Tires MRF",
+            "ta": "சசிகலா டயர்ஸ் MRF"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "144/10, Kamarajar Road, Munichalai, Kamarajar Road-625009",
+            "ta": "144/10, காமராஜர் சாலை, முனிச்சலை, காமராஜர் சாலை-625009"
+        },
+        "area": {
+            "en": "Munich",
+            "ta": "முனிச்சலை"
+        },
+        "phone": "090420 22839"
+    },
+    {
+        "id": 60,
+        "name": {
+            "en": "J24 Vulcanizing Works",
+            "ta": "J24 Vulcanizing Works"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "பஞ்சர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2, MARAT STREET WEST, COLLEGE HOUSE - SEV ROAD",
+            "ta": "2, மேற்கு மாரட் தெரு,காலேஜ் ஹவுஸ் - SEV ரோடு"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "075988 88893"
+    },
+    {
+        "id": 61,
+        "name": {
+            "en": "Thiagarajan Automobiles Pvt",
+            "ta": "தியாகராஜன் ஆட்டோமொபைல்ஸ் பிரைவேட் லிமிடெட்"
+        },
+        "type": {
+            "en": " puncture shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "Bridgestone Select ",
+            "ta": "பிரிட்ஜ்ஸ்டன் செலக்ட்"
+        },
+        "location": {
+            "en": "Shop No. 29-C, Alagar Kovil Road, Near Corporation Office",
+            "ta": "கடை எண் 29-சி, அழகர் கோவில் சாலை, மாநகராட்சி அலுவலகம் அருகில்"
+        },
+        "area": {
+            "en": "Tallakulam",
+            "ta": "தல்லாகுளம்"
+        },
+        "phone": "079 4256 8531"
+    },
+    {
+        "id": 62,
+        "name": {
+            "en": "Thiagarajan Automobiles Pvt",
+            "ta": " தியாகராஜன் ஆட்டோமொபைல்ஸ் பிரைவேட் லிமிடெட்"
+        },
+        "type": {
+            "en": "Tyres & Wheel Allignment",
+            "ta": "டயர்ஸ் மற்றும் வீல் அலைன்மென்ட்"
+        },
+        "detail": {
+            "en": "",
+            "ta": "மிச்செலின் டயர்கள் மற்றும் சேவைகள் "
+        },
+        "location": {
+            "en": "20/1, Tiruparangunram Road, Opposite Nithila Maruthuvamanai, Palangantham",
+            "ta": "20/1, திருப்பரங்குன்றம் சாலை, நிதில மருதுவமனை எதிர், பழங்காநத்தம்"
+        },
+        "area": {
+            "en": "Palanganaththam",
+            "ta": "பழங்காநத்தம்"
+        },
+        "phone": "074288 96573"
+    },
+    {
+        "id": 63,
+        "name": {
+            "en": "National Tires",
+            "ta": "நேஷனல் டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Opposite Amrita Mahal, Bethaniapuram 2, Arapalayam, -625016",
+            "ta": "அமிர்த மஹால் எதிர், பெத்தானியாபுரம் 2, ஆரப்பாளையம், -625016"
+        },
+        "area": {
+            "en": "Arapalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "098430 28006"
+    },
+    {
+        "id": 64,
+        "name": {
+            "en": "Epic tires",
+            "ta": "காவியம் டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "60, Bypass Road, Fatima Nagar, Bethaniapuram-625016",
+            "ta": "60, பைபாஸ் சாலை, பாத்திமா நகர், பெத்தானியாபுரம்-625016"
+        },
+        "area": {
+            "en": "Bethaniapuram",
+            "ta": "பெத்தானியாபுரம்"
+        },
+        "phone": "094430 38099"
+    },
+    {
+        "id": 65,
+        "name": {
+            "en": "A. Beggar old tires",
+            "ta": "ஏ. பிச்சை பழைய டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "64, Workshop Road",
+            "ta": "64, பணிமனை சாலை"
+        },
+        "area": {
+            "en": "Workshop Road",
+            "ta": "ஓர்க்ஷாப் ரோடு"
+        },
+        "phone": "094863 02401"
+    },
+    {
+        "id": 66,
+        "name": {
+            "en": "SS Trade ",
+            "ta": "SS வர்த்தகம்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "Apollo Tyres",
+            "ta": "அப்பல்லோ டயர்கள்"
+        },
+        "location": {
+            "en": "22C, Samayanallur Road, Opposite Fatima College, Villangudi-625018",
+            "ta": "22 சி, சமயநல்லூர் சாலை, பாத்திமா கல்லூரிக்கு எதிரே, விளாங்குடி-625018"
+        },
+        "area": {
+            "en": "Vlangudi",
+            "ta": "விளாங்குடி"
+        },
+        "phone": "098436 91915"
+    },
+    {
+        "id": 67,
+        "name": {
+            "en": "Bridgestone Tires",
+            "ta": "பிரிட்ஜ்ஸ்டன் டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.22D/1, Samayanallur Main Road, Opp. Fatima College",
+            "ta": "எண்.22D/1, சமயநல்லூர் பிரதான சாலை, எதிரில். பாத்திமா கல்லூரி"
+        },
+        "area": {
+            "en": "Fatima College",
+            "ta": "பாத்திமா காலேஜ்"
+        },
+        "phone": "099942 22864"
+    },
+    {
+        "id": 68,
+        "name": {
+            "en": "AKR Tires",
+            "ta": "ஏ.கே.ஆர். டயர்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "62, North Lane, 2nd Street, Simmakkal, -625001",
+            "ta": "62, வடக்கு லென், 2வது தெரு, சிம்மக்கல், -625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "094434 74162"
+    },
+    {
+        "id": 69,
+        "name": {
+            "en": "Sammy Auto Parts - Super Zone",
+            "ta": "சாமி ஆட்டோ பாகங்கள் - சூப்பர் சோன்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "Apollo Tires ",
+            "ta": "அப்பல்லோ டயர்கள்"
+        },
+        "location": {
+            "en": "Door No. 33, 1, Bypass Road",
+            "ta": "கதவு எண் 33, 1, பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு"
+        },
+        "phone": "082919 48381"
+    },
+    {
+        "id": 70,
+        "name": {
+            "en": "Sri Arunachala Auto Tires & Spares",
+            "ta": "ஸ்ரீ அருணாச்சலா ஆட்டோ டயர்கள் மற்றும் உதிரிபாகங்கள்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "140, Alagar Temple Main Road, Chinna Chokkikulam-625002",
+            "ta": "140, அழகர் கோவில் பிரதான சாலை, சின்ன சொக்கிகுளம்-625002"
+        },
+        "area": {
+            "en": "Chinna Chokkikulam",
+            "ta": "சின்ன சொக்கிகுளம்"
+        },
+        "phone": "098421 79500"
+    },
+    {
+        "id": 71,
+        "name": {
+            "en": "Sri Meenakshi Cycle Co",
+            "ta": "ஸ்ரீ மீனாட்சி சைக்கிள் நிறுவனம்"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "342/291, North Masi Road, Simmakkal- 625001",
+            "ta": "342/291, வடக்கு மாசி வீதி, சிம்மக்கல்- 625001"
+        },
+        "area": {
+            "en": "Simmakkal",
+            "ta": "சிம்மக்கல்"
+        },
+        "phone": "073733 63024"
+    },
+    {
+        "id": 72,
+        "name": {
+            "en": "Ya Mohaidin Panchar Shop 24 hours",
+            "ta": "யா மொஹைதீன் பஞ்சர் கடை 24 மணி"
+        },
+        "type": {
+            "en": "Tyres shop",
+            "ta": "டயர் கடை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "34, Near Cine Priya Theatre, Anna Nagar-625020",
+            "ta": "34, சினி பிரியா தியேட்டர் அருகில், அண்ணா நகர்-625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": ""
+    }
+]

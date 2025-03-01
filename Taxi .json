@@ -1,0 +1,2428 @@
+[
+    
+    {
+        "id": 2,
+        "name": {
+            "en": "Kumar Travels",
+            "ta": "குமார் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "E-96, New No. 7, Santhanam Road, TVS Nagar, Madurai, Tamil Nadu 625003",
+            "ta": "E-96, புதிய எண். 7, சந்தானம் சாலை, TVS நகர், மதுரை, தமிழ்நாடு 625003"
+        },
+        "area": {
+            "en": "TVS Nagar",
+            "ta": " TVS நகர்"
+        },
+        "phone": "04522692024"
+    },
+  
+    {
+        "id": 4,
+        "name": {
+            "en": "FRIENDS TRACK CALL TAXI",
+            "ta": "நண்பர்கள் ட்ரக் கால் டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "NO:5, 4TH LANE, CROSS, Puttu Thoppu Main Road, Ponnagaram, Madurai, Tamil Nadu 625016",
+            "ta": "எண்:5, 4வது லேன், கிராஸ், புட்டு தோப்பு மெயின் ரோடு, பொன்னகரம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Ponnakaram",
+            "ta": "பொன்னகரம்"
+        },
+        "phone": "9994667777"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "Express Track Call Taxi",
+            "ta": "எக்ஸ்பிரஸ் ட்ரக் கால் டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1, Thiruvalluvar Street, Chokkalinga Nagar, Koodal Nagar, Thathaneri, Madurai, Tamil Nadu 625018",
+            "ta": "1, திருவள்ளுவர் தெரு, சொக்கலிங்க நகர், கூடல் நகர், தத்தனேரி, மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Dattaneri",
+            "ta": "தத்தனேரி"
+        },
+        "phone": "8220666888"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "Aajavo Travels",
+            "ta": "அஜாவோ டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2, Manoranjitha Poost, Sriram Nagar, Sammattipuram Main Road, Madurai, Tamil Nadu 625016",
+            "ta": "2, மனோரஞ்சிதா பூஸ்ட், ஸ்ரீராம் நகர், சம்மட்டிபுரம் மெயின் ரோடு, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Sammatipuram",
+            "ta": " சம்மட்டிபுரம்"
+        },
+        "phone": "6380562390"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Abi Drop Cab Services",
+            "ta": "அபி டிராப் கேப் சேவைகள் "
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": " ( Drop Taxi IN Madurai | One Way Drop taxi | BeStreet Drop taxi in Madurai )",
+            "ta": "(மதுரையில் டிராப் டாக்ஸி | ஒரு வழி டிராப் டாக்ஸி | மதுரையில் பெஸ்ட்ரீட் டிராப் டாக்ஸி)"
+        },
+        "location": {
+            "en": "W/4 Krishna Street, 4th Street, Villapuram, Tamil Nadu 625012",
+            "ta": "W/4 கிருஷ்ணா தெரு, 4வது தெரு, வில்லாபுரம், தமிழ்நாடு 625012"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "090951 53222"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Aditi Tours and Travels",
+            "ta": "அதிதி டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "73 EB MAIN ROAD BYKARA, Mathuramalingapuram, Tamil Nadu 625004",
+            "ta": "73 ஈபி மெயின் ரோடு பைகாரா, மதுரமலிங்கபுரம், தமிழ்நாடு 625004"
+        },
+        "area": {
+            "en": "Baikara",
+            "ta": "பைகாரா"
+        },
+        "phone": "099440 85992"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "AFAR CABS- Taxi Booking App",
+            "ta": "AFAR CABS- டாக்ஸி புக்கிங் ஆப்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "90/4, MEENAMBIGAI Street, 2nd Street, Jeevan nagar, Madurai, Tamil Nadu 625011",
+            "ta": "90/4, மீனாம்பிகை தெரு, 2வது தெரு, ஜீவன் நகர், மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Jeevan Nagar",
+            "ta": "ஜீவன் நகர்"
+        },
+        "phone": "096266 37184"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "Alpha tours & travels",
+            "ta": "ஆல்பா டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "South Marret Street, South Gate, Periyar, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "தெற்கு மாரெட் தெரு, தெற்கு கேட், பெரியார், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "9095674782"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Amaze Travel Hub ",
+            "ta": "அமேஸ் டிராவல் ஹப்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "The, Union Club, back side, Mellur, Tallakulam, Madurai, Tamil Nadu 625002",
+            "ta": "தி, யூனியன் கிளப், பின்பக்கம், மேலூர், தல்லாகுளம், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Tallakulam",
+            "ta": "தல்லாகுளம்"
+        },
+        "phone": "063699 28702"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Amitesh Tourism/Travels ",
+            "ta": "அமிதேஷ் சுற்றுலா"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 26/C, Travelers Bunglow Road, Vaithiyanathapuram, Madurai, Tamil Nadu 625016",
+            "ta": "எண் 26/C, டிராவலர்ஸ் பங்களா சாலை, வைத்தியநாதபுரம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Vaidyanathapuram",
+            "ta": "வைத்தியநாதபுரம்"
+        },
+        "phone": "081222 21221"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "Amitesh Travel Agency",
+            "ta": "அமிதேஷ் டிராவல் ஏஜென்சி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.2, Kaja Street, near Amirtham Cinema, South Gate, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "எண்.2, காஜா தெரு, அமிர்தம் சினிமா அருகில், தெற்கு கேட், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "096889 88100"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "Ara Cabs Madurai",
+            "ta": "ஆரா கேப்ஸ் மதுரை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Level 2 ,No 42 , Chandragandhi Nagar ,2nd Main Road, Bypass Road",
+            "ta": "நிலை 2, எண் 42, சந்திரகாந்தி நகர், 2வது பிரதான சாலை, பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு "
+        },
+        "phone": "18001025859"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "Aradhana Cabs",
+            "ta": "ஆராதனா வண்டிகள்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2/2, Nethaji Main Road, Nehru nagar, Madurai, Tamil Nadu 625010",
+            "ta": "2/2, நேதாஜி மெயின் ரோடு, நேரு நகர், மதுரை, தமிழ்நாடு 625010"
+        },
+        "area": {
+            "en": "Nehru Nagar",
+            "ta": "நேரு நகர்"
+        },
+        "phone": "070104 55505"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "Best Track call taxi",
+            "ta": "பெஸ்ட் ட்ராக் கால் டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2, Ashok Nagar 1St Street, Ashok Nagar, Anjal Nagar, Koodal Nagar, Madurai, Tamil Nadu 625018",
+            "ta": "2, அசோக் நகர் 1வது தெரு, அசோக் நகர், அஞ்சல் நகர், கூடல் நகர், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Goodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "04522666999"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "Bharath Call Taxi",
+            "ta": "பரத் கால் டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Kamarajar Salai",
+            "ta": "காமராஜர் சாலை"
+        },
+        "area": {
+            "en": "Kamarajar Road",
+            "ta": "காமராஜர் சாலை"
+        },
+        "phone": "04522777888"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "Bhuvana Cabs",
+            "ta": "புவனா காப்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "46, Chokkalinga Nagar Main Road",
+            "ta": "46, சொக்கலிங்க நகர் மெயின் ரோடு"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு "
+        },
+        "phone": "None"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Boovan Travels",
+            "ta": "பூவன் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "3/16, karpagavinayagar, Balamurugan Kovil Street, Thiruvedagam, Tamil Nadu 625234",
+            "ta": "3/16, கற்பகவிநாயகர், பாலமுருகன் கோவில் தெரு, திருவேடகம், தமிழ்நாடு 625234"
+        },
+        "area": {
+            "en": "Thiruvedakam",
+            "ta": "திருவேடகம்"
+        },
+        "phone": "9047813125"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "Chandra Tourism",
+            "ta": "சந்திரா சுற்றுலா"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Kabali Amman Kovil Street,Muthuramalingapuram",
+            "ta": "கபாலி அம்மன் கோவில் தெரு, முத்துராமலிங்கபுரம்"
+        },
+        "area": {
+            "en": "Muthuramalingapuram",
+            "ta": "முத்துராமலிங்கபுரம்"
+        },
+        "phone": "090428 45992"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "Color Cabs",
+            "ta": "கலர் கேப்ஸ் "
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.6, 7th Street, near P.T.R Tiffin Center, Panthadi Area, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "எண்.6, 7வது தெரு, P.T.R டிபன் சென்டர் அருகில், பந்தாடி பகுதி, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "082200 72330"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "CTR Tours & Travels",
+            "ta": "CTR டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "49, Middle Street, Thai Nagar, Anuppanadi, Madurai, Tamil Nadu 625009",
+            "ta": "49, நடுத்தெரு, தாய் நகர், அனுப்பானடி, மதுரை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "send",
+            "ta": " அனுப்பானடி"
+        },
+        "phone": "094860 47801"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "D Cabs",
+            "ta": "D கேப்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "58A, Tirupparankunram Road, near Alagappan Nagar Bus Stop, Thiruvalluvar Nagar, Madurai, Tamil Nadu 625004",
+            "ta": "58A, திருப்பரங்குன்றம் சாலை, அழகப்பன் நகர் பேருந்து நிறுத்தம் அருகில், திருவள்ளுவர் நகர், மதுரை, தமிழ்நாடு 625004"
+        },
+        "area": {
+            "en": "Tiruvalluvar Nagar",
+            "ta": "திருவள்ளுவர் நகர்"
+        },
+        "phone": "098425 58098"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "DROP TAXI & OUT STATION MADURAI",
+            "ta": "டிராப் டாக்ஸி & அவுட் ஸ்டேசன் மதுரை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No15, jeevaStreet",
+            "ta": "எண் 15, ஜீவா"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "090036 36200"
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "Drop Taxi Madurai",
+            "ta": "டிராப் டாக்ஸி மதுரை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4B, West marrat Street, 1, Madurai, Tamil Nadu 625012",
+            "ta": "4B, மேற்கு மாரட் தெரு, 1, மதுரை, தமிழ்நாடு 625012"
+        },
+        "area": {
+            "en": "West Marat Street",
+            "ta": "மேற்கு மாரட் தெரு"
+        },
+        "phone": "8667459121"
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "Fast Track Call Taxi",
+            "ta": "பாஸ்ட் ட்ராக் கால் டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1st Floor, Plot No.223, Church Road, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "1வது தளம், பிளாட் எண்.223, சர்ச் சாலை, அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "Anna Nagar",
+            "ta": "அண்ணா நகர்"
+        },
+        "phone": "04522888999"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "FLINIX TRAVELS & ACTING DRIVER MADURAI",
+            "ta": "ஃபிலினிக்ஸ் டிராவல்ஸ் & ஆக்டிங் டிரைவர் மதுரை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Lavanya Plaza, 98/1, Vasugi Street, near Nalam Medical, Villapuram, Madurai, Tamil Nadu 625012",
+            "ta": "லாவண்யா பிளாசா, 98/1, வாசுகி தெரு, நலம் மெடிக்கல் அருகில், வில்லாபுரம், மதுரை, தமிழ்நாடு 625012"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "075300 22155"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Fresh cabs",
+            "ta": "ஃபிரெஷ் கேப்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1st floor, 187, Palace Road, near Thirumalai Nayakkar Palace",
+            "ta": "1வது தளம், 187, அரண்மனை சாலை, திருமலை நாயக்கர் அரண்மனைக்கு அருகில்"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு "
+        },
+        "phone": "081481 49090"
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "Friends Cabs Taxi Service Tours & Travels",
+            "ta": "நண்பர்கள் காப்ஸ் டாக்சி சர்வீஸ் டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "111/2, 5th Street, Indira Nagar, Keelavaithiyanathapuram, Madurai, Tamil Nadu 625018",
+            "ta": "111/2, 5வது தெரு, இந்திரா நகர், கீழவைத்தியநாதபுரம், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Keezavaithyanathapuram",
+            "ta": "கீழவைத்தியநாதபுரம்"
+        },
+        "phone": "7200301007"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "FRIENDS TRACK CALL TAXI",
+            "ta": "நண்பர்கள் ட்ராக் கால் டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "NO:5, 4TH LANE, CROSS, Puttu Thoppu Main Road, Ponnagaram, Madurai, Tamil Nadu 625016",
+            "ta": "எண்:5, 4வது லேன், கிராஸ், புட்டு தோப்பு மெயின் ரோடு, பொன்னகரம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Ponnakaram",
+            "ta": "பொன்னகரம்"
+        },
+        "phone": "099946 67777"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "GJR Call Taxi - outStreetation cabs service in madurai",
+            "ta": "ஜிஜேஆர் கால் டாக்ஸி - மதுரையில் அவுட்ஸ்ட்ரீட்டேஷன் வண்டிகள் சேவை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Ground Floor, Plot No. 2/479, Krishna Nagar, 2nd Street, Kovil Pappakudi, Tamil Nadu 625018",
+            "ta": "தரை தளம், பிளாட் எண். 2/479, கிருஷ்ணா நகர், 2வது தெரு, கோவில் பாப்பாக்குடி, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Temple Papakudi",
+            "ta": "கோவில் பாப்பாக்குடி"
+        },
+        "phone": "7708208685"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "Go My Taxi",
+            "ta": "கோ மை டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "6,Sivandam Salai , Cross Road Aarapalayam , Madurai Madurai-16, Tamil Nadu 625016",
+            "ta": "6, சிவந்தம் சாலை, கிராஸ் ரோடு ஆரபாளையம், மதுரை மதுரை-16, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Arapalayam",
+            "ta": "ஆரபாளையம்"
+        },
+        "phone": "04524500500"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "GOOD CABS TOURS & TRAVELS",
+            "ta": "நல்ல காப்ஸ் டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "39, N Avani Moola Street, veethi, Madurai, Tamil Nadu 625001",
+            "ta": "39, வடக்கு ஆவணி மூல தெரு, வீதி, மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "North Avani Moola Street",
+            "ta": "வடக்கு ஆவணி மூல தெரு"
+        },
+        "phone": "9842384730"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "Green Taxi Madurai",
+            "ta": "பசுமை டாக்ஸி மதுரை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "7, Semparuthipoo Street, HMS Colony, Ponmeni, Madurai, Tamil Nadu 625016",
+            "ta": "7, செம்பருத்திப்பூ தெரு, எச்எம்எஸ் காலனி, பொன்மேனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Bonmani",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "9942998566"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "JODA TRAVELS",
+            "ta": "ஜோடா டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "v, 6-1-3 ramunni nagar,1st Street, Karisalkulam Main Road, Madurai, Tamil Nadu 625018",
+            "ta": "v, 6-1-3 ராமுண்ணி நகர், 1வது தெரு, கரிசல்குளம் மெயின் ரோடு, மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Karisalkulam Main Road",
+            "ta": "கரிசல்குளம் மெயின் ரோடு"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "Jothi Cabs",
+            "ta": "ஜோதி கேப்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "7A Parktown, 1st Street, P&T Nagar, Madurai, Tamil Nadu 625017",
+            "ta": "7A பார்க்டவுன், 1வது தெரு, P&T நகர், மதுரை, தமிழ்நாடு 625017"
+        },
+        "area": {
+            "en": "Parktown",
+            "ta": "பார்க்டவுன்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "KPK TRAVELS MADURAI",
+            "ta": "கேபிகே டிராவல்ஸ் மதுரை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "92, Thiagarajar colony, Pasumalai, Madurai, Tamil Nadu 625004",
+            "ta": "92, தியாகராஜர் காலனி, பசுமலை, மதுரை, தமிழ்நாடு 625004"
+        },
+        "area": {
+            "en": "Pashumalai",
+            "ta": "பசுமலை"
+        },
+        "phone": "099942 05791"
+    },
+    {
+        "id": 38,
+        "name": {
+            "en": "KRK Travels and Tours",
+            "ta": "கேஆர்கே டிராவல்ஸ் &  டூர்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Nethaji 7th, Thiyagi Sankaralingam Street, Jaihindpuram, Tamil Nadu 625011",
+            "ta": "நேதாஜி 7வது, தியாகி சங்கரலிங்கம் தெரு, ஜெய்ஹிந்த்புரம், தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "093619 55613"
+    },
+    {
+        "id": 39,
+        "name": {
+            "en": "Kushi Taxi ",
+            "ta": "குஷி டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "Drop taxi in Madurai | One way Taxi | OutStreetation Taxi | Airport Taxi",
+            "ta": ""
+        },
+        "location": {
+            "en": "3795, தமிழ்நாடு வீட்டு வசதி வாரியம், மதுரை, தமிழ் நாடு 625011",
+            "ta": "3795, தமிழ்நாடு வீட்டு வசதி வாரியம், மதுரை, தமிழ் நாடு 625011"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "094296 90796"
+    },
+    {
+        "id": 40,
+        "name": {
+            "en": "Madurai cab booing & Tour Operator, Tour Taxi",
+            "ta": "மதுரை கேப் பூயிங் & டூர் ஆபரேட்டர்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "238, Muniyandipuram 2nd Street",
+            "ta": "238, முனியாண்டிபுரம் 2வது தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "099426 81432"
+    },
+    {
+        "id": 41,
+        "name": {
+            "en": "Madurai Call Taxi",
+            "ta": "மதுரை கால் டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Hotel Weshtern Park Opp. Railway Junction West Entry, 4, Travelers Bunglow Road",
+            "ta": "ஹோட்டல் வெஸ்டர்ன் பார்க் எதிரில். ரயில்வே சந்திப்பு மேற்கு நுழைவு, 4, டிராவலர்ஸ் பங்களா சாலை"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "04524502222"
+    },
+    {
+        "id": 42,
+        "name": {
+            "en": "madurai call taxi",
+            "ta": "மதுரை கால் டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "venus complex, Mattuthavani Main Road, Ramalakshmi Nagar, Surveyor Colony, Moondrumavadi, Madurai, Tamil Nadu 625007",
+            "ta": "வீனஸ் வளாகம், மாட்டுதவணி பிரதான சாலை, ராமலட்சுமி நகர், சர்வேயர் காலனி, மூன்றுமாவடி, மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "Surveyor Colony",
+            "ta": "சர்வேயர் காலனி"
+        },
+        "phone": "090434 39965"
+    },
+    {
+        "id": 43,
+        "name": {
+            "en": "Madurai City Cabs",
+            "ta": "மதுரை சிட்டி கேப்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Labor school, 2 8, Tamil Sangam Road, near Madurai",
+            "ta": "தொழிலாளர் பள்ளி, 2 8, தமிழ் சங்க சாலை, மதுரை அருகில்"
+        },
+        "area": {
+            "en": "Tamil Sangh Road",
+            "ta": "தமிழ் சங்க சாலை"
+        },
+        "phone": "084387 55224"
+    },
+    {
+        "id": 44,
+        "name": {
+            "en": "Madurai Emirates tours& travels",
+            "ta": "மதுரை எமிரேட்ஸ் டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Kaveri Nagar 5th Street, TNHB Colony, Madurai, Villapuram, Tamil Nadu 625012",
+            "ta": "காவேரி நகர் 5வது தெரு, TNHB காலனி, மதுரை, வில்லாபுரம், தமிழ்நாடு 625012"
+        },
+        "area": {
+            "en": "Villapuram",
+            "ta": "வில்லாபுரம்"
+        },
+        "phone": "086107 56592"
+    },
+    {
+        "id": 45,
+        "name": {
+            "en": "JJ TOURS AND TRAVELS",
+            "ta": "JJ டூர்ஸ் அண்ட் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "33, Puthuvalvu nagar main Road, HMS Colony, Ponmeni, Madurai, Tamil Nadu 625016",
+            "ta": "33, புதுவல்வு நகர் பிரதான சாலை, எச்எம்எஸ் காலனி, பொன்மேனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Bonmani",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "9566621014"
+    },
+    {
+        "id": 46,
+        "name": {
+            "en": "Kalai Tours and Travels",
+            "ta": "கலை டூர்ஸ் அண்ட் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "3/10 Vijay Avenue,pothumnu, main road, Sikkandar Savadi, Madurai, Tamil Nadu 625018",
+            "ta": "3/10 விஜய் அவென்யூ, போதும்னு, பிரதான சாலை, சிக்கந்தர் சவடி, மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Sikandar Sawadi",
+            "ta": "சிக்கந்தர் சவடி"
+        },
+        "phone": "9344924587"
+    },
+    {
+        "id": 47,
+        "name": {
+            "en": "Nanba Tours&Travels",
+            "ta": "நண்பா டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "45,Barma colony,indra nagar,keela vaithyanatha puram, Madurai-North taluk, Tamil Nadu 625018",
+            "ta": "45, பர்மா காலனி, இந்திரா நகர், கீலா வைத்தியநாத புரம், மதுரை-வடக்கு தாலுக்கா, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Lower Vaidyanatha Puram",
+            "ta": "கீழ வைத்தியநாத புரம்"
+        },
+        "phone": "6369774738"
+    },
+    {
+        "id": 48,
+        "name": {
+            "en": "ONE WAY CAB",
+            "ta": "ஒன் வே கேப் "
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 5, solamalai office road,meenakshi nagar,paravai, Madurai, Tamil Nadu 625402",
+            "ta": "எண் 5, சோலமலை அலுவலக சாலை, மீனாட்சி நகர், பரவை, மதுரை, தமிழ்நாடு 625402"
+        },
+        "area": {
+            "en": "spread out",
+            "ta": "பரவை"
+        },
+        "phone": "9787458828"
+    },
+    {
+        "id": 49,
+        "name": {
+            "en": "smart taxi",
+            "ta": "ஸ்மார்ட் டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "P.salaam it hu Street Nehru Nagar",
+            "ta": "P.salaam it hu Street நேரு நகர்"
+        },
+        "area": {
+            "en": "Nehru Nagar",
+            "ta": "நேரு நகர்"
+        },
+        "phone": "090927 73696"
+    },
+    {
+        "id": 50,
+        "name": {
+            "en": "Speed Tours and Travels ",
+            "ta": "ஸ்பீட் டூர்ஸ் &  டிராவல்ஸ் "
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "( Madurai Cab Booking - Taxi Service - Car Rental - Hire Innova & Tempo Traveller )",
+            "ta": "(மதுரை வண்டி முன்பதிவு - டாக்ஸி சேவை - கார் வாடகை - இன்னோவா & டெம்போ டிராவலரை வாடகைக்கு விடுங்கள்)"
+        },
+        "location": {
+            "en": "No.210, 20, Petchi Amman Padithurai Road",
+            "ta": "எண்.210, 20, பெட்சி அம்மன் படித்துறை சாலை"
+        },
+        "area": {
+            "en": "Pachi Amman Padithura",
+            "ta": "பேச்சி அம்மன் படித்துறை"
+        },
+        "phone": "070101 37457"
+    },
+    {
+        "id": 51,
+        "name": {
+            "en": "SR Travels",
+            "ta": "எஸ்ஆர் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Thirumalai colony 7 th Street Kalavasal, behind Germanus Hotel, Sammatipuram, Madurai, Tamil Nadu 625016",
+            "ta": "திருமலை காலனி 7வது தெரு காளவாசல், ஜெர்மானஸ் ஹோட்டலுக்குப் பின்புறம், சம்மதிபுரம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Kalavasal",
+            "ta": "காளவாசல்"
+        },
+        "phone": "#VALUE!"
+    },
+    {
+        "id": 52,
+        "name": {
+            "en": "Madurai Taxi service",
+            "ta": "மதுரை டாக்ஸி சேவை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "H 28 TNHB COLONY, TAMIL NAGAR, ANAIYUR, MADURAI, Tamil Nadu 625017",
+            "ta": "H 28 TNHB காலனி, தமிழ் நகர், அணையூர், மதுரை, தமிழ்நாடு 625017"
+        },
+        "area": {
+            "en": "Tamil Nagar",
+            "ta": "தமிழ் நகர்"
+        },
+        "phone": "#VALUE!"
+    },
+    {
+        "id": 53,
+        "name": {
+            "en": "Madurai Tours ",
+            "ta": "மதுரை டூர்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "A unit of SSRT cabs",
+            "ta": "எஸ்எஸ்ஆர்டி வண்டிகளின் ஒரு பிரிவு"
+        },
+        "location": {
+            "en": "No.26,1st Floor,Hibnu Building West avani Moola Street, West Tower Street, Junction, Madurai, Tamil Nadu 625001",
+            "ta": "எண்.26,1வது தளம், ஹிப்னு கட்டிடம் மேற்கு ஆவணி மூல தெரு, மேற்கு கோபுர தெரு, சந்திப்பு, மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Mela Avani Moola Street",
+            "ta": "மேல அவனி மூல தெரு"
+        },
+        "phone": "9894159970"
+    },
+    {
+        "id": 54,
+        "name": {
+            "en": "V J Travels",
+            "ta": "விஜே டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "kudiyanavar Street 1, North Street, Ponmeni, Madurai, Tamil Nadu 625016",
+            "ta": "குடியானவர் தெரு 1, வடக்கு தெரு, பொன்மேனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Bonmani",
+            "ta": "பொன்மேனி"
+        },
+        "phone": "9526914095"
+    },
+    {
+        "id": 55,
+        "name": {
+            "en": "VISHALINI CABS",
+            "ta": "மதுரைவிஷாலினி கேபிஎஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Mela ponnagaram, 5th Street, Arappalayam, Madurai, Tamil Nadu 625016",
+            "ta": "மேல பொன்னகரம், 5வது தெரு, ஆரப்பாளையம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Arapalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "9747220587"
+    },
+    {
+        "id": 56,
+        "name": {
+            "en": "ManiRaja Travels",
+            "ta": "மணிராஜா டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2-1/28, Anna Main Veethi, opp. Street Antony Middle School, Koodal Nagar, Madurai, Tamil Nadu 625018",
+            "ta": "2-1/28, அண்ணா பிரதான வீதி, எதிரில். தெரு ஆண்டனி நடுநிலைப் பள்ளி, கூடல் நகர், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Goodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "7305512453"
+    },
+    {
+        "id": 57,
+        "name": {
+            "en": "MM CABS",
+            "ta": "MM CABS"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "43/D, Matha Kovil Street, Baharathiyar Road, Jaihindpuram, Madurai, Tamil Nadu 625011",
+            "ta": "43/டி, மாதா கோவில் தெரு, பஹரதியர் சாலை, ஜெய்ஹிந்த்புரம், மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "099944 94817"
+    },
+    {
+        "id": 58,
+        "name": {
+            "en": "NATIONAL CABS",
+            "ta": "நேஷனல் கேப்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Crime Branch, Bus Stop, 37 B, South Marret Street, near Madurai, Tamil Nadu 625001",
+            "ta": "குற்றப்பிரிவு, பேருந்து நிறுத்தம், 37 பி, தெற்கு மாரெட் தெரு, மதுரைக்கு அருகில், தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "South Marrett Street",
+            "ta": "தெற்கு மாரெட் தெரு"
+        },
+        "phone": "9944133888"
+    },
+    {
+        "id": 59,
+        "name": {
+            "en": "PALKAR ACTING DRIVER'S MADURAI CITY",
+            "ta": "பால்கர் ஆக்டிங் டிரைவரின் மதுரை சிட்டி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "திருமலை நாயக்கர் அரண்மனை, 21-A, Mahal 5th Street, Backside, மதுரை மெயின், மதுரை, தமிழ் நாடு 625001",
+            "ta": "திருமலை நாயக்கர் அரண்மனை, 21-A, மஹால் 5வது தெரு, பின்புறம், மதுரை மெயின், மதுரை, தமிழ் நாடு 625001"
+        },
+        "area": {
+            "en": "Mahal",
+            "ta": "மஹால்"
+        },
+        "phone": "091504 08082"
+    },
+    {
+        "id": 60,
+        "name": {
+            "en": "Picco cabs",
+            "ta": "பிக்கோ வண்டிகள்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "187, Palace Road, Mahal Area, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "187, அரண்மனை சாலை, மஹால் பகுதி, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Mahal",
+            "ta": "மஹால்"
+        },
+        "phone": "091591 57070"
+    },
+    {
+        "id": 61,
+        "name": {
+            "en": "PRASANNA TAXI",
+            "ta": "பிரசன்னா டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "01, Kamaraja Nagar, Avaniyapuram, Madurai, Tamil Nadu 612101",
+            "ta": "01, காமராஜா நகர், அவனியாபுரம், மதுரை, தமிழ்நாடு 612101"
+        },
+        "area": {
+            "en": "Avaniyapuram",
+            "ta": "அவனியாபுரம்"
+        },
+        "phone": "90258 65921"
+    },
+    {
+        "id": 62,
+        "name": {
+            "en": "R K Cabs",
+            "ta": "ஆர் கே கேப்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "82-84, Khanpalayam, 1st Street, Kanpalayam, Tamil Nadu 625009",
+            "ta": "2, வெஸ்ட் மாரட் தெரு, நியூ காலேஜ் ஹவுஸ் எதிரில், மேல மாரெட் வீதி "
+        },
+        "area": {
+            "en": "Upper Maret Street",
+            "ta": "மேல மாரெட் வீதி "
+        },
+        "phone": "04524230128"
+    },
+    {
+        "id": 63,
+        "name": {
+            "en": "Ragavendhra Tourism",
+            "ta": "ராகவேந்திரா சுற்றுலா"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2, West Marat Street, Opposite New College House, West Marret Street",
+            "ta": "5a, விளாச்சேரி மெயின் ரோடு, இந்திரா நகர், கலா மலை, பசுமலை, மதுரை, தமிழ்நாடு 625004"
+        },
+        "area": {
+            "en": "Pashumalai",
+            "ta": "பசுமலை"
+        },
+        "phone": "9976688898"
+    },
+    {
+        "id": 64,
+        "name": {
+            "en": "RBC Travels",
+            "ta": "RBC டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5a, Vilachery Main Road, Indra Nagar, Kala Malai, Pasumalai, Madurai, Tamil Nadu 625004",
+            "ta": "136/10 A1, 137/1A 1A, APK பிரதான சாலை, சாலை, அயன், பாப்பக்குடி, அவனியாபுரம், தமிழ்நாடு 625012"
+        },
+        "area": {
+            "en": "Avaniyapuram",
+            "ta": "அவனியாபுரம்"
+        },
+        "phone": "90873 99003"
+    },
+    {
+        "id": 65,
+        "name": {
+            "en": "Red Taxi",
+            "ta": "ரெட் டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "136/10 A1, 137/1A 1A, APK MAIN ROAD, ROAD, AYAN, Pappakudi, Avaniyapuram, Tamil Nadu 625012",
+            "ta": "2வது தளம், வசந்தம் வளாகம், எண் 13, 70 அடி சாலை, எல்லிஸ் நகர், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Ellis Nagar",
+            "ta": "எல்லிஸ் நகர்"
+        },
+        "phone": "04524567890"
+    },
+    {
+        "id": 66,
+        "name": {
+            "en": "RG Holidays ",
+            "ta": "RG ஹாலிடேஸ் "
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "(Madurai Cab Booking - Taxi Service - Cab Service - Rental Car, Hire Innova,Tempo Traveler)",
+            "ta": " (மதுரை வண்டி முன்பதிவு - டாக்ஸி சேவை - கேப் சேவை - வாடகை கார், வாடகை இன்னோவா, டெம்போ டிராவலர்)"
+        },
+        "location": {
+            "en": "2nd floor, Vasantham Complex, No 13, 70 Feet Road, Ellis Nagar, Madurai, Tamil Nadu 625016",
+            "ta": "30, ஆசாரி தெரு, மேலூர், தல்லாகுளம், மதுரை, தமிழ்நாடு 625002"
+        },
+        "area": {
+            "en": "Tallakulam",
+            "ta": "தல்லாகுளம்"
+        },
+        "phone": "86081 38148"
+    },
+    {
+        "id": 67,
+        "name": {
+            "en": "Rio Taxi",
+            "ta": "ரியோ டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "30, Asari Street, Mellur, Tallakulam, Madurai, Tamil Nadu 625002",
+            "ta": "1/435, அண்ணா நகர், வடபழஞ்சி, மதுரை, தமிழ்நாடு 625021"
+        },
+        "area": {
+            "en": "Vadapalanchi",
+            "ta": "வடபழஞ்சி"
+        },
+        "phone": "97101 04656"
+    },
+    {
+        "id": 68,
+        "name": {
+            "en": "Rose Taxi Private Limited",
+            "ta": "ரோஸ் டாக்ஸி பிரைவேட் லிமிடெட்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1/435, Anna Nagar, Vadapalanji, Madurai, Tamil Nadu 625021",
+            "ta": "5வது தெரு, அஞ்சல் நகர், கூடல் நகர், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Goodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "9791763456"
+    },
+    {
+        "id": 69,
+        "name": {
+            "en": "ROYAL CABS",
+            "ta": "ராயல் கேப்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5th Street, Anjal Nagar, Koodal Nagar, Madurai, Tamil Nadu 625018",
+            "ta": "எண் 4, மேற்கு வெளி தெரு, எதிரில். இரயில்வே வீதிக்கு"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "98422 20956"
+    },
+    {
+        "id": 70,
+        "name": {
+            "en": "Royal Travels",
+            "ta": "ராயல் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No4, West Veli Street, opp. to Railway Streetation",
+            "ta": "# 8G/2, NRV வளாகம், பைபாஸ் சாலை, தீக்கதிர், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "ray of light",
+            "ta": "தீக்கதிர்"
+        },
+        "phone": "9842335457"
+    },
+    {
+        "id": 71,
+        "name": {
+            "en": "RR Travels (Madurai)",
+            "ta": "ஆர்ஆர் டிராவல்ஸ் (மதுரை)"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "# 8G/2, NRV Complex, Bypass Road, Thikathir, Madurai, Tamil Nadu 625018",
+            "ta": "244, SRV பார்க் 3வது தெரு, ஹார்விபட்டி, தமிழ்நாடு 625006"
+        },
+        "area": {
+            "en": "Harvey Patty",
+            "ta": "ஹார்விபட்டி"
+        },
+        "phone": "78128 88898"
+    },
+    {
+        "id": 72,
+        "name": {
+            "en": "Shanthi Cabs India",
+            "ta": "சாந்தி கேப்ஸ் இந்தியா"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "244, SRV Park 3rd Street, Harveypatti, Tamil Nadu 625006",
+            "ta": "No.1, H.R. சர்ச், கட்டிடம், RMS சாலை"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "098421 74065"
+    },
+    {
+        "id": 73,
+        "name": {
+            "en": "Shara Cabs Service",
+            "ta": "ஷாரா கேப்ஸ் சேவை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.1, H.R. Church, Building, RMS Road",
+            "ta": "169, வது தெரு, மீனாம்பிகை நகர், ஜீவா நகர், ஜெய்ஹிந்த்புரம், தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "073392 30531"
+    },
+    {
+        "id": 74,
+        "name": {
+            "en": "Sharma Call Taxi & Cabs",
+            "ta": "சர்மா கால் டாக்ஸி & கேப்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "169, th Street, Meenambigai Nagar, Jeeva Nagar, Jaihindpuram, Tamil Nadu 625011",
+            "ta": "எண் 11, மேற்கு வாடம்போக்கி தெரு, பெரியார், மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "04522336691"
+    },
+    {
+        "id": 75,
+        "name": {
+            "en": "Shrilaya Travels & Tourism",
+            "ta": "ஸ்ரீலயா டிராவல்ஸ் & டூரிஸம்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 11, West Vadampokki Street, Periyar, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "திருமுருகன் நகர், மதுரை, திருப்பரங்குன்றம், தமிழ் நாடு 625005"
+        },
+        "area": {
+            "en": "Tiruparangunram",
+            "ta": "திருப்பரங்குன்றம்"
+        },
+        "phone": "093855 30503"
+    },
+    {
+        "id": 76,
+        "name": {
+            "en": "SKM Travels",
+            "ta": "Skm டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Thirumurugan Nagar, மதுரை, திருப்பரங்குன்றம், தமிழ் நாடு 625005",
+            "ta": "3 வளவன் நகர், 4/3 25, அத்தலை மெயின் ரோடு, பரவை, தமிழ்நாடு 625402"
+        },
+        "area": {
+            "en": "spread out",
+            "ta": "பரவை"
+        },
+        "phone": "9092036634"
+    },
+    {
+        "id": 77,
+        "name": {
+            "en": "SRT Cabs Madurai",
+            "ta": "SRT Cabs மதுரை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "3 Valavan Nagar, 4/3 25, Athalai Main Road, Paravai, Tamil Nadu 625402",
+            "ta": "முதல் தளம், 30A, சுப்ரமணிய பிள்ளை தெரு, S S காலனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "S S Colony",
+            "ta": "S S காலனி"
+        },
+        "phone": "9843184284"
+    },
+    {
+        "id": 78,
+        "name": {
+            "en": "SS TRAVELS (SELF DRIVE CARS)",
+            "ta": "எஸ்எஸ் டிராவல்ஸ் (செல்ஃப் டிரைவ் கார்கள்)"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "First Floor, 30A, Subramaniya Pillai Street, S S Colony, Madurai, Tamil Nadu 625016",
+            "ta": "74, மாதா ஸ்டோர் அருகில், மீனாட்சி மில் காலனி, மகாகணபதி நகர், மதுரை, தமிழ்நாடு 625402"
+        },
+        "area": {
+            "en": "Meenakshi Mill Colony",
+            "ta": "மீனாட்சி மில் காலனி"
+        },
+        "phone": "7373532362"
+    },
+    {
+        "id": 79,
+        "name": {
+            "en": "SSRT Cabs",
+            "ta": "எஸ்எஸ்ஆர்டி வண்டிகள்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "74, near Madha Store, Meenakshi Mill Colony, Mahaganapathy Nagar, Madurai, Tamil Nadu 625402",
+            "ta": "டவுன் ஹால் ரோடு, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 80,
+        "name": {
+            "en": "Thola cabs acting driver & taxi service",
+            "ta": "தோழா காப்ஸ் "
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Town Hall Road, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "h-256, 1 பால் பூத், சூரிஸ் அபார்ட்மெண்ட், எல்லிஸ் நகர், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Ellis Nagar",
+            "ta": "எல்லிஸ் நகர்"
+        },
+        "phone": "094988 98044"
+    },
+    {
+        "id": 81,
+        "name": {
+            "en": "Tranz India Tourism",
+            "ta": "டிரான்ஸ் இந்தியா சுற்றுலா"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "h-256, 1 pall booth, suriys appartment, Ellis Nagar, Madurai, Tamil Nadu 625016",
+            "ta": "4வது பிளாக், கருப்பட்டி சத்திரம், 5-1, மேற்கு வெளி தெரு, பிகேஎஸ் காலனி, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "West Outer Road",
+            "ta": "மேற்கு வெளி வீதி "
+        },
+        "phone": "098431 73979"
+    },
+    {
+        "id": 82,
+        "name": {
+            "en": "Travels in Madurai | Tour Operator in Madurai | MTS Travels",
+            "ta": "மதுரையில் பயணம் | மதுரையில் டூர் ஆபரேட்டர் | எம்டிஎஸ் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "4th Block, Karupatti Chatram, 5-1, West Veli Street, PKS Colony, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "3, JJ நகர், அவனியாபுரம், மதுரை, தமிழ்நாடு 625012"
+        },
+        "area": {
+            "en": "Avaniyapuram",
+            "ta": "அவனியாபுரம்"
+        },
+        "phone": "074183 20222"
+    },
+    {
+        "id": 83,
+        "name": {
+            "en": "Ubi Taxi",
+            "ta": "Ubi டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "3, JJ Nagar, Avaniyapuram, Madurai, Tamil Nadu 625012",
+            "ta": "பாலரெங்காபுரம், மதுரை, தமிழ் நாடு 625009"
+        },
+        "area": {
+            "en": "Queerwarpalayam",
+            "ta": "குயர்வர்பாலயம் "
+        },
+        "phone": "078688 22892"
+    },
+    {
+        "id": 84,
+        "name": {
+            "en": "V3 CABS MADURAI",
+            "ta": "V3 CABS மதுரை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "பாலரெங்காபுரம், மதுரை, தமிழ் நாடு 625009",
+            "ta": "கீழ அன்னத்தோப்பு, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Annagrove below",
+            "ta": "கீழ அன்னத்தோப்பு"
+        },
+        "phone": "6955255661 & 9655955562"
+    },
+    {
+        "id": 85,
+        "name": {
+            "en": "Vaigai Cabs Taxi Service",
+            "ta": "வைகை கேப்ஸ் டாக்ஸி சேவை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "keela annathoppu, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "கீழவைத்தியநாதபுரம், 125, மருதுபாண்டியர் தெரு, திகதிர், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Keezavaithyanathapuram",
+            "ta": "கீழவைத்தியநாதபுரம்"
+        },
+        "phone": "9384978991"
+    },
+    {
+        "id": 86,
+        "name": {
+            "en": "Vaigai Drop Taxi Cab Service",
+            "ta": "வைகை டிராப் டாக்ஸி கேப் சேவை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Keelavaithiyanathapuram, 125, Maruthupandiyar Street, Thikathir, Madurai, Tamil Nadu 625018",
+            "ta": "21/B, AA சாலை, அன்சாரி நகர், மகபூபாளையம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Makhabupalayam",
+            "ta": "மகபூபாளையம்"
+        },
+        "phone": "97509 79003"
+    },
+    {
+        "id": 87,
+        "name": {
+            "en": "Vaigai Tours And Travels-Taxi car rental in madurai",
+            "ta": "மதுரையில் வைகை டூர்ஸ் அண்ட் டிராவல்ஸ்-டாக்ஸி கார் வாடகை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "21/B, AA Road, Ansari Nagar, Mahaboopalayam, Madurai, Tamil Nadu 625016",
+            "ta": "மாணிக்கவிநாயகர் தெரு, விளாங்குடி, மதுரை, தமிழ்நாடு 6250"
+        },
+        "area": {
+            "en": "Vlangudi",
+            "ta": "விளாங்குடி"
+        },
+        "phone": "9047705503"
+    },
+    {
+        "id": 88,
+        "name": {
+            "en": "Varun Travels (Taxi Service)",
+            "ta": "வருண் டிராவல்ஸ் (டாக்ஸி சேவை)"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Maanickavinaayagar Street, Vilangudi, Madurai, Tamil Nadu 6250",
+            "ta": "கடை எண்:2a, லட்சுமி வளாகம், வேலன் நகர், செங்குன்றம் நகர், பசுமலை, திருப்பரங்குன்றம், மதுரை, தமிழ்நாடு 625005"
+        },
+        "area": {
+            "en": "Pashumalai",
+            "ta": "பசுமலை"
+        },
+        "phone": "95006 30222"
+    },
+    {
+        "id": 89,
+        "name": {
+            "en": "VDM CABS MADURAI",
+            "ta": "VDM CABS மதுரை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Shop No:2a, Lakshmi complex, Velan Nagar, Sengundram Nagar, Pasumalai, Thiruparankundram, Madurai, Tamil Nadu 625005",
+            "ta": "5வது தெரு, ஜீவாநகர் 2வது தெரு, மீனாம்பிகை நகர், கடைசி, ஜெய்ஹிந்த்புரம், மதுரை, தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "None"
+    },
+    {
+        "id": 90,
+        "name": {
+            "en": "Velammal Vinu Tours and Travels",
+            "ta": "வேலம்மாள் வினு டூர்ஸ் அண்ட் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5th Street, Jeevanagar 2nd Street, Meenambigai Nagar, Last, Jaihindpuram, Madurai, Tamil Nadu 625011",
+            "ta": "16A, சிங்காரதோப்பு, மஹால் பகுதி, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Mahal",
+            "ta": "மஹால்"
+        },
+        "phone": "79049 99014"
+    },
+    {
+        "id": 91,
+        "name": {
+            "en": "Violin Travels Madurai",
+            "ta": "வயலின் டிராவல்ஸ் மதுரை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "16A, singarathopu, Mahal Area, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "தரை தளம், PTR டவர், எண்: 46, பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு "
+        },
+        "phone": "95006 30222"
+    },
+    {
+        "id": 92,
+        "name": {
+            "en": "WELCOME TOURS AND TRAVELS MADURAI",
+            "ta": "வெல்கம் டூர்ஸ் அண்ட் டிராவல்ஸ் மதுரை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Ground Floor, PTR Tower, No : 46, Bypass Road",
+            "ta": "சிருங்காரி வளாகம், 240/4, பைபாஸ் சாலை, வானமாமலை நகர், துரை சாமி நகர், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Bypass Road",
+            "ta": "பைபாஸ் ரோடு "
+        },
+        "phone": "90873 51351"
+    },
+    {
+        "id": 93,
+        "name": {
+            "en": "Wonder Acting Driver in Madurai",
+            "ta": "மதுரையில் வொண்டர் ஆக்டிங் டிரைவர்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "sringari complex, 240/4, Bypass Road, Vanamamalai Nagar, Durai Samy Nagar, Madurai, Tamil Nadu 625016",
+            "ta": "பொன்னையாப்பிள்ளை கலவை, 41/45A, அரசரடி, ஆரப்பாளையம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Arapalayam",
+            "ta": "ஆரப்பாளையம்"
+        },
+        "phone": "94864 21515"
+    },
+    {
+        "id": 94,
+        "name": {
+            "en": "YR CALL TAXI",
+            "ta": "YR கால் டாக்ஸி"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Ponnayapillai compound, 41/45A, Arasaradi, Arappalayam, Madurai, Tamil Nadu 625016",
+            "ta": "தாமஸ் தெரு, நாகு நகர், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "Thomas Street",
+            "ta": "தாமஸ் தெரு"
+        },
+        "phone": "04524544444"
+    },
+    {
+        "id": 95,
+        "name": {
+            "en": "ZERO TAKSI",
+            "ta": "ZERO TAKSI"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Thomas Street, Nagu Nagar, Madurai, Tamil Nadu 625016",
+            "ta": "C 9, 7th Ave, MGM நகர், ஜெயபாரத் நகரம், அவனியாபுரம், மதுரை, தமிழ்நாடு 625012"
+        },
+        "area": {
+            "en": "Avaniyapuram",
+            "ta": "அவனியாபுரம்"
+        },
+        "phone": "93440 20689"
+    },
+    {
+        "id": 96,
+        "name": {
+            "en": "Madurai RR Tours Travels",
+            "ta": "மதுரை ஆர்ஆர் டூர்ஸ் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "C 9, 7 th Ave, MGM Nagar, Jayabharath City, Avaniyapuram, Madurai, Tamil Nadu 625012",
+            "ta": "2/19, முனியாண்டி கோவில் தெரு, சிக்கந்தர் சவடி, கூடல் நகர், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Goodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "9597646800"
+    },
+    {
+        "id": 97,
+        "name": {
+            "en": "RR Tours and Travels",
+            "ta": "ஆர்ஆர் டூர்ஸ் அண்ட் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2/19, Muniyandi Kovil Street, Sikkandar Savadi, Koodal Nagar, Madurai, Tamil Nadu 625018",
+            "ta": "39, மண்டபம் லைன், கல்யாண் ஜூவல்லர்ஸ் எதிரில், வலையல் கடை, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "7373381029 & 9750559122"
+    },
+    {
+        "id": 98,
+        "name": {
+            "en": "R R TRAVELS & TOURS",
+            "ta": "ஆர் ஆர் டிராவல்ஸ் & டூர்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "39, mandapam line, opposite Kalyan jewellers, Valaiyal Kadai, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "7, தாசில்தார் பள்ளிவாசல் தெரு, மதுரை மெயின், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "04524373924"
+    },
+    {
+        "id": 99,
+        "name": {
+            "en": "Madurai RR Tours & Travels",
+            "ta": "மதுரை ஆர்ஆர் டூர்ஸ் & டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "7, Thasildar Pallivasal Street, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "ராமையா 5வது குறுக்குத் தெரு 60 லைன், ஜெய்ஹிந்த்புரம், தமிழ்நாடு 625011"
+        },
+        "area": {
+            "en": "Jaihindpuram",
+            "ta": "ஜெய்ஹிந்த்புரம்"
+        },
+        "phone": "9944573199"
+    },
+    {
+        "id": 100,
+        "name": {
+            "en": "Madurai RR Tours and Travels",
+            "ta": "மதுரை ஆர்ஆர் டூர்ஸ் அண்ட் டிராவல்ஸ்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Ramaiya5thcross Street 60 line, Jaihindpuram, Tamil Nadu 625011",
+            "ta": "2/19, சிக்கேந்தர் சாவடி-கூடல்நகர், கூடல் நகர், மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "Goodal Nagar",
+            "ta": "கூடல் நகர்"
+        },
+        "phone": "9597646800"
+    },
+    {
+        "id": 101,
+        "name": {
+            "en": "Madurai Tours - A unit of SSRT cabs",
+            "ta": "மதுரை டூர்ஸ் - எஸ்எஸ்ஆர்டி வண்டிகளின் ஒரு பிரிவு"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2/19, SikenderChavadi-KudalNagar, Koodal Nagar, Madurai, Tamil Nadu 625018",
+            "ta": "எண்.26,1வது தளம், ஹிப்னு கட்டிடம் மேற்கு ஆவணி மூல தெரு, மேற்கு கோபுர தெரு, சந்திப்பு, மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Periyar",
+            "ta": "பெரியார்"
+        },
+        "phone": "9894159970"
+    },
+    {
+        "id": 102,
+        "name": {
+            "en": "SSRT cabs",
+            "ta": "எஸ்எஸ்ஆர்டி வண்டிகள்"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.26,1st Floor,Hibnu Building West avani Moola Street, West Tower Street, Junction, Madurai, Tamil Nadu 625001",
+            "ta": "t-10, எல்லிஸ் நகர், மதுரை, தமிழ்நாடு 625001"
+        },
+        "area": {
+            "en": "Ellis Nagar",
+            "ta": "எல்லிஸ் நகர்"
+        },
+        "phone": "9894159917 & 9894159970"
+    },
+    {
+        "id": 103,
+        "name": {
+            "en": "SRT Cabs Madurai",
+            "ta": "SRT Cabs மதுரை"
+        },
+        "type": {
+            "en": "Taxi ",
+            "ta": "வாடகை கார்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "t-10, Ellis Nagar, Madurai, Tamil Nadu 625001",
+            "ta": "முதல் தளம், 30A, சுப்ரமணிய பிள்ளை தெரு, S S காலனி, மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "S S Colony",
+            "ta": "S S காலனி"
+        },
+        "phone": "9843184284"
+    }
+]

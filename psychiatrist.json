@@ -1,0 +1,1251 @@
+[
+    
+    {
+        "id": 2,
+        "name": {
+            "en": "Blissfullmind Wellness Research Hospitals",
+            "ta": "Blissfullmind ஆரோக்கிய ஆராய்ச்சி மருத்துவமனைகள்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": " Dr. Mohanavenkataraman",
+            "ta": "டாக்டர் மோகனவெங்கடராமன் "
+        },
+        "location": {
+            "en": "49, Ashok Nagar 3rd St, Kochadai, Madurai, Tamil Nadu 625016",
+            "ta": "49, அசோக் நகர் 3வது தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "81908 66665"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "Dr.Rajan's",
+            "ta": "டாக்டர்.ராஜனின்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": " Mind Clinic",
+            "ta": " மைண்ட் கிளினிக்"
+        },
+        "location": {
+            "en": "4B, 4th FLOOR, AL WAARIS AVENUE No.151, K.K NAGAR EAST, 5th St, Madurai, Tamil Nadu 625020",
+            "ta": "4B, 4வது தளம், அல் வாரிஸ் அவென்யூ எண்.151, K.K நகர் கிழக்கு, 5வது தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "9962220580"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Dr. Mr Dheep",
+            "ta": "டாக்டர் திரு தீப்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "Apollo Hospitals",
+            "ta": "அப்பல்லோ மருத்துவமனைகள்"
+        },
+        "location": {
+            "en": "Apollo Speciality Hospital, 80 Feet Rd, Anna Nagar, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "அப்பல்லோ சிறப்பு மருத்துவமனை, 80 அடி சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "1860 500 1066"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "Ilakkuvanar Mental Health Centre",
+            "ta": "இலக்குவனார் மனநல மையம்"
+        },
+        "type": {
+            "en": "Psychiatric hospital",
+            "ta": "மனநல மருத்துவமனை"
+        },
+        "detail": {
+            "en": "Dr.Selvamani , Thinakaran Clinic",
+            "ta": "டாக்டர்.செல்வமணி, தினகரன் கிளினிக் "
+        },
+        "location": {
+            "en": "Bus Stand, No: 25, Alagar Kovil Main Rd, near K Pudur, Ramavarma Nagar, K.Pudur, Madurai, Tamil Nadu 625007",
+            "ta": "பேருந்து நிலையம், எண்: 25, அழகர் கோவில் பிரதான சாலை, கே புதூர் அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "0452 256 8106 & 98941 87575"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "Ahana Hospitals - KK Nagar Branch",
+            "ta": "அஹானா மருத்துவமனைகள் - கே.கே.நகர் கிளை"
+        },
+        "type": {
+            "en": "Psychiatric hospital",
+            "ta": "மனநல மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No: 611, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "எண்: 611, கே.கே.நகர்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "90060 06000"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Alpha Omega deaddiction & psychiatric center",
+            "ta": "ஆல்பா ஒமேகா மரணம் மற்றும் மனநல மையம்"
+        },
+        "type": {
+            "en": "Psychiatric hospital",
+            "ta": "மனநல மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "sea food, No 6, sallai muthu nagar, Arul nagar, TNSTC HEAD OFFICE, Bypass Road, Madurai, Tamil Nadu 625016",
+            "ta": "கடல் உணவு, எண் 6, சாலை முத்து நகர், அருள் நகர், மதுரைக்கு அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "86810 01158"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Ahana Hospitals - Gandhi Nagar Branch",
+            "ta": "அஹானா மருத்துவமனைகள் - காந்தி நகர் கிளை"
+        },
+        "type": {
+            "en": "Psychoneurological specialized clinic",
+            "ta": "உளவியல் சிறப்பு மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "11, Gandhi Nagar Cross St, Shenoy Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "11, காந்தி நகர் கிராஸ் தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "90060 06000"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Dr.Preethi's Child Guidance Centre and Hospital",
+            "ta": "டாக்டர். ப்ரீத்தியின் குழந்தை வழிகாட்டுதல் மையம் மற்றும் மருத்துவமனை"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "63, South Veli Street, South Gate, Madurai Main, Madurai, Tamil Nadu 625001",
+            "ta": "63, தெற்கு வெளி வீதி"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "88701 56791"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "Ahana Hospitals - Managiri Branch",
+            "ta": "அஹானா மருத்துவமனைகள் - மானகிரி கிளை"
+        },
+        "type": {
+            "en": "Psychiatric hospital",
+            "ta": "மனநல மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "16/2A, Iyyanar Kovil 2nd St, Managiri, Madurai, Tamil Nadu 625020",
+            "ta": "16/2A, ஐயனார் கோவில் 2வது தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "90060 06000"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Dr. Asma J A Batcha",
+            "ta": "டாக்டர். அஸ்மா ஜே ஏ பாட்சா "
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "Best Psychiatrist | Psychiatrist Doctor | Headache/Anxiety | Sexual Disorder | Depression Specialist",
+            "ta": "சிறந்த மனநல மருத்துவர் | மனநல மருத்துவர் | தலைவலி/கவலை | பாலியல் கோளாறு | மனச்சோர்வு நிபுணர்"
+        },
+        "location": {
+            "en": "Apollo Speciality Hospitals, 80 Feet Rd",
+            "ta": "அப்பல்லோ சிறப்பு மருத்துவமனைகள், 80 அடி சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "80 4696 1837"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Dr Sabesan",
+            "ta": "டாக்டர் சபேசன்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "SVSK Towers, Alagar Kovil Main Rd",
+            "ta": "SVSK டவர்ஸ், அழகர் கோவில் பிரதான சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": ""
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "Ms. Rajalakshmi, ",
+            "ta": "செல்வி. ராஜலட்சுமி, சிகிச்சை பெற்ற "
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "Treated 9K+ Patients | Best Psychologist | Best Life Coach | Child Psychologist | ADHD | Premarital",
+            "ta": "9K+ நோயாளிகள் | சிறந்த உளவியலாளர் | சிறந்த வாழ்க்கை பயிற்சியாளர் | குழந்தை உளவியலாளர் | ADHD | திருமணத்திற்கு முந்தைய"
+        },
+        "location": {
+            "en": "Apollo Speciality Hospitals, 80 Feet Rd",
+            "ta": "அப்பல்லோ சிறப்பு மருத்துவமனைகள், 80 அடி சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "80 4696 1837"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "Ram Psychiatry Hospital",
+            "ta": "ராம் மனநல மருத்துவமனை"
+        },
+        "type": {
+            "en": "Psychiatric hospital",
+            "ta": "மனநல மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "338-A, 1st East Main Rd, Opposite to Ulavar Santhai",
+            "ta": "338-A, 1வது கிழக்கு பிரதான சாலை, உலவர் சந்தைக்கு எதிரில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "0452 435 4572"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "Ahana Hospitals",
+            "ta": "அஹானா மருத்துவமனைகள்"
+        },
+        "type": {
+            "en": "Hospital",
+            "ta": "மருத்துவமனை"
+        },
+        "detail": {
+            "en": "Acute Care Branch",
+            "ta": "தீவிர சிகிச்சை பிரிவு"
+        },
+        "location": {
+            "en": "No: 25, Jawahar St",
+            "ta": "எண்: 25, ஜவஹர் தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "90060 06000"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "Best Psychiatrist ",
+            "ta": "சிறந்த மனநல மருத்துவர்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "Dr. Sabhesan S, 30+ yrs of Exp | Psychiatrist Doctor | Headache/Anxiety | Sexual Disorder",
+            "ta": "டாக்டர். சபேசன் எஸ், 30+ ஆண்டுகள் எக்ஸ்பிரஸ் | மனநல மருத்துவர் | தலைவலி/கவலை | பாலியல் கோளாறு"
+        },
+        "location": {
+            "en": "Apollo Speciality Hospitals, 80 Feet Rd",
+            "ta": "அப்பல்லோ சிறப்பு மருத்துவமனைகள், 80 அடி சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "80 4696 1837"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "VISHNU'S MIND CLINIC",
+            "ta": "விஷ்ணுவின் மைண்ட் கிளினிக்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "48, 120 feet road, Inside Dr.Mithuns diagnostics, Vivekananda Nagar Rd",
+            "ta": "48, 120 அடி சாலை, டாக்டர்.மிதுன்ஸ் டயக்னாஸ்டிக்ஸ் உள்ளே, விவேகானந்தா நகர் சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "93445 41780"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "Dhiyan clinic ",
+            "ta": "தியான் கிளினிக் "
+        },
+        "type": {
+            "en": "Medical clinic",
+            "ta": "மருத்துவ மருத்துவமனை"
+        },
+        "detail": {
+            "en": "(child, psychiatric)",
+            "ta": "(குழந்தை, மனநல மருத்துவம்)"
+        },
+        "location": {
+            "en": "A2/1, K. K. nagar, near Jockey Exclusive Store",
+            "ta": "A2/1, K. K. நகர், ஜாக்கி பிரத்தியேக கடைக்கு அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": ""
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Dr Ganesan",
+            "ta": "டாக்டர் கணேசன்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "215, Munichalai Rd, Kamarajar Salai, Madurai, Tamil Nadu 625009",
+            "ta": "215, முனிச்சலை சாலை, காமராஜர் சாலை, மதுரை, தமிழ்நாடு 625009"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "Sri Kaarunya clinic",
+            "ta": "ஸ்ரீ காருண்யா கிளினிக்"
+        },
+        "type": {
+            "en": "Hospital",
+            "ta": "மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "South, near thiyagarajar model school",
+            "ta": "தெற்கு, தியாகராஜர் மாதிரி பள்ளி அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "88389 41795"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "M.S.Chellamuthu Institute of Mental Health & Rehabilitation Center",
+            "ta": "எம்.எஸ்.செல்லமுத்து மனநலம் மற்றும் மறுவாழ்வு மையம்"
+        },
+        "type": {
+            "en": "Mental health service",
+            "ta": "மனநல சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5th street, Plot 7, Lake Area Main Rd, near Maatuthavani",
+            "ta": "5வது தெரு, பிளாட் 7, லேக் ஏரியா மெயின் ரோடு, மாட்டுத்தாவணி அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "96299 11357"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "Rathina Mental Healthcare",
+            "ta": "ரத்தின மனநல மருத்துவம்"
+        },
+        "type": {
+            "en": "Hospital",
+            "ta": "மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 80, Bypass Rd",
+            "ta": "எண் 80, பைபாஸ் சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "0452 238 3003"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "Mind care clinic",
+            "ta": "மைண்ட் கேர் கிளினிக்"
+        },
+        "type": {
+            "en": "Hospital",
+            "ta": "மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Vaigai Colony, Sathamangalam, Madurai, Tamil Nadu 625020",
+            "ta": "வைகை காலனி, சாத்தமங்கலம், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": ""
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "Bastin clinic",
+            "ta": "பாஸ்டின் கிளினிக்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "716/1, Manikkavasagar St, 17th east, Anna Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "716/1, மாணிக்கவாசகர் தெரு, 17வது கிழக்கு, அண்ணா நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": ""
+    },
+    {
+        "id": 25,
+        "name": {
+            "en": "Carewell Clinic",
+            "ta": "கேர்வெல் கிளினிக்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Rajalakshmi Complex, Thathaneri Main Rd, Thikathir, Thathaneri, Madurai, Tamil Nadu 625018",
+            "ta": "ராஜலட்சுமி வளாகம், தத்தனேரி பிரதான சாலை, திகதிர், தத்தனேரி, மதுரை, தமிழ்நாடு 625018"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": ""
+    },
+    {
+        "id": 26,
+        "name": {
+            "en": "Nachiyar Counseling Center",
+            "ta": "நாச்சியார் ஆலோசனை மையம்"
+        },
+        "type": {
+            "en": "Psychologist",
+            "ta": "உளவியலாளர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "5-353A",
+            "ta": "5-353A"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "90950 91794"
+    },
+    {
+        "id": 27,
+        "name": {
+            "en": "Wellness Youniverse",
+            "ta": "ஆரோக்கிய யூனிவர்ஸ்"
+        },
+        "type": {
+            "en": "Mental health service",
+            "ta": "மனநல சேவை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2, Melur Main Rd, opposite District court",
+            "ta": "2, மேலூர் பிரதான சாலை, மாவட்ட நீதிமன்றம் எதிரில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "99941 67733"
+    },
+    {
+        "id": 28,
+        "name": {
+            "en": "Aathmik Hospital",
+            "ta": "ஆத்மிக் மருத்துவமனை"
+        },
+        "type": {
+            "en": "Hospital",
+            "ta": "மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "2/21, Melur Main Rd, Mellur, K.Pudur, Madurai, Tamil Nadu 625107",
+            "ta": "2/21, மேலூர் பிரதான சாலை, மேலூர், கே.புதூர், மதுரை, தமிழ்நாடு 625107"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": ""
+    },
+    {
+        "id": 29,
+        "name": {
+            "en": "BLUESTAR PSYCHOLOGICAL COUNSELLING CENTRE",
+            "ta": "ப்ளூஸ்டார் உளவியல் ஆலோசனை மையம்"
+        },
+        "type": {
+            "en": "Psychologist",
+            "ta": "உளவியலாளர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "7, Jeevanagar 2nd St",
+            "ta": "7, ஜீவாநகர் 2வது தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "90953 65662"
+    },
+    {
+        "id": 30,
+        "name": {
+            "en": "Dr. Lloyds",
+            "ta": "டாக்டர். லாயிட்ஸ்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "Treated 4K+ Patients | Best Psychiatrist | Psychiatrist Doctor | Headache/Anxiety | Sexual Disorder",
+            "ta": "சிகிச்சை பெற்ற 4K+ நோயாளிகள் | சிறந்த மனநல மருத்துவர் | மனநல மருத்துவர் | தலைவலி/கவலை | பாலியல் கோளாறு"
+        },
+        "location": {
+            "en": "Apollo Speciality Hospitals, 80 Feet Rd",
+            "ta": "அப்பல்லோ சிறப்பு மருத்துவமனைகள், 80 அடி சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "80 4696 1837"
+    },
+    {
+        "id": 31,
+        "name": {
+            "en": "Gratitude Hospital ",
+            "ta": "கிராடிடுயுடு மருத்துவமனை"
+        },
+        "type": {
+            "en": "Addiction treatment center",
+            "ta": "போதை சிகிச்சை மையம்"
+        },
+        "detail": {
+            "en": "De Addiction Center, Psychological & Psychiatric",
+            "ta": " அடிமையாதல் மையம், உளவியல் & மனநல மருத்துவம்"
+        },
+        "location": {
+            "en": "M/s. Pillamai Trust, 5/2B, Kattabomman Street",
+            "ta": "எம்.எஸ். பிள்ளமை டிரஸ்ட், 5/2பி, கட்டபொம்மன் தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "99444 69333"
+    },
+    {
+        "id": 32,
+        "name": {
+            "en": "MARUTI NEURO PSYCHIATRY & DEADDICTION SPECIALITY HOSPITAL",
+            "ta": "மாருதி நியூரோ சைக்கியாட்ரி & டெட்டிக்ஷன் ஸ்பெஷல்டி ஹாஸ்பிடல்"
+        },
+        "type": {
+            "en": "Hospital",
+            "ta": "மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "1, Ground Floor, No.2/145, Natham Rd",
+            "ta": "1, தரை தளம், எண்.2/145, நத்தம் சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "98942 42884"
+    },
+    {
+        "id": 33,
+        "name": {
+            "en": "Suyambu Counseling Centre",
+            "ta": "சுயம்பு ஆலோசனை மையம்"
+        },
+        "type": {
+            "en": "Psychologist",
+            "ta": "உளவியலாளர்"
+        },
+        "detail": {
+            "en": "treated 50 k Clients/ 18 + yrs Exp./ Clinical Psychologist",
+            "ta": "சிகிச்சை பெற்ற 50000 வாடிக்கையாளர்கள்/ 18 + ஆண்டுகள் எக்ஸ்ப்./ மருத்துவ உளவியலாளர்"
+        },
+        "location": {
+            "en": "357, Uzhavar Santhai Road, 625020",
+            "ta": "357, உழவர் சாந்தை சாலை, 625020"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "97151 22666"
+    },
+    {
+        "id": 34,
+        "name": {
+            "en": "Shantham Clinic and Counselling Centre",
+            "ta": "சாந்தம் கிளினிக் மற்றும் ஆலோசனை மையம்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "80 Feet Rd, Deputy Collector Colony, Managiri, KK Nagar, Madurai, Tamil Nadu 625020",
+            "ta": "80 அடி சாலை, துணை கலெக்டர் காலனி, மானகிரி, கே.கே.நகர், மதுரை, தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "098433 89132"
+    },
+    {
+        "id": 35,
+        "name": {
+            "en": "Dr.Dheep Clinic",
+            "ta": "Dr.தீப் கிளினிக்"
+        },
+        "type": {
+            "en": "Hospital",
+            "ta": "மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.10, Alagar Kovil Main Rd, opp. Iyyapan Kovil, Muthuramalingapuram, Karpaga Nagar, K.Pudur, Madurai, Tamil Nadu 625007",
+            "ta": "எண்.10, அழகர் கோவில் பிரதான சாலை, எதிரில். ஐயப்பன் கோவில், முத்துராமலிங்கபுரம், கற்பக நகர், கே.புதூர், மதுரை, தமிழ்நாடு 625007"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": ""
+    },
+    {
+        "id": 36,
+        "name": {
+            "en": "MS SATHASIVAM FOUNDATION",
+            "ta": "எம்.எஸ்.சதாசிவம் அறக்கட்டளை"
+        },
+        "type": {
+            "en": "Psychiatric hospital",
+            "ta": "மனநல மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Thiru Nagar, Tamil Nadu 625006",
+            "ta": "திரு நகர், தமிழ்நாடு 625006"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "98435 68627"
+    },
+    {
+        "id": 37,
+        "name": {
+            "en": "Shrinav Clinic",
+            "ta": "ஸ்ரீனவ் கிளினிக்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "A21, Pandian St, alakappan nagar, Madurai",
+            "ta": "A21, பாண்டியன் தெரு, அழகப்பன் நகர், மதுரை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "9940803133"
+    },
+    {
+        "id": 38,
+        "name": {
+            "en": "Aura Clinic",
+            "ta": "ஆரா கிளினிக்"
+        },
+        "type": {
+            "en": "Medical clinic",
+            "ta": "மருத்துவ மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "classic avenue, 144",
+            "ta": "கிளாசிக் அவென்யூ, 144"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "6369073299"
+    },
+    {
+        "id": 39,
+        "name": {
+            "en": "Hannah Joseph Hospital ",
+            "ta": "ஹன்னா ஜோசப் மருத்துவமனை"
+        },
+        "type": {
+            "en": "Specialized hospital",
+            "ta": "சிறப்பு மருத்துவமனை"
+        },
+        "detail": {
+            "en": "Neurology and Neurosurgery Hospital | Top Neurosurgeons & Spine Surgeons in Madurai",
+            "ta": "நரம்பியல் மற்றும் நரம்பியல் அறுவை சிகிச்சை மருத்துவமனை | மதுரையில் உள்ள சிறந்த நரம்பியல் மற்றும் முதுகெலும்பு அறுவை சிகிச்சை நிபுணர்கள்"
+        },
+        "location": {
+            "en": "Tuticorin Ring Road, Chinthamani, Madurai - Thoothukudi Hwy, near Tollgate",
+            "ta": "தூத்துக்குடி ரிங் ரோடு, சிந்தாமணி, மதுரை - தூத்துக்குடி நெடுஞ்சாலை, டோல்கேட் அருகில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "0452 350 5151"
+    },
+    {
+        "id": 40,
+        "name": {
+            "en": "NEUROSCIENCES CENTRE",
+            "ta": "நரம்பியல் மையம்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Plot No 646",
+            "ta": "பிளாட் எண் 646"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "99412 98999"
+    },
+    {
+        "id": 41,
+        "name": {
+            "en": "THE LANDMARC HOSPITAL (TURNING POINT)",
+            "ta": "லேண்ட்மார்க் மருத்துவமனை (திருப்பு முனை)"
+        },
+        "type": {
+            "en": "Hospital",
+            "ta": "மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "128, Shanthi Nagar Street",
+            "ta": "128, சாந்தி நகர் தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "76393 99529"
+    },
+    {
+        "id": 42,
+        "name": {
+            "en": "ATMA healthcare",
+            "ta": "ATMA ஹெல்த்கேர்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "14, AA Rd, opposite Jail quarters, Pethaniapuram 2, Arappalayam, Madurai, Tamil Nadu 625016",
+            "ta": "14, AA Rd, சிறைக் குடியிருப்புக்கு எதிரே, பெத்தானியாபுரம் 2, ஆரப்பாளையம், மதுரை, தமிழ்நாடு 625016"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "9655050033"
+    },
+    {
+        "id": 43,
+        "name": {
+            "en": "Magizhmadhi clinic",
+            "ta": "மகிழ்மதி கிளினிக்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "15, Yogiyar nagar",
+            "ta": "15, யோகியார் நகர்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "9600314219"
+    },
+    {
+        "id": 44,
+        "name": {
+            "en": "M.S.Chellamuthu Trust & Research Foundation",
+            "ta": "எம்.எஸ்.செல்லமுத்து அறக்கட்டளை & ஆராய்ச்சி அறக்கட்டளை"
+        },
+        "type": {
+            "en": "Non-profit organization",
+            "ta": "இலாப நோக்கற்ற அமைப்பு"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "643, KK Nagar, Tamil Nadu 625020",
+            "ta": "643, KK நகர், தமிழ்நாடு 625020"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "96003 14219"
+    },
+    {
+        "id": 45,
+        "name": {
+            "en": "SACC Hospitals",
+            "ta": "SACC மருத்துவமனைகள்"
+        },
+        "type": {
+            "en": "Psychiatric hospital",
+            "ta": "மனநல மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No 6 New Alagar Garden,, Moonur Village, AlagarKovil Main Road, Alagar Kovil Main Rd",
+            "ta": "எண் 6 புதிய அழகர் தோட்டம்,, மூனூர் கிராமம், அழகர்கோவில் பிரதான சாலை, அழகர் கோவில் பிரதான சாலை"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "None"
+    },
+    {
+        "id": 46,
+        "name": {
+            "en": "Hope Research Foundation deaddiction center",
+            "ta": "ஹோப் ரிசர்ச் ஃபவுண்டேஷன் டெட்டிக்ஷன் சென்டர்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No:12,3rd Cross Street, 3rd St",
+            "ta": "எண்:12,3வது குறுக்குத் தெரு, 3வது தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "94447 80050"
+    },
+    {
+        "id": 47,
+        "name": {
+            "en": "TOPKIDS",
+            "ta": "டாப்கிட்ஸ்"
+        },
+        "type": {
+            "en": "Medical clinic",
+            "ta": "மருத்துவ மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "No.10, Alagar Kovil Main Rd, opp. Iyyapan Kovil",
+            "ta": "எண்.10, அழகர் கோவில் பிரதான சாலை, எதிரில். ஐயப்பன் கோவில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "0452 256 2181"
+    },
+    {
+        "id": 48,
+        "name": {
+            "en": "BlissfullMind Foundation",
+            "ta": "BlissfullMind அறக்கட்டளை"
+        },
+        "type": {
+            "en": "Psychiatric hospital",
+            "ta": "மனநல மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "Old rc godown, No.24/1 A, Podumbu Rd, opposite to Sankar Cement gudown",
+            "ta": "பழைய ஆர்சி குடோன், எண்.24/1 ஏ, போதும்பு ரோடு, சங்கர் சிமெண்ட் குடோனுக்கு எதிரில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "88704 36665"
+    },
+    {
+        "id": 49,
+        "name": {
+            "en": "Padma Speciality Care Hospital",
+            "ta": "பத்மா ஸ்பெஷாலிட்டி கேர் மருத்துவமனை"
+        },
+        "type": {
+            "en": "Children's hospital",
+            "ta": "குழந்தைகள் மருத்துவமனை"
+        },
+        "detail": {
+            "en": " Paediatrician | General Surgeon | Children's hospital",
+            "ta": "குழந்தைகள் நல மருத்துவர் | பொது அறுவை சிகிச்சை நிபுணர் | குழந்தைகள் மருத்துவமனை"
+        },
+        "location": {
+            "en": "28, Velayudham Pillai St",
+            "ta": "28, வேலாயுதம் பிள்ளை தெரு"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "96296 99994"
+    },
+    {
+        "id": 50,
+        "name": {
+            "en": "Mahesh Clinic",
+            "ta": "மகேஷ் கிளினிக்"
+        },
+        "type": {
+            "en": "Medical clinic",
+            "ta": "மருத்துவ மருத்துவமனை"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "136-A, Opposite Minor Jail",
+            "ta": "136-A, மைனர் ஜெயில் எதிரில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "0452 232 4947"
+    },
+    {
+        "id": 51,
+        "name": {
+            "en": "3 Neurotic Addiction Psychosis Hospice De-addiction center ",
+            "ta": "3 நரம்பியல் அடிமையாதல் மனநோய் ஹாஸ்பிஸ் டி-அடிக்ஷன் மையம்"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "112, AVM Complex, First Floor, Surveyor Colony,, Alagarkovil Main Road,",
+            "ta": "112, ஏவிஎம் வளாகம், முதல் தளம், சர்வேயர் காலனி, அழகர்கோவில் மெயின் ரோடு,"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "95667 78686"
+    },
+    {
+        "id": 52,
+        "name": {
+            "en": "unalome-counseling",
+            "ta": "unalome-ஆலோசனை"
+        },
+        "type": {
+            "en": "Psychiatrist",
+            "ta": "மனநல மருத்துவர்"
+        },
+        "detail": {
+            "en": "",
+            "ta": ""
+        },
+        "location": {
+            "en": "10, Town Hall Rd",
+            "ta": "10, டவுன் ஹால் Rd"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "82208 24444"
+    },
+    {
+        "id": 53,
+        "name": {
+            "en": "Manjula Shyam Sundar ",
+            "ta": "மஞ்சுளா ஷியாம் சுந்தர்"
+        },
+        "type": {
+            "en": "Psychologist",
+            "ta": "உளவியலாளர்"
+        },
+        "detail": {
+            "en": "Psychological Counsellor",
+            "ta": "உளவியல் ஆலோசகர்"
+        },
+        "location": {
+            "en": "opposite HP petrol bluck opp St, 15, 7th St, near Bhuvaneswari Amman Temple",
+            "ta": "புவனேஸ்வரி அம்மன் கோவில் அருகில், தெரு, 15, 7வது ஸ்டண்ட் எதிரில் ஹெச்பி பெட்ரோல் பிளாக் எதிரில்"
+        },
+        "area": {
+            "en": "",
+            "ta": ""
+        },
+        "phone": "94889 57772"
+    }
+]
