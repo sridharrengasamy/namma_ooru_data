@@ -60,9 +60,123 @@
       "file": "driving school.json",
       "image": "https://example.com/driving school.jpg",
       "name": {
-        "en": "2 Wheeler Works",
-        "ta": "இருசக்கர வேலைகள்"
+        "en": "Driving School",
+        "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
+      }
+    },
+    {
+      "file": "gas stove.json",
+      "image": "https://example.com/gas stove.jpg",
+      "name": {
+        "en": "Gas Stove Service",
+        "ta": "கேஸ் ஸ்டவ் சர்வீஸ்"
+      }
+    },
+    {
+      "file": "pet clinic.json",
+      "image": "https://example.com/Pet Clinic.jpg",
+      "name": {
+        "en": "Pet Clinic",
+        "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
+      }
+    },
+    {
+      "file": "JCB.json",
+      "image": "https://example.com/JCB.jpg",
+      "name": {
+        "en": "JCB",
+        "ta": "ஜேசிபி "
+      }
+    },
+    {
+      "file": "psychiatrist.json",
+      "image": "https://example.com/psychiatrist.jpg",
+      "name": {
+        "en": "Psychiatrist",
+        "ta": "மனநல மருத்துவர்"
+      }
+    },
+    {
+      "file": "E seva.json",
+      "image": "https://example.com/E seva.jpg","name": {
+        "en": "E seva",
+        "ta": "2 வீலர் மெக்கானிக்"
+      }      
+    },
+    {
+      "file": "fitness.json",
+      "image": "https://example.com/Fitness.jpg","name": {
+        "en": "Fitness",
+        "ta": "உடற்பயிற்சி கூடம்"
+      }
+    },
+    {
+      "file": "xerox & print.json",
+      "image": "https://example.com/xerox & print.jpg","name": {
+        "en": "Xerox & Prints",
+        "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
+      }
+    },
+    {
+      "file": "travels.json",
+      "image": "https://example.com/travels.jpg","name": {
+        "en": "Travels Van",
+        "ta": "டிராவல்ஸ் வேன்"
+      }
+    },
+    {
+      "file": "travel agency.json",
+      "image": "https://example.com/travel agency.jpg","name": {
+        "en": "Tours & Travels",
+        "ta": "டூர்ஸ் & டிராவல்ஸ்"
+      }
+    },
+    {
+      "file": "Taxi .json",
+      "image": "https://example.com/Taxi.jpg","name": {
+        "en": "Taxi ",
+        "ta": "வாடகை கார்"
+      }
+    },
+    {
+      "file": "puncture.json",
+      "image": "https://example.com/puncture.jpg","name": {
+        "en": "Tyres, Puncture & Wheel Alignment",
+        "ta": "டயர்,பஞ்சர்கடை & வீல் அலைன்மென்ட்"
+      }
+    },
+    {
+      "file": "Old age home.json",
+      "image": "https://example.com/Old age home.jpg","name": {
+        "en": "Old Age Home",
+        "ta": "முதியோர் இல்லம்"
+      }
+      
+    },
+    {
+      "file": "Nursery.json",
+      "image": "https://example.com/Nursery.jpg",
+      "name": {
+        "en": "Nursery Garden",
+        "ta": "நர்சரி கார்டன்"
+      }
+    },
+    {
+      "file": "Mike set.json",
+      "image": "https://example.com/Mike set.jpg",
+      "name": {
+        "en": "Mike & Sound Service ",
+        "ta": "மைக் & சவுண்ட் சர்வீஸ்"
+      }
+    },
+    {
+      "file": "marriage hall.json",
+      "image": "https://example.com/Marriage Hall.jpg",
+      "name": {
+        "en": "Marriage Hall",
+        "ta": "திருமண மண்டபம்"
       }
     }
+    
   ]
   
