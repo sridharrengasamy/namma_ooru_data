@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776335396915",
+    "project_id": "namma-ooru-v10",
+    "storage_bucket": "namma-ooru-v10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776335396915:android:f23d55d6dd17cefbd05346",
+        "android_client_info": {
+          "package_name": "com.bjenterprises.tmmdirectory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUskSyUt6nSf9ZDi_GbKhl_tYUFrxz0Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
