@@ -1,56 +1,56 @@
 [
     {
       "file": "2 wheeler works.json",
-      "image": "https://example.com/2 Wheeler Mechanic.jpg","name": {
+      "image": "https://example.com/2 wheeler works.png","name": {
         "en": "2 Wheeler Mechanic",
         "ta": "2 வீலர் மெக்கானிக்"
       }      
     },
     {
       "file": "Acting driver.json",
-      "image": "https://example.com/Acting Driver.jpg","name": {
+      "image": "https://example.com/acting driver.png","name": {
         "en": "Acting Driver",
         "ta": "ஆக்டிங் டிரைவர்"
       }
     },
     {
       "file": "ambulance.json",
-      "image": "https://example.com/ambulance.jpg","name": {
+      "image": "https://example.com/ambulance.png","name": {
         "en": "Ambulance",
         "ta": "ஆம்புலன்ஸ்"
       }
     },
     {
       "file": "battery.json",
-      "image": "https://example.com/battery.jpg","name": {
+      "image": "https://example.com/battery.png","name": {
         "en": "BATTERY & INVERTER",
         "ta": "பேட்டரி & இன்வெர்ட்டர்"
       }
     },
     {
       "file": "Blood Bank.json",
-      "image": "https://example.com/Blood Bank.jpg","name": {
+      "image": "https://example.com/Blood Bank.png","name": {
         "en": "Blood Bank",
         "ta": "இரத்த வங்கி"
       }
     },
     {
       "file": "computer service.json",
-      "image": "https://example.com/computer service.jpg","name": {
+      "image": "https://example.com/computer service.png","name": {
         "en": "Computer Service",
         "ta": "கம்ப்யூட்டர் சர்வீஸ்"
       }
     },
     {
       "file": "clinik lab.json",
-      "image": "https://example.com/clinik lab.jpg","name": {
+      "image": "https://example.com/clinik lab.png","name": {
         "en": "Blood Test & Diagnostic Centre",
         "ta": "இரத்த டெஸ்ட் & டயக்னோஸ்ட்டிக் மையம்"
       }
     },
     {
       "file": "coaching center.json",
-      "image": "https://example.com/coaching center.jpg","name": {
+      "image": "https://example.com/coaching center.png","name": {
         "en": "Training centre",
         "ta": "பயிற்சி மையம்"
       }
@@ -58,7 +58,7 @@
     },
     {
       "file": "driving school.json",
-      "image": "https://example.com/driving school.jpg",
+      "image": "https://example.com/driving school.JPG",
       "name": {
         "en": "Driving School",
         "ta": "ஓட்டுநர் பயிற்சிப் பள்ளி"
@@ -66,7 +66,7 @@
     },
     {
       "file": "gas stove.json",
-      "image": "https://example.com/gas stove.jpg",
+      "image": "https://example.com/gas service.JPG",
       "name": {
         "en": "Gas Stove Service",
         "ta": "கேஸ் ஸ்டவ் சர்வீஸ்"
@@ -74,7 +74,7 @@
     },
     {
       "file": "pet clinic.json",
-      "image": "https://example.com/Pet Clinic.jpg",
+      "image": "https://example.com/pet clinic.JPG",
       "name": {
         "en": "Pet Clinic",
         "ta": "செல்லப்பிராணிகள் மருத்துவமனை"
@@ -82,7 +82,7 @@
     },
     {
       "file": "JCB.json",
-      "image": "https://example.com/JCB.jpg",
+      "image": "https://example.com/jcb.JPG",
       "name": {
         "en": "JCB",
         "ta": "ஜேசிபி "
@@ -90,7 +90,7 @@
     },
     {
       "file": "psychiatrist.json",
-      "image": "https://example.com/psychiatrist.jpg",
+      "image": "https://example.com/psychiatrist.png",
       "name": {
         "en": "Psychiatrist",
         "ta": "மனநல மருத்துவர்"
@@ -98,56 +98,56 @@
     },
     {
       "file": "E seva.json",
-      "image": "https://example.com/E seva.jpg","name": {
+      "image": "https://example.com/E seva.png","name": {
         "en": "E seva",
-        "ta": "2 வீலர் மெக்கானிக்"
+        "ta": "இ சேவை மையம்"
       }      
     },
     {
       "file": "fitness.json",
-      "image": "https://example.com/Fitness.jpg","name": {
+      "image": "https://example.com/fitness.png","name": {
         "en": "Fitness",
         "ta": "உடற்பயிற்சி கூடம்"
       }
     },
     {
       "file": "xerox & print.json",
-      "image": "https://example.com/xerox & print.jpg","name": {
+      "image": "https://example.com/xerox & print.png","name": {
         "en": "Xerox & Prints",
         "ta": "ஜெராக்ஸ் & பரிண்டஸ் "
       }
     },
     {
       "file": "travels.json",
-      "image": "https://example.com/travels.jpg","name": {
+      "image": "https://example.com/travels.png","name": {
         "en": "Travels Van",
         "ta": "டிராவல்ஸ் வேன்"
       }
     },
     {
       "file": "travel agency.json",
-      "image": "https://example.com/travel agency.jpg","name": {
+      "image": "https://example.com/travel-agency.png","name": {
         "en": "Tours & Travels",
         "ta": "டூர்ஸ் & டிராவல்ஸ்"
       }
     },
     {
       "file": "Taxi .json",
-      "image": "https://example.com/Taxi.jpg","name": {
+      "image": "https://example.com/car.png","name": {
         "en": "Taxi ",
         "ta": "வாடகை கார்"
       }
     },
     {
       "file": "puncture.json",
-      "image": "https://example.com/puncture.jpg","name": {
+      "image": "https://example.com/puncture.JPG","name": {
         "en": "Tyres, Puncture & Wheel Alignment",
         "ta": "டயர்,பஞ்சர்கடை & வீல் அலைன்மென்ட்"
       }
     },
     {
       "file": "Old age home.json",
-      "image": "https://example.com/Old age home.jpg","name": {
+      "image": "https://example.com/Old age home.png","name": {
         "en": "Old Age Home",
         "ta": "முதியோர் இல்லம்"
       }
@@ -155,7 +155,7 @@
     },
     {
       "file": "Nursery.json",
-      "image": "https://example.com/Nursery.jpg",
+      "image": "https://example.com/Nursery.png",
       "name": {
         "en": "Nursery Garden",
         "ta": "நர்சரி கார்டன்"
@@ -163,7 +163,7 @@
     },
     {
       "file": "Mike set.json",
-      "image": "https://example.com/Mike set.jpg",
+      "image": "https://example.com/Mike set.png",
       "name": {
         "en": "Mike & Sound Service ",
         "ta": "மைக் & சவுண்ட் சர்வீஸ்"
@@ -171,7 +171,7 @@
     },
     {
       "file": "marriage hall.json",
-      "image": "https://example.com/Marriage Hall.jpg",
+      "image": "https://example.com/marriage hall.JPG",
       "name": {
         "en": "Marriage Hall",
         "ta": "திருமண மண்டபம்"
